@@ -1,0 +1,36 @@
+abstract: Trust and reputation systems represent a significant trend in decision support
+  for Internet mediated service provision. The basic idea is to let parties rate each
+  other, for example after the completion of a transaction, and use the aggregated
+  ratings about a given party to derive a trust or reputation score, which can assist
+  other parties in deciding whether or not to transact with that party in the future.
+  A natural side effect is that it also provides an incentive for good behaviour,
+  and therefore tends to have a positive effect on market quality. Reputation systems
+  can be called collaborative sanctioning systems to reflect their collaborative nature,
+  and are related to collaborative filtering systems. Reputation systems are already
+  being used in successful commercial online applications. There is also a rapidly
+  growing literature around trust and reputation systems, but unfortunately this activity
+  is not very coherent. The purpose of this article is to give an overview of existing
+  and proposed systems that can be used to derive measures of trust and reputation
+  for Internet transactions, to analyse the current trends and developments in this
+  area, and to propose a research agenda for trust and reputation systems.
+annote: Emerging Issues in Collaborative Commerce
+author: Jøsang, Audun and Ismail, Roslan and Boyd, Colin
+author_list:
+- family: Jøsang
+  given: Audun
+- family: Ismail
+  given: Roslan
+- family: Boyd
+  given: Colin
+doi: https://doi.org/10.1016/j.dss.2005.05.019
+issn: 0167-9236
+journal: Decision Support Systems
+number: '2'
+pages: 618 -- 644
+ref: JOSANG2007618
+tags: Reputation, Collaboration, Decision, E-commerce, Security, Transitivity, Trust
+title: A survey of trust and reputation systems for online service provision
+type: article
+url: http://www.sciencedirect.com/science/article/pii/S0167923605000849
+volume: '43'
+year: '2007'

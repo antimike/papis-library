@@ -1,0 +1,33 @@
+abstract: Complex behaviour made its appearance in the physical sciences in a modest,
+  low-key fashion. For a long time, in the mind of most physicists and chemists, complexity
+  was associated with biological order and its multiple manifestations, for example
+  at the level of evolution, embryogenesis and population dynamics. Physical sciences
+  on the other side were aiming at a description of nature in terms of laws of universal
+  validity. And to this end they were utilising simple models to which, hopefully,
+  the description of more complicated systems could be reduced. This feeling has been
+  repreatedly expressed by some of the greatest scientists of our century. Thus, for
+  Einstein “the physicist must content himself with describing the most simple events
+  which can be brought within the domain of our experience; all events of a more complex
+  order are beyond the power of the human intellect to reconstruct with the subtle
+  accuracy and logical perfection which the theoretical physicist demands …. The general
+  laws on which the structure of theoretical physics is based claim to be valid for
+  any natural phenomenon whatsoever.
+address: Dordrecht
+author: Prigogine, I. and Nicolis, G.
+author_list:
+- family: Prigogine
+  given: I.
+- family: Nicolis
+  given: G.
+booktitle: 'Bifurcation {Analysis}: {Principles}, {Applications} and {Synthesis}'
+doi: 10.1007/978-94-009-6239-2_1
+editor: Hazewinkel, M. and Jurkovich, R. and Paelinck, J. H. P.
+isbn: 978-94-009-6239-2
+pages: 3--12
+publisher: Springer Netherlands
+ref: prigogineSelfOrganisationNonequilibriumSystems1985
+title: 'Self-{Organisation} in {Nonequilibrium} {Systems}: {Towards} {A} {Dynamics}
+  of {Complexity}'
+type: incollection
+url: https://doi.org/10.1007/978-94-009-6239-2_1
+year: '1985'

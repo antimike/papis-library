@@ -1,0 +1,32 @@
+abstract: We consider finite-element methods for the approximation of solutions of
+  the Ginzburg-Landau equations of superconductivity. The methods are based on a discretization
+  of the Euler-Lagrange equations resulting from the minimization of the free-energy
+  functional. The discretization is effected by requiring the approximate solution
+  to be a piecewise polynomial with respect to a grid. The magnetization versus magnetic
+  field curves obtained through the finite-element methods agree well with analogous
+  calculations obtained by other schemes. We demonstrate, both by analyzing the algorithms
+  and through computational experiments, that finite-element methods can be very effective
+  and efficient means for the computational simulation of superconductivity phenomena
+  and therefore could be applied to determine macroscopic properties of inhomogeneous,
+  anisotropic superconductors. © 1992 The American Physical Society.
+author: Du, Q. and Gunzburger, M. D. and Peterson, J. S.
+author_list:
+- family: Du
+  given: Q.
+- family: Gunzburger
+  given: M. D.
+- family: Peterson
+  given: J. S.
+doi: 10.1103/PhysRevB.46.9027
+file: Attachment:files/108/Phys. Rev. B 1992 Du.pdf:application/pdf
+files:
+- phys.-rev.-b-1992-du.pdf
+issn: 01631829
+journal: Physical Review B
+number: '14'
+pages: 9027--9034
+ref: duSolvingGinzburgLandauEquations1992
+title: Solving the {Ginzburg}-{Landau} equations by finite-element methods
+type: article
+volume: '46'
+year: '1992'

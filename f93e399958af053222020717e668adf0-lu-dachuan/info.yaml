@@ -1,0 +1,18 @@
+abstract: Time dependent Ginzburg-Landau equation is solved for type II superconductors
+  numerically, and the dynamics of entering vortices, geometric defects and pinning
+  effects have been investigated. A superconducting wire with ratchet defects is designed
+  to pump the vortices move in a specific direction and enhance the supercurrent when
+  applying the periodical magnetic field. Some properties of this wire have been investigated
+  numerically and analytically.
+author: Lu, Dachuan
+author_list:
+- family: Lu
+  given: Dachuan
+note: '\_eprint: 1702.08842'
+number: '0'
+pages: 1--7
+ref: luVortexDynamicsType2017
+title: Vortex {Dynamics} in {Type} {II} {Superconductors}
+type: article
+url: http://arxiv.org/abs/1702.08842
+year: '2017'

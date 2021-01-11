@@ -1,0 +1,29 @@
+abstract: A numerical approach to Ginzburg-Landau (GL) theory is demonstrated and
+  we review its applications to several examples of current interest in the research
+  on superconductivity. This analysis also shows the applicability of the two-dimensional
+  approach to thin superconductors and the re-defined effective GL parameter κ. For
+  two-gap superconductors, the conveniently written GL equations directly show that
+  the magnetic behavior of the sample depends not just on the GL parameter of two
+  bands, but also on the ratio of respective coherence lengths. © 2010 Elsevier B.V.
+  All rights reserved.
+author: Miloević, M. V. and Geurts, R.
+author_list:
+- family: Miloević
+  given: M. V.
+- family: Geurts
+  given: R.
+doi: 10.1016/j.physc.2010.02.056
+file: Attachment:files/111/Physica C 2010 Milosevic.pdf:application/pdf
+files:
+- physica-c-2010-milosevic.pdf
+issn: 09214534
+journal: 'Physica C: Superconductivity and its Applications'
+note: '\_eprint: 1006.1771'
+number: '19'
+pages: 791--795
+ref: miloevicGinzburgLandauTheoryApplication2010
+tags: Ginzburg-Landau, Josephson coupling, Mass anisotropy, Two-gap superconductors
+title: The {Ginzburg}-{Landau} theory in application
+type: article
+volume: '470'
+year: '2010'

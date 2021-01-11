@@ -1,0 +1,36 @@
+abstract: 'In this paper we develop an analytical and graphical formulation of the
+  constructal law of maximization of flow access in systems with heat and fluid flow
+  irreversibilities and freedom to change configuration. The flow system has global
+  performance (e.g., minimization of global flow resistance) and global properties,
+  or constraints (e.g., overall size, and total duct volume). The infinity of possible
+  flow structures occupies a region of the two-dimensional domain of “global performance
+  versus freedom to morph”. This region of “nonequilibrium flow structures” is bounded
+  by a line representing the best flow structures that are possible when the freedom
+  to morph is limited. The best of all such structures are the “equilibrium flow structures”:
+  here the performance level is the highest, and it does not change even though the
+  flow architecture can change with maximum freedom. The universality of this graphical
+  and analytical presentation is illustrated with examples of flow structures from
+  three classes: flow between two points, flow between a circle and its center, and
+  flow between one point and an area. In sum, this paper presents an analytical and
+  graphical formulation of the constructal principle of generation of flow architecture.
+  The place of this new and self-standing principle in the greater framework of thermodynamics
+  is outlined.'
+author: Bejan, A. and Lorente, S.
+author_list:
+- family: Bejan
+  given: A.
+- family: Lorente
+  given: S.
+doi: https://doi.org/10.1016/j.ijheatmasstransfer.2004.02.007
+issn: 0017-9310
+journal: International Journal of Heat and Mass Transfer
+number: '14'
+pages: 3203 -- 3214
+ref: BEJAN20043203
+tags: Configuration, Constructal theory, Design as science, Evolution, Growth, Nonequilibrium,
+  Survival, Territory, Thermodynamics
+title: The constructal law and the thermodynamics of flow systems with configuration
+type: article
+url: http://www.sciencedirect.com/science/article/pii/S0017931004000523
+volume: '47'
+year: '2004'

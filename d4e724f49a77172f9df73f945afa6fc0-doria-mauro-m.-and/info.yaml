@@ -1,0 +1,32 @@
+abstract: The vortex state of mesoscopic three-dimensional superconductors is determined
+  using a minimization procedure of the Ginzburg-Landau free energy. We obtain the
+  vortex pattern for a mesoscopic superconducting sphere and find that vortex lines
+  are naturally bent and are closest to each other at the equatorial plane. For a
+  superconducting disk with finite height, and under an applied magnetic field perpendicular
+  to its major surface, we find that our method gives results consistent with previous
+  calculations. The matching fields, the magnetization and Hc3, are obtained for models
+  that differ according to their boundary properties. A change of the Ginzburg-Landau
+  parameters near the surface can substantially enhance Hc3, as shown here. © 2007
+  The American Physical Society.
+author: Doria, Mauro M. and Antonio, Antonio R. and Peeters, F. M.
+author_list:
+- family: Doria
+  given: Mauro M.
+- family: Antonio
+  given: Antonio R.
+- family: Peeters
+  given: F. M.
+doi: 10.1103/PhysRevB.75.064505
+file: Attachment:files/127/Phys. Rev. B 2007 Doria.pdf:application/pdf
+files:
+- phys.-rev.-b-2007-doria.pdf
+issn: '10980121'
+journal: Physical Review B - Condensed Matter and Materials Physics
+number: '6'
+pages: 1--7
+ref: doriaEffectBoundaryCondition2007
+title: 'Effect of the boundary condition on the vortex patterns in mesoscopic three-dimensional
+  superconductors: {Disk} and sphere'
+type: article
+volume: '75'
+year: '2007'

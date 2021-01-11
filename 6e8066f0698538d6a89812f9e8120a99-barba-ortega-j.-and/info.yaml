@@ -1,0 +1,27 @@
+abstract: The time dependent GinzburgLandau equations (TDGLE) are used to study the
+  superconducting properties of a disk by taking into account the influence of internal
+  defects. The Link variable algorithm is applied to a circular geometry surrounded
+  by an insulator and immersed in an external magnetic field applied perpendicular
+  to its plane. The TDGLE are used upon taking the magnetic field and the order parameter
+  invariant along z-direction. We show that the magnetic response is substantially
+  modified by the competition between the confinement geometry and the geometric position
+  of the defects leads to vortex configurations which are not compatible with the
+  symmetry of the sample geometry. © Published under licence by IOP Publishing Ltd.
+author: Barba-Ortega, J. and Gonzalez, J. D. and Joya, Miryam R.
+author_list:
+- family: Barba-Ortega
+  given: J.
+- family: Gonzalez
+  given: J. D.
+- family: Joya
+  given: Miryam R.
+doi: 10.1088/1742-6596/410/1/012008
+issn: '17426596'
+journal: 'Journal of Physics: Conference Series'
+number: '1'
+ref: barba-ortegaNumericalSolutionTimedependent2013
+title: 'Numerical solution of the time-dependent {Ginzburg}-{Landau} equation for
+  a superconducting mesoscopic disk: {Link} variable method'
+type: article
+volume: '410'
+year: '2013'

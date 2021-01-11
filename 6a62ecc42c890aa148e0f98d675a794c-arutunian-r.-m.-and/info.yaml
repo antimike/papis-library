@@ -1,0 +1,35 @@
+abstract: The behavior of a hollow superconducting cylinder of arbitrary dimensions
+  in an external magnetic field is investigated in detail within the Ginzburg-Landau
+  macroscopic theory. The thermodynamic potential of the system is presented in a
+  compact form, which enables us to give a simpler description of the transitions
+  of the system between the quantized levels in a magnetic field than in previous
+  work on this subject. The general theory is illustrated by a number of cases, which
+  show the dependence of the order parameter, the total flux in a cavity, and the
+  magnetic moment of the cylinder on the magnitude of the external field and on temperature.
+  The phase transition curves and the hysteresis boundaries are found. The tricritical
+  points, where the difference between first- and second-order phase transitions vanishes,
+  are established. The oscillations in a magnetic field of the specific heat of the
+  cyclinder are investigated. The formulas are presented for the case of a thin-walled
+  cylinder and are valid for arbitrary values of the order parameter ψ, inner and
+  outer radii of the cylinder, external field, and temperature. The results are discussed
+  in connection with experiment and other papers on this subject. © 1983 Plenum Publishing
+  Corporation.
+author: Arutunian, R. M. and Zharkov, G. F.
+author_list:
+- family: Arutunian
+  given: R. M.
+- family: Zharkov
+  given: G. F.
+doi: 10.1007/BF00682124
+file: Attachment:files/117/Arutunian.pdf:application/pdf
+files:
+- arutunian.pdf
+issn: 00222291
+journal: Journal of Low Temperature Physics
+number: 5-6
+pages: 409--431
+ref: arutunianBehaviorHollowSuperconducting1983
+title: Behavior of a hollow superconducting cylinder in a magnetic field
+type: article
+volume: '52'
+year: '1983'

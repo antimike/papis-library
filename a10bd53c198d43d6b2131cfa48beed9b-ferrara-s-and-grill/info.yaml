@@ -1,0 +1,33 @@
+abstract: A conformally covariant formulation of operator product expansion is discussed
+  as an expansion of the product of two representations into a direct sum of irreducible
+  representations. The basic irreducible representations are analyzed and classified.
+  The isomorphism between the conformal algebra and the O(4, 2) algebra is used to
+  obtain a manifestly covariant formalism. The implications of the isomorphism in
+  the derivation of the representations is discussed. The covariant O(4, 2) formalism
+  directly relates dominant terms to nondominant terms in the light-cone limit. The
+  essential coincidence of the problem of a conformal covariant operator product expansion
+  to the problem of determining the form of the three-point function is stressed,
+  together with the relevance of a selection rule for two-point functions following
+  from exact (not spontaneously broken) conformal covariance. The role of Ward identities
+  in a conformal covariant scheme is pointed out, and the mathematical implications
+  on the n-point functions from causality are described.
+author: Ferrara, S and Grillo, A.F and Gatto, R
+author_list:
+- family: Ferrara
+  given: S
+- family: Grillo
+  given: A.F
+- family: Gatto
+  given: R
+doi: https://doi.org/10.1016/0003-4916(73)90446-6
+issn: 0003-4916
+journal: Annals of Physics
+number: '1'
+pages: 161 -- 188
+ref: FERRARA1973161
+title: Tensor representations of conformal algebra and conformally covariant operator
+  product expansion
+type: article
+url: http://www.sciencedirect.com/science/article/pii/0003491673904466
+volume: '76'
+year: '1973'

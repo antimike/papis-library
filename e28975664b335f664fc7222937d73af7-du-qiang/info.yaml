@@ -1,0 +1,23 @@
+abstract: In this paper, we review various methods for the numerical approximations
+  of the Ginzburg-Landau models of superconductivity. Particular attention is given
+  to the different treatment of gauge invariance in both the finite element, finite
+  difference, and finite volume settings. Representative theoretical results, typical
+  numerical simulations, and computational challenges are presented. Generalizations
+  to other relevant models are also discussed. © 2005 American Institute of Physics.
+author: Du, Qiang
+author_list:
+- family: Du
+  given: Qiang
+doi: 10.1063/1.2012127
+file: Attachment:files/110/J. Math. Phys. 2005 Du.pdf:application/pdf
+files:
+- j.-math.-phys.-2005-du.pdf
+issn: 00222488
+journal: Journal of Mathematical Physics
+number: '9'
+pages: 1--22
+ref: duNumericalApproximationsGinzburgLandau2005
+title: Numerical approximations of the {Ginzburg}-{Landau} models for superconductivity
+type: article
+volume: '46'
+year: '2005'

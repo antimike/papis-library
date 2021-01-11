@@ -1,0 +1,32 @@
+abstract: The Meissner state with finite London penetration depth is analyzed for
+  platelet samples of rectangular cross section in a perpendicular magnetic field.
+  The exact two-dimensional numerical solution of the London equation is extended
+  analytically to the realistic three dimensional case. Data obtained on Nb cylinders
+  and foils, as well as single crystals of Y-Ba-Cu-O and Bi-Sr-Ca-Cu-O, are in a good
+  agreement with the model. The results are particularly relevant for magnetic susceptibility,
+  rf, and microwave resonator measurements of the magnetic penetration depth in high-(Formula
+  presented) superconductors. © 2000 The American Physical Society.
+author: Prozorov, R. and Giannetta, R. and Carrington, A.
+author_list:
+- family: Prozorov
+  given: R.
+- family: Giannetta
+  given: R.
+- family: Carrington
+  given: A.
+doi: 10.1103/PhysRevB.62.115
+file: Attachment:files/107/Phys. Rev. B 2000 Prozorov.pdf:application/pdf
+files:
+- phys.-rev.-b-2000-prozorov.pdf
+issn: 1550235X
+journal: Physical Review B - Condensed Matter and Materials Physics
+note: '\_eprint: 0003003'
+notes: notes.tex
+number: '1'
+pages: 115--118
+ref: prozorovMeissnerLondonStateSuperconductors2000
+title: Meissner-{London} state in superconductors of rectangular cross section in
+  a perpendicular magnetic field
+type: article
+volume: '62'
+year: '2000'

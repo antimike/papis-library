@@ -1,0 +1,28 @@
+abstract: We investigate the dynamics of magnetic vortices in type II superconductors
+  with normal state pinning sites using the Ginzburg–Landau equations. Simulation
+  results demonstrate hopping of vortices between pinning sites, influenced by external
+  magnetic fields and external currents. The system is highly nonlinear and the vortices
+  show complex nonlinear dynamical behaviour.
+author: Sørensen, Mads Peter and Pedersen, Niels Falsig and Ögren, Magnus
+author_list:
+- family: Sørensen
+  given: Mads Peter
+- family: Pedersen
+  given: Niels Falsig
+- family: Ögren
+  given: Magnus
+doi: 10.1016/j.physc.2016.08.001
+file: Attachment:files/118/Pinning.pdf:application/pdf
+files:
+- pinning.pdf
+issn: 09214534
+journal: 'Physica C: Superconductivity and its Applications'
+note: '\_eprint: 1706.04002'
+pages: 40--43
+ref: sorensenDynamicsMagneticVortices2017
+tags: Ginzburg–Landau equations, Pinning sites, Type II superconductivity, Vortices
+title: The dynamics of magnetic vortices in type {II} superconductors with pinning
+  sites studied by the time dependent {Ginzburg}–{Landau} model
+type: article
+volume: '533'
+year: '2017'

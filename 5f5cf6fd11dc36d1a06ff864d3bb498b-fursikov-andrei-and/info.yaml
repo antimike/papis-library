@@ -1,0 +1,18 @@
+author: Fursikov, Andrei and Gunzburger, Max and Peterson, Janet
+author_list:
+- family: Fursikov
+  given: Andrei
+- family: Gunzburger
+  given: Max
+- family: Peterson
+  given: Janet
+doi: 10.1007/978-0-387-85652-0_2
+file: Attachment:files/125/2008 Fursikov.pdf:application/pdf
+files:
+- 2008-fursikov.pdf
+journal: Sobolev Spaces in Mathematics III
+pages: 25--133
+ref: fursikovGinzburgLandauEquationsSuperconductivity2008
+title: The {Ginzburg}-{Landau} {Equations} for {Superconductivity} with {Random} {Fluctuations}
+type: article
+year: '2008'

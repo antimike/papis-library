@@ -1,0 +1,46 @@
+abstract: 'A generalization of the Korteweg-de Vries equation (KdVE) is considered
+  in which additional terms belonging to the Kuramoto-Sivashinsky equation (KSE) are
+  incorporated to account for a production-dissipation (input-output) energy balance.
+  Two different situations are thoroughly investigated. First, the production-dissipation
+  part of the equation is taken as a small perturbation to the KdVE, proportional
+  to a smallness parameter ε. It is shown that within times limited by ε−1 (and beyond)
+  the KdVE seches interact similarly to the Zabusky and Kruskal''s findings, save
+  the “aging” they experience. At longer times the localized solutions adopt the terminal
+  shape and phase velocity, and different humps can form bound states. The increase
+  of the production-dissipation parameter exaggerates the effects through reducing
+  the “practical infinity” for the time scale. For ε ¿ 2 with the rest of parameters
+  equal to unity, the solution goes chaotic. These results outline the region where
+  the long enough transients can be approximately considered as solitons, albeit imperfect
+  ones. The second situation is when the KS part of the equation is predominant. This
+  happens either when ε is not small enough or for very long times (t → ∞ or t ⪢ ε−1)
+  when strictly permanent shapes are attained which are in fact short waves and the
+  dissipation (higher-order derivative) is dominant. It is shown that the solution
+  to KSE of homoclinic shape (a hump) does not qualify for a wave-particle/solution
+  since it does not persist as a permanent shape after collision and yields to a chaotic
+  régime. The heteroclinic shapes (kinks/bores/hydraulic jumps/shocks) do behave as
+  particles but the interactions appear to be completely inelastic. After two such
+  wave-particles collide they stick to each other and deform to produce a single structure
+  of the same kind which carries the total momentum of the system. This kind of (really
+  imperfect) solitons may be called “clayons” to emphasize the fact that upon collisions
+  they behave as clay balls. Thus the Zabusky and Kruskal''s soliton concept is extended
+  in two directions: to “long” transients practically “permanent” and solitonic in
+  the time scale ε−1 set by production-dissipation processes and to true permanent
+  wave-particles with, however, inelastic behaviour upon collisions.'
+annote: 'Chaos, Order and Patterns: Aspects of Nonlinearity - @''The Gran Finale@'''
+author: Christov, C.I. and Velarde, M.G.
+author_list:
+- family: Christov
+  given: C.I.
+- family: Velarde
+  given: M.G.
+doi: https://doi.org/10.1016/0167-2789(95)00111-G
+issn: 0167-2789
+journal: 'Physica D: Nonlinear Phenomena'
+number: '1'
+pages: 323 -- 347
+ref: CHRISTOV1995323
+title: Dissipative solitons
+type: article
+url: http://www.sciencedirect.com/science/article/pii/016727899500111G
+volume: '86'
+year: '1995'

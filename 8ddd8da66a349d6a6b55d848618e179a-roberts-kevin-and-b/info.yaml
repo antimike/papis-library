@@ -1,0 +1,26 @@
+abstract: We numerically solve the coupled Landau-Ginzburg-Maxwell equations for a
+  model of a spin triplet px+ipy superconductor in which whole or half-quanta of flux
+  thread through a hole. We recover the pattern of stable and unstable regions for
+  the half-flux quanta observed in a recent experiment. We also examine a scenario
+  with bent, Abrikosov integer vortices and find it implausible for the thin, mesoscopic
+  ring geometry considered. © 2013 American Physical Society.
+author: Roberts, Kevin and Budakian, Raffi and Stone, Michael
+author_list:
+- family: Roberts
+  given: Kevin
+- family: Budakian
+  given: Raffi
+- family: Stone
+  given: Michael
+doi: 10.1103/PhysRevB.88.094503
+issn: '10980121'
+journal: Physical Review B - Condensed Matter and Materials Physics
+note: '\_eprint: 1304.4663'
+number: '9'
+pages: 1--7
+ref: robertsNumericalStudyStability2013
+title: Numerical study of the stability regions for half-quantum vortices in superconducting
+  {Sr2RuO4}
+type: article
+volume: '88'
+year: '2013'

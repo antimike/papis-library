@@ -1,0 +1,36 @@
+abstract: The application scenarios envisioned for ‘global ubiquitous computing’ have
+  unique requirements that are often incompatible with traditional security paradigms.
+  One alternative currently being investigated is to support security decision-making
+  by explicit representation of principals' trusting relationships, i.e., via systems
+  for computational trust. We focus here on systems where trust in a computational
+  entity is interpreted as the expectation of certain future behaviour based on behavioural
+  patterns of the past, and concern ourselves with the foundations of such probabilistic
+  systems. In particular, we aim at establishing formal probabilistic models for computational
+  trust and their fundamental properties. In the paper we define a mathematical measure
+  for quantitatively comparing the effectiveness of probabilistic computational trust
+  systems in various environments. Using it, we compare some of the systems from the
+  computational trust literature; the comparison is derived formally, rather than
+  obtained via experimental simulation as traditionally done. With this foundation
+  in place, we formalise a general notion of information about past behaviour, based
+  on event structures. This yields a flexible trust model where the probability of
+  complex protocol outcomes can be assessed.
+annote: 'Computation, Meaning, and Logic: Articles dedicated to Gordon Plotkin'
+author: Nielsen, Mogens and Krukow, Karl and Sassone, Vladimiro
+author_list:
+- family: Nielsen
+  given: Mogens
+- family: Krukow
+  given: Karl
+- family: Sassone
+  given: Vladimiro
+doi: https://doi.org/10.1016/j.entcs.2007.02.017
+issn: 1571-0661
+journal: Electronic Notes in Theoretical Computer Science
+pages: 499 -- 521
+ref: NIELSEN2007499
+tags: Bayesian model, event structures, probabilistic system, trust model
+title: A bayesian model for event-based trust
+type: article
+url: http://www.sciencedirect.com/science/article/pii/S1571066107000904
+volume: '172'
+year: '2007'

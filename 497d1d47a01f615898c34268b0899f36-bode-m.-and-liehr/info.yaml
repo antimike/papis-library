@@ -1,0 +1,45 @@
+abstract: We investigate the static and dynamic behaviour of well localized solitary
+  solutions of a three-component reaction-diffusion model in two- and three-dimensional
+  space. These solutions behave like particles under many aspects and we refer to
+  them as dissipative solitons. These objects may interact with each other, and are
+  influenced by boundaries and inhomogeneities of the parameters. Depending on parameters
+  and initial conditions they may be generated or annihilated. Reflection, scattering
+  and the formation of bound states is commonly observed and dissipative solitons
+  essentially retain their identity under such interactions if these are sufficiently
+  weak. For parameters near to the onset of propagation, the field equations are reduced
+  to a set of ordinary differential equations describing rather well the dynamical
+  behaviour of many aspects of isolated and interacting dissipative solitons using
+  their center coordinates and amplitudes of certain propagator modes. The work demonstrates
+  that dissipative solitons are a generic self-organized pattern of reaction-diffusion
+  systems, that they are rather robust under interaction and in many circumstances
+  can be considered as elementary constituents of patterns of higher complexity. The
+  reduced description can be looked upon as a theoretical foundation of the concept
+  of dissipative solitons exhibiting particle-like behaviour. In addition, for the
+  first time these equations allow a numerical investigation of systems with large
+  number of dissipative solitons as they are observed experimentally. It is pointed
+  out that many of the described properties of dissipative solitons are observed in
+  experimental systems of reaction-diffusion type.
+author: Bode, M. and Liehr, A.W. and Schenk, C.P. and Purwins, H.-G.
+author_list:
+- family: Bode
+  given: M.
+- family: Liehr
+  given: A.W.
+- family: Schenk
+  given: C.P.
+- family: Purwins
+  given: H.-G.
+doi: https://doi.org/10.1016/S0167-2789(01)00360-8
+issn: 0167-2789
+journal: 'Physica D: Nonlinear Phenomena'
+number: '1'
+pages: 45 -- 66
+ref: BODE200245
+tags: Bifurcation, Dissipative solitons, Nonlinear dynamics, Particle description,
+  Pattern formation
+title: 'Interaction of dissipative solitons: particle-like behaviour of localized
+  structures in a three-component reaction-diffusion system'
+type: article
+url: http://www.sciencedirect.com/science/article/pii/S0167278901003608
+volume: '161'
+year: '2002'

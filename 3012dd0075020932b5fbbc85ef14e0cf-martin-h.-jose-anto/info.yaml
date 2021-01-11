@@ -1,0 +1,32 @@
+abstract: Intelligence, Rationality, Learning, Anticipation and Adaptation are terms
+  that have been and still remain in the central stage of computer science. These
+  terms delimit their specific areas of study; nevertheless, they are so interrelated
+  that studying them separately is an endeavor that seems little promising. In this
+  paper, a model of study about the phenomena of Adaptation, Anticipation and Rationality
+  as nature-inspired computational paradigms mimicking nature is proposed by means
+  of a division, which is oriented, towards the discrimination of these terms, from
+  the point of view of the complexity exhibited in the behavior of the systems, where
+  these phenomena come at play. For this purpose a series of fundamental principles
+  and hypothesis are proposed as well as some experimental results that corroborate
+  them.
+author: Martín H., José Antonio and de Lope, Javier and Maravall, Darío
+author_list:
+- family: Martín H.
+  given: José Antonio
+- family: de Lope
+  given: Javier
+- family: Maravall
+  given: Darío
+doi: 10.1007/s11047-008-9096-6
+issn: 1572-9796
+journal: Natural Computing
+month: August
+number: '4'
+pages: '757'
+ref: martinh.AdaptationAnticipationRationality2008
+title: 'Adaptation, anticipation and rationality in natural and artificial systems:
+  computational paradigms mimicking nature'
+type: article
+url: https://doi.org/10.1007/s11047-008-9096-6
+volume: '8'
+year: '2008'

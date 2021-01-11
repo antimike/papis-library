@@ -1,0 +1,21 @@
+abstract: We derive the Dyson-Schwinger equation of a link variable in SU(n) lattice
+  gauge theory in minimal Landau gauge and confront it with Monte-Carlo data for the
+  different terms. Preliminary results for the lattice analog of the Kugo-Ojima confinement
+  criterion is also shown.
+author: Sternbeck, André and Schaden, Martin and Mader, Valentin
+author_list:
+- family: Sternbeck
+  given: André
+- family: Schaden
+  given: Martin
+- family: Mader
+  given: Valentin
+doi: 10.22323/1.214.0354
+issn: '18248039'
+journal: Proceedings of Science
+ref: sternbeckDysonSchwingerEquationLink2014
+title: The {Dyson}-{Schwinger} equation of a link variable in lattice {Landau} gauge
+  theory
+type: article
+volume: Part F1305
+year: '2014'

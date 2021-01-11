@@ -1,0 +1,29 @@
+abstract: The evaluation of the trustworthiness of complex systems is a challenge
+  in current IT research. We contribute to this field by providing a novel model for
+  the evaluation of propositional logic terms under uncertainty that is compliant
+  with the standard probabilistic approach and subjective logic. Furthermore, we present
+  a use case to demonstrate how this approach can be applied to the evaluation of
+  the trustworthiness of a system based on the knowledge about its components and
+  subsystems.
+address: '{Berlin, Heidelberg}'
+author: Ries, Sebastian and Habib, Sheikh Mahbub and M{\"u}hlh{\"a}user, Max and Varadharajan,
+  Vijay
+author_list:
+- family: Ries
+  given: Sebastian
+- family: Habib
+  given: Sheikh Mahbub
+- family: M{\"u}hlh{\"a}user
+  given: Max
+- family: Varadharajan
+  given: Vijay
+booktitle: Trust and Trustworthy Computing
+editor: McCune, Jonathan M. and Balacheff, Boris and Perrig, Adrian and Sadeghi, Ahmad-Reza
+  and Sasse, Angela and Beres, Yolanta
+isbn: 978-3-642-21599-5
+pages: 254--261
+publisher: '{Springer Berlin Heidelberg}'
+ref: 10.1007/978-3-642-21599-5_19
+title: '{{CertainLogic}}: {{A}} Logic for Modeling Trust and Uncertainty'
+type: inproceedings
+year: '2011'

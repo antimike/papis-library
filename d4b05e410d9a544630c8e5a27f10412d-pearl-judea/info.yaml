@@ -1,0 +1,13 @@
+address: '{USA}'
+author: Pearl, Judea
+author_list:
+- family: Pearl
+  given: Judea
+edition: Second
+isbn: 0-521-89560-X
+notes: notes.tex
+publisher: '{Cambridge University Press}'
+ref: 10.5555/1642718
+title: 'Causality: {{Models}}, Reasoning and Inference'
+type: book
+year: '2009'

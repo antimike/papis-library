@@ -1,0 +1,31 @@
+abstract: The authors consider the Ginzburg-Landau model for superconductivity. First
+  some well-known features of superconducting materials are reviewed and then various
+  results concerning the model, the resultant differential equations, and their solution
+  on bounded domains are derived. Then, finite element approximations of the solutions
+  of the Ginzburg-Landau equations are considered and error estimates of optimal order
+  are derived.
+author: Du, Qiang and Gunzburger, Max D. and Peterson, Janet S.
+author_list:
+- family: Du
+  given: Qiang
+- family: Gunzburger
+  given: Max D.
+- family: Peterson
+  given: Janet S.
+doi: 10.1137/1034003
+file: Attachment:files/119/1034003.pdf:application/pdf
+files:
+- 1034003.pdf
+issn: '00361445'
+journal: SIAM Review
+number: '1'
+pages: 54--81
+ref: duAnalysisApproximationGinzburgLandau1992
+tags: superconductivity, 1, 35j60, 65n30, 81j05, ams, and tin, at very low temperatures,
+  finite element approximations, ginzburg-landau equations, he, introduction, kamerlingh-onnes
+  in 1908, lead, metals, mos, subject classifications, such as mercury, the superconductivity
+  of certain, was discovered by h
+title: Analysis and approximation of the {Ginzburg}-{Landau} model of superconductivity
+type: article
+volume: '34'
+year: '1992'

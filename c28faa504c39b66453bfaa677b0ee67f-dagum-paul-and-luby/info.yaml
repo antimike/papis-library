@@ -1,0 +1,28 @@
+abstract: It is known that exact computation of conditional probabilities in belief
+  networks is NP-hard. Many investigators in the AI community have tacitly assumed
+  that algorithms for performing approximate inference with belief networks are of
+  polynomial complexity. Indeed, special cases of approximate inference can be performed
+  in time polynomial in the input size. However, we have discovered that the general
+  problem of approximating conditional probabilities with belief networks, like exact
+  inference, resides in the NP-hard complexity class. We develop a complexity analysis
+  to elucidate the difficulty of approximate probabilistic inference. More specifically,
+  we show that the existence of a polynomial-time relative approximation algorithm
+  for major classes of problem instances implies that NP ⊆ P. We present our proof
+  and explore the implications of the result.
+author: Dagum, Paul and Luby, Michael
+author_list:
+- family: Dagum
+  given: Paul
+- family: Luby
+  given: Michael
+doi: https://doi.org/10.1016/0004-3702(93)90036-B
+issn: 0004-3702
+journal: Artificial Intelligence
+number: '1'
+pages: 141 -- 153
+ref: DAGUM1993141
+title: Approximating probabilistic inference in {Bayesian} belief networks is {NP}-hard
+type: article
+url: http://www.sciencedirect.com/science/article/pii/000437029390036B
+volume: '60'
+year: '1993'

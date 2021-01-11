@@ -1,0 +1,25 @@
+abstract: The approaches to the trust study are various and very different each of
+  other. In our view, just a socio-cognitive approach to trust would be able to analyze
+  the sub-components (the basic beliefs) on which the final decision to trust or not
+  is taken. In this paper we show a first implementation and advance of the socio-cognitive
+  model of trust developed in [1],[ 2] using the so-called Fuzzy Cognitive Maps. With
+  this implementation we show how the different components may change and how their
+  impact can change depending from the specific situation and from the agent personality.
+address: Berlin, Heidelberg
+author: Falcone, Rino and Pezzulo, Giovanni and Castelfranchi, Cristiano
+author_list:
+- family: Falcone
+  given: Rino
+- family: Pezzulo
+  given: Giovanni
+- family: Castelfranchi
+  given: Cristiano
+isbn: 978-3-540-36609-6
+pages: 73--86
+publisher: Springer Berlin Heidelberg
+ref: falconeFuzzyApproachBeliefBased2003
+series: 'Trust, {Reputation}, and {Security}: {Theories} and {Practice}'
+title: A {Fuzzy} {Approach} to a {Belief}-{Based} {Trust} {Computation}
+translator: Falcone, Rino and Barber, Suzanne and Korba, Larry and Singh, Munindar
+type: inproceedings
+year: '2003'

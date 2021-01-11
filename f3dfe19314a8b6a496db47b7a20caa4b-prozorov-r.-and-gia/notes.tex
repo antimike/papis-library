@@ -1,0 +1,67 @@
+\documentclass{pset}
+\usepackage{macros}
+\usepackage[units, chem]{include}
+\usepackage{inkscape}
+\usepackage{pytex-preamble}
+\crefname{enumi}{}{}
+
+\begin{document}
+
+\author{Michael Haynes}
+\title{Notes on Prozorov-Giannetta \\ Meissner-London state in superconductors of rectangular cross section in a perpendicular magnetic field} 
+\date{2020-10-14}
+\maketitle
+
+\section{Weak formulation}
+
+The solution consists of two stages:
+\begin{enumerate}[label=(\Alph*)]
+	\item Solve for the magnetic scalar potential $\displaystyle \Psi$, imposing the desired fluxoid quantization condition through the inhomogeneous boundary term $\displaystyle B_{QS}$ \label{first-part}
+	\item Solve for the shifted vector potential $\displaystyle \vb{A}^{*}$ and the phase $\displaystyle \theta$. \label{second-part}
+\end{enumerate}
+
+Because both vector- and scalar-valued fields are involved, the finite-element function space will be a direct product of $\displaystyle Q_p(\Omega_{\tx{in}} \cup \Omega_{\tx{out}})$ (for the scalar fields) and $\displaystyle Q_p^{3}(\Omega_{\tx{in}} \cup \Omega_{\tx{out}})$ (for the vector fields).
+
+\begin{todo}
+	Investigate possible issues with convergence related to choice of finite-element spaces and the LBB condition for saddle-point problems.  I believe the above (naive) choices should be OK, but there may be better choices / I may have misunderstood the convergence criteria.
+\end{todo}
+
+
+\begin{definition*}[Basis functions] \label{defn:basis-functions}
+	Let 
+	\begin{itemize}
+	  \item $\displaystyle \varphi_i$ denote the scalar basis elements
+		  \item $\displaystyle \vb{\Phi}_i$ denote the vector basis elements
+	\end{itemize}
+\end{definition*}
+
+\begin{definition*}[System matrices] \label{defn:system-matrices}
+	The following matrices will be used to assemble the linear systems for \Cref{first-part,second-part}:
+\begin{align}
+	M_{ij}^{(\tx{int})} &\coloneqq \int_{ \Omega_{(\tx{int})} }^{  } \grad \varphi_i \cdot \grad \varphi_j \dd{\Omega} \label{Mij-int} \\
+	M_{ij}^{(\tx{ext})} & \coloneqq \int_{ \Omega_{\tx{(ext)}} }^{  } \grad \varphi_i \cdot \grad \varphi_j \dd{\Omega} \label{Mij-ext} \\
+	C_{ij}^{\tx{(int/ext)}} & \coloneqq \int_{ \Omega_{\tx{(int/ext)}} }^{  } (\grad \times \vb{\Phi}_i) \cdot (\grad \times \vb{\Phi}_j) \dd{\Omega} \label{Cij-int/ext} \\
+		D_{ij}^{\tx{(int/ext)}} & \coloneqq \int_{ \Omega_{\tx{(int/ext)}} }^{  } (\grad \cdot \vb{\Phi}_i)(\grad \cdot \vb{\Phi}_j) \dd{\Omega} \label{Sij-int/ext} \\
+					S_{ij}^{\tx{(int/ext)}} & \coloneqq \int_{ \Omega_{\tx{(int/ext)}} }^{  } \vb{\Phi}_i \cdot \vb{\Phi}_j \dd{\Omega} \label{Dij-int/ext} \\
+						T_{ij}^{\tx{(int/ext)}} & \coloneqq \int_{ \Omega_{\tx{(int/ext)}} }^{  } \vb{\Phi}_i \cdot \grad \varphi_j \dd{\Omega} \label{Tij-int/ext} \\
+							E_{ij}^{\tx{(ext)}} & \coloneqq \int_{ \Omega_{\tx{(ext)}} }^{  } (\grad \times \vb{\Phi}_i) \cdot \grad \varphi_j \dd{\Omega} \label{Eij-ext} \\
+							H_i^{\tx{(ext)}} & \coloneqq \int_{ \Gamma_H }^{  } \vb{\Phi}_i \cdot \vb{H}_{\tx{(ext)}} \dd{\Omega} \label{H-ext} \\
+							B_i^{\tx{(QS)}} & \coloneqq \int_{ S_a }^{  } \varphi_i B_{QS} \dd{S} \label{Bi} 
+\end{align}
+	
+\end{definition*}
+
+The weak formulation of the problem is then
+\begin{gather}
+	M_{ij}^{\tx{(ext)}} \vb{\Psi}_j = B^{(\tx{QS})}_i \tag*{\autoref{first-part}} \\
+	\begin{dcases}
+		& \left[ C_{ij}^{(\tx{int})} + pD_{ij}^{(\tx{int})} + \dfrac{1}{\lambda^2} S_{ij}^{(\tx{int})} \right] A^*_{j} = \dfrac{\Phi_0}{2\pi \lambda^2} T_{ij}^{(\tx{int})} \theta_i \\
+		& \dfrac{1}{\mu_0 \lambda^2} \til{T}_{ij}^{(\tx{int})} A_j^* = \dfrac{\Phi_0}{2\pi \mu_0 \lambda^2} M_{ij}^{(\tx{int})} \theta_i \\
+		& \left[ C_{ij}^{(\tx{ext})} + pD_{ij}^{(\tx{ext})} \right] A^*_i = -E_{ij}^{(\tx{ext})} \Psi_j + \vb{H}_i^{(\tx{ext})}
+	\end{dcases} \tag*{\autoref{second-part}}	
+\end{gather}
+
+
+
+
+\end{document}

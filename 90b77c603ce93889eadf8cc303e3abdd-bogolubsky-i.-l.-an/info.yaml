@@ -1,0 +1,35 @@
+abstract: We reinvestigate the problem of Gribov ambiguities within the Landau (or
+  Lorentz) gauge for the ghost and gluon propagators in pure SU(2) lattice gauge theory.
+  We make use of the full symmetry group of the action taking into account large,
+  i.e. nonperiodic, Z(2) gauge transformations leaving lattice plaquettes invariant.
+  Enlarging in this way the gauge orbits for any given gauge field configuration the
+  Landau gauge can be fixed at higher local extrema of the gauge functional in comparison
+  with standard (overrelaxation) techniques. This has a clearly visible effect not
+  only for the ghost propagator at small momenta but also for the gluon propagator,
+  in contrast to the common belief. © 2006 The American Physical Society.
+author: Bogolubsky, I. L. and Burgio, G. and Müller-Preussker, M. and Mitrjushkin,
+  V. K.
+author_list:
+- family: Bogolubsky
+  given: I. L.
+- family: Burgio
+  given: G.
+- family: Müller-Preussker
+  given: M.
+- family: Mitrjushkin
+  given: V. K.
+doi: 10.1103/PhysRevD.74.034503
+file: Attachment:files/128/0511056.pdf:application/pdf
+files:
+- 0511056.pdf
+issn: '15507998'
+journal: Physical Review D - Particles, Fields, Gravitation and Cosmology
+note: '\_eprint: 0511056'
+number: '3'
+ref: bogolubskyLandauGaugeGhost2006
+tags: ghost propagator, gluon propagator, gribov problem, landau gauge
+title: 'Landau gauge ghost and gluon propagators in {SU}(2) lattice gauge theory:
+  {Gribov} ambiguity reexamined'
+type: article
+volume: '74'
+year: '2006'

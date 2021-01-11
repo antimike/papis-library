@@ -1,0 +1,23 @@
+address: '{New York, NY, USA}'
+articleno: '1'
+author: Hoffman, Kevin and Zage, David and {Nita-Rotaru}, Cristina
+author_list:
+- family: Hoffman
+  given: Kevin
+- family: Zage
+  given: David
+- family: '{Nita-Rotaru}'
+  given: Cristina
+doi: 10.1145/1592451.1592452
+issn: 0360-0300
+issue_date: December 2009
+journal: ACM Computing Surveys
+month: December
+number: '1'
+publisher: '{Association for Computing Machinery}'
+ref: 10.1145/1592451.1592452
+tags: attack mitigation,attacks,collusion,defense techniques,incentives,peer-to-peer,Reputation,trust
+title: A Survey of Attack and Defense Techniques for Reputation Systems
+type: article
+volume: '42'
+year: '2009'

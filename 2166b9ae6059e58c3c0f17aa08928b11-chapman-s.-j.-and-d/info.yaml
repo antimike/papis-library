@@ -1,0 +1,36 @@
+abstract: A model for superconductivity in thin films having variable thickness is
+  derived through an averaging process across the film. When the film is of uniform
+  thickness the model is identical to a model for superconducting cylinders as the
+  Ginzburg-Landau parameter tends to ∞. This means that all superconducting materials,
+  whether type I or type II in bulk, behave as type-II superconductors when made into
+  sufficiently thin films. When the film is of non-uniform thickness the variations
+  in thickness appear as spatially varying coefficients in the thin-film differential
+  equations. After providing a formal derivation of the model, some results about
+  solutions of the variable thickness model are given. In particular, it is shown
+  that solutions obtained from the new model are an appropriate limit of a sequence
+  of averages of solutions of the three-dimensional Ginzburg-Landau model as the thickness
+  of the film tends to zero. An application of the variable thickness thin film model
+  to flux pinning is then provided. In particular, the results of a numerical calculation
+  are given that show that the vortex-like structures present in superconductors are
+  attracted to relatively thin regions.
+author: Chapman, S. J. and Du, Qiang and Gunzburger, M. D.
+author_list:
+- family: Chapman
+  given: S. J.
+- family: Du
+  given: Qiang
+- family: Gunzburger
+  given: M. D.
+doi: 10.1007/BF00916647
+file: Attachment:files/123/Physica D Nonlinear Phenomena 1993 Du.pdf:application/pdf
+files:
+- physica-d-nonlinear-phenomena-1993-du.pdf
+issn: '00442275'
+journal: Zeitschrift fur Angewandte Mathematik und Physik
+number: '3'
+pages: 410--431
+ref: chapmanModelVariableThickness1996
+title: A model for variable thickness superconducting thin films
+type: article
+volume: '47'
+year: '1996'

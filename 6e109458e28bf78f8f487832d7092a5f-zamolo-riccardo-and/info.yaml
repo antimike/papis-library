@@ -1,0 +1,30 @@
+abstract: A fictitious domain approach for the solution of second-order linear differential
+  problems is proposed; spectral/hp elements have been used for the discretization
+  of the domain. The peculiarity of our approach is that the Lagrange multipliers
+  are particular distributed functions, instead of classical \$\${\textbackslash}delta
+  \$\$δDirac (impulsive) multipliers. In this paper we present the formulation and
+  the application of this approach to 1D and 2D Poisson problems and 2D Stokes flow
+  (biharmonic equation).
+author: Zamolo, Riccardo and Parussini, Lucia and Pediroda, Valentino
+author_list:
+- family: Zamolo
+  given: Riccardo
+- family: Parussini
+  given: Lucia
+- family: Pediroda
+  given: Valentino
+doi: 10.1007/s10915-017-0464-1
+issn: 1573-7691
+journal: Journal of Scientific Computing
+language: en
+month: February
+number: '2'
+pages: 805--825
+ref: zamoloDistributedLagrangeMultiplier2018
+title: Distributed {Lagrange} {Multiplier} {Functions} for {Fictitious} {Domain} {Method}
+  with {Spectral}/hp {Element} {Discretization}
+type: article
+url: https://doi.org/10.1007/s10915-017-0464-1
+urldate: '2020-08-11'
+volume: '74'
+year: '2018'

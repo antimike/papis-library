@@ -1,0 +1,16 @@
+author: Ullah, Salman and Dorsey, Alan T
+author_list:
+- family: Ullah
+  given: Salman
+- family: Dorsey
+  given: Alan T
+file: Attachment:files/120/PhysRevLett.66.3067.pdf:application/pdf
+files:
+- physrevlett.66.3067.pdf
+journal: Physical Review Letters
+number: '23'
+ref: ullahFluxDynamicsGrowth1991
+title: Flux {Dynamics} and the {Growth} of the {Superconducting} {Phase}
+type: article
+volume: '66'
+year: '1991'

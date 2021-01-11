@@ -1,0 +1,20 @@
+abstract: We first describe a metric for uncertain probabilities called opinion, and
+  subsequently a set of logical operators that can be used for logical reasoning with
+  uncertain propositions. This framework which is called subjective logic uses elements
+  from the Dempster-Shafer belief theory and we show that it is compatible with binary
+  logic and probability calculus.
+author: JØSANG, AUDUN
+author_list:
+- family: JØSANG
+  given: AUDUN
+doi: 10.1142/S0218488501000831
+journal: International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems
+note: 'tex.eprint: https://doi.org/10.1142/S0218488501000831'
+number: '03'
+pages: 279--311
+ref: doi:10.1142/S0218488501000831
+title: A {LOGIC} {FOR} {UNCERTAIN} {PROBABILITIES}
+type: article
+url: https://doi.org/10.1142/S0218488501000831
+volume: 09
+year: '2001'

@@ -1,0 +1,30 @@
+abstract: We propose and demonstrate the power of a novel approach to the solution
+  of the Ginzburg-Landau equation based on minimizing the free-energy functional with
+  the numerical technique of simulated annealing instead of minimizing it analytically
+  and then solving the resulting nonlinear partial differential equations. We present
+  calculations of the magnetization versus magnetic field that agree well with the
+  predictions of Abrikosov and others for a homogeneous, isotropic type-II superconductor
+  near Hc1 and Hc2. We also summarize the extension of the method to the calculation
+  of the properties of an inhomogeneous, anisotropic superconductor. © 1990 The American
+  Physical Society.
+author: Doria, M. M. and Gubernatis, J. E. and Rainer, D.
+author_list:
+- family: Doria
+  given: M. M.
+- family: Gubernatis
+  given: J. E.
+- family: Rainer
+  given: D.
+doi: 10.1103/PhysRevB.41.6335
+file: Attachment:files/122/Phys. Rev. B 1990 Doria.pdf:application/pdf
+files:
+- phys.-rev.-b-1990-doria.pdf
+issn: 01631829
+journal: Physical Review B
+number: '10'
+pages: 6335--6340
+ref: doriaSolvingGinzburgLandauEquations1990
+title: Solving the {Ginzburg}-{Landau} equations by simulated annealing
+type: article
+volume: '41'
+year: '1990'

@@ -1,0 +1,16 @@
+address: Berlin, Heidelberg
+author: Friedrich, Rudolf
+author_list:
+- family: Friedrich
+  given: Rudolf
+booktitle: Collective dynamics of nonlinear and disordered systems
+doi: 10.1007/3-540-26869-3₄
+editor: Radons, Günter and Just, Wolfram and Häussler, Peter
+isbn: 978-3-540-26869-7
+pages: 61--84
+publisher: Springer Berlin Heidelberg
+ref: Friedrich2005
+title: Group theoretic methods in the theory of pattern formation
+type: incollection
+url: https://doi.org/10.1007/3-540-26869-3₄
+year: '2005'

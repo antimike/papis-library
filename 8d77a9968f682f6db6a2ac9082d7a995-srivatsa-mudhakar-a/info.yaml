@@ -1,0 +1,14 @@
+author: Srivatsa, Mudhakar and Xiong, Li and Liu, Ling
+author_list:
+- family: Srivatsa
+  given: Mudhakar
+- family: Xiong
+  given: Li
+- family: Liu
+  given: Ling
+booktitle: '{WWW} ''05'
+ref: Srivatsa2005TrustGuardCV
+title: '{TrustGuard}: countering vulnerabilities in reputation management for decentralized
+  overlay networks'
+type: inproceedings
+year: '2005'

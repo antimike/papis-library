@@ -1,0 +1,57 @@
+=>PYTHONTEX#CC:pylab:begin#none#none#0#code#####6#
+    """begin=python"""
+    # From pytex documentation
+    # Basename for figures that will be created
+    pytex.basename ='_'.join([pytex.family, pytex.session, pytex.restart])
+
+    # Need to keep track of total number of figures in each session
+    pytex.fignum = 0
+
+    # The figure could be included in more sophisticated ways
+    # For example, a``figure``environment could be used
+    def after():
+	for num in get_fignums():
+	    fname = pytex.basename +'_fig'+ str(pytex.fignum) +'.pdf'
+	    pytex.fignum += 1
+	    figure(num)
+	    savefig(fname)
+	    pytex.add_created(fname)
+	    close(num)
+	    texcmd = r'''\begin{figure}
+		\centering
+		\def\svgwidth{#1\columnwidth}
+		\import{''' + fname + r'''}
+		\caption{''' + fname + r'''}
+		\label{''' + fname + r'''}
+	    \end{figure}'''
+
+	    print(textcmd)
+
+    # In this case, I'm taking the easy approach to redefine``open()``
+    pytex.after = after
+    """end=python"""
+=>PYTHONTEX:SETTINGS#
+version=0.16
+outputdir=pythontex-files-notes
+workingdir=.
+workingdirset=false
+gobble=none
+rerun=default
+hashdependencies=default
+makestderr=false
+stderrfilename=full
+keeptemps=none
+pyfuture=default
+pyconfuture=none
+pygments=true
+pygglobal=:GLOBAL||
+fvextfile=-1
+pyconbanner=none
+pyconfilename=stdin
+depythontex=false
+pygfamily=py|python|
+pygfamily=pycon|pycon|
+pygfamily=sympy|python|
+pygfamily=sympycon|pycon|
+pygfamily=pylab|python|
+pygfamily=pylabcon|pycon|

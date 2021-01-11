@@ -1,0 +1,35 @@
+abstract: We theoretically investigate the local magnetic field, order parameter and
+  supercurrent profiles of a parallelepiped mesoscopic superconductor submersed in
+  an applied magnetic field; this same geometry with a pillar on its top surface is
+  also considered. Our investigation was carried out by solving the three-dimensional
+  time-dependent Ginzburg-Landau (TDGL) equations. We obtain the magnetization curve
+  as a function of the external applied magnetic field for several sample sizes. We
+  have determined an analytical dependence of the thermodynamic fields and the magnetization
+  as functions of the lateral dimension of the superconductor. Finally, a systematic
+  comparative study of the two- and three-dimensional approaches of the Ginzburg-Landau
+  model is carried out.
+author: Barba-Ortega, J. and Sardella, Edson and Aguiar, J. Albino
+author_list:
+- family: Barba-Ortega
+  given: J.
+- family: Sardella
+  given: Edson
+- family: Aguiar
+  given: J. Albino
+doi: 10.1016/j.physleta.2014.12.030
+file: Attachment:files/113/2015 Barba-Ortega.pdf:application/pdf
+files:
+- 2015-barba-ortega.pdf
+issn: 03759601
+journal: 'Physics Letters, Section A: General, Atomic and Solid State Physics'
+note: 'Publisher: Elsevier B.V.'
+number: '7'
+pages: 732--737
+ref: barba-ortegaSuperconductingPropertiesParallelepiped2015
+tags: Ginzburg-Landau, Mesoscopic, Pillars, Vortex
+title: 'Superconducting properties of a parallelepiped mesoscopic superconductor:
+  {A} comparative study between the {2D} and {3D} {Ginzburg}-{Landau} models'
+type: article
+url: http://dx.doi.org/10.1016/j.physleta.2014.12.030
+volume: '379'
+year: '2015'

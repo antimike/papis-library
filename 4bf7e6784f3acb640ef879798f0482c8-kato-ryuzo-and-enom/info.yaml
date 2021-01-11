@@ -1,0 +1,30 @@
+abstract: Computer simulations, based on the time-dependent Ginzburg-Landau equation
+  of the magnetization process of type-II superconductors in a magnetic field are
+  presented. It is shown how the magnetic flux penetrates into and goes out of the
+  superconductor through the surface boundary, i.e., the superconductor-insulator
+  interface. By examining the hysteresis curve of the magnetization, the surface pinning
+  field is derived. The flux distribution and its time development in the superconductor
+  are calculated when the magnetic field is increased or decreased. We also study
+  the surface and edge states of the type-II superconductor above the upper critical
+  field. © 1993 The American Physical Society.
+author: Kato, Ryuzo and Enomoto, Yoshihisa and Maekawa, Sadamichi
+author_list:
+- family: Kato
+  given: Ryuzo
+- family: Enomoto
+  given: Yoshihisa
+- family: Maekawa
+  given: Sadamichi
+doi: 10.1103/PhysRevB.47.8016
+file: Attachment:files/112/PhysRevB.47.8016.pdf:application/pdf
+files:
+- physrevb.47.8016.pdf
+issn: 01631829
+journal: Physical Review B
+number: '13'
+pages: 8016--8024
+ref: katoEffectsSurfaceBoundary1993
+title: Effects of the surface boundary on the magnetization process in type-{II} superconductors
+type: article
+volume: '47'
+year: '1993'

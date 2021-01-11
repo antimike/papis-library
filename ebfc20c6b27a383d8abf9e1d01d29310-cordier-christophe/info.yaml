@@ -1,0 +1,30 @@
+abstract: A three-dimensional (3D) finite-element formulation for calculating Meissner
+  currents in multiply connected superconductors is presented. The fluxoid quantization
+  condition is ensured as simply as possible. The problem is formulated so that we
+  have to solve two systems of equations by the use of a conjugate gradient algorithm
+  without preconditioning. Meissner currents and magnetic-flux density are numerically
+  evaluated in a superconducting tube and around a vortex. These results are compared
+  with analytical solutions.
+author: Cordier, Christophe and Flament, St{\'{e}}phane and Dubuc, Christian
+author_list:
+- family: Cordier
+  given: Christophe
+- family: Flament
+  given: St{\'{e}}phane
+- family: Dubuc
+  given: Christian
+doi: 10.1109/77.819341
+file: :home/user/Downloads/00819341.pdf:pdf
+files:
+- 00819341.pdf
+issn: '10518223'
+journal: IEEE Transactions on Applied Superconductivity
+notes: notes.tex
+number: '4'
+pages: 4702--4707
+ref: Cordier1999
+time-added: 2020-10-08-10:01:26
+title: '{Finite-element calculation of Meissner currents in multiply connected superconductors}'
+type: article
+volume: '9'
+year: '1999'

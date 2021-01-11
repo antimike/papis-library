@@ -1,0 +1,39 @@
+abstract: Preferential attachment is a stochastic process that has been proposed to
+  explain certain topological features characteristic of complex networks from diverse
+  domains. The systematic investigation of preferential attachment is an important
+  area of research in network science, not only for the theoretical matter of verifying
+  whether this hypothesized process is operative in real-world networks, but also
+  for the practical insights that follow from knowledge of its functional form. Here
+  we describe a maximum likelihood based estimation method for the measurement of
+  preferential attachment in temporal complex networks. We call the method PAFit,
+  and implement it in an R package of the same name. PAFit constitutes an advance
+  over previous methods primarily because we based it on a nonparametric statistical
+  framework that enables attachment kernel estimation free of any assumptions about
+  its functional form. We show this results in PAFit outperforming the popular methods
+  of Jeong and Newman in Monte Carlo simulations. What is more, we found that the
+  application of PAFit to a publically available Flickr social network dataset yielded
+  clear evidence for a deviation of the attachment kernel from the popularly assumed
+  log-linear form. Independent of our main work, we provide a correction to a consequential
+  error in Newman’s original method which had evidently gone unnoticed since its publication
+  over a decade ago.
+author: Pham, Thong and Sheridan, Paul and Shimodaira, Hidetoshi
+author_list:
+- family: Pham
+  given: Thong
+- family: Sheridan
+  given: Paul
+- family: Shimodaira
+  given: Hidetoshi
+doi: 10.1371/journal.pone.0137796
+journal: PLOS ONE
+month: September
+note: 'Publisher: Public Library of Science'
+number: '9'
+pages: e0137796
+ref: phamPAFitStatisticalMethod2015
+title: '{PAFit}: {A} {Statistical} {Method} for {Measuring} {Preferential} {Attachment}
+  in {Temporal} {Complex} {Networks}'
+type: article
+url: https://doi.org/10.1371/journal.pone.0137796
+volume: '10'
+year: '2015'

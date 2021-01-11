@@ -1,0 +1,32 @@
+abstract: Interactions between vortices in planar superconducting films and a point
+  magnetic dipole placed outside the film, and the creation of vortices by the dipole,
+  are studied in the London limit. The exact solution of London equations for films
+  of arbitrary thickness with a generic distribution of vortex lines, curved or straight,
+  is obtained by generalizing the results reported by the present author and Brandt
+  [Phys. Rev. B 61, 6370 (2000)] for films without the dipole. From this solution
+  the total energy of the vortex-dipole system is obtained as a functional of the
+  vortex distribution. The vortex configurations created by the dipole minimize the
+  energy functional. It is shown that the vortex-dipole interaction energy is given
+  by -m·bvac, where m is the dipole strength and bvac is the magnetic field of the
+  vortices at the dipole position, and that it can also be written in terms of a magnetic
+  pinning potential acting on the vortices. The properties of this potential are studied
+  in detail. Vortex configurations created by the dipole on films of thickness comparable
+  to the penetration depth are obtained by discretizing the exact London theory results
+  on a cubic lattice and minimizing the energy functional using a numerical algorithm
+  based on simulated annealing. These configurations are found to consist, in general,
+  of curved vortex lines and vortex loops.
+author: Carneiro, Gilson
+author_list:
+- family: Carneiro
+  given: Gilson
+doi: 10.1103/PhysRevB.69.214504
+issn: 01631829
+journal: Physical Review B - Condensed Matter and Materials Physics
+note: '\_eprint: 0308574'
+number: '21'
+pages: 1--14
+ref: carneiroPinningCreationVortices2004
+title: Pinning and creation of vortices in superconducting films by a magnetic dipole
+type: article
+volume: '69'
+year: '2004'

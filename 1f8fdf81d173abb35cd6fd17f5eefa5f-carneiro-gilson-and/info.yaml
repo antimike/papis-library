@@ -1,0 +1,23 @@
+abstract: General expressions are given for the magnetic field and energy of arbitrary
+  arrangements of straight and curved vortices in an anisotropic superconductor film
+  of finite thickness within anisotropic London theory. As examples we consider the
+  magnetic field and interaction of straight perpendicular vortex lines in films of
+  finite thickness. © 2000 The American Physical Society.
+author: Carneiro, Gilson and Brandt, Ernst Helmut
+author_list:
+- family: Carneiro
+  given: Gilson
+- family: Brandt
+  given: Ernst Helmut
+doi: 10.1103/PhysRevB.61.6370
+files:
+- carneiro-brandt-vortex-sc-films.pdf
+issn: 1550235X
+journal: Physical Review B - Condensed Matter and Materials Physics
+number: '9'
+pages: 6370--6376
+ref: carneiroVortexLinesFilms2000
+title: 'Vortex lines in films: {Fields} and interactions'
+type: article
+volume: '61'
+year: '2000'

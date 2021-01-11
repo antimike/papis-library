@@ -1,0 +1,33 @@
+abstract: Dempster’s rule is traditionally interpreted as an operator for fusing belief
+  functions. While there are different types of belief fusion, there has been considerable
+  confusion regarding the exact type of operation that Dempster’s rule performs. Many
+  alternative operators for belief fusion have been proposed, where some are based
+  on the same fundamental principle as Dempster’s rule, and others have a totally
+  different basis, such as the cumulative and averaging fusion operators. In this
+  article, we analyze Dempster’s rule from a statistical and frequentist perspective
+  and compare it with cumulative and averaging belief fusion. We prove, and illustrate
+  by examples on colored balls, that Dempster’s rule in fact represents a method for
+  serial combination of stochastic constraints. Consequently, Dempster’s rule is not
+  a method for cumulative fusion of belief functions under the assumption that subjective
+  beliefs are an extension of frequentist beliefs. Having identified the true nature
+  of Dempster’s rule, appropriate applications of Dempster’s rule of combination are
+  described such as the multiplication of orthogonal belief functions, and the combination
+  of preferences dictated by different parties.
+author: Jøsang, Audun and Pope, Simon
+author_list:
+- family: Jøsang
+  given: Audun
+- family: Pope
+  given: Simon
+doi: 10.1111/j.1467-8640.2012.00421.x
+journal: Computational Intelligence
+note: 'tex.eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1467-8640.2012.00421.x'
+number: '4'
+pages: 453--474
+ref: doi:10.1111/j.1467-8640.2012.00421.x
+tags: averaging operator, belief theory, cumulative operator, fusion, subjective logic
+title: '{DEMPSTER}’{S} {RULE} {AS} {SEEN} {BY} {LITTLE} {COLORED} {BALLS}'
+type: article
+url: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8640.2012.00421.x
+volume: '28'
+year: '2012'

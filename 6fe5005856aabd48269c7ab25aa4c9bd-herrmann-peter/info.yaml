@@ -1,0 +1,31 @@
+abstract: Mutual trust is essential in performing economical transactions. In modern
+  internet-based businesses, however, traditional trust gaining mechanisms cannot
+  be used and new ways to build trust between e-business partners have to be found.
+  In consequence, a lot of models describing trust and the mechanisms to build it
+  were developed. Unfortunately, most of these models neither provide the right formalism
+  to model relevant aspects of the trust gaining process (e.g., context and time of
+  a trust-related interaction), nor do they allow refinement proofs verifying that
+  a trust management tool implements a certain trust model. Therefore, we propose
+  the temporal logic-based specification and verification technique cTLA which provides
+  a formalism enabling to model context- and time-related aspects of a trust building
+  process. Moreover, cTLA facilitates formal refinement proofs. In this paper, we
+  discuss the application of cTLA to describe trust purposes by means of simple example
+  systems which are used to decide about the application of certain policies based
+  on the reputation of a party. In particular, we introduce a basic and a refined
+  reputation system and sketch the proof that the refined system is a correct realization
+  of the simple one.
+address: Berlin, Heidelberg
+author: Herrmann, Peter
+author_list:
+- family: Herrmann
+  given: Peter
+isbn: 978-3-540-34297-7
+pages: 105--119
+publisher: Springer Berlin Heidelberg
+ref: herrmannTemporalLogicBasedSpecification2006
+series: Trust {Management}
+title: Temporal {Logic}-{Based} {Specification} and {Verification} of {Trust} {Models}
+translator: Stølen, Ketil and Winsborough, William H. and Martinelli, Fabio and Massacci,
+  Fabio
+type: inproceedings
+year: '2006'

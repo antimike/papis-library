@@ -1,0 +1,34 @@
+abstract: A two-dimensional macroscopic model for superconductivity in thin films
+  having variable thickness is derived through an averaging process across the film
+  thickness. The resulting model is similar to the well-known Ginzburg-Landau equations
+  for homogeneous, isotropic materials, except that a function that describes the
+  variations in the thickness of the film now appears in the coefficients of the differential
+  equations. Some results about solutions of the variable thickness model are then
+  given, including existence of solutions and boundedness of the order parameter.
+  It is also shown that the model is consistent in the sense that solutions obtained
+  from the new model are an appropriate limit of a sequence of averages of solutions
+  of the three-dimensional Ginzburg-Landau model as the thickness of the film tends
+  to zero. An application of the variable thickness thin film model to flux pinning
+  is then provided. In particular, the results of numerical calculations are given
+  that show that the vortex-like structures that are present in certain superconductors
+  are attracted re relatively thin regions in a material sample. Finally, extensions
+  of the model to other settings are discussed. © 1993.
+author: Du, Qiang and Gunzburger, Max D.
+author_list:
+- family: Du
+  given: Qiang
+- family: Gunzburger
+  given: Max D.
+doi: 10.1016/0167-2789(93)90089-J
+file: Attachment:files/126/Z. angew. Math. Phys. 1996 Chapman.pdf:application/pdf
+files:
+- z.-angew.-math.-phys.-1996-chapman.pdf
+issn: 01672789
+journal: 'Physica D: Nonlinear Phenomena'
+number: 3-4
+pages: 215--231
+ref: duModelSuperconductingThin1993
+title: A model for superconducting thin films having variable thickness
+type: article
+volume: '69'
+year: '1993'
