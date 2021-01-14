@@ -1,0 +1,8 @@
+author: Wolfgang Bangerth
+files:
+- dealii-assembling-matrices.pdf
+ref: AssemblingMatrWolfga2002
+tags: deal.ii fem
+time-added: 2021-01-14-13:21:01
+title: Assembling matrices in deal.II
+year: '2002'
