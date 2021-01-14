@@ -10,7 +10,7 @@ note: 'arXiv: 1303.1518
   tex.biburl: https://dblp.org/rec/journals/corr/abs-1303-1518.bib
 
   tex.timestamp: Mon, 13 Aug 2018 16:46:40 +0200'
-ref: DBLP:journals/corr/abs-1303-1518
+ref: WilsonAssumptionsBehindDempstersRule
 title: The assumptions behind dempster's rule
 type: article
 url: http://arxiv.org/abs/1303.1518

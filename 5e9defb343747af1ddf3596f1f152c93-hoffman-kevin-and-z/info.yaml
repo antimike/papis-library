@@ -15,7 +15,7 @@ journal: ACM Computing Surveys
 month: December
 number: '1'
 publisher: '{Association for Computing Machinery}'
-ref: 10.1145/1592451.1592452
+ref: HoffmanZageAttackMitigation
 tags: attack mitigation,attacks,collusion,defense techniques,incentives,peer-to-peer,Reputation,trust
 title: A Survey of Attack and Defense Techniques for Reputation Systems
 type: article
