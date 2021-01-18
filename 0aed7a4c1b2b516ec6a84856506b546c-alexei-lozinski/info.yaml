@@ -1,0 +1,9 @@
+author: Alexei Lozinski
+files:
+- cutfem-dirichlet-neumann-unfitted-meshes.pdf
+ref: CutfemWithoutAlexei2019
+tags: fem cutfem dirichlet neumann
+time-added: 2021-01-14-13:25:52
+title: 'CutFEM without cutting the mesh cells: a new way to impose Dirichlet and Neumann
+  boundary conditions on unfitted meshes'
+year: '2019'
