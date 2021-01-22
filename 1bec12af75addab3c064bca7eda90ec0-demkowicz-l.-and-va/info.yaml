@@ -1,0 +1,9 @@
+author: Demkowicz, L. and Vardapetyan, L.
+files:
+- em-hp-fem.pdf
+ref: ModelingOfEleDemkow1997
+tags: fem lagrange-multipliers gauge maxwell
+time-added: 2021-01-21-20:22:35
+title: Modeling of electromagnetic absorption/scattering problems using hp-adaptive
+  finite elements
+year: '1997'
