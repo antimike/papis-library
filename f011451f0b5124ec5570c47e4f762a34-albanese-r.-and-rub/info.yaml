@@ -1,0 +1,25 @@
+author: Albanese, R. and Rubinacci, G.
+author_list:
+- affiliation: []
+  family: Albanese
+  given: R.
+- affiliation: []
+  family: Rubinacci
+  given: G.
+doi: 10.1109/20.43865
+files:
+- fem-3d-eddy-currents.pdf
+issue: '1'
+journal: IEEE Transactions on Magnetics
+month: 1
+pages: 98--101
+publisher: Institute of Electrical and Electronics Engineers (IEEE)
+ref: SolutionOfThrAlbane1988
+tags: fem tree-cotree gauge
+time-added: 2021-01-21-20:09:47
+title: Solution of three dimensional eddy current problems by integral and differential
+  methods
+type: article
+url: http://dx.doi.org/10.1109/20.43865
+volume: '24'
+year: 1988

@@ -1,0 +1,8 @@
+author: Lee, Seung-Cheol
+files:
+- vector-finite-elements-waveguides.pdf
+ref: HierarchicalVeLeeS
+time-added: 2021-01-21-20:04:51
+title: Hierarchical Vector Finite Elements for Analyzing Waveguiding Structures
+year: 2003
+tags: fem nedelec tree-cotree gauge
