@@ -1,6 +1,8 @@
 author: Schoeberl, Joachim
+files:
+- maxwell.pdf
 ref: NumericalMethoSchoeb2009
 tags: maxwell fem gauge lagrange-multiplier
-time-added: 2021-01-21-20:27:53
+time-added: 2021-01-21-20:30:32
 title: Numerical Methods for Maxwell Equations
 year: '2009'
