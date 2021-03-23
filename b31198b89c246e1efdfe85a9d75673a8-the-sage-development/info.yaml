@@ -1,0 +1,25 @@
+author: The Sage Development Team
+files:
+- arithmetic-curves.pdf
+- coding-a.pdf
+- cpython-b.pdf
+- cryptography-c.pdf
+- data-structures-d.pdf
+- databases-e.pdf
+- diophantine-approximation-f.pdf
+- doctest-g.pdf
+- euclidean-spaces-h.pdf
+- games-i.pdf
+- graphs-j.pdf
+- homology-k.pdf
+- hyperbolic-geometry-l.pdf
+- logic-m.pdf
+- manifolds-n.pdf
+- misc-o.pdf
+- quadratic-forms-p.pdf
+- riemannian-geometry-q.pdf
+ref: Sage92RefereTheSa2020
+tags: sage math reference manual
+time-added: 2021-03-22-21:15:51
+title: 'Sage 9.2 Reference Manual: Differential Geometry of Curves and Surfaces'
+year: '2020'
