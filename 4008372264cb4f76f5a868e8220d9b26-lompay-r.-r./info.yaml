@@ -1,0 +1,26 @@
+abstract: It is shown that the equations of motion of a test point particle with spin
+  in a given gravitational field, so called Mathisson - Papapetrou equations, can
+  be derived from Euler - Lagrange equations of the relativistic pseudomechanics --
+  relativistic mechanics, which side by side uses the conventional (commuting) and
+  Grassmannian (anticommuting) variables. In this approach the known difficulties
+  of the Mathisson - Papapetrou equations, namely, the problem of the choice of supplementary
+  conditions and the problem of higher derivatives are not appear.
+archiveprefix: arXiv
+author: Lompay, R. R.
+author_list:
+- family: Lompay
+  given: R. R.
+eprint: gr-qc/0503054v1
+file: gr-qc/0503054v1.pdf
+files:
+- relativistic-pseudomechanics.pdf
+- tmp4e-4-7c-a.pdf
+month: Mar
+primaryclass: gr-qc
+ref: gr-qc/0503054v1
+tags: relativity gr fundamental-physics spin differential-geometry
+time-added: 2021-03-29-12:20:28
+title: Deriving Mathisson - Papapetrou equations from relativistic   pseudomechanics
+type: article
+url: http://arxiv.org/abs/gr-qc/0503054v1
+year: '2005'

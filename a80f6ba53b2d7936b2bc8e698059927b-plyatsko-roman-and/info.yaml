@@ -1,0 +1,31 @@
+abstract: In the context of investigations of possible highly relativistic motions
+  of a spinning particle in the gravitational field, which can be described by the
+  Mathisson equations under different supplementary condition, we analyze the circular
+  orbits in a Schwarzschild field. The very orbits most clearly demonstrate the effect
+  of the gravitational spin-orbit interaction on the particle's motion. It is shown
+  that the Mathisson equations under the Frenkel-Mathisson and Tulczyjew-Dixon conditions
+  have the common solutions describing the highly relativistic circular orbits in
+  the region $r=3M(1+\delta), |\delta|\ll 1$. These orbits essentially differ from
+  the geodesic circular orbits in the same region, particularly by the value of the
+  particle's energy on the corresponding orbits.
+archiveprefix: arXiv
+author: Plyatsko, Roman and Stefanyshyn, Oleksandr
+author_list:
+- family: Plyatsko
+  given: Roman
+- family: Stefanyshyn
+  given: Oleksandr
+eprint: 0803.0121v1
+file: 0803.0121v1.pdf
+files:
+- mathisson-equations-common-solutions.pdf
+- tmpigkxmd18-a.pdf
+month: Mar
+primaryclass: gr-qc
+ref: 0803.0121v1
+tags: relativity gr spin mathisson-papapetrou differential-geometry schwarzschild
+time-added: 2021-03-29-12:30:39
+title: On common solutions of Mathisson equations under different conditions
+type: article
+url: http://arxiv.org/abs/0803.0121v1
+year: '2008'

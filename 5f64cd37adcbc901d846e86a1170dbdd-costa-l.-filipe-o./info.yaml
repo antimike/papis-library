@@ -1,0 +1,36 @@
+abstract: The motion of spinning test particles in general relativity is described
+  by Mathisson-Papapetrou-Dixon equations, which are undetermined up to a spin supplementary
+  condition, the latter being today still an open question. The Mathisson-Pirani (MP)
+  condition is known to lead to rather mysterious helical motions which have been
+  deemed unphysical, and for this reason discarded. We show that these assessments
+  are unfounded and originate from a subtle (but crucial) misconception. We discuss
+  the kinematical explanation of the helical motions, and dynamically interpret them
+  through the concept of hidden momentum, which has an electromagnetic analogue. We
+  also show that, contrary to previous claims, the frequency of the helical motions
+  coincides exactly with the zitterbewegung frequency of the Dirac equation for the
+  electron.
+archiveprefix: arXiv
+author: Costa, L. Filipe O. and Natário, José and Zilhão, Miguel
+author_list:
+- family: Costa
+  given: L. Filipe O.
+- family: Natário
+  given: José
+- family: Zilhão
+  given: Miguel
+doi: 10.1063/1.4734436
+eprint: 1206.7093v1
+file: 1206.7093v1.pdf
+files:
+- 1206.7093.pdf
+- tmp2-0ii9u1-a.pdf
+month: Jun
+note: AIP Conf.Proc. 1458 (2011) 367-370
+primaryclass: gr-qc
+ref: 1206.7093v1
+tags: relativity gr spin fundamental-physics differential-geometry
+time-added: 2021-03-29-12:17:27
+title: Mathisson's helical motions demystified
+type: article
+url: http://arxiv.org/abs/1206.7093v1
+year: '2012'

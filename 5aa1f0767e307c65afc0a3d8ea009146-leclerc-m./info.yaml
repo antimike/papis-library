@@ -1,0 +1,32 @@
+abstract: We present a simple method to derive the semiclassical equations of motion
+  for a spinning particle in a gravitational field. We investigate the cases of classical,
+  rotating particles (pole-dipole particles), as well as particles with intrinsic
+  spin. We show that, starting with a simple Lagrangian, one can derive equations
+  for the spin evolution and momentum propagation in the framework of metric theories
+  of gravity and in theories based on a Riemann-Cartan geometry (Poincare gauge theory),
+  without explicitly referring to matter current densities (spin and energy-momentum).
+  Our results agree with those derived from the multipole expansion of the current
+  densities by the conventional Papapetrou method and from the WKB analysis for elementary
+  particles.
+archiveprefix: arXiv
+author: Leclerc, M.
+author_list:
+- family: Leclerc
+  given: M.
+doi: 10.1088/0264-9381/22/16/006
+eprint: gr-qc/0505021v2
+file: gr-qc/0505021v2.pdf
+files:
+- metric-gauge-gravity-mathisson-papapetrou.pdf
+- tmpkf2ycvb0-a.pdf
+month: May
+note: Class.Quant.Grav. 22 (2005) 3203-3222
+primaryclass: gr-qc
+ref: gr-qc/0505021v2
+tags: gr relativity differential-geometry fundamental-physics spin
+time-added: 2021-03-29-12:25:10
+title: Mathisson-Papapetrou equations in metric and gauge theories of gravity   in
+  a Lagrangian formulation
+type: article
+url: http://arxiv.org/abs/gr-qc/0505021v2
+year: '2005'

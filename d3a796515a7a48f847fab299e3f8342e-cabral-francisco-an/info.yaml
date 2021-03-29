@@ -1,0 +1,592 @@
+abstract: <jats:title>Abstract</jats:title><jats:p>Einstein–Cartan theory is an extension
+  of the standard formulation of General Relativity where torsion (the antisymmetric
+  part of the affine connection) is non-vanishing. Just as the space-time metric is
+  sourced by the stress-energy tensor of the matter fields, torsion is sourced via
+  the spin density tensor, whose physical effects become relevant at very high spin
+  densities. In this work we introduce an extension of the Einstein–Cartan–Dirac theory
+  with an electromagnetic (Maxwell) contribution minimally coupled to torsion. This
+  contribution breaks the <jats:italic>U</jats:italic>(1) gauge symmetry, which is
+  suggested by the possibility of a torsion-induced phase transition in the early
+  Universe, yielding new physics in extreme (spin) density regimes. We obtain the
+  generalized gravitational, electromagnetic and fermionic field equations for this
+  theory, estimate the strength of the corrections, and discuss the corresponding
+  phenomenology. In particular, we briefly address some astrophysical considerations
+  regarding the relevance of the effects which might take place inside ultra-dense
+  neutron stars with strong magnetic fields (magnetars).</jats:p>
+author: Cabral, Francisco and Lobo, Francisco S. N. and Rubiera-Garcia, Diego
+author_list:
+- affiliation: []
+  family: Cabral
+  given: Francisco
+- affiliation: []
+  family: Lobo
+  given: Francisco S. N.
+- affiliation: []
+  family: Rubiera-Garcia
+  given: Diego
+citations:
+- author: BP Abbott
+  doi: 10.1103/PhysRevLett.116.061102
+  first-page: '061102'
+  journal-title: Phys. Rev. Lett.
+  unstructured: B.P. Abbott et al., Phys. Rev. Lett. 116, 061102 (2016)
+  volume: '116'
+  year: '2016'
+- author: BP Abbott
+  doi: 10.1103/PhysRevLett.119.161101
+  first-page: '161101'
+  journal-title: Phys. Rev. Lett.
+  unstructured: B.P. Abbott et al., Phys. Rev. Lett. 119, 161101 (2017)
+  volume: '119'
+  year: '2017'
+- doi: 10.1103/PhysRevLett.121.129902
+  unstructured: 'B.P. Abbott et al., Phys. Rev. Lett. 116, 221101 (2016) (erratum:
+    Phys. Rev. Lett. 121, 129902, 2018)'
+- author: BP Abbott
+  doi: 10.1103/PhysRevLett.119.141101
+  first-page: '141101'
+  journal-title: Phys. Rev. Lett.
+  unstructured: B.P. Abbott et al., Phys. Rev. Lett. 119, 141101 (2017)
+  volume: '119'
+  year: '2017'
+- author: BP Abbott
+  doi: 10.1103/PhysRevLett.119.161101
+  first-page: '161101'
+  journal-title: Phys. Rev. Lett.
+  unstructured: B.P. Abbott et al., Phys. Rev. Lett. 119, 161101 (2017)
+  volume: '119'
+  year: '2017'
+- author: L Lombriser
+  doi: 10.1088/1475-7516/2016/03/031
+  first-page: '031'
+  journal-title: JCAP
+  unstructured: L. Lombriser, A. Taylor, JCAP 1603, 031 (2016)
+  volume: '1603'
+  year: '2016'
+- author: L Lombriser
+  doi: 10.1016/j.physletb.2016.12.048
+  first-page: '382'
+  journal-title: Phys. Lett. B
+  unstructured: L. Lombriser, N.A. Lima, Phys. Lett. B 765, 382 (2017)
+  volume: '765'
+  year: '2017'
+- author: T Baker
+  doi: 10.1103/PhysRevLett.119.251301
+  first-page: '251301'
+  journal-title: Phys. Rev. Lett.
+  unstructured: T. Baker, E. Bellini, P.G. Ferreira, M. Lagos, J. Noller, I. Sawicki,
+    Phys. Rev. Lett. 119, 251301 (2017)
+  volume: '119'
+  year: '2017'
+- author: J Sakstein
+  doi: 10.1103/PhysRevLett.119.251303
+  first-page: '251303'
+  journal-title: Phys. Rev. Lett.
+  unstructured: J. Sakstein, B. Jain, Phys. Rev. Lett. 119, 251303 (2017)
+  volume: '119'
+  year: '2017'
+- author: P Creminelli
+  doi: 10.1103/PhysRevLett.119.251302
+  first-page: '251302'
+  journal-title: Phys. Rev. Lett.
+  unstructured: P. Creminelli, F. Vernizzi, Phys. Rev. Lett. 119, 251302 (2017)
+  volume: '119'
+  year: '2017'
+- author: JM Ezquiaga
+  doi: 10.1103/PhysRevLett.119.251304
+  first-page: '251304'
+  journal-title: Phys. Rev. Lett.
+  unstructured: J.M. Ezquiaga, M. Zumalacárregui, Phys. Rev. Lett. 119, 251304 (2017)
+  volume: '119'
+  year: '2017'
+- author: JM Ezquiaga
+  doi: 10.3389/fspas.2018.00044
+  first-page: '44'
+  journal-title: Front. Astron. Space Sci.
+  unstructured: J.M. Ezquiaga, M. Zumalacárregui, Front. Astron. Space Sci. 5, 44
+    (2018)
+  volume: '5'
+  year: '2018'
+- author: EJ Copeland
+  doi: 10.1103/PhysRevLett.122.061301
+  first-page: '061301'
+  journal-title: Phys. Rev. Lett.
+  unstructured: E.J. Copeland, M. Kopp, A. Padilla, P.M. Saffin, C. Skordis, Phys.
+    Rev. Lett. 122, 061301 (2019)
+  volume: '122'
+  year: '2019'
+- author: CM Will
+  doi: 10.12942/lrr-2014-4
+  first-page: '4'
+  journal-title: Living Rev. Relat.
+  unstructured: C.M. Will, Living Rev. Relat. 17, 4 (2014)
+  volume: '17'
+  year: '2014'
+- author: A De Felice
+  doi: 10.12942/lrr-2010-3
+  first-page: '3'
+  journal-title: Living Rev. Relat.
+  unstructured: A. De Felice, S. Tsujikawa, Living Rev. Relat. 13, 3 (2010)
+  volume: '13'
+  year: '2010'
+- author: GJ Olmo
+  doi: 10.1142/S0218271811018925
+  first-page: '413'
+  journal-title: Int. J. Mod. Phys. D
+  unstructured: G.J. Olmo, Int. J. Mod. Phys. D 20, 413 (2011)
+  volume: '20'
+  year: '2011'
+- author: S Capozziello
+  doi: 10.1016/j.physrep.2011.09.003
+  first-page: '167'
+  journal-title: Phys. Rep.
+  unstructured: S. Capozziello, M. De Laurentis, Phys. Rep. 509, 167 (2011)
+  volume: '509'
+  year: '2011'
+- author: S Nojiri
+  doi: 10.1016/j.physrep.2017.06.001
+  first-page: '1'
+  journal-title: Phys. Rep.
+  unstructured: S. Nojiri, S.D. Odintsov, V.K. Oikonomou, Phys. Rep. 692, 1 (2017)
+  volume: '692'
+  year: '2017'
+- author: E Berti
+  doi: 10.1088/0264-9381/32/24/243001
+  first-page: '243001'
+  journal-title: Class. Quantum Gravity
+  unstructured: E. Berti et al., Class. Quantum Gravity 32, 243001 (2015)
+  volume: '32'
+  year: '2015'
+- author: J Beltran Jimenez
+  doi: 10.1016/j.physrep.2017.11.001
+  first-page: '1'
+  journal-title: Phys. Rep.
+  unstructured: J.Beltran Jimenez, L. Heisenberg, G.J. Olmo, D. Rubiera-Garcia, Phys.
+    Rep. 727, 1 (2018)
+  volume: '727'
+  year: '2018'
+- author: T Harko
+  doi: 10.3390/galaxies2030410
+  first-page: '410'
+  journal-title: Galaxies
+  unstructured: T. Harko, F.S.N. Lobo, Galaxies 2, 410 (2014)
+  volume: '2'
+  year: '2014'
+- author: S Capozziello
+  doi: 10.3390/universe1020199
+  first-page: '199'
+  journal-title: Universe
+  unstructured: S. Capozziello, T. Harko, T.S. Koivisto, F.S.N. Lobo, G.J. Olmo, Universe
+    1, 199 (2015)
+  volume: '1'
+  year: '2015'
+- doi: 10.1017/9781108645683
+  unstructured: 'T. Harko, F.S.N. Lobo, Extensions of
+
+    $$f(R)$$Gravity: Curvature-Matter Couplings and Hybrid Metric-Palatini Theory
+    (Cambridge Monographs on Mathematical Physics, CUP, 2018)'
+- author: K Hayashi
+  doi: 10.1103/PhysRevD.19.3524
+  first-page: '3524'
+  journal-title: Phys. Rev. D
+  unstructured: K. Hayashi, T. Shirafuji, Phys. Rev. D 19, 3524 (1979)
+  volume: '19'
+  year: '1979'
+- author: R Aldrovandi
+  doi: 10.1007/978-94-007-5143-9
+  unstructured: 'R. Aldrovandi, J.G. Pereira, Teleparallel Gravity: An Introduction
+    (Springer, Dordrecht, 2013)'
+  volume-title: 'Teleparallel Gravity: An Introduction'
+  year: '2013'
+- author: K Bamba
+  doi: 10.1103/PhysRevD.88.084042
+  first-page: 084042
+  journal-title: Phys. Rev. D
+  unstructured: K. Bamba, S.D. Odintsov, D. Saez-Gomez, Phys. Rev. D 88, 084042 (2013)
+  volume: '88'
+  year: '2013'
+- author: JW Maluf
+  doi: 10.1002/andp.201200272
+  first-page: '339'
+  journal-title: Ann. Phys.
+  unstructured: J.W. Maluf, Ann. Phys. 525, 339 (2013)
+  volume: '525'
+  year: '2013'
+- author: J Beltrán Jiménez
+  doi: 10.1088/1475-7516/2018/08/039
+  first-page: 039
+  journal-title: JCAP
+  unstructured: J.Beltrán Jiménez, L. Heisenberg, T.S. Koivisto, JCAP 1808, 039 (2018)
+  volume: '1808'
+  year: '2018'
+- author: J Beltrán Jiménez
+  doi: 10.1103/PhysRevD.98.044048
+  first-page: 044048
+  journal-title: Phys. Rev. D
+  unstructured: J.Beltrán Jiménez, L. Heisenberg, T. Koivisto, Phys. Rev. D 98, 044048
+    (2018)
+  volume: '98'
+  year: '2018'
+- author: L Jarv
+  doi: 10.1103/PhysRevD.97.124025
+  first-page: '124025'
+  journal-title: Phys. Rev. D
+  unstructured: L. Jarv, M. Runkla, M. Saal, O. Vilson, Phys. Rev. D 97, 124025 (2018)
+  volume: '97'
+  year: '2018'
+- author: D Iosifidis
+  doi: 10.1007/s10714-019-2539-9
+  first-page: '66'
+  journal-title: Gen. Relat. Gravit.
+  unstructured: D. Iosifidis, A.C. Petkou, C.G. Tsagas, Gen. Relat. Gravit. 51, 66
+    (2019)
+  volume: '51'
+  year: '2019'
+- author: T Harko
+  doi: 10.1103/PhysRevD.98.084043
+  first-page: 084043
+  journal-title: Phys. Rev. D
+  unstructured: T. Harko, T.S. Koivisto, F.S.N. Lobo, G.J. Olmo, D. Rubiera-Garcia,
+    Phys. Rev. D 98, 084043 (2018)
+  volume: '98'
+  year: '2018'
+- unstructured: R. Lazkoz, F.S.N. Lobo, M. Ortiz-Baños, V. Salzano, arXiv:1907.13219
+    [gr-qc]
+- author: M Blagojević
+  unstructured: 'M. Blagojević, F.W. Hehl, Gauge Theories of Gravitation: A Reader
+    with Commentaries (Imperial College Press, London, 2012)'
+  volume-title: 'Gauge Theories of Gravitation: A Reader with Commentaries'
+  year: '2012'
+- author: M Blagojević
+  doi: 10.1887/0750307676
+  unstructured: M. Blagojević, Gravitation and Gauge Symmetries (Institute of Physics
+    Publishing, Bristol, 2002)
+  volume-title: Gravitation and Gauge Symmetries
+  year: '2002'
+- author: VN Ponomarev
+  doi: 10.17513/np.288
+  unstructured: V.N. Ponomarev, A.O. Barvinsky, Y.N. Obukhov, Gauge Approach and Quantization
+    Methods in Gravity Theory (Nauka, Moscow, 2017)
+  volume-title: Gauge Approach and Quantization Methods in Gravity Theory
+  year: '2017'
+- author: H Goenner
+  doi: 10.12942/lrr-2004-2
+  first-page: '2'
+  journal-title: Living Rev. Relat.
+  unstructured: H. Goenner, Living Rev. Relat. 95, 2 (2004)
+  volume: '95'
+  year: '2004'
+- author: YN Obukhov
+  doi: 10.1142/S0219887818400054
+  first-page: '1840005'
+  journal-title: Int. J. Geom. Methods Mod. Phys.
+  unstructured: Y.N. Obukhov, Int. J. Geom. Methods Mod. Phys. 15, 1840005 (2018)
+  volume: '15'
+  year: '2018'
+- author: YN Obukhov
+  doi: 10.1103/PhysRevD.95.084028
+  first-page: 084028
+  journal-title: Phys. Rev. D
+  unstructured: Y.N. Obukhov, Phys. Rev. D 95, 084028 (2017)
+  volume: '95'
+  year: '2017'
+- author: M Blagojević
+  doi: 10.1103/PhysRevD.98.024014
+  first-page: '024014'
+  journal-title: Phys. Rev. D
+  unstructured: M. Blagojević, B. Cvetković, Phys. Rev. D 98, 024014 (2018)
+  volume: '98'
+  year: '2018'
+- author: M Blagojević
+  doi: 10.1103/PhysRevD.93.044018
+  first-page: 044018
+  journal-title: Phys. Rev. D
+  unstructured: M. Blagojević, B. Cvetković, Phys. Rev. D 93, 044018 (2016)
+  volume: '93'
+  year: '2016'
+- author: JAR Cembranos
+  doi: 10.3390/e21030280
+  first-page: '280'
+  journal-title: Entropy
+  unstructured: J.A.R. Cembranos, J.G. Valcarcel, F.J.M. Torralba, Entropy 21, 280
+    (2019)
+  volume: '21'
+  year: '2019'
+- author: FW Hehl
+  first-page: '157'
+  journal-title: Ann. Fond. Broglie
+  unstructured: F.W. Hehl, Y.N. Obukhov, Ann. Fond. Broglie 32, 157 (2007)
+  volume: '32'
+  year: '2007'
+- author: NJ Poplawski
+  doi: 10.1103/PhysRevD.85.107502
+  first-page: '107502'
+  journal-title: Phys. Rev. D
+  unstructured: N.J. Poplawski, Phys. Rev. D 85, 107502 (2012)
+  volume: '85'
+  year: '2012'
+- author: G Unger
+  doi: 10.3847/1538-4357/aaf169
+  first-page: '78'
+  journal-title: Astrophys. J.
+  unstructured: G. Unger, N. Poplawski, Astrophys. J. 870, 78 (2019)
+  volume: '870'
+  year: '2019'
+- author: D Kranas
+  doi: 10.1140/epjc/s10052-019-6822-4
+  first-page: '341'
+  journal-title: Eur. Phys. J. C
+  unstructured: D. Kranas, C.G. Tsagas, J.D. Barrow, D. Iosifidis, Eur. Phys. J. C
+    79, 341 (2019)
+  volume: '79'
+  year: '2019'
+- doi: 10.1016/j.physletb.2011.05.047
+  unstructured: 'N.J. Poplawski, Phys. Lett. B 694, 181 (2010) (erratum: Phys. Lett.
+    B 701, 672, 2011)'
+- author: AN Ivanov
+  doi: 10.3847/0004-637X/829/1/47
+  first-page: '47'
+  journal-title: Astrophys. J.
+  unstructured: A.N. Ivanov, M. Wellenzohn, Astrophys. J. 829, 47 (2016)
+  volume: '829'
+  year: '2016'
+- author: O Razina
+  first-page: '47'
+  journal-title: Central Eur. J. Phys.
+  unstructured: O. Razina, Y. Myrzakulov, N. Serikbayev, G. Nugmanova, R. Myrzakulov,
+    Central Eur. J. Phys. 10, 47 (2012)
+  volume: '10'
+  year: '2012'
+- author: D Palle
+  doi: 10.1134/S1063776114030157
+  first-page: '587'
+  journal-title: J. Exp. Theor. Phys.
+  unstructured: D. Palle, J. Exp. Theor. Phys. 118, 587 (2014)
+  volume: '118'
+  year: '2014'
+- unstructured: N.J. Poplawski, arXiv:1201.0316 [astro-ph.CO]
+- author: B Vakili
+  doi: 10.1016/j.physletb.2013.08.036
+  first-page: '28'
+  journal-title: Phys. Lett. B
+  unstructured: B. Vakili, S. Jalalzadeh, Phys. Lett. B 726, 28 (2013)
+  volume: '726'
+  year: '2013'
+- author: SS Xue
+  doi: 10.1016/j.physletb.2008.05.051
+  first-page: '54'
+  journal-title: Phys. Lett. B
+  unstructured: S.S. Xue, Phys. Lett. B 665, 54 (2008)
+  volume: '665'
+  year: '2008'
+- author: JAR Cembranos
+  doi: 10.1016/j.physletb.2018.01.081
+  first-page: '143'
+  journal-title: Phys. Lett. B
+  unstructured: J.A.R. Cembranos, J.Gigante Valcarcel, Phys. Lett. B 779, 143 (2018)
+  volume: '779'
+  year: '2018'
+- author: KA Bronnikov
+  doi: 10.1103/PhysRevD.94.124006
+  first-page: '124006'
+  journal-title: Phys. Rev. D
+  unstructured: K.A. Bronnikov, A.M. Galiakhmetov, Phys. Rev. D 94, 124006 (2016)
+  volume: '94'
+  year: '2016'
+- author: S Khanapurkar
+  doi: 10.1103/PhysRevD.98.104027
+  first-page: '104027'
+  journal-title: Phys. Rev. D
+  unstructured: S. Khanapurkar, A. Pradhan, V. Dhruv, T.P. Singh, Phys. Rev. D 98,
+    104027 (2018)
+  volume: '98'
+  year: '2018'
+- author: S Khanapurkar
+  doi: 10.1103/PhysRevD.98.064046
+  first-page: '064046'
+  journal-title: Phys. Rev. D
+  unstructured: S. Khanapurkar, A. Varma, N. Mittal, N. Gupta, T.P. Singh, Phys. Rev.
+    D 98, 064046 (2018)
+  volume: '98'
+  year: '2018'
+- author: S Lucat
+  doi: 10.1088/1475-7516/2017/10/047
+  first-page: '047'
+  journal-title: JCAP
+  unstructured: S. Lucat, T. Prokopec, JCAP 1710, 047 (2017)
+  volume: '1710'
+  year: '2017'
+- author: NJ Poplawski
+  doi: 10.1007/s10714-011-1288-1
+  first-page: '491'
+  journal-title: Gen. Relat. Gravit.
+  unstructured: N.J. Poplawski, Gen. Relat. Gravit. 44, 491 (2012)
+  volume: '44'
+  year: '2012'
+- author: NJ Poplawski
+  doi: 10.1103/PhysRevD.83.084033
+  first-page: 084033
+  journal-title: Phys. Rev. D
+  unstructured: N.J. Poplawski, Phys. Rev. D 83, 084033 (2011)
+  volume: '83'
+  year: '2011'
+- author: NJ Poplawski
+  doi: 10.1002/andp.201000162
+  first-page: '291'
+  journal-title: Ann. Phys.
+  unstructured: N.J. Poplawski, Ann. Phys. 523, 291 (2011)
+  volume: '523'
+  year: '2011'
+- doi: 10.1016/j.physletb.2013.11.005
+  unstructured: 'N.J. Poplawski, Phys. Lett. B 690, 73 (2010) (erratum: Phys. Lett.
+    B 727, 575, 2013)'
+- author: IL Shapiro
+  doi: 10.1088/0264-9381/31/18/185002
+  first-page: '185002'
+  journal-title: Class. Quantum Gravity
+  unstructured: I.L. Shapiro, P.M. Teixeira, Class. Quantum Gravity 31, 185002 (2014)
+  volume: '31'
+  year: '2014'
+- author: P Baekler
+  doi: 10.1088/0264-9381/28/21/215017
+  first-page: '215017'
+  journal-title: Class. Quantum Gravity
+  unstructured: P. Baekler, F.W. Hehl, Class. Quantum Gravity 28, 215017 (2011)
+  volume: '28'
+  year: '2011'
+- author: S Vignolo
+  doi: 10.1002/andp.201200183
+  first-page: '826'
+  journal-title: Ann. Phys.
+  unstructured: S. Vignolo, L. Fabbri, C. Stornaiolo, Ann. Phys. 524, 826 (2012)
+  volume: '524'
+  year: '2012'
+- author: P Baekler
+  doi: 10.1103/PhysRevD.83.024001
+  first-page: '024001'
+  journal-title: Phys. Rev. D
+  unstructured: P. Baekler, F.W. Hehl, J.M. Nester, Phys. Rev. D 83, 024001 (2011)
+  volume: '83'
+  year: '2011'
+- author: YN Obukhov
+  doi: 10.1016/j.physletb.2012.06.005
+  first-page: '321'
+  journal-title: Phys. Lett. B
+  unstructured: Y.N. Obukhov, F.W. Hehl, Phys. Lett. B 713, 321 (2012)
+  volume: '713'
+  year: '2012'
+- author: SS Xue
+  doi: 10.1016/j.physletb.2012.04.024
+  first-page: '404'
+  journal-title: Phys. Lett. B
+  unstructured: S.S. Xue, Phys. Lett. B 711, 404 (2012)
+  volume: '711'
+  year: '2012'
+- author: T Harko
+  doi: 10.1103/PhysRevD.89.124036
+  first-page: '124036'
+  journal-title: Phys. Rev. D
+  unstructured: T. Harko, F.S.N. Lobo, G. Otalora, E.N. Saridakis, Phys. Rev. D 89,
+    124036 (2014)
+  volume: '89'
+  year: '2014'
+- author: T Harko
+  doi: 10.1088/1475-7516/2014/12/021
+  first-page: '021'
+  journal-title: JCAP
+  unstructured: T. Harko, F.S.N. Lobo, G. Otalora, E.N. Saridakis, JCAP 1412, 021
+    (2014)
+  volume: '1412'
+  year: '2014'
+- author: S Carloni
+  doi: 10.1103/PhysRevD.93.024034
+  first-page: '024034'
+  journal-title: Phys. Rev. D
+  unstructured: S. Carloni, F.S.N. Lobo, G. Otalora, E.N. Saridakis, Phys. Rev. D
+    93, 024034 (2016)
+  volume: '93'
+  year: '2016'
+- author: M Gonzalez-Espinoza
+  doi: 10.1140/epjc/s10052-018-6286-y
+  first-page: '799'
+  journal-title: Eur. Phys. J. C
+  unstructured: M. Gonzalez-Espinoza, G. Otalora, J. Saavedra, N. Videla, Eur. Phys.
+    J. C 78, 799 (2018)
+  volume: '78'
+  year: '2018'
+- author: A Jawad
+  doi: 10.1140/epjc/s10052-016-4560-4
+  first-page: '704'
+  journal-title: Eur. Phys. J. C
+  unstructured: A. Jawad, S. Rani, Eur. Phys. J. C 76, 704 (2016)
+  volume: '76'
+  year: '2016'
+- author: Y Obukhov
+  doi: 10.1007/3-540-40988-2_25
+  first-page: '479'
+  journal-title: Lect. Notes Phys.
+  unstructured: Y. Obukhov, F.W. Hehl, Lect. Notes Phys. 562, 479 (2001)
+  volume: '562'
+  year: '2001'
+- author: GF Rubilar
+  doi: 10.1088/0264-9381/20/14/101
+  first-page: L185
+  journal-title: Class. Quantum Gravity
+  unstructured: G.F. Rubilar, Y. Obukhov, F.W. Hehl, Class. Quantum Gravity 20, L185–L192
+    (2003)
+  volume: '20'
+  year: '2003'
+- unstructured: C.F. Diether, J. Christian, arXiv:1705.06036 [gr-qc]
+- author: IL Shapiro
+  doi: 10.1016/S0370-1573(01)00030-8
+  first-page: '113'
+  journal-title: Phys. Rep.
+  unstructured: I.L. Shapiro, Phys. Rep. 357, 113 (2002)
+  volume: '357'
+  year: '2002'
+- author: VM Kaspi
+  doi: 10.1146/annurev-astro-081915-023329
+  first-page: '261'
+  journal-title: Ann. Rev. Astron. Astrophys.
+  unstructured: V.M. Kaspi, A. Beloborodov, Ann. Rev. Astron. Astrophys. 55, 261 (2017)
+  volume: '55'
+  year: '2017'
+- author: M Alford
+  doi: 10.1038/nature05582
+  first-page: E7
+  journal-title: Nature
+  unstructured: M. Alford, D. Blaschke, A. Drago, T. Klahn, G. Pagliara, J. Schaffner-Bielich,
+    Nature 445, E7 (2007)
+  volume: '445'
+  year: '2007'
+- author: FW Hehl
+  doi: 10.1063/1.1665738
+  first-page: '1334'
+  journal-title: J. Math. Phys.
+  unstructured: F.W. Hehl, J. Math. Phys. 12, 1334 (1971)
+  volume: '12'
+  year: '1971'
+- author: Y Aharonov
+  doi: 10.1103/PhysRev.115.485
+  first-page: '485'
+  journal-title: Phys. Rev.
+  unstructured: Y. Aharonov, D. Bohm, Phys. Rev. 115, 485 (1959)
+  volume: '115'
+  year: '1959'
+doc_url: http://link.springer.com/article/10.1140/epjc/s10052-019-7536-3/fulltext.html
+doi: 10.1140/epjc/s10052-019-7536-3
+files:
+- cabral2019-article-einsteincartandiracgravitywith.pdf
+issue: '12'
+journal: The European Physical Journal C
+language: en
+month: 12
+publisher: Springer Science and Business Media LLC
+ref: EinsteinCartanCabral2019
+tags: gravity gr differential-geometry einstein-cartan symmetry
+time-added: 2021-03-29-12:39:53
+title: Einstein–Cartan–Dirac gravity with U(1) symmetry breaking
+type: article
+url: http://dx.doi.org/10.1140/epjc/s10052-019-7536-3
+volume: '79'
+year: 2019

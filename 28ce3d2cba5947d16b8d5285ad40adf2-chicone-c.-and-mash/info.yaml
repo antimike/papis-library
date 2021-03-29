@@ -1,0 +1,30 @@
+abstract: The relative motion of a classical relativistic spinning test particle is
+  studied with respect to a nearby free test particle in the gravitational field of
+  a rotating source. The effects of the spin-curvature coupling force are elucidated
+  and the implications of the results for the motion of rotating plasma clumps in
+  astrophysical jets are discussed.
+archiveprefix: arXiv
+author: Chicone, C. and Mashhoon, B. and Punsly, B.
+author_list:
+- family: Chicone
+  given: C.
+- family: Mashhoon
+  given: B.
+- family: Punsly
+  given: B.
+doi: 10.1016/j.physleta.2005.05.072
+eprint: gr-qc/0504146v2
+file: gr-qc/0504146v2.pdf
+files:
+- relativistic-spin.pdf
+- tmpszs-xcb6-a.pdf
+month: Apr
+note: Phys.Lett.A343:1-7,2005
+primaryclass: gr-qc
+ref: gr-qc/0504146v2
+tags: gr spin gravity fundamental-physics
+time-added: 2021-03-29-12:10:05
+title: Relativistic Motion of Spinning Particles in a Gravitational Field
+type: article
+url: http://arxiv.org/abs/gr-qc/0504146v2
+year: '2005'

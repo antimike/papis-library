@@ -1,0 +1,31 @@
+abstract: First, we stress that for correct description of highly relativistic fermions
+  in a gravitational field it is necessary to have an equation which in the limiting
+  transition to the classical (non-quantum) case corresponds to the exact Mathisson-Papapetrou
+  equations. According to these equations the spin in general relativity is Fermi-transported,
+  and the parallel transport of spin is realized only in some approximation. The traditional
+  general-relativistic Dirac equation (1929) is based on the parallel transported
+  spinors and does not ensure the correspondent transition. Second, because in the
+  range of very high velocity (close to the speed of light) of a spinning particle
+  relative to the Schwarzschild or Kerr sources the Mathisson-Papapetrou equations
+  have the solutions which reveal that the spin-gravity interaction acts as a strong
+  antigravity force, we suppose that this fact can be useful for explanation some
+  astrophysical phenomena. Some association with the OPERA results is possible.
+archiveprefix: arXiv
+author: Plyatsko, Roman
+author_list:
+- family: Plyatsko
+  given: Roman
+eprint: 1110.2386v1
+file: 1110.2386v1.pdf
+files:
+- mathisson-papapetrou-astrophysics.pdf
+- tmpt7et7p0q-a.pdf
+month: Oct
+primaryclass: gr-qc
+ref: 1110.2386v1
+tags: relativity gr differential-geometry astophysics spin
+time-added: 2021-03-29-12:23:08
+title: Can Mathisson-Papapetrou equations give clue to some problems in   astrophysics?
+type: article
+url: http://arxiv.org/abs/1110.2386v1
+year: '2011'

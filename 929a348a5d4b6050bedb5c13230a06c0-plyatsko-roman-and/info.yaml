@@ -1,0 +1,35 @@
+abstract: A new representation, which does not contain the third-order derivatives
+  of the coordinates, of the exact Mathisson-Papapetrou-Dixon equations, describing
+  the motion of a spinning test particle, is obtained under the assumption of the
+  Mathisson-Pirani condition in a Kerr background. For this purpose the integrals
+  of energy and angular momentum of the spinning particle as well as a differential
+  relationship following from the Mathisson-Papapetrou-Dixon equations are used. The
+  form of these equations is adapted for their computer integration with the aim to
+  investigate the influence of the spin-curvature interaction on the particle's behavior
+  in the gravitational field without restrictions on its velocity and spin orientation.
+  Some numerical examples for a Schwarzschild background are presented.
+archiveprefix: arXiv
+author: Plyatsko, Roman and Stefanyshyn, Oleksandr and Fenyk, Mykola
+author_list:
+- family: Plyatsko
+  given: Roman
+- family: Stefanyshyn
+  given: Oleksandr
+- family: Fenyk
+  given: Mykola
+doi: 10.1088/0264-9381/28/19/195025
+eprint: 1110.1967v1
+file: 1110.1967v1.pdf
+files:
+- schwarzschild-kerr-mathisson-papapetrou-dixon.pdf
+- tmph0j7qz9g-a.pdf
+month: Oct
+note: Class. Quantum Grav. 28, 195025 (2011)
+primaryclass: gr-qc
+ref: 1110.1967v1
+tags: differential-geometry gr relativity black-holes schwarzschild kerr spin mathisson-papapetrou
+time-added: 2021-03-29-12:27:37
+title: Mathisson-Papapetrou-Dixon equations in the Schwarzschild and Kerr   backgrounds
+type: article
+url: http://arxiv.org/abs/1110.1967v1
+year: '2011'

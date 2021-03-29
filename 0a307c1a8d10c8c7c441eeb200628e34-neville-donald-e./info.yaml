@@ -1,0 +1,131 @@
+author: Neville, Donald E.
+author_list:
+- affiliation: []
+  family: Neville
+  given: Donald E.
+citations:
+- author: F. W. Hehl
+  doi: 10.1103/RevModPhys.48.393
+  first-page: '393'
+  journal-title: Rev. Mod. Phys.
+  volume: '48'
+  year: '1976'
+- author: C. N. Yang
+  doi: 10.1103/PhysRevLett.33.445
+  first-page: '445'
+  journal-title: Phys. Rev. Lett.
+  volume: '33'
+  year: '1974'
+- author: E. E. Fairchild, Jr.
+  doi: 10.1103/PhysRevD.16.2438
+  first-page: '2438'
+  journal-title: Phys. Rev. D
+  volume: '16'
+  year: '1977'
+- author: G. Debney
+  doi: 10.1007/BF00759647
+  first-page: '879'
+  journal-title: Gen. Relativ. Gravit.
+  volume: '9'
+  year: '1978'
+- author: K. S. Stelle
+  doi: 10.1103/PhysRevD.16.953
+  first-page: '953'
+  journal-title: Phys. Rev. D
+  volume: '16'
+  year: '1977'
+- author: D. Gregorash
+  doi: 10.1103/PhysRevD.14.3314
+  first-page: '3314'
+  journal-title: Phys. Rev. D
+  volume: '14'
+  year: '1976'
+- author: D. E. Neville
+  doi: 10.1103/PhysRevD.18.3535
+  first-page: '3535'
+  journal-title: Phys. Rev. D
+  volume: '18'
+  year: '1978'
+- author: D. E. Neville
+  journal-title: Phys. Rev. D
+- author: F. A. Kaempffer
+  doi: 10.1103/PhysRevD.18.2727
+  first-page: '2727'
+  journal-title: Phys. Rev. D
+  volume: '18'
+  year: '1978'
+- author: S. Hojman
+  doi: 10.1103/PhysRevD.19.430
+  first-page: '430'
+  journal-title: Phys. Rev. D
+  volume: '19'
+  year: '1979'
+- author: F. A. Kaempffer
+  doi: 10.1007/BF00771102
+  first-page: '327'
+  journal-title: Gen. Relativ. Gravit.
+  volume: '7'
+  year: '1976'
+- author: D. E. Neville
+  doi: 10.1103/PhysRevD.19.1033
+  first-page: '1033'
+  journal-title: Phys. Rev. D
+  volume: '19'
+  year: '1979'
+- author: S. Weinberg
+  doi: 10.1103/PhysRev.138.B988
+  first-page: B988
+  journal-title: Phys. Rev.
+  volume: '138'
+  year: '1965'
+- author: K. Johnson
+  doi: 10.1016/0003-4916(61)90030-6
+  first-page: '126'
+  journal-title: Ann. Phys. (N. Y.)
+  volume: '13'
+  year: '1961'
+- author: G. Velo
+  doi: 10.1103/PhysRev.186.1337
+  first-page: '1337'
+  journal-title: Phys. Rev.
+  volume: '186'
+  year: '1969'
+- author: C. Aragone
+  doi: 10.1007/BF02813572
+  first-page: '709'
+  journal-title: Nuovo Cimento
+  volume: 3A
+  year: '1971'
+- author: D. J. Gross
+  doi: 10.1103/PhysRevD.6.477
+  first-page: '477'
+  journal-title: Phys. Rev. D
+  volume: '6'
+  year: '1972'
+- author: C. Bouchiat
+  doi: 10.1016/0370-2693(72)90532-1
+  first-page: '519'
+  journal-title: Phys. Lett.
+  volume: 38B
+  year: '1972'
+- author: Lee Smolin
+  journal-title: Nucl. Phys.
+doc_url: http://harvest.aps.org/v2/journals/articles/10.1103/PhysRevD.21.867/fulltext
+doi: 10.1103/physrevd.21.867
+files:
+- propagating-torsion.pdf
+- tmp32sgvd-i-a.pdf
+issue: '4'
+journal: Physical Review D
+language: en
+month: 2
+pages: 867--873
+publisher: American Physical Society (APS)
+ref: GravityTheorieNevill1980
+tags: differential-geometry gr gravity torsion fundamental-physics
+time-added: 2021-03-29-12:42:24
+title: Gravity theories with propagating torsion
+type: article
+url: http://dx.doi.org/10.1103/physrevd.21.867
+volume: '21'
+year: 1980

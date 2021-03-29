@@ -1,0 +1,27 @@
+abstract: We construct renormalizable, asymptotically free, four dimensional gauge
+  theories that dynamically generate a fifth dimension.
+archiveprefix: arXiv
+author: Arkani-Hamed, Nima and Cohen, Andrew G. and Georgi, Howard
+author_list:
+- family: Arkani-Hamed
+  given: Nima
+- family: Cohen
+  given: Andrew G.
+- family: Georgi
+  given: Howard
+doi: 10.1103/PhysRevLett.86.4757
+eprint: hep-th/0104005v1
+file: hep-th/0104005v1.pdf
+files:
+- deconstructing-dimensions.pdf
+- tmp8grgyxrt-a.pdf
+month: Apr
+note: Phys.Rev.Lett.86:4757-4761,2001
+primaryclass: hep-th
+ref: hep-th/0104005v1
+tags: renormalization gauge-theory qft
+time-added: 2021-03-29-12:55:52
+title: (De)Constructing Dimensions
+type: article
+url: http://arxiv.org/abs/hep-th/0104005v1
+year: '2001'
