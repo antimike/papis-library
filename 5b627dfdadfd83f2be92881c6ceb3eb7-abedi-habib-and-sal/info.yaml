@@ -1,0 +1,483 @@
+author: Abedi, Habib and Salti, Mustafa
+author_list:
+- affiliation: []
+  family: Abedi
+  given: Habib
+- affiliation: []
+  family: Salti
+  given: Mustafa
+citations:
+- doi: 10.1086/300499
+  unstructured: 'Supernovae Search Team Collaboration: Astron. J. 116, 1009 (1998)'
+- doi: 10.1038/35010035
+  unstructured: 'Boomerang Collaboration: Nature 404, 955 (2000)'
+- doi: 10.1086/307221
+  unstructured: 'Supernovae Cosmology Project Collaboration: Astrophys. J. 517, 565
+    (1999)'
+- doi: 10.1086/378560
+  unstructured: 'Supernovae Cosmology Project Collaboration: Astrophys. J. 598, 102
+    (2003)'
+- unstructured: 'Planck Collaboration: e-Print: 1303.5072 (2013)'
+- author: S Chakraborty
+  doi: 10.1007/s10509-012-1281-5
+  first-page: '791'
+  journal-title: Astrophys. Space Sci.
+  unstructured: 'Chakraborty, S., Biswas, A.: Astrophys. Space Sci. 343, 791 (2013)'
+  volume: '343'
+  year: '2013'
+- author: M Sharif
+  doi: 10.1142/S0217732312501878
+  first-page: '1250187'
+  journal-title: Mod. Phys. Lett. A
+  unstructured: 'Sharif, M., Saleem, R.: Mod. Phys. Lett. A 27, 1250187 (2012)'
+  volume: '27'
+  year: '2012'
+- author: EJ Copeland
+  doi: 10.1142/S021827180600942X
+  first-page: '1753'
+  journal-title: Int. J. Mod. Phys. D
+  unstructured: 'Copeland, E.J., Sami, M., Tsujikawa, S.: Int. J. Mod. Phys. D 15,
+    1753 (2006)'
+  volume: '15'
+  year: '2006'
+- author: I Zlatev
+  doi: 10.1103/PhysRevLett.82.896
+  first-page: '896'
+  journal-title: Phys. Rev. Lett.
+  unstructured: 'Zlatev, I., Wang, L., Steinhardt, P.J.: Phys. Rev. Lett. 82, 896
+    (1999)'
+  volume: '82'
+  year: '1999'
+- author: T Padmanabhan
+  doi: 10.1016/S0370-1573(03)00120-0
+  first-page: '235'
+  journal-title: Phys. Rep.
+  unstructured: 'Padmanabhan, T.: Phys. Rep. 380, 235 (2003)'
+  volume: '380'
+  year: '2003'
+- author: YF Cai
+  doi: 10.1016/j.physrep.2010.04.001
+  first-page: '1'
+  journal-title: Phys. Rep.
+  unstructured: 'Cai, Y.F., Saridakis, E.N., Setare, M.R., Xia, J.Q.: Phys. Rep. 493,
+    1 (2010)'
+  volume: '493'
+  year: '2010'
+- author: TP Sotiriou
+  doi: 10.1103/RevModPhys.82.451
+  first-page: '451'
+  journal-title: Rev. Mod. Phys.
+  unstructured: 'Sotiriou, T.P., Faraoni, V.: Rev. Mod. Phys. 82, 451 (2010)'
+  volume: '82'
+  year: '2010'
+- author: A Felice De
+  doi: 10.12942/lrr-2010-3
+  first-page: '3'
+  journal-title: Living Rev. Rel.
+  unstructured: 'De Felice, A., Tsujikawa, S.: Living Rev. Rel. 13, 3 (2010)'
+  volume: '13'
+  year: '2010'
+- author: V Sahni
+  doi: 10.1088/1475-7516/2003/11/014
+  first-page: '014'
+  journal-title: JCAP
+  unstructured: 'Sahni, V., Shtanov, Y.: JCAP 11, 014 (2003)'
+  volume: '11'
+  year: '2003'
+- author: P Horava
+  doi: 10.1103/PhysRevD.79.084008
+  first-page: 084008
+  journal-title: Phys. Rev. D
+  unstructured: 'Horava, P.: Phys. Rev. D 79, 084008 (2009)'
+  volume: '79'
+  year: '2009'
+- author: FW Hehl
+  doi: 10.1103/RevModPhys.48.393
+  first-page: '393'
+  journal-title: Rev. Mod. Phys.
+  unstructured: 'Hehl, F.W., Von Der Heyde, P., Kerlick, G.D., Nester, J.M.: Rev.
+    Mod. Phys. 48, 393 (1976)'
+  volume: '48'
+  year: '1976'
+- author: K Hayashi
+  doi: 10.1103/PhysRevD.19.3524
+  first-page: '3524'
+  journal-title: Phys. Rev. D
+  unstructured: 'Hayashi, K., Shirafuji, T.: Phys. Rev. D 19, 3524 (1979)'
+  volume: '19'
+  year: '1979'
+- author: MI Mikhail
+  doi: 10.1098/rspa.1977.0146
+  first-page: '471'
+  journal-title: Proc. R. Soc. Lond. Ser. A Math. Phys. Sci.
+  unstructured: 'Mikhail, M.I., Wanas, M.I.: Proc. R. Soc. Lond. Ser. A Math. Phys.
+    Sci. 356, 471 (1977)'
+  volume: '356'
+  year: '1977'
+- unstructured: 'Padilla, A., Saltas, I.D.: e-Print:1409.3573 [gr-qc]'
+- author: B Fiol
+  doi: 10.1088/1475-7516/2010/08/015
+  first-page: '015'
+  journal-title: JCAP
+  unstructured: 'Fiol, B., Garriga, J.: JCAP 1008, 015 (2010)'
+  volume: '1008'
+  year: '2010'
+- author: K Bamba
+  doi: 10.1007/s10509-012-1181-8
+  first-page: '155'
+  journal-title: Astrophys. Space Sci.
+  unstructured: 'Bamba, K., Capoziello, S., Nojiri, S., Odintsov, S.D.: Astrophys.
+    Space Sci. 342, 155 (2012)'
+  volume: '342'
+  year: '2012'
+- author: A Joyce
+  doi: 10.1016/j.physrep.2014.12.002
+  first-page: '1'
+  journal-title: Phys. Rep.
+  unstructured: 'Joyce, A., Jain, B., Khoury, J., Trodden, M.: Phys. Rep. 568, 1–98
+    (2015)'
+  volume: '568'
+  year: '2015'
+- author: T Harko
+  doi: 10.1103/PhysRevD.84.024020
+  first-page: '024020'
+  journal-title: Phys. Rev. D
+  unstructured: 'Harko, T., Lobo, F.S.N., Nojiri, S., Odintsov, S.D.: Phys. Rev. D
+    84, 024020 (2011)'
+  volume: '84'
+  year: '2011'
+- author: T Harko
+  doi: 10.1103/PhysRevD.87.047501
+  first-page: '047501'
+  journal-title: Phys. Rev. D
+  unstructured: 'Harko, T., Lobo, F.S.N., Minazzoli, O.: Phys. Rev. D 87, 047501 (2013)'
+  volume: '87'
+  year: '2013'
+- unstructured: 'Poplawski, N.J.: e-Print: gr-qc/0608031'
+- author: DH Lyth
+  doi: 10.1016/S0370-1573(98)00128-8
+  first-page: '1'
+  journal-title: Phys. Rep.
+  unstructured: 'Lyth, D.H., Riotto, A.: Phys. Rep. 314, 1 (1999)'
+  volume: '314'
+  year: '1999'
+- author: A Mazumdar
+  doi: 10.1016/j.physrep.2010.08.001
+  first-page: '85'
+  journal-title: Phys. Rep.
+  unstructured: 'Mazumdar, A., Rocher, J.: Phys. Rep. 497, 85 (2011)'
+  volume: '497'
+  year: '2011'
+- author: D Wands
+  doi: 10.1007/978-3-540-74353-8_8
+  first-page: '275'
+  journal-title: Lect. Notes Phys.
+  unstructured: 'Wands, D.: Lect. Notes Phys. 738, 275 (2008)'
+  volume: '738'
+  year: '2008'
+- author: T Kobayashi
+  doi: 10.1143/PTP.126.511
+  first-page: '511'
+  journal-title: Prog. Theor. Phys.
+  unstructured: 'Kobayashi, T., Yamaguchi, M., Yokoyama, J.: Prog. Theor. Phys. 126,
+    511 (2011)'
+  volume: '126'
+  year: '2011'
+- author: M Salti
+  doi: 10.1088/0031-8949/87/04/045006
+  first-page: '045006'
+  journal-title: Phys. Scr.
+  unstructured: 'Salti, M., Acikgoz, I.: Phys. Scr. 87, 045006 (2013)'
+  volume: '87'
+  year: '2013'
+- author: A Einstein
+  first-page: '224'
+  issue: '217'
+  journal-title: Sitzungsber. Preuss. Akad. Wiss. Phys. Math. Kl.
+  unstructured: 'Einstein, A.: Sitzungsber. Preuss. Akad. Wiss. Phys. Math. Kl. 17(217),
+    224 (1928)'
+  volume: '17'
+  year: '1928'
+- author: PG Bergmann
+  doi: 10.1103/PhysRev.89.400
+  first-page: '400'
+  journal-title: Phys. Rev.
+  unstructured: 'Bergmann, P.G., Thomson, R.: Phys. Rev. 89, 400 (1953)'
+  volume: '89'
+  year: '1953'
+- author: RC Tolman
+  first-page: '227'
+  unstructured: 'Tolman, R.C.: Relativity, Thermodynamics and Cosmology, p. 227. Oxford
+    University Press, London (1934)'
+  volume-title: Relativity, Thermodynamics and Cosmology
+  year: '1934'
+- author: S Weinberg
+  unstructured: 'Weinberg, S.: Gravitation and Cosmology: Principle and Applications
+    of General Theory of Relativity. Wiley, New York (1972)'
+  volume-title: 'Gravitation and Cosmology: Principle and Applications of General
+    Theory of Relativity'
+  year: '1972'
+- author: LD Landau
+  first-page: '280'
+  unstructured: 'Landau, L.D., Lifshitz, E.M.: The Classical Theory of Fields, p.
+    280. Pergamon Press, Oxford (1977)'
+  volume-title: The Classical Theory of Fields
+  year: '1977'
+- author: A Papapetrou
+  first-page: '11'
+  journal-title: Proc. R. Irish Acad. A
+  unstructured: 'Papapetrou, A.: Proc. R. Irish Acad. A 52, 11 (1948)'
+  volume: '52'
+  year: '1948'
+- author: C Moller
+  doi: 10.1016/0003-4916(58)90053-8
+  first-page: '347'
+  journal-title: Ann. Phys.
+  unstructured: 'Moller, C.: Ann. Phys. 4, 347 (1958)'
+  volume: '4'
+  year: '1958'
+- author: A Qadir
+  doi: 10.1016/0375-9601(92)90267-P
+  first-page: '331'
+  journal-title: Phys. Lett. A
+  unstructured: 'Qadir, A., Sharif, M.: Phys. Lett. A 167, 331 (1992)'
+  volume: '167'
+  year: '1992'
+- author: CW Misner
+  unstructured: 'Misner, C.W., Thorne, K.S., Wheeler, J.A.: Gravitation. W.H. Freeman
+    and Co., New York (1973)'
+  volume-title: Gravitation
+  year: '1973'
+- author: FI Cooperstock
+  doi: 10.1088/0305-4470/11/5/018
+  first-page: '877'
+  journal-title: J. Phys. A
+  unstructured: 'Cooperstock, F.I., Sarracino, R.S.: J. Phys. A 11, 877 (1978)'
+  volume: '11'
+  year: '1978'
+- author: G Kofinas
+  doi: 10.1088/0264-9381/31/17/175011
+  first-page: '175011'
+  journal-title: Class. Quant. Gravity
+  unstructured: 'Kofinas, G., Saridakis, E.N.: Class. Quant. Gravity 31, 175011 (2914)'
+  volume: '31'
+  year: '2914'
+- author: R Aldrovandi
+  doi: 10.1007/978-94-007-5143-9
+  unstructured: 'Aldrovandi, R., Pereira, J.G.: Teleparallel Gravity, An Introduction.
+    Springer, Berlin (2013)'
+  volume-title: Teleparallel Gravity, An Introduction
+  year: '2013'
+- author: CQ Geng
+  doi: 10.1016/j.physletb.2011.09.082
+  first-page: '384'
+  journal-title: Phys. Lett. B
+  unstructured: 'Geng, C.Q., Lee, C.C., Saridakis, E.N., Wu, Y.P.: Phys. Lett. B 704,
+    384 (2011)'
+  volume: '704'
+  year: '2011'
+- author: CQ Geng
+  doi: 10.1088/1475-7516/2013/04/033
+  first-page: '033'
+  journal-title: JCAP
+  unstructured: 'Geng, C.Q., Wu, Y.P.: JCAP 04, 033 (2013)'
+  volume: '04'
+  year: '2013'
+- author: B Li
+  doi: 10.1103/PhysRevD.83.064035
+  first-page: '064035'
+  journal-title: Phys. Rev. D
+  unstructured: 'Li, B., Sotiriou, T.P., Barrow, J.D.: Phys. Rev. D 83, 064035 (2011)'
+  volume: '83'
+  year: '2011'
+- author: YP Wu
+  first-page: '142'
+  journal-title: JHEP
+  unstructured: 'Wu, Y.P., Geng, C.Q.: JHEP 11, 142 (2012)'
+  volume: '11'
+  year: '2012'
+- author: K Izumi
+  doi: 10.1088/1475-7516/2013/06/029
+  first-page: 029
+  journal-title: JCAP
+  unstructured: 'Izumi, K., OngV, Y.C.: JCAP 06, 029 (2013)'
+  volume: '06'
+  year: '2013'
+- author: R Zhenga
+  doi: 10.1088/1475-7516/2011/03/002
+  first-page: '002'
+  journal-title: JCAP
+  unstructured: 'Zhenga, R., Huang, Q.G.: JCAP 03, 002 (2011)'
+  volume: '03'
+  year: '2011'
+- author: B Li
+  doi: 10.1103/PhysRevD.83.104017
+  first-page: '104017'
+  journal-title: Phys. Rev. D
+  unstructured: 'Li, B., Sotitiou, T.P., Barrow, J.D.: Phys. Rev. D 83, 104017 (2011)'
+  volume: '83'
+  year: '2011'
+- author: JA Gu
+  doi: 10.1016/j.physletb.2012.11.053
+  first-page: '722'
+  journal-title: Phys. Lett. B
+  unstructured: 'Gu, J.A., Lee, C.C., Geng, C.Q.: Phys. Lett. B 718, 722 (2013)'
+  volume: '718'
+  year: '2013'
+- author: R Zheng
+  doi: 10.1088/1475-7516/2011/03/002
+  first-page: '002'
+  journal-title: JCAP
+  unstructured: 'Zheng, R., Huang, Q.-G.: JCAP 03, 002 (2011)'
+  volume: '03'
+  year: '2011'
+- author: J Martin
+  doi: 10.1103/PhysRevD.77.123508
+  first-page: '123508'
+  journal-title: Phys. Rev. D
+  unstructured: 'Martin, J., Yamaguchi, M.: Phys. Rev. D 77, 123508 (2008)'
+  volume: '77'
+  year: '2008'
+- author: RM Wald
+  doi: 10.7208/chicago/9780226870373.001.0001
+  unstructured: 'Wald, R.M.: General Relativity. University Press, Chicago (1984)'
+  volume-title: General Relativity
+  year: '1984'
+- author: Y-P Wu
+  doi: 10.1103/PhysRevD.86.104058
+  first-page: '104058'
+  journal-title: Phys. Rev. D
+  unstructured: 'Wu, Y.-P., Geng, C.-Q.: Phys. Rev. D 86, 104058 (2012)'
+  volume: '86'
+  year: '2012'
+- author: Y-P Wu
+  first-page: '7'
+  journal-title: AIP Conf. Proc.
+  unstructured: 'Wu, Y.-P., Geng, C.-Q.: AIP Conf. Proc. 1545, 7 (2013)'
+  volume: '1545'
+  year: '2013'
+- author: PK Sahoo
+  doi: 10.1088/0256-307X/32/2/020402
+  first-page: '020402'
+  issue: '2'
+  journal-title: Chin. Phys. Lett.
+  unstructured: 'Sahoo, P.K., Mahanta, K.L., Goit, D., Sihna, A.K., Xulu, S.S., Das,
+    U.R., Prasad, A., Prasad, R.: Chin. Phys. Lett. 32(2), 020402 (2015)'
+  volume: '32'
+  year: '2015'
+- author: KS Virbhadra
+  doi: 10.1103/PhysRevD.41.1086
+  first-page: '1086'
+  journal-title: Phys. Rev. D
+  unstructured: 'Virbhadra, K.S.: Phys. Rev. D 41, 1086 (1990)'
+  volume: '41'
+  year: '1990'
+- author: KS Virbhadra
+  doi: 10.1103/PhysRevD.60.104041
+  first-page: '104041'
+  journal-title: Phys. Rev. D
+  unstructured: 'Virbhadra, K.S.: Phys. Rev. D 60, 104041 (1999)'
+  volume: '60'
+  year: '1999'
+- author: N Rosen
+  doi: 10.1007/BF00757123
+  first-page: '429'
+  journal-title: Gen. Relativ. Gravit.
+  unstructured: 'Rosen, N., Virbhadra, K.S.: Gen. Relativ. Gravit. 25, 429 (1993)'
+  volume: '25'
+  year: '1993'
+- author: A Chamorro
+  doi: 10.1007/BF02848261
+  first-page: '181'
+  journal-title: Pramana J. Phys.
+  unstructured: 'Chamorro, A., Virbhadra, K.S.: Pramana J. Phys. 45, 181 (1995)'
+  volume: '45'
+  year: '1995'
+- author: JM Aguirregabiria
+  doi: 10.1007/BF02109529
+  first-page: '1393'
+  journal-title: Gen. Relativ. Gravit.
+  unstructured: 'Aguirregabiria, J.M., Chamorro, A., Virbhadra, K.S.: Gen. Relativ.
+    Gravit. 28, 1393 (1996)'
+  volume: '28'
+  year: '1996'
+- author: MG Albrow
+  first-page: '56'
+  journal-title: Nature
+  unstructured: 'Albrow, M.G.: Nature 241, 56 (1973)'
+  volume: '241'
+  year: '1973'
+- author: EP Tryon
+  doi: 10.1038/246396a0
+  first-page: '396'
+  journal-title: Nature
+  unstructured: 'Tryon, E.P.: Nature 246, 396 (1973)'
+  volume: '246'
+  year: '1973'
+- author: FI Cooperstock
+  doi: 10.1007/BF02108014
+  first-page: '323'
+  journal-title: Gen. Relativ. Gravit.
+  unstructured: 'Cooperstock, F.I.: Gen. Relativ. Gravit. 26, 323 (1994)'
+  volume: '26'
+  year: '1994'
+- author: FI Cooperstock
+  doi: 10.1007/BF02059009
+  first-page: '631'
+  journal-title: Found. Phys.
+  unstructured: 'Cooperstock, F.I., Israelit, M.: Found. Phys. 25, 631 (1995)'
+  volume: '25'
+  year: '1995'
+- author: N Rosen
+  doi: 10.1007/BF02108013
+  first-page: '319'
+  journal-title: Gen. Rel. Gravit.
+  unstructured: 'Rosen, N.: Gen. Rel. Gravit. 26, 319 (1994)'
+  volume: '26'
+  year: '1994'
+- author: VB Johri
+  doi: 10.1007/BF02109127
+  first-page: '323'
+  journal-title: Gen. Relativ. Gravit.
+  unstructured: 'Johri, V.B., Kalligas, D., Singh, G.P., Everitt, C.W.F.: Gen. Relativ.
+    Gravit. 27, 323 (1995)'
+  volume: '27'
+  year: '1995'
+- author: N Banerjee
+  doi: 10.1007/BF02848334
+  first-page: '609'
+  journal-title: Pramana J. Phys.
+  unstructured: 'Banerjee, N., Sen, S.: Pramana J. Phys. 49, 609 (1997)'
+  volume: '49'
+  year: '1997'
+- author: SS Xulu
+  doi: 10.1023/A:1003670928681
+  first-page: '1153'
+  journal-title: Int. J. Theor. Phys.
+  unstructured: 'Xulu, S.S.: Int. J. Theor. Phys. 30, 1153 (2000)'
+  volume: '30'
+  year: '2000'
+- author: T Vargas
+  doi: 10.1023/B:GERG.0000022386.29438.be
+  first-page: '1255'
+  journal-title: Gen. Rel. Gravit.
+  unstructured: 'Vargas, T.: Gen. Rel. Gravit. 36, 1255 (2004)'
+  volume: '36'
+  year: '2004'
+doc_url: http://link.springer.com/article/10.1007/s10714-015-1935-z/fulltext.html
+doi: 10.1007/s10714-015-1935-z
+files:
+- abedi-salti2015-article-multiplefieldmodifiedgravityan.pdf
+issue: '8'
+journal: General Relativity and Gravitation
+language: en
+month: 8
+publisher: Springer Science and Business Media LLC
+ref: MultipleFieldAbedi2015
+tags: gr gravity modified-gravity differential-geometry torsion teleparallel-gravity
+time-added: 2021-03-30-18:22:56
+title: Multiple field modified gravity and localized energy in teleparallel framework
+type: article
+url: http://dx.doi.org/10.1007/s10714-015-1935-z
+volume: '47'
+year: '2015'

@@ -1,0 +1,134 @@
+author: Cho, Y. M.
+author_list:
+- affiliation: []
+  family: Cho
+  given: Y. M.
+citations:
+- author: S. L. Glashow
+  doi: 10.1016/0003-4916(61)90193-2
+  first-page: '437'
+  journal-title: Ann. Phys. (N.Y.)
+  volume: '15'
+  year: '1961'
+- author: R. P. Feynman
+  volume-title: Lectures on Gravitation
+  year: '1963'
+- author: T. W. B. Kibble
+  doi: 10.1063/1.1703702
+  first-page: '212'
+  journal-title: J. Math. Phys.
+  volume: '2'
+  year: '1961'
+- author: K. Hayashi
+  doi: 10.1143/PTP.38.491
+  first-page: '491'
+  journal-title: Prog. Theor. Phys.
+  volume: '38'
+  year: '1967'
+- author: F. A. Kaempffer
+  doi: 10.1103/PhysRev.165.1420
+  first-page: '1420'
+  journal-title: Phys. Rev.
+  volume: '165'
+  year: '1968'
+- author: A. Trautman
+  doi: 10.1016/0034-4877(70)90003-0
+  first-page: '29'
+  journal-title: Rep. Math. Phys.
+  volume: '1'
+  year: '1970'
+- author: Y. M. Cho
+  doi: 10.1063/1.522434
+  first-page: '2029'
+  journal-title: J. Math. Phys.
+  volume: '16'
+  year: '1975'
+- author: Y. M. Cho
+  doi: 10.1103/PhysRevD.12.1711
+  first-page: '1711'
+  journal-title: Phys. Rev. D
+  volume: '12'
+  year: '1975'
+- author: T. T. Wu
+  first-page: '3845'
+  journal-title: Phys. Rev. D
+  volume: '12'
+  year: '1975'
+- author: L. N. Chang
+  doi: 10.1103/PhysRevD.13.235
+  first-page: '235'
+  journal-title: Phys. Rev. D
+  volume: '13'
+  year: '1976'
+- author: Y. M. Cho
+  journal-title: Phys. Rev. D
+- author: K. Hayashi
+  doi: 10.1007/BF02833028
+  first-page: '639'
+  journal-title: Nuovo Cimento
+  volume: '16'
+  year: '1973'
+- author: K. Hayashi
+  doi: 10.1007/BF00769756
+  first-page: '1'
+  journal-title: Gen. Relativ. Gravit.
+  volume: '4'
+  year: '1974'
+- author: É. Cartan
+  first-page: '593'
+  journal-title: C. R. Acad. Sci.
+  volume: '174'
+  year: '1922'
+- author: É. Cartan
+  doi: 10.24033/asens.751
+  first-page: '325'
+  journal-title: Ann. École Normale
+  volume: '40'
+  year: '1923'
+- author: É. Cartan
+  doi: 10.24033/asens.753
+  first-page: '1'
+  journal-title: Ann. École Normale
+  volume: '41'
+  year: '1924'
+- author: R. Utiyama
+  doi: 10.1103/PhysRev.101.1597
+  first-page: '1597'
+  journal-title: Phys. Rev.
+  volume: '101'
+  year: '1956'
+- author: D. W. Sciama
+  volume-title: Recent Developments in General Relativity
+  year: '1962'
+- author: C. N. Yang
+  doi: 10.1103/PhysRevLett.33.445
+  first-page: '445'
+  journal-title: Phys. Rev. Lett.
+  volume: '33'
+  year: '1974'
+- author: R. Pavelle
+  doi: 10.1103/PhysRevLett.34.1114
+  first-page: '1114'
+  journal-title: Phys. Rev. Lett.
+  volume: '34'
+  year: '1975'
+doc_url: http://harvest.aps.org/v2/journals/articles/10.1103/PhysRevD.14.2521/fulltext
+doi: 10.1103/physrevd.14.2521
+files:
+- einstein-lagrangian-translational-yang-mills.pdf
+- tmphd18dq3k-a.pdf
+issue: '10'
+journal: Physical Review D
+language: en
+month: 11
+pages: 2521--2525
+publisher: American Physical Society (APS)
+ref: EinsteinLagranChoY1976
+tags: differential-geometry gravity gr yang-mills gauge-theory fundamental-physics
+  symmetry
+time-added: 2021-03-30-19:01:37
+title: Einstein Lagrangian as the translational Yang-Mills Lagrangian
+type: article
+url: http://dx.doi.org/10.1103/physrevd.14.2521
+volume: '14'
+year: 1976

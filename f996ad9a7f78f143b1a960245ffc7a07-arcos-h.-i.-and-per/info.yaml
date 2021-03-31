@@ -1,0 +1,35 @@
+abstract: The role played by torsion in gravitation is critically reviewed. After
+  a description of the problems and controversies involving the physics of torsion,
+  a comprehensive presentation of the teleparallel equivalent of general relativity
+  is made. According to this theory, curvature and torsion are alternative ways of
+  describing the gravitational field, and consequently related to the same degrees
+  of freedom of gravity. However, more general gravity theories, like for example
+  Einstein-Cartan and gauge theories for the Poincare and the affine groups, consider
+  curvature and torsion as representing independent degrees of freedom. By using an
+  active version of the strong equivalence principle, a possible solution to this
+  conceptual question is reviewed. This solution favors ultimately the teleparallel
+  point of view, and consequently the completeness of general relativity. A discussion
+  of the consequences for gravitation is presented.
+archiveprefix: arXiv
+author: Arcos, H. I. and Pereira, J. G.
+author_list:
+- family: Arcos
+  given: H. I.
+- family: Pereira
+  given: J. G.
+doi: 10.1142/S0218271804006462
+eprint: gr-qc/0501017v1
+file: gr-qc/0501017v1.pdf
+files:
+- torsion-gravity-reappraisal.pdf
+- tmpl45hdknh-a.pdf
+month: Jan
+note: Int.J.Mod.Phys. D13 (2004) 2193-2240
+primaryclass: gr-qc
+ref: gr-qc/0501017v1
+tags: gravity modified-gravity gr differential-geometry torsion
+time-added: 2021-03-30-18:30:41
+title: 'Torsion Gravity: a Reappraisal'
+type: article
+url: http://arxiv.org/abs/gr-qc/0501017v1
+year: '2005'
