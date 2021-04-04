@@ -1,0 +1,39 @@
+author: Penrose, R.
+author_list:
+- affiliation: []
+  family: Penrose
+  given: R.
+citations:
+- author: Schrödinger
+  doi: 10.1119/1.1934284
+  volume-title: Expanding universes
+  year: '1956'
+- author: Milne
+  volume-title: Relativity, gravitation and world-structure
+  year: '1935'
+- author: Synge
+  volume-title: 'Relativity: the special theory'
+  year: '1956'
+- article-title: Geometry of two-component spinors
+  author: Veblen
+  first-page: '100'
+  journal-title: Proc. Nat. Acad. Sci
+  volume: '19'
+  year: '1933'
+doi: 10.1017/s0305004100033776
+files:
+- the-apparent-shape-of-a-relativistically-moving-sphere.pdf
+issue: '1'
+journal: Mathematical Proceedings of the Cambridge Philosophical Society
+language: en
+month: 1
+pages: 137--139
+publisher: Cambridge University Press (CUP)
+ref: TheApparentShPenros1959
+tags: relativity sr differential-geometry math penrose
+time-added: 2021-04-04-16:27:32
+title: The apparent shape of a relativistically moving sphere
+type: article
+url: http://dx.doi.org/10.1017/s0305004100033776
+volume: '55'
+year: 1959

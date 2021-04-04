@@ -1,0 +1,64 @@
+abstract: <jats:p><jats:italic>Introduction</jats:italic>. In (9) Newman and Penrose
+  introduced a differential operator which they denoted ð, the phonetic symbol<jats:italic>edth</jats:italic>.
+  This operator acts on<jats:italic>spin weighted</jats:italic>, or<jats:italic>spin</jats:italic>and<jats:italic>conformally
+  weighted</jats:italic>functions on the two-sphere. It turns out to be very useful
+  in the theory of relativity via the isomorphism of the conformal group of the sphere
+  and the proper inhomogeneous Lorentz group (11, 4). In particular, it can be viewed
+  (2) as an<jats:italic>angular momentum lowering operator</jats:italic>for a suitable
+  representation of SO(3) and can be used to investigate the representations of the
+  Lorentz group (4). More recently, edth has appeared in the<jats:italic>good cut
+  equation</jats:italic>describing Newman's<jats:italic>ℋ-space</jats:italic>for an<jats:italic>asymptotically
+  flat</jats:italic>space-time (10). This development is closely related to Penrose's
+  theory of<jats:italic>twistors</jats:italic>and, in particular, to<jats:italic>asymptotic
+  twistors</jats:italic>(14).</jats:p>
+author: Eastwood, Michael and Tod, Paul
+author_list:
+- affiliation: []
+  family: Eastwood
+  given: Michael
+- affiliation: []
+  family: Tod
+  given: Paul
+citations:
+- doi: 10.1007/BF02564268
+- author: Morrow
+  volume-title: Complex manifolds
+  year: '1971'
+- doi: 10.1016/0370-1573(81)90104-6
+- doi: 10.1063/1.1705135
+- doi: 10.1007/BF00762011
+- doi: 10.1063/1.1931221
+- doi: 10.1007/BF00762018
+- author: Penrose
+  first-page: '121'
+  volume-title: Battelle rencontres
+  year: '1968'
+- author: Milnor
+  doi: 10.1515/9781400881826
+  volume-title: Characteristic classes
+  year: '1974'
+- doi: 10.1017/S0305004100033776
+- doi: 10.1017/CBO9780511566189
+- doi: 10.1098/rspa.1978.0177
+- author: Penrose
+  volume-title: Einstein centennial volume
+- doi: 10.1063/1.1665105
+- doi: 10.1063/1.523750
+- doi: 10.1007/978-1-4757-3946-6
+doi: 10.1017/s0305004100059971
+files:
+- edth-a-differential-operator-on-the-sphere.pdf
+issue: '2'
+journal: Mathematical Proceedings of the Cambridge Philosophical Society
+language: en
+month: 9
+pages: 317--330
+publisher: Cambridge University Press (CUP)
+ref: EdthADifferenEastwo1982
+tags: math edth differential-geometry spin spin-spherical-harmonics
+time-added: 2021-04-04-16:24:00
+title: Edth-a differential operator on the sphere
+type: article
+url: http://dx.doi.org/10.1017/s0305004100059971
+volume: '92'
+year: 1982

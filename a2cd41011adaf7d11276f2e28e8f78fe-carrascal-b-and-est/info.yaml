@@ -1,0 +1,54 @@
+author: Carrascal, B and Estevez, G A and Lee, Peilian and Lorenzo, V
+author_list:
+- affiliation: []
+  family: Carrascal
+  given: B
+- affiliation: []
+  family: Estevez
+  given: G A
+- affiliation: []
+  family: Lee
+  given: Peilian
+- affiliation: []
+  family: Lorenzo
+  given: V
+citations:
+- doi: 10.1016/0021-9991(82)90112-7
+- author: Barrera R G
+  doi: 10.1088/0143-0807/6/4/014
+  first-page: '287'
+  issn: http://id.crossref.org/issn/0143-0807
+  issn-type: print
+  journal-title: Eur. J. Phys.
+  volume: '6'
+  year: '1985'
+- doi: 10.1119/1.11364
+- author: Gray C G
+  doi: 10.1119/1.11285
+  first-page: '582'
+  issn: http://id.crossref.org/issn/0002-9505
+  issn-type: print
+  volume: '46'
+  year: '1978'
+- author: Flügge S
+  first-page: '218'
+  year: '1974'
+- author: Jackson J D
+  first-page: '16'
+  year: '1975'
+doi: 10.1088/0143-0807/12/4/007
+files:
+- vector-spherical-harmonics-classical-em.pdf
+issue: '4'
+journal: European Journal of Physics
+month: 7
+pages: 184--191
+publisher: IOP Publishing
+ref: VectorSphericaCarras1991
+tags: math vector-spherical-harmonics em
+time-added: 2021-04-04-00:40:35
+title: Vector spherical harmonics and their application to classical electrodynamics
+type: article
+url: http://dx.doi.org/10.1088/0143-0807/12/4/007
+volume: '12'
+year: 1991

@@ -1,0 +1,843 @@
+author: Kouneiher, Joseph
+author_list:
+- affiliation: []
+  family: Kouneiher
+  given: Joseph
+citations:
+- author: A Ashtekar
+  doi: 10.1103/PhysRevLett.57.2244
+  first-page: '2244'
+  journal-title: Phys. Rev. Lett.
+  unstructured: A. Ashtekar, New variables for classical and quantum gravity. Phys.
+    Rev. Lett. 57, 2244 (1986)
+  volume: '57'
+  year: '1986'
+- unstructured: A. Ashtekar, Gravity, Geometry and the Quantum, in Vers une nouvelle
+    Philosophie de la nature, Joseph Kouneiher ed. Hermann, 2010
+- author: Abhay Ashtekar
+  doi: 10.1088/0264-9381/14/1A/006
+  first-page: A55
+  issue: 1A
+  journal-title: Classical and Quantum Gravity
+  unstructured: 'A. Ashtekar, J. Lewandowski, Quantum theory of geometry. I: area
+    operators. Class. Quant. Grav.14 (1997) A55–A82. http://xxx.lanl.gov/abs/gr-qc/9602046'
+  volume: '14'
+  year: '1997'
+- author: Abhay Ashtekar
+  doi: 10.4310/ATMP.1997.v1.n2.a8
+  first-page: '388'
+  issue: '2'
+  journal-title: Advances in Theoretical and Mathematical Physics
+  unstructured: 'A. Ashtekar, J. Lewandowski, Quantum theory of geometry. II: volume
+    operators. Adv. Theor. Math. Phys.1 (1998) 388. http://xxx.lanl.gov/abs/gr-qc/9711031'
+  volume: '1'
+  year: '1997'
+- author: MF Atiyah
+  doi: 10.1090/S0002-9904-1963-10957-X
+  first-page: '422'
+  issue: '3'
+  journal-title: Bull. Amer. Math. Soc.
+  unstructured: M.F. Atiyah, I.M. Singer, The index of elliptic operators on compact
+    manifolds. Bull. Amer. Math. Soc. 69(3), 422–433 (1963)
+  volume: '69'
+  year: '1963'
+- author: MF Atiyah
+  doi: 10.2307/1970715
+  first-page: '484'
+  issue: '3'
+  journal-title: Ann. Math.
+  unstructured: M.F. Atiyah, I.M. Singer, The index of elliptic operators I. Ann.
+    Math. 87(3), 484–530 (1968)
+  volume: '87'
+  year: '1968'
+- author: MF Atiyah
+  doi: 10.2307/1970757
+  first-page: '139'
+  issue: '1'
+  journal-title: Ann. Math. Second Ser.
+  unstructured: M.F. Atiyah, I.M. Singer, The index of elliptic operators V. Ann.
+    Math. Second Ser. 93(1), 139–149 (1971)
+  volume: '93'
+  year: '1971'
+- author: M. Atiyah
+  doi: 10.1098/rsta.2009.0227
+  first-page: '913'
+  issue: '1914'
+  journal-title: 'Philosophical Transactions of the Royal Society A: Mathematical,
+    Physical and Engineering Sciences'
+  unstructured: M. Atiyah, R. Dijkgraaf, N.l Hitchin, Geometry and physics. Phil.
+    Trans. R. Soc. A 368, 913–926 (2010)
+  volume: '368'
+  year: '2010'
+- unstructured: M. Atiyah, N.S. Manton, B.J. Schroers, Geometric Models of Matter,
+    arXiv:1108.5151
+- doi: 10.1016/j.shpsb.2007.08.002
+  unstructured: 'K.A. Brading, T.A. Ryckman, Hilbert’s foundations of physics’: gravitation
+    and electromagnetism within the axiomatic method. Stud. Hist. Philos. Sci. B:
+    Stud. Hist. Philos. Mod. Phys. 39(1), 102–153 (2008)'
+- author: NN Bogoliubov
+  unstructured: N.N. Bogoliubov, D.V. Shirkov, The Theory of Quantized Fields (Interscience,
+    New York, 1959)
+  volume-title: The Theory of Quantized Fields
+  year: '1959'
+- author: NN Bogoliubov
+  doi: 10.1007/BF02392399
+  first-page: '227'
+  journal-title: Acta Math.
+  unstructured: N.N. Bogoliubov, O. Parasiuk, On the multiplication of the causal
+    function in the quantum theory of fields. Acta Math. 97, 227–266 (1957)
+  volume: '97'
+  year: '1957'
+- author: Raoul Bott
+  doi: 10.1007/978-1-4612-2564-5_16
+  first-page: '382'
+  unstructured: R. Bott, On Mathematics and Physics, Collected Works, vol. 4, p. 382
+  volume-title: Raoul Bott Collected Papers
+  year: '1995'
+- doi: 10.1017/CBO9780511535369
+  unstructured: 'K. Brading, E. Castellani, Symmetries in Physics: Philosophical Reflections,
+    2003'
+- doi: 10.1016/0550-3213(91)90292-6
+  unstructured: P. Candelas, P. Green, L. Parke, X. de la Ossa, A pair of Calabi-Yau
+    manifoldsas an exactly soluble superconformal eld theory. Nucl. Phys. B 359, 21–74
+    (1991) https://doi.org/10.1016/0550-3213(91)90292-6
+- author: AH Chamseddine
+  doi: 10.4310/ATMP.2007.v11.n6.a3
+  first-page: '991'
+  journal-title: Adv. Theor. Math. Phys.
+  unstructured: A.H. Chamseddine, A. Connes, M. Marcolli, Gravity and the standard
+    model with neutrino mixing. Adv. Theor. Math. Phys. 11, 991–1089 (2007)
+  volume: '11'
+  year: '2007'
+- author: S.-S. Chern
+  doi: 10.1073/pnas.68.4.791
+  first-page: '791'
+  issue: '4'
+  journal-title: Proceedings of the National Academy of Sciences
+  unstructured: S. Chern, J. Simons, Some cohomology classes in principal fiber bundles
+    and their application to Riemannian geometry, Proc. Nat. Acad. Sci. USA 68, 791–794,
+    Or, characteristic forms and geometrical invariants. Ann. Math. 99(48–69), 1974
+    (1971)
+  volume: '68'
+  year: '1971'
+- author: S Chern
+  first-page: '1'
+  journal-title: Math. Asso. Amer. Studies No.
+  unstructured: S. Chern, Vector bundles with a connection, Studies in Global Differential
+    Geometry. Math. Asso. Amer. Studies No. 27, 1–26 (1989)
+  volume: '27'
+  year: '1989'
+- author: S Chern
+  doi: 10.1007/978-1-4684-9344-3
+  edition: '2'
+  unstructured: S. Chern, Complex Manifolds without Potential Theory, 2nd edn. (Springer,
+    Berlin, 1979)
+  volume-title: Complex Manifolds without Potential Theory
+  year: '1979'
+- author: Shiing-Shen Chern
+  doi: 10.1080/00029890.1990.11995656
+  first-page: '679'
+  issue: '8'
+  journal-title: The American Mathematical Monthly
+  unstructured: S.-S. Chern, What Is Geometry? The American Mathematical Monthly,
+    vol. 97(8), Special Geometry Issue, pp. 679-686 (1990)
+  volume: '97'
+  year: '1990'
+- author: S Coleman
+  doi: 10.1103/PhysRevD.11.2088
+  first-page: '2088'
+  journal-title: Phys. Rev. D
+  unstructured: S. Coleman, Quantum sine-Gordon equation as the massive Thirring model.
+    Phys. Rev. D 11, 2088 (1975)
+  volume: '11'
+  year: '1975'
+- author: A Connes
+  unstructured: A. Connes, M. Marcolli, Noncommutative Geom. (American Mathematical
+    Society, Quantum Fields and Motives, 2007)
+  volume-title: Noncommutative Geom.
+  year: '2007'
+- author: Alain Connes
+  doi: 10.1007/PL00005547
+  first-page: '215'
+  journal-title: Commun. Math. Phys.
+  unstructured: 'Alain Connes, Dirk Kreimer, Renormalization in quantum field theory
+    and the Riemann-Hilbert problem II: the $$\beta $$β-function, diffeomorphisms
+    and renormalization group. Commun. Math. Phys. 216, 215–241 (2001). arXiv:hep-th/0003188v1'
+  volume: '216'
+  year: '2001'
+- doi: 10.1007/978-3-540-30308-4_13
+  unstructured: A. Connes, M. Marcolli, Renormalization, the Riemann-Hilbert correspondence
+    and motivic Galois theory, Frontiers in number theory, physics and geometry, vol.
+    II (Springer, Berlin, 2007). pp. 617–713
+- author: A Connes
+  unstructured: A. Connes, Noncommutative Geometry (Academic Press, Cambridge, 1994)
+  volume-title: Noncommutative Geometry
+  year: '1994'
+- author: A Connes
+  first-page: '29'
+  journal-title: Nucl. Phys. Proc. Suppl.
+  unstructured: A. Connes, J. Lott, Particle models and noncommutative geometry. Nucl.
+    Phys. Proc. Suppl. B18, 29 (1989)
+  volume: B18
+  year: '1989'
+- unstructured: A. Connes Geometry and Physics
+- author: A Connes
+  doi: 10.1007/s002200050499
+  first-page: '203'
+  journal-title: Commun. Math. Phys.
+  unstructured: A. Connes, D. Kreimer, Hopf algebras, renormalization and noncommutative
+    geometry. Commun. Math. Phys. 199, 203 (1998). arXiv:hep-th/9808042
+  volume: '199'
+  year: '1998'
+- author: A Connes
+  doi: 10.1007/s002200050779
+  first-page: '249'
+  journal-title: Commun. Math. Phys.
+  unstructured: 'A. Connes, D. Kreimer, Renormalization in quantum field theory and
+    the Riemann-Hilbert problem. I: the Hopf algebra structure of graphs and the main
+    theorem. Commun. Math. Phys. 210, 249 (2000). arXiv:hep-th/9912092'
+  volume: '210'
+  year: '2000'
+- author: A Connes
+  doi: 10.1007/PL00005547
+  first-page: '215'
+  journal-title: Commun. Math. Phys.
+  unstructured: 'A. Connes, D. Kreimer, Renormalization in quantum field theory and
+    the Riemann-Hilbert problem. II: the beta-function, diffeomorphisms and the renormalization
+    group. Commun. Math. Phys. 216, 215 (2001). arXiv:hep-th/0003188'
+  volume: '216'
+  year: '2001'
+- unstructured: A. Connes, M. Marcolli, Noncommutative Geometry, Quantum Fields and
+    Motives. preliminary version available at http://www.alainconnes.org/en/downloads.php
+- author: A Connes
+  doi: 10.1007/s002200050499
+  first-page: '203'
+  journal-title: Comm. Math. Phys.
+  unstructured: A. Connes, D. Kreimer, Hopf algebras, renormalization and noncommutative
+    geometry. Comm. Math. Phys. 199, 203–242 (1998)
+  volume: '199'
+  year: '1998'
+- author: A Connes
+  doi: 10.1007/s002200050779
+  first-page: '249'
+  issue: '1'
+  journal-title: Comm. Math. Phys.
+  unstructured: A. Connes, D. Kreimer, Renormalization in quantum field theory and
+    the Riemann-Hilbert problem. I. The Hopf algebra structure of graphs and the main
+    theorem. Comm. Math. Phys. 210(1), 249–273 (2000)
+  volume: '210'
+  year: '2000'
+- author: A Connes
+  doi: 10.1007/PL00005547
+  first-page: '215'
+  issue: '1'
+  journal-title: Comm. Math. Phys.
+  unstructured: A. Connes, D. Kreimer, Renormalization in quantum field theory and
+    the Riemann-Hilbert problem. II. The $$\beta $$β-function, diffeomorphisms and
+    the renormalization group. Comm. Math. Phys. 216(1), 215–241 (2001)
+  volume: '216'
+  year: '2001'
+- unstructured: 'A. Connes, M. Marcolli, From Physics to Number theory via Noncommutative
+    Geometry, II: Renormalization, the Riemann-Hilbert correspondence, and motivic
+    Galois theory, to appear in Frontiers in Number Theory, Physics, and Geometry,
+    vol. II. Preprint hep-th/0411114'
+- doi: 10.1090/surv/068
+  unstructured: 'D. A. Cox, S. Katz, Mirror symmetry and algebraic geometry. Mathematical
+    Surveys and Monographs no. 68. Providence, RI: American Mathematical Society.
+    1999'
+- doi: 10.1007/978-1-4020-2778-9
+  unstructured: 'L. Corry, David Hilbert and the Axiomatization of Physics (1898-1918):
+    From Grundlagen der Geometrie to Grundlagen der Physik (Kluwer Academic Publishers,
+    Dordrecht, 2004). p. 429'
+- author: Bertrand Delamotte
+  doi: 10.1119/1.1624112
+  first-page: '170'
+  issue: '2'
+  journal-title: American Journal of Physics
+  unstructured: B. Delamotte, A hint of renormalization. Am. J. Phys., 72(2) (2004)
+  volume: '72'
+  year: '2004'
+- unstructured: P. Deligne, Quelques idées maîtresses de l’œuvre de A. Grothendieck,
+    Matériaux pour l’histoire des mathématiques au XXe sicle, in Proceedings of the
+    workshop on the honour of Jean Dieudonné (Nice 1996), France Mathematical society,
+    pp. 11–19 (1998)
+- unstructured: R. Dijkgraaf, The mathematics of strings theory, Séminaire Poincaré,
+    2004
+- author: P. A. M. Dirac
+  doi: 10.1098/rspa.1931.0130
+  first-page: '60'
+  issue: '821'
+  journal-title: 'Proceedings of the Royal Society A: Mathematical, Physical and Engineering
+    Sciences'
+  unstructured: P. A. M. Dirac, Quantised singularities in the electromagnetic field.
+    Proc. Roy. Soc. A 133, 60
+  volume: '133'
+  year: '1931'
+- doi: 10.1017/S0370164600012207
+  unstructured: P.A.M. Dirac, The Relation between Mathematics and Physics. Proc.
+    R. Soc. (Edinburgh) 59(Part II), 122–129 (1939)
+- unstructured: S. Donaldson, P. Kronheimer, The Geometry of Four-Manifolds (Oxford,
+    1990)
+- author: S Donaldson
+  doi: 10.4310/jdg/1214437664
+  first-page: '269'
+  journal-title: J. Diff. Geom.
+  unstructured: S. Donaldson, J. Diff. Geom. 18, 269 (1983)
+  volume: '18'
+  year: '1983'
+- author: S Donaldson
+  doi: 10.1088/0951-7715/2/2/002
+  first-page: '197'
+  journal-title: Nonlinearity
+  unstructured: S. Donaldson, R. Friedman, Connected sums of self-dual manifolds and
+    deformations of singular spaces. Nonlinearity 2, 197–239 (1989)
+  volume: '2'
+  year: '1989'
+- doi: 10.1007/s10714-007-0549-5
+  unstructured: R. Durrer, R. Maartens, Dark energy and dark gravity, Gen. Rel. Grav.
+    40, 301–328 (2008) arXiv:0711.0077 (2007)
+- author: F. J. Dyson
+  doi: 10.1103/PhysRev.75.1736
+  first-page: '1736'
+  issue: '11'
+  journal-title: Physical Review
+  unstructured: F.J. Dyson, The S-matrix in quantum electrodynamics. Phys. Rev. 75,
+    1736. https://doi.org/10.1103/PhysRev.75.1736 (1949)
+  volume: '75'
+  year: '1949'
+- unstructured: G. Efstathiou, in The Physics of the Early Universe, ed. by J.A. Peacock,
+    A.F. Heavens, A. Davies (Adam-Higler, Bristol, 1990)
+- unstructured: A. Einstein, Philosopher-Scientist, in The Library of Living Philosophers,
+    ed. by P.A. Schilpp (Evanston, 1949), pp. 2–95
+- unstructured: 'A. Einstein, Ideas and opinions, quoted from Schweber, Einstein and
+    Oppenheimer: the meaning of genius (1954)'
+- author: A Floer
+  doi: 10.1090/S0273-0979-1987-15517-0
+  first-page: '279'
+  journal-title: Bull. Am. Math. Soc.
+  unstructured: A. Floer, Bull. Am. Math. Soc. 16, 279 (1987)
+  volume: '16'
+  year: '1987'
+- author: A Friedman
+  doi: 10.1007/BF01332580
+  first-page: '377'
+  issue: '1'
+  journal-title: Z. Phys.
+  unstructured: A. Friedman, Über die Krümmung des Raumes. Z. Phys. 10(1), 377–386
+    (1922)
+  volume: '10'
+  year: '1922'
+- author: A Friedman
+  doi: 10.1007/BF01328280
+  first-page: '326'
+  issue: '1'
+  journal-title: Z. Phys.
+  unstructured: A. Friedman, Über die Möglichkeit einer Welt mit konstanter negativer
+    Krümmung des Raumes. Z. Phys. 21(1), 326–332 (1924)
+  volume: '21'
+  year: '1924'
+- author: DS Freed
+  doi: 10.1007/s00023-013-0236-x
+  first-page: '1927'
+  journal-title: Ann. Henri Poincare
+  unstructured: D.S. Freed, G.W. Moore, Twisted equivariant matter. Ann. Henri Poincare
+    14, 1927 (2013). arXiv:1208.5055 [hep-th]
+  volume: '14'
+  year: '2013'
+- unstructured: F. Helein,Dualités, supersymétries et systèmes complètement intégrables,
+    in Vers une nouvelle Philosophie de la nature, ed. by J. Kouneiher, Hermann edn.
+    (2010)
+- author: Frédéric HÉLEIN
+  doi: 10.1142/9789812700889_0002
+  first-page: '93'
+  unstructured: F. Helein, J. Kouneiher, On the soliton-particle dualities, in Geometries
+    of Nature, Living Systems and Human Cognition, ed. by L. Boi (World Scientific,
+    2005). pp. 93–128
+  volume-title: Geometries of Nature, Living Systems and Human Cognition
+  year: '2005'
+- author: K Hepp
+  doi: 10.1007/BF01773358
+  first-page: '301'
+  journal-title: Commun. Math. Phys.
+  unstructured: K. Hepp, Proof of the Bogoliubov-Parasiuk theorem on renormalization.
+    Commun. Math. Phys. 2, 301–326 (1966)
+  volume: '2'
+  year: '1966'
+- unstructured: D. Hilbert, Uber die Grundlagen der Geometrie. Gottinger Nachrichten
+    233–241 (1902)
+- unstructured: D. Hilbert, Lecture delivered before the International Congress of
+    Mathematicians, Paris France (1900). English translation appeared in Bull. Am.
+    Math. Soc. 8 (1902), 437–479. A reprint of appears in Mathematical Developments
+    Arising from Hilbert Problems, ed. by F. Brouder, Am. Math. Soc. 1976. The original
+    address “Mathematische Probleme” appeared in Göttinger Nachrichten, 1900, pp.
+    253–297, and in Archiv der Mathematik und Physik, 3(1), 44–63 and 213–237 (1901)
+- unstructured: N. Hitchin, Interaction between mathematics and physics, ARBOR Ciencia,
+    Pensamiento y Cultura, CLXXXIII 725, mayo-junio, pp. 427–432 (2007)
+- author: G. 't Hooft
+  doi: 10.1016/0550-3213(72)90279-9
+  first-page: '189'
+  issue: '1'
+  journal-title: Nuclear Physics B
+  unstructured: G. ’t Hooft, M. Veltman, Regularization and renormalization of gauge
+    fields. Nucl. Phys. B 44, 189 (1972)
+  volume: '44'
+  year: '1972'
+- unstructured: 'K. Hori, S. Katz, A. Klemm, R. Pandharipande, R. Thomas, C. Vafa,
+    R. Vakil, E. Zaslow, Mirror symmetry. Clay Mathematics Monographs. Providence,
+    RI: American Mathematical Society (2003)'
+- author: E Hubble
+  doi: 10.1073/pnas.15.3.168
+  first-page: '168'
+  journal-title: Proc. Natl. Acad. Sci.
+  unstructured: E. Hubble, A relation between distance and Radial Velocity among Extra-Galactic
+    Nebulae. Proc. Natl. Acad. Sci. 15, 168–173 (1929)
+  volume: '15'
+  year: '1929'
+- author: Vaughan F. R. Jones
+  doi: 10.1090/S0273-0979-1985-15304-2
+  first-page: '103'
+  issue: '1'
+  journal-title: Bulletin of the American Mathematical Society
+  unstructured: V.F.R. Jones, A polynomial invariant for knots via von Neumann algebras.
+    Bull. Am. Math. Soc. 12, 103–111 (1985). https://doi.org/10.1090/S0273-0979-1985-15304-2
+  volume: '12'
+  year: '1985'
+- author: Felix Klein
+  doi: 10.1007/978-3-642-51960-4_28
+  first-page: '460'
+  unstructured: F. Klein, Vergleichende Betrachtungen über neuere geometrische Forschungen,
+    in Gesammelte mathematische Abhandlungen, vol. i (1872) pp. 460–497
+  volume-title: Gesammelte Mathematische Abhandlungen
+  year: '1921'
+- author: F Klein
+  doi: 10.1007/978-3-642-67230-9
+  unstructured: F. Klein, Vorlesungen über die Entwicklung der Mathematik im 19 (Wissenschaftliche
+    Buchgesellschaft, Jahrhundert. Darmstadt, 1979)
+  volume-title: Vorlesungen über die Entwicklung der Mathematik im 19
+  year: '1979'
+- unstructured: M. Kontsevich, Y. Soibelman, Stability structures, motivic Donaldson-Thomas
+    invariants and cluster transformations, arXiv:0811.2435 [math.AG]
+- author: Maxim Kontsevich
+  doi: 10.1007/978-3-0348-9078-6_11
+  first-page: '120'
+  unstructured: Kontsevich, M. Homological algebra of mirror symmetry. In Proc. Int.
+    Congress of Mathematicians, Zrich, vols. 1-2 (Birkhuser, Basel, Switzerland, 1995).
+    pp. 120–139
+  volume-title: Proceedings of the International Congress of Mathematicians
+  year: '1995'
+- author: M. Kontsevich
+  doi: 10.1007/BF02101490
+  first-page: '525'
+  issue: '3'
+  journal-title: Communications in Mathematical Physics
+  unstructured: M. Kontsevich, M. Yu, Gromov-Witten classes, quantum cohomology, and
+    enumerativegeometry. Commun. Math. Phys. 164, 525–562 (1994). https://doi.org/10.1007/BF02101490
+  volume: '164'
+  year: '1994'
+- unstructured: J. Kouneiher, in Leibniz and the Dialogue between Sciences, Philosophy
+    and Engineering, 1646-2016. New Historical and Epistemological Insights, ed. by
+    R. Pisano, M. Fichant, P. Bussotti, A.R.E. Oliveira (The College’s Publications,
+    London, 2017)
+- author: Joseph Kouneiher
+  doi: 10.1007/s10773-016-2928-8
+  first-page: '2949'
+  issue: '6'
+  journal-title: International Journal of Theoretical Physics
+  unstructured: J.Kouneiher, Conceptual Foundations of Soliton Versus Particle Dualities
+    Toward a Topological Model for Matter. International Journal of Theoretical Physics,
+    vol. 55(6), pp. 2949–2968. 20p (2016)
+  volume: '55'
+  year: '2016'
+- author: Joseph Kouneiher
+  doi: 10.1142/S0219887815500899
+  first-page: '1550089'
+  issue: 09
+  journal-title: International Journal of Geometric Methods in Modern Physics
+  unstructured: J. Kouneiher, C. Barbachoux, Cartan’s soldered spaces and conservation
+    laws in physics. Int. J. Geom. Methods Mod. Phys. 12(9) (2015)
+  volume: '12'
+  year: '2015'
+- unstructured: J. Kouneiher, Geometric Continuum and the Birth of the Mathematical-Physics,
+    to appear in IJGMMP, 2018
+- unstructured: T. Krajewski, P. Martinetti, Wilsonian renormalization, differential
+    equations and Hopf algebras, Talk given by T. Krajewski at the conference “Combinatorics
+    and Physics" Max Planck Institut Für Mathematik Bonn, March 2007
+- author: D Kreimer
+  doi: 10.4310/ATMP.1998.v2.n2.a4
+  first-page: '303'
+  journal-title: Adv. Theor. Math. Phys.
+  unstructured: D. Kreimer, On the Hopf algebra structure of perturbative quantum
+    field theories. Adv. Theor. Math. Phys. 2, 303 (1998). arXiv:q-alg/9707029
+  volume: '2'
+  year: '1998'
+- author: D Kreimer
+  doi: 10.4310/ATMP.1998.v2.n2.a4
+  first-page: '303'
+  journal-title: Adv. Theor. Math. Phys.
+  unstructured: D. Kreimer, On the Hopf algebra structure of perturbative quantum
+    field theories. Adv. Theor. Math. Phys. 2, 303–334 (1998)
+  volume: '2'
+  year: '1998'
+- unstructured: G. Lazardies, Introduction to Cosmology, arXiv:hep-ph/9904502
+- author: G Lemaitre
+  first-page: '81'
+  journal-title: Ann. Soc. Sci. Brux.
+  unstructured: G. Lemaitre, Ann. Soc. Sci. Brux. A53, 81 (1933)
+  volume: A53
+  year: '1933'
+- author: Colin MacLarty
+  first-page: '250'
+  issue: '3'
+  journal-title: Not. AMS
+  unstructured: Colin MacLarty, How Grothendieck simplified algebraic geometry. Not.
+    AMS 63(3), 250 (2016)
+  volume: '63'
+  year: '2016'
+- unstructured: 'N.S. Manton, Skyrme fields and instantons, in "Geometry of Lowdimensional
+    Manifolds : 1", ed. by S.K. Donaldson, C.B. Thomas, Lond. Math. Soc. Lec. Notes
+    Ser. 150 (Cambridge University Press, Cambridge, 1990)'
+- author: S Mandelstam
+  doi: 10.1103/PhysRevD.11.3026
+  first-page: '3026'
+  issue: '10'
+  journal-title: Phys. Rev. D
+  unstructured: S. Mandelstam, Soliton operators for the quantized sine-Gordon equation.
+    Phys. Rev. D 11(10), 3026–30 (1975)
+  volume: '11'
+  year: '1975'
+- author: YI Manin
+  first-page: '73'
+  journal-title: 'Symmetry Integrability Geom.: Methods Appl. SIGMA'
+  unstructured: 'Y.I. Manin, M. Marcolli, Big Bang, blowup, and modular curves: algebraic
+    geometry in cosmology. Symmetry Integrability Geom.: Methods Appl. SIGMA 10, 73
+    (2014)'
+  volume: '10'
+  year: '2014'
+- author: JC Maxwell
+  doi: 10.1038/002419a0
+  first-page: '419'
+  journal-title: Nature
+  unstructured: J.C. Maxwell, Mathematical and Physical Science, Section A (Mathematical
+    and Physical Sciences) of the British Association, Liverpool, 1870. Nature 2,
+    419–422 (1870)
+  volume: '2'
+  year: '1870'
+- unstructured: T. Miwa, M. Jimbo, E. Date, Solitons, Cambridge Tracts in Math. 135
+    (Cambridge University Press, Cambridge, 2000)
+- author: C. Montonen
+  doi: 10.1016/0370-2693(77)90076-4
+  first-page: '117'
+  issue: '1'
+  journal-title: Physics Letters B
+  unstructured: C. Montonen, D. Olive, Magnetic monopoles as gauge particles, Phys.
+    Lett. 72B(1) (1977)
+  volume: '72'
+  year: '1977'
+- unstructured: G.W. Moore, Physical Mathematics and the Future, Preprint
+- author: J Neumann von
+  doi: 10.1007/BF01457956
+  first-page: '570'
+  journal-title: Math. Ann.
+  unstructured: J. von Neumann, Die Eindeutigkeit der Schrödingerschen Operatoren.
+    Math. Ann. 104, 570 (1931)
+  volume: '104'
+  year: '1931'
+- unstructured: E.T. Newman, A fundamental solution to the CCC equations, Gen. Relativ.
+    Gravit. 46(5), 1717, 13p (2014). arXiv:1309.7271
+- unstructured: 'H. Nicolai, K. Peeters, M. Zamaklar, Loop Quantum Gravity: An Outside
+    View, 2014. arXiv:hep-th/0501114'
+- doi: 10.1016/0370-2693(78)90357-X
+  unstructured: D. Olive, E. Witten, Supersymmetry algebra that include topological
+    charges, Phys. Lett. 78B(1) (1978)
+- unstructured: P.J.E., Peebles, The Large-scale Structure of the Universe (Princeton
+    University Press, Princeton, 1980)
+- author: PJE Peebles
+  doi: 10.1038/352769a0
+  first-page: '769'
+  journal-title: Nature
+  unstructured: P.J.E. Peebles, D.N. Schramm, E.L. Turner, R.G. Kron, Nature 352,
+    769 (1991)
+  volume: '352'
+  year: '1991'
+- author: Roger Penrose
+  unstructured: 'Roger Penrose, The Road to Reality: A Complete Guide to the Laws
+    of the Universe (A.A. Knopf, New York, 2005)'
+  volume-title: 'The Road to Reality: A Complete Guide to the Laws of the Universe'
+  year: '2005'
+- unstructured: 'R. Penrose, Angular momentum: an approach to combinatorial space-time,
+    in Quantum Theory And Beyond, ed. by T. Bastin (Cambridge University Press, Cambridge,
+    1971)'
+- doi: 10.1017/CBO9780511564048
+  unstructured: R. Penrose, W. Rindler, Spinors and space-time, in Two-Spinor Calculus
+    and Relativitic Fields, vol. 1 (Cambridge University Press, Cambridge, 1984)
+- unstructured: H. Poincaré, Sur les rapport de l’analyse pure et de la physique mathématique,
+    Address to the 1897 ICM, Zurich
+- author: H Poincaré
+  first-page: '1'
+  journal-title: J. Sec. Polyt.
+  unstructured: H. Poincaré, Analysis situs. J. Sec. Polyt. 1, 1–121 (1895)
+  volume: '1'
+  year: '1895'
+- author: H Poincaré
+  first-page: '969'
+  journal-title: C. R. Acad. Sc.
+  unstructured: H. Poincaré, Sur la connexion des surfaces algébriques. C. R. Acad.
+    Sc. 133, 969–973 (1901)
+  volume: '133'
+  year: '1901'
+- author: H Poincaré
+  first-page: '169'
+  journal-title: J. Math. Pures Appl.
+  unstructured: H. Poincaré, Sur les cycles des surfaces algébriques; quatrième complement
+    a l’Analysis situs. J. Math. Pures Appl. 8, 169–214 (1902)
+  volume: '8'
+  year: '1902'
+- author: A Pressley
+  unstructured: A. Pressley, G.B. Segal, Loop Groups (Oxford University Press, Oxford,
+    1986)
+  volume-title: Loop Groups
+  year: '1986'
+- author: HP Robertson
+  doi: 10.1073/pnas.15.11.822
+  first-page: '822'
+  issue: '11'
+  journal-title: Proc. Natl. Acad. Sci.
+  unstructured: H.P. Robertson, On the foundations of relativistic cosmology. Proc.
+    Natl. Acad. Sci. 15(11), 822–829 (1929)
+  volume: '15'
+  year: '1929'
+- unstructured: I. Robinson, Report to the Eddington Group, Cambridge, (1956)
+- author: I Robinson
+  doi: 10.1063/1.1703712
+  first-page: '290'
+  journal-title: J. Math. Phys.
+  unstructured: I. Robinson, J. Math. Phys. 2, 290 (1961)
+  volume: '2'
+  year: '1961'
+- author: C Rovelli
+  unstructured: C. Rovelli, Quantum Gravity (Cambridge University Press, Cambridge,
+    2010)
+  volume-title: Quantum Gravity
+  year: '2010'
+- author: C Rovelli
+  doi: 10.1016/0550-3213(90)90019-A
+  first-page: '80'
+  journal-title: Nucl. Phys. B
+  unstructured: C. Rovelli, L. Smolin, Loop space representation of quantum general
+    relativity. Nucl. Phys. B 331, 80 (1990)
+  volume: '331'
+  year: '1990'
+- doi: 10.1090/conm/365/06710
+  unstructured: 'J. Rosenberg, A selective history of the Stone-von Neumann theorem’,
+    in Operator Algebras, Quantization, and Noncommutative Geometry: A Centennial
+    Celebration Honoring John von Neumann and Marshall H. Stone, ed. by R.S. Doran,
+    R.V. Kadison, Contemporary Mathematics, vol. 365 (American Mathematical Society,
+    2004)'
+- author: Yongbin Ruan
+  doi: 10.4310/jdg/1214457234
+  first-page: '259'
+  issue: '2'
+  journal-title: Journal of Differential Geometry
+  unstructured: Y. Ruan, G. Tian, A mathematical theory of quantum cohomology. J.
+    Differ. Geom. 42, 259–367 (1995). http://projecteuclid.org/euclid.jdg/1214457234
+  volume: '42'
+  year: '1995'
+- unstructured: 'T. Sauer, The Relativity of Discovery: Hilbert’s First Note on the
+    Foundations of Physics. arXiv:physics/9811050'
+- unstructured: U. Majer, T. Sauer, Hilbert’s World Equations and His Vision of a
+    Unified Science. http://arxiv.org/abs/physics/0405110v1
+- author: SS Schweber
+  doi: 10.1515/9780691213286
+  unstructured: 'S.S. Schweber, Qed and the Men Who Made It: Dyson (Schwinger, and
+    Tomonaga, Princeton University Press, Feynman, 1994)'
+  volume-title: 'Qed and the Men Who Made It: Dyson'
+  year: '1994'
+- author: A Sen
+  doi: 10.1016/0370-2693(94)90763-3
+  first-page: '217'
+  journal-title: Phys. Lett. B
+  unstructured: A. Sen, Dyon-monopole bound states, self-dual harmonic forms on the
+    multi-monopole moduli space, and SL(2, Z ) invariance in string theory. Phys.
+    Lett. B 329, 217–221 (1994)
+  volume: '329'
+  year: '1994'
+- author: N Seiberg
+  doi: 10.1016/0550-3213(94)90124-4
+  first-page: '19'
+  journal-title: Nucl. Phys. B
+  unstructured: N. Seiberg, E. Witten, Monopole condensation, and connement in N =
+    2 supersymmetricYang-Mills theory. Nucl. Phys. B 426, 19–52 (1994)
+  volume: '426'
+  year: '1994'
+- doi: 10.1016/0029-5582(62)90775-7
+  unstructured: T.R.H. Skyrme, A Unified Theory for Mesons and Baryons. Nucl. Phys.
+    31, 556 (1962);
+- doi: 10.1098/rspa.1958.0183
+  unstructured: Proc. Roy. Soc. A 247, 260 (1958)
+- author: TRH Skyrme
+  doi: 10.1063/1.1665798
+  first-page: '1735'
+  journal-title: J. Math. Phys.
+  unstructured: T.R.H. Skyrme, Kinks and the Dirac equation. J. Math. Phys. 12, 1735–42
+    (1971)
+  volume: '12'
+  year: '1971'
+- author: THR Skyrme
+  doi: 10.1098/rspa.1961.0018
+  first-page: '127'
+  journal-title: Proc. Roy. Soc.
+  unstructured: T.H.R. Skyrme, A non-linear field theory. Proc. Roy. Soc. A260, 127–138
+    (1961)
+  volume: A260
+  year: '1961'
+- author: C Rovelli
+  doi: 10.1103/PhysRevD.52.5743
+  first-page: '5743'
+  journal-title: Phys. Rev. D
+  unstructured: C. Rovelli, L. Smolin, Spin networks and quantum gravity. Phys. Rev.
+    D 52, 5743–5759 (1995)
+  volume: '52'
+  year: '1995'
+- author: H. Spiesberger
+  doi: 10.1016/B978-012613760-6/50080-2
+  first-page: '1505'
+  unstructured: 'H. Spiesberger, M. Spira, P.M. Zerwas. The Standard Model: Physical
+    Basis and Scattering Experiments. Appears in: Scattering, ed. by R. Pike et al.,
+    vol. 2, (Academic Press, Cambridge, 2002). 1505–1533'
+  volume-title: Scattering
+  year: '2002'
+- author: MH Stone
+  doi: 10.1073/pnas.16.2.172
+  first-page: '172'
+  journal-title: Proc. Nat. Acad. Sci.
+  unstructured: 'M.H. Stone, Linear transformations in Hilbert space, III: operational
+    methods and group theory. Proc. Nat. Acad. Sci. 16, 172–175 (1930)'
+  volume: '16'
+  year: '1930'
+- author: JJ Sylvester
+  doi: 10.1038/001261a0
+  first-page: '261'
+  issue: '10'
+  journal-title: Nature
+  unstructured: J.J. Sylvester, A plea for the mathematician, II. Nature 1(10), 261–263
+    (1870)
+  volume: '1'
+  year: '1870'
+- author: W Thirring
+  doi: 10.1016/0003-4916(58)90015-0
+  first-page: '91'
+  journal-title: Ann. Phys. (N.Y.)
+  unstructured: W. Thirring, Ann. Phys. (N.Y.) 3, 91 (1958)
+  volume: '3'
+  year: '1958'
+- author: P Tod
+  doi: 10.1007/s10714-012-1431-7
+  first-page: '2933'
+  journal-title: Gen. Relativ. Gravitat.
+  unstructured: P. Tod, Penrose’s circles in the CMB and a test of inflation. Gen.
+    Relativ. Gravitat. 44, 2933–2938 (2012). arXiv:1107.1421
+  volume: '44'
+  year: '2012'
+- unstructured: R. Vakil, Foundations of Algebraic Geometry. http://math.stanford.edu/~vakil/216blog/index.html
+- doi: 10.1112/plms/s2-42.1.90
+  unstructured: A.G. Walker, On Milne’s theory of world-structure. Proc. Lond. Math.
+    Soc., Ser. 2, 42(1), 90–127 (1937)
+- unstructured: H. Weyl, Reine Infinitesimalgeometrie, in Weyl, Gesammelte Abhandlungen,
+    4 vols., vol. II (Springer, Berlin, 1968). pp. 1-28, on p. 2
+- author: E Witten
+  doi: 10.4310/jdg/1214437492
+  first-page: '661'
+  journal-title: J. Differ. Geom.
+  unstructured: E. Witten, Supersymmetry and Morse theory. J. Differ. Geom. 17, 661–692
+    (1982)
+  volume: '17'
+  year: '1982'
+- author: E Witten
+  doi: 10.1007/BF01217730
+  first-page: '351'
+  journal-title: Commun. Math. Phys.
+  unstructured: E. Witten, Quantum eld theory and the Jones polynomial. Commun. Math.
+    Phys. 121, 351–399 (1989)
+  volume: '121'
+  year: '1989'
+- author: E Witten
+  doi: 10.4310/MRL.1994.v1.n6.a13
+  first-page: '769'
+  journal-title: Math. Res. Lett.
+  unstructured: E. Witten, Monopoles and four manifolds. Math. Res. Lett. 1, 769–796
+    (1994)
+  volume: '1'
+  year: '1994'
+- author: EDWARD WITTEN
+  doi: 10.1142/9789812798350_0009
+  first-page: '239'
+  unstructured: E. Witten, Quantum field theory and the Jones polynomial, Braid Group,
+    Knot Group, and Statistical Mechanics, ed. by C. N. Yang, M. L. Ke (World Scientific,
+    1989). pp. 239–329
+  volume-title: Braid Group, Knot Theory and Statistical Mechanics
+  year: '1991'
+- author: E Witten
+  doi: 10.1007/BF01223371
+  first-page: '353'
+  issue: '3'
+  journal-title: Comm. Math. Phys.
+  unstructured: E. Witten, Topological quantum field theory. Comm. Math. Phys. 117(3),
+    353–386 (1988)
+  volume: '117'
+  year: '1988'
+- author: KG Wilson
+  doi: 10.1103/RevModPhys.47.773
+  first-page: '773'
+  issue: '4'
+  journal-title: Rev. Mod. Phys.
+  unstructured: 'K.G. Wilson, The renormalization group: critical phenomena and the
+    Kondo problem. Rev. Mod. Phys. 47(4), 773 (1975)'
+  volume: '47'
+  year: '1975'
+- author: CN Yang
+  doi: 10.1111/j.1749-6632.1977.tb26477.x
+  first-page: '86'
+  journal-title: Ann. NY Acad. Sci.
+  unstructured: C.N. Yang, Magnetic monopoles, fiber bundles, and gauge fields. Ann.
+    NY Acad. Sci. 294, 86–97 (1977)
+  volume: '294'
+  year: '1977'
+- author: CN Yang
+  doi: 10.1103/PhysRev.96.191
+  first-page: '191'
+  journal-title: Phys. Rev.
+  unstructured: C.N. Yang, R.L. Mills, Conservation of isotopic spin and isotopic
+    gauge invariance. Phys. Rev. 96, 191–195 (1954)
+  volume: '96'
+  year: '1954'
+- author: W Zimmermann
+  doi: 10.1007/BF01645676
+  first-page: '208'
+  journal-title: Commun. Math. Phys.
+  unstructured: W. Zimmermann, Convergence of Bogoliubov’s method of renormalization
+    in momentum space’. Commun. Math. Phys. 15, 208 (1968)
+  volume: '15'
+  year: '1968'
+- author: J Zinn-Justin
+  unstructured: J. Zinn-Justin, Quantum Field Theory and Critical Phenomena (Oxford
+    University Press, Oxford, 1999)
+  volume-title: Quantum Field Theory and Critical Phenomena
+  year: '1999'
+doi: 10.1007/978-3-319-64813-2_1
+editor: Kouneiher, Joseph
+files:
+- 2018-book-foundationsofmathematicsandphy.pdf
+isbn:
+- '9783319648125'
+- '9783319648132'
+journal: Foundations of Mathematics and Physics One Century After Hilbert
+month: 5
+pages: 1--73
+publisher: Springer International Publishing
+ref: FoundationsOfKounei2018
+tags: math book reference penrose spin spinor twistor differential-geometry survey
+  hilbert fundamental-physics
+time-added: 2021-04-04-16:40:42
+title: Foundations of Mathematics and Physics One Century After Hilbert
+url: http://dx.doi.org/10.1007/978-3-319-64813-2_1
+year: '2018'

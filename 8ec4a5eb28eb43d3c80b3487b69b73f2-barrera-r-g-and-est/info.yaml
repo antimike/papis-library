@@ -1,0 +1,99 @@
+author: Barrera, R G and Estevez, G A and Giraldo, J
+author_list:
+- affiliation: []
+  family: Barrera
+  given: R G
+- affiliation: []
+  family: Estevez
+  given: G A
+- affiliation: []
+  family: Giraldo
+  given: J
+citations:
+- author: Blatt J M
+  year: '1978'
+- author: Bohren C F
+  year: '1983'
+- author: Bronzan J B
+  doi: 10.1119/1.1976655
+  first-page: '1357'
+  issn: http://id.crossref.org/issn/0002-9505
+  issn-type: print
+  journal-title: Am. J. Phys.
+  volume: '39'
+  year: '1971'
+- author: Bronzan J B
+  year: '1982'
+- author: Gray C G
+  doi: 10.1119/1.11364
+  first-page: '169'
+  issn: http://id.crossref.org/issn/0002-9505
+  issn-type: print
+  journal-title: Am. J. Phys.
+  volume: '46'
+  year: '1978'
+- author: Gray C G
+  doi: 10.1119/1.11285
+  first-page: '582'
+  issn: http://id.crossref.org/issn/0002-9505
+  issn-type: print
+  journal-title: Am. J. Phys.
+  volume: '46'
+  year: '1978'
+- author: Gray C G
+  doi: 10.1119/1.11816
+  first-page: '457'
+  issn: http://id.crossref.org/issn/0002-9505
+  issn-type: print
+  journal-title: Am. J. Phys.
+  volume: '47'
+  year: '1979'
+- author: Gray C G
+  year: '1983'
+- author: Gray C G
+  doi: 10.1119/1.11111
+  first-page: '735'
+  issn: http://id.crossref.org/issn/0002-9505
+  issn-type: print
+  journal-title: Am. J. Phys.
+  volume: '46'
+  year: '1978'
+- author: Hill E L
+  doi: 10.1119/1.1933682
+  first-page: '211'
+  issn: http://id.crossref.org/issn/0002-9505
+  issn-type: print
+  journal-title: Am. J. Phys.
+  volume: '22'
+  year: '1954'
+- author: Jackson J D
+  year: '1975'
+- author: Konopinski E
+  year: '1981'
+- author: Lambert R H
+  doi: 10.1119/1.11202
+  first-page: '849'
+  issn: http://id.crossref.org/issn/0002-9505
+  issn-type: print
+  journal-title: Am. J. Phys.
+  volume: '46'
+  year: '1978'
+- author: Morse P M
+  volume: vol 2 vol
+  year: '1953'
+doi: 10.1088/0143-0807/6/4/014
+files:
+- r-g-barrera-1985-eur.-j.-phys.-6-287.pdf
+issue: '4'
+journal: European Journal of Physics
+month: 10
+pages: 287--294
+publisher: IOP Publishing
+ref: VectorSphericaBarrer1985
+tags: vector-spherical-harmonics math magnetostatics magnetism
+time-added: 2021-04-04-00:37:32
+title: Vector spherical harmonics and their application to magnetostatics
+type: article
+url: http://dx.doi.org/10.1088/0143-0807/6/4/014
+volume: '6'
+year: 1985

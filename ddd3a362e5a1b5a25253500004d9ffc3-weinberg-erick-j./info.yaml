@@ -1,0 +1,29 @@
+abstract: Eigenfunctions of total angular momentum for a charged vector field interacting
+  with a magnetic monopole are constructed and their properties studied. In general,
+  these eigenfunctions can be obtained by applying vector operators to the monopole
+  spherical harmonics in a manner similar to that often used for the construction
+  of the ordinary vector spherical harmonics. This construction fails for the harmonics
+  with the minimum allowed angular momentum. These latter form a set of vector fields
+  with vanishing covariant curl and covariant divergence, whose number can be determined
+  by an index theorem.
+archiveprefix: arXiv
+author: Weinberg, Erick J.
+author_list:
+- family: Weinberg
+  given: Erick J.
+doi: 10.1103/PhysRevD.49.1086
+eprint: hep-th/9308054v1
+file: hep-th/9308054v1.pdf
+files:
+- monopole-vector-spherical-harmonics.pdf
+- tmpmmugaldb-a.pdf
+month: Aug
+note: Phys.Rev. D49 (1994) 1086-1092
+primaryclass: hep-th
+ref: hep-th/9308054v1
+tags: math vector-spherical-harmonics
+time-added: 2021-04-04-00:35:25
+title: Monopole Vector Spherical Harmonics
+type: article
+url: http://arxiv.org/abs/hep-th/9308054v1
+year: '1993'
