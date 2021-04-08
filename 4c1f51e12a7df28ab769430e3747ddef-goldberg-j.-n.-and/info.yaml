@@ -1,0 +1,40 @@
+author: Goldberg, J. N. and Macfarlane, A. J. and Newman, E. T. and Rohrlich, F. and
+  Sudarshan, E. C. G.
+author_list:
+- affiliation: []
+  family: Goldberg
+  given: J. N.
+- affiliation: []
+  family: Macfarlane
+  given: A. J.
+- affiliation: []
+  family: Newman
+  given: E. T.
+- affiliation: []
+  family: Rohrlich
+  given: F.
+- affiliation: []
+  family: Sudarshan
+  given: E. C. G.
+citations:
+- doi: 10.1063/1.1931221
+- doi: 10.1063/1.1724257
+- doi: 10.1017/S0305004100033776
+- doi: 10.1103/PhysRev.128.2851
+doi: 10.1063/1.1705135
+files:
+- spin-spherical-harmonics-edth.pdf
+issue: '11'
+journal: Journal of Mathematical Physics
+language: en
+month: 11
+pages: 2155--2161
+publisher: AIP Publishing
+ref: SpinSSphericaGoldbe1967
+tags: math differential-geometry spin spin-spherical-harmonics spinor
+time-added: 2021-04-04-16:56:36
+title: Spin‐s Spherical Harmonics and ð
+type: article
+url: http://dx.doi.org/10.1063/1.1705135
+volume: '8'
+year: 1967
