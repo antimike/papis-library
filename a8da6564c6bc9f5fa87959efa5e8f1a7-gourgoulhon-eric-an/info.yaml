@@ -1,0 +1,8 @@
+author: Gourgoulhon, Eric and Mancini, Marco
+files:
+- tensor-calculus-manifolds-sagemath-implementation.pdf
+ref: SymbolicTensorGourgo2018
+tags: sage python software differential-geometry math
+time-added: 2021-04-10-16:38:39
+title: 'Symbolic tensor calculus on manifolds: a SageMath implementation'
+year: '2018'
