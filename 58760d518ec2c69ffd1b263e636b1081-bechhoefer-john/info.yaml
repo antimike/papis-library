@@ -1,0 +1,29 @@
+abstract: The implications of causality, as captured by the Kramers-Kronig relations
+  between the real and imaginary parts of a linear response function, are familiar
+  parts of the physics curriculum. In 1937, Bode derived a similar relation between
+  the magnitude (response gain) and phase. Although the Kramers-Kronig relations are
+  an equality, Bode's relation is effectively an inequality. This perhaps-surprising
+  difference is explained using elementary examples and ultimately traces back to
+  delays in the flow of information within the system formed by the physical object
+  and measurement apparatus.
+archiveprefix: arXiv
+author: Bechhoefer, John
+author_list:
+- family: Bechhoefer
+  given: John
+doi: 10.1119/1.3614039
+eprint: 1107.0071v1
+file: 1107.0071v1.pdf
+files:
+- kramers-kronig-bode-zero.pdf
+- tmp8alwq7y7-a.pdf
+month: Jun
+note: Am. J. Phys. 79, 1053 (2011)
+primaryclass: physics.class-ph
+ref: 1107.0071v1
+tags: kramers-kronig complex-analysis causality em
+time-added: 2021-04-10-16:49:25
+title: Kramers-Kronig, Bode, and the meaning of zero
+type: article
+url: http://arxiv.org/abs/1107.0071v1
+year: '2011'
