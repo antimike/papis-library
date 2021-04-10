@@ -1,0 +1,483 @@
+author: Toker, Daniel and Sommer, Friedrich T.
+author_list:
+- affiliation: []
+  family: Toker
+  given: Daniel
+- affiliation: []
+  family: Sommer
+  given: Friedrich T.
+citations:
+- article-title: A mathematical theory of communication
+  author: CE Shannon
+  doi: 10.1145/584091.584093
+  first-page: '3'
+  issue: '1'
+  journal-title: ACM SIGMOBILE Mobile Computing and Communications Review
+  volume: '5'
+  year: '2001'
+- article-title: Information theory and neural coding
+  author: A Borst
+  doi: 10.1038/14731
+  first-page: '947'
+  issue: '11'
+  journal-title: Nature neuroscience
+  volume: '2'
+  year: '1999'
+- article-title: A simple coding procedure enhances a neuron’s information capacity
+  author: S Laughlin
+  doi: 10.1515/znc-1981-9-1040
+  first-page: '910'
+  issue: 9-10
+  journal-title: Zeitschrift für Naturforschung c
+  volume: '36'
+  year: '1981'
+- article-title: Efficient coding of natural sounds
+  author: MS Lewicki
+  doi: 10.1038/nn831
+  first-page: '356'
+  issue: '4'
+  journal-title: Nature neuroscience
+  volume: '5'
+  year: '2002'
+- article-title: 'Sparse coding with an overcomplete basis set: A strategy employed
+    by V1?'
+  author: BA Olshausen
+  doi: 10.1016/S0042-6989(97)00169-7
+  first-page: '3311'
+  issue: '23'
+  journal-title: Vision research
+  volume: '37'
+  year: '1997'
+- article-title: Synergy in a neural code
+  author: N Brenner
+  doi: 10.1162/089976600300015259
+  first-page: '1531'
+  issue: '7'
+  journal-title: Neural computation
+  volume: '12'
+  year: '2000'
+- article-title: Theoretical neuroscience
+  author: P Dayan
+  volume: vol. 806
+  year: '2001'
+- unstructured: Barlow HB. Possible principles underlying the transformations of sensory
+    messages. 1961;.
+- unstructured: Ay N, et al. Information geometry on complexity and stochastic interaction.
+    2001;.
+- article-title: Information geometry on complexity and stochastic interaction
+  author: N Ay
+  doi: 10.3390/e17042432
+  first-page: '2432'
+  issue: '4'
+  journal-title: Entropy
+  volume: '17'
+  year: '2015'
+- article-title: Improved measures of integrated information
+  author: M Tegmark
+  doi: 10.1371/journal.pcbi.1005123
+  first-page: e1005123
+  issue: '11'
+  journal-title: PLOS Computational Biology
+  volume: '12'
+  year: '2016'
+- article-title: 'Theories and measures of consciousness: an extended framework'
+  author: AK Seth
+  doi: 10.1073/pnas.0604347103
+  first-page: '10799'
+  issue: '28'
+  journal-title: Proceedings of the National Academy of Sciences
+  volume: '103'
+  year: '2006'
+- article-title: 'From the phenomenology to the mechanisms of consciousness: integrated
+    information theory 3.0'
+  author: M Oizumi
+  doi: 10.1371/journal.pcbi.1003588
+  first-page: e1003588
+  issue: '5'
+  journal-title: PLoS Comput Biol
+  volume: '10'
+  year: '2014'
+- article-title: Measuring integrated information from the decoding perspective
+  author: M Oizumi
+  doi: 10.1371/journal.pcbi.1004654
+  first-page: e1004654
+  issue: '1'
+  journal-title: PLoS Comput Biol
+  volume: '12'
+  year: '2016'
+- article-title: Practical measures of integrated information for time-series data
+  author: AB Barrett
+  doi: 10.1371/journal.pcbi.1001052
+  first-page: e1001052
+  issue: '1'
+  journal-title: PLoS Comput Biol
+  volume: '7'
+  year: '2011'
+- article-title: Causal density and integrated information as measures of conscious
+    level
+  author: AK Seth
+  doi: 10.1098/rsta.2011.0079
+  first-page: '3748'
+  issue: '1952'
+  journal-title: 'Philosophical Transactions of the Royal Society of London A: Mathematical,
+    Physical and Engineering Sciences'
+  volume: '369'
+  year: '2011'
+- article-title: Unified framework for information integration based on information
+    geometry
+  author: M Oizumi
+  doi: 10.1073/pnas.1603583113
+  first-page: '14817'
+  issue: '51'
+  journal-title: Proceedings of the National Academy of Sciences
+  volume: '113'
+  year: '2016'
+- article-title: Information geometry and its applications
+  author: Si Amari
+  volume: vol. 194
+  year: '2016'
+- article-title: 'Integrated information in discrete dynamical systems: motivation
+    and theoretical framework'
+  author: D Balduzzi
+  doi: 10.1371/journal.pcbi.1000091
+  first-page: e1000091
+  issue: '6'
+  journal-title: PLoS Comput Biol
+  volume: '4'
+  year: '2008'
+- unstructured: 'Toker D, Sommer F. Moving Past the Minimum Information Partition:
+    How To Quickly and Accurately Calculate Integrated Information. arXiv preprint
+    arXiv:160501096. 2016;.'
+- article-title: Efficient Algorithms for Searching the Minimum Information Partition
+    in Integrated Information Theory
+  author: J Kitazono
+  doi: 10.3390/e20030173
+  first-page: '173'
+  issue: '3'
+  journal-title: Entropy
+  volume: '20'
+  year: '2018'
+- article-title: Modular brain networks
+  author: O Sporns
+  doi: 10.1146/annurev-psych-122414-033634
+  first-page: '613'
+  journal-title: Annual review of psychology
+  volume: '67'
+  year: '2016'
+- article-title: Normalized cuts and image segmentation
+  author: J Shi
+  doi: 10.1109/34.868688
+  first-page: '888'
+  issue: '8'
+  journal-title: IEEE Transactions on pattern analysis and machine intelligence
+  volume: '22'
+  year: '2000'
+- article-title: Advances in neural information processing systems
+  author: AY Ng
+  first-page: '849'
+  year: '2002'
+- unstructured: Aicher C, Jacobs AZ, Clauset A. Adapting the stochastic block model
+    to edge-weighted networks. arXiv preprint arXiv:13055782. 2013;.
+- article-title: Fast unfolding of communities in large networks
+  author: VD Blondel
+  doi: 10.1088/1742-5468/2008/10/P10008
+  first-page: P10008
+  issue: '10'
+  journal-title: 'Journal of statistical mechanics: theory and experiment'
+  volume: '2008'
+  year: '2008'
+- unstructured: 'Kitazono J, Oizumi M. phi_toolbox.zip; 2017. Available from: <ext-link
+    xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://figshare.com/articles/phi_toolbox_zip/3203326/6"
+    xlink:type="simple">https://figshare.com/articles/phi_toolbox_zip/3203326/6</ext-link>.'
+- article-title: Can the macro beat the micro? Integrated information across spatiotemporal
+    scales
+  author: EP Hoel
+  doi: 10.1093/nc/niw012
+  first-page: niw012
+  issue: '1'
+  journal-title: Neuroscience of Consciousness
+  volume: '2016'
+  year: '2016'
+- article-title: Measuring information-transfer delays
+  author: M Wibral
+  doi: 10.1371/journal.pone.0055809
+  first-page: e55809
+  issue: '2'
+  journal-title: PloS one
+  volume: '8'
+  year: '2013'
+- article-title: 'Connectivity and complexity: the relationship between neuroanatomy
+    and brain dynamics'
+  author: O Sporns
+  doi: 10.1016/S0893-6080(00)00053-8
+  first-page: '909'
+  issue: '8'
+  journal-title: Neural networks
+  volume: '13'
+  year: '2000'
+- article-title: Networks of the Brain
+  author: O Sporns
+  year: '2010'
+- article-title: Small-world brain networks
+  author: DS Bassett
+  doi: 10.1177/1073858406293182
+  first-page: '512'
+  issue: '6'
+  journal-title: The neuroscientist
+  volume: '12'
+  year: '2006'
+- article-title: The modular and integrative functional architecture of the human
+    brain
+  author: MA Bertolero
+  doi: 10.1073/pnas.1510619112
+  first-page: E6798
+  issue: '49'
+  journal-title: Proceedings of the National Academy of Sciences
+  volume: '112'
+  year: '2015'
+- article-title: The diverse club
+  author: M Bertolero
+  doi: 10.1038/s41467-017-01189-w
+  first-page: '1277'
+  issue: '1'
+  journal-title: Nature communications
+  volume: '8'
+  year: '2017'
+- article-title: A whole brain fMRI atlas generated via spatially constrained spectral
+    clustering
+  author: RC Craddock
+  doi: 10.1002/hbm.21333
+  first-page: '1914'
+  issue: '8'
+  journal-title: Human brain mapping
+  volume: '33'
+  year: '2012'
+- article-title: Negative edges and soft thresholding in complex network analysis
+    of resting state functional connectivity data
+  author: AJ Schwarz
+  doi: 10.1016/j.neuroimage.2010.12.047
+  first-page: '1132'
+  issue: '3'
+  journal-title: Neuroimage
+  volume: '55'
+  year: '2011'
+- article-title: Efficiency and cost of economical brain functional networks
+  author: S Achard
+  doi: 10.1371/journal.pcbi.0030017
+  first-page: e17
+  issue: '2'
+  journal-title: PLoS computational biology
+  volume: '3'
+  year: '2007'
+- article-title: Normalized cut group clustering of resting-state FMRI data
+  author: M Van Den Heuvel
+  doi: 10.1371/journal.pone.0002001
+  first-page: e2001
+  issue: '4'
+  journal-title: PloS one
+  volume: '3'
+  year: '2008'
+- article-title: Small-world and scale-free organization of voxel-based resting-state
+    functional connectivity in the human brain
+  author: MP van den Heuvel
+  doi: 10.1016/j.neuroimage.2008.08.010
+  first-page: '528'
+  issue: '3'
+  journal-title: Neuroimage
+  volume: '43'
+  year: '2008'
+- article-title: Resting network plasticity following brain injury
+  author: T Nakamura
+  doi: 10.1371/journal.pone.0008220
+  first-page: e8220
+  issue: '12'
+  journal-title: PloS one
+  volume: '4'
+  year: '2009'
+- article-title: Comparison of characteristics between region-and voxel-based network
+    analyses in resting-state fMRI data
+  author: S Hayasaka
+  doi: 10.1016/j.neuroimage.2009.12.051
+  first-page: '499'
+  issue: '2'
+  journal-title: Neuroimage
+  volume: '50'
+  year: '2010'
+- article-title: Continuous chaos—four prototype equations
+  author: OE Rössler
+  doi: 10.1111/j.1749-6632.1979.tb29482.x
+  first-page: '376'
+  issue: '1'
+  journal-title: Annals of the New York Academy of Sciences
+  volume: '316'
+  year: '1979'
+- doi: 10.1109/ISBI.2012.6235868
+  unstructured: 'Aydore S, Pantazis D, Leahy RM. Phase synchrony in multivariate Gaussian
+    data with applications to cortical networks. In: Biomedical Imaging (ISBI), 2012
+    9th IEEE International Symposium on. IEEE; 2012. p. 1547–1550.'
+- article-title: 'The log-dynamic brain: how skewed distributions affect network operations'
+  author: G Buzsáki
+  doi: 10.1038/nrn3687
+  first-page: '264'
+  issue: '4'
+  journal-title: Nature Reviews Neuroscience
+  volume: '15'
+  year: '2014'
+- article-title: Objective criteria for the evaluation of clustering methods
+  author: WM Rand
+  doi: 10.1080/01621459.1971.10482356
+  first-page: '846'
+  issue: '336'
+  journal-title: Journal of the American Statistical association
+  volume: '66'
+  year: '1971'
+- article-title: 'Multidimensional recording (MDR) and data sharing: an ecological
+    open research and educational platform for neuroscience'
+  author: Y Nagasaka
+  doi: 10.1371/journal.pone.0022561
+  first-page: e22561
+  issue: '7'
+  journal-title: PloS one
+  volume: '6'
+  year: '2011'
+- article-title: 'Testing for nonlinearity in time series: the method of surrogate
+    data'
+  author: J Theiler
+  doi: 10.1016/0167-2789(92)90102-S
+  first-page: '77'
+  issue: 1-4
+  journal-title: 'Physica D: Nonlinear Phenomena'
+  volume: '58'
+  year: '1992'
+- article-title: 'Complex brain networks: graph theoretical analysis of structural
+    and functional systems'
+  author: E Bullmore
+  doi: 10.1038/nrn2575
+  first-page: '186'
+  issue: '3'
+  journal-title: Nature Reviews Neuroscience
+  volume: '10'
+  year: '2009'
+- article-title: Efficient behavior of small-world networks
+  author: V Latora
+  doi: 10.1103/PhysRevLett.87.198701
+  first-page: '198701'
+  issue: '19'
+  journal-title: Physical review letters
+  volume: '87'
+  year: '2001'
+- article-title: Communication dynamics in complex brain networks
+  author: A Avena-Koenigsberger
+  doi: 10.1038/nrn.2017.149
+  first-page: '17'
+  issue: '1'
+  journal-title: Nature Reviews Neuroscience
+  volume: '19'
+  year: '2018'
+- article-title: 'Complex network measures of brain connectivity: uses and interpretations'
+  author: M Rubinov
+  doi: 10.1016/j.neuroimage.2009.10.003
+  first-page: '1059'
+  issue: '3'
+  journal-title: Neuroimage
+  volume: '52'
+  year: '2010'
+- article-title: Modularity and community structure in networks
+  author: ME Newman
+  doi: 10.1073/pnas.0601602103
+  first-page: '8577'
+  issue: '23'
+  journal-title: Proceedings of the national academy of sciences
+  volume: '103'
+  year: '2006'
+- article-title: Collective dynamics of ‘small-world’networks
+  author: DJ Watts
+  doi: 10.1038/30918
+  first-page: '440'
+  issue: '6684'
+  journal-title: nature
+  volume: '393'
+  year: '1998'
+- article-title: Economic small-world behavior in weighted networks
+  author: V Latora
+  doi: 10.1140/epjb/e2003-00095-5
+  first-page: '249'
+  issue: '2'
+  journal-title: The European Physical Journal B-Condensed Matter and Complex Systems
+  volume: '32'
+  year: '2003'
+- article-title: 'Consciousness as integrated information: a provisional manifesto'
+  author: G Tononi
+  doi: 10.2307/25470707
+  first-page: '216'
+  issue: '3'
+  journal-title: The Biological Bulletin
+  volume: '215'
+  year: '2008'
+- article-title: Consciousness, information integration, and the brain
+  author: G Tononi
+  doi: 10.1016/S0079-6123(05)50009-8
+  first-page: '109'
+  journal-title: Progress in brain research
+  volume: '150'
+  year: '2005'
+- article-title: Measuring information integration
+  author: G Tononi
+  doi: 10.1186/1471-2202-4-31
+  first-page: '31'
+  issue: '1'
+  journal-title: BMC neuroscience
+  volume: '4'
+  year: '2003'
+- article-title: 'Seeing slow and seeing fast: two limits on perception'
+  author: AO Holcombe
+  doi: 10.1016/j.tics.2009.02.005
+  first-page: '216'
+  issue: '5'
+  journal-title: Trends in cognitive sciences
+  volume: '13'
+  year: '2009'
+- article-title: Microgenetic approach to the conscious mind
+  author: T Bachmann
+  volume: vol. 25
+  year: '2000'
+- unstructured: Finlay B, Brodsky P. Cortical Evolution as the Expression of a Program
+    for Disproportionate Growth and the Proliferation of Areas-3.05. 2006;.
+- article-title: Partial phase synchronization for multivariate synchronizing systems
+  author: B Schelter
+  doi: 10.1103/PhysRevLett.96.208103
+  first-page: '208103'
+  issue: '20'
+  journal-title: Physical review letters
+  volume: '96'
+  year: '2006'
+- article-title: Generic behavior of master-stability functions in coupled nonlinear
+    dynamical systems
+  author: L Huang
+  doi: 10.1103/PhysRevE.80.036204
+  first-page: '036204'
+  issue: '3'
+  journal-title: Physical Review E
+  volume: '80'
+  year: '2009'
+- article-title: Essentials of Nonlinear Circuit Dynamics with MATLAB<sup>®</sup>
+    and Laboratory Experiments
+  author: A Buscarino
+  year: '2017'
+doi: 10.1371/journal.pcbi.1006807
+files:
+- information-integration-brain-networks.pdf
+issue: '2'
+journal: PLOS Computational Biology
+language: en
+month: 2
+pages: e1006807
+publisher: Public Library of Science (PLoS)
+ref: InformationIntToker2019
+tags: networks brain neuroscience information
+time-added: 2021-04-10-17:17:45
+title: Information integration in large brain networks
+type: article
+url: http://dx.doi.org/10.1371/journal.pcbi.1006807
+volume: '15'
+year: 2019
