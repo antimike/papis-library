@@ -1,0 +1,77 @@
+abstract: <jats:p>The richness of the theory of functions over the complex field makes
+  it natural to look for a similar theory for the only other non-trivial real associative
+  division algebra, namely the quaternions. Such a theory exists and is quite far-reaching,
+  yet it seems to be little known. It was not developed until nearly a century after
+  Hamilton's discovery of quaternions. Hamilton himself (1) and his principal followers
+  and expositors, Tait(2) and Joly(3), only developed the theory of functions of a
+  quaternion variable as far as it could be taken by the general methods of the theory
+  of functions of several real variables (the basic ideas of which appeared in their
+  modern form for the first time in Hamilton's work on quaternions). They did not
+  delimit a special class of regular functions among quaternion-valued functions of
+  a quaternion variable, analogous to the regular functions of a complex variable.</jats:p>
+author: Sudbery, A.
+author_list:
+- affiliation: []
+  family: Sudbery
+  given: A.
+citations:
+- author: Porteous
+  volume-title: Topological geometry
+  year: '1969'
+- author: Tait
+  volume-title: An elementary treatise on quaternions
+  year: '1867'
+- author: Cartan
+  volume-title: Elementary theory of analytic functions of one or several complex
+    variables
+  year: '1963'
+- doi: 10.1007/978-3-662-12927-2
+- doi: 10.1007/BF01199562
+- doi: 10.1007/BF01292723
+- author: Joly
+  volume-title: A manual of quaternions
+  year: '1905'
+- doi: 10.1007/BF02568139
+- author: Hamilton
+  volume-title: Elements of quaternions
+  year: '1866'
+- doi: 10.1007/BF01214301
+- author: Heins
+  volume-title: Complex function theory
+  year: '1968'
+- article-title: Harmonic analysis of generalised vector functions, generalised spin-weighted
+    functions and induced representations
+  author: Mccarthy
+  first-page: '331'
+  journal-title: J. Phys.
+  volume: '10'
+  year: '1977'
+- author: Titchmarsh
+  volume-title: The theory of functions
+  year: '1939'
+- doi: 10.1215/S0012-7094-65-03212-6
+- author: Sugiura
+  volume-title: Unitary representations and harmonic analysis
+  year: '1975'
+- doi: 10.1080/00029890.1973.11993432
+- author: Hervé
+  volume-title: Several complex variables
+  year: '1963'
+- doi: 10.1007/BF01258196
+doi: 10.1017/s0305004100055638
+files:
+- quaternionic-analysis.pdf
+issue: '2'
+journal: Mathematical Proceedings of the Cambridge Philosophical Society
+language: en
+month: 3
+pages: 199--225
+publisher: Cambridge University Press (CUP)
+ref: QuaternionicAnSudber1979
+tags: analysis quaternions complex-analysis math
+time-added: 2021-04-10-17:13:29
+title: Quaternionic analysis
+type: article
+url: http://dx.doi.org/10.1017/s0305004100055638
+volume: '85'
+year: 1979
