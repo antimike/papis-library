@@ -1,0 +1,27 @@
+abstract: We provide a brief overview on the application of the exterior calculus
+  of differential forms to the ab initio formulation of field theories on random simplicial
+  lattices. In this framework, discrete analogues of the exterior derivative and the
+  Hodge star operator are employed for the factorization of discrete field equations
+  into a purely combinatorial (metric-free) part and a metric-dependent part. The
+  Hodge star duality (isomorphism) is invoked to motivate the use of primal and dual
+  lattices (a dual cell complex). The natural role of Whitney forms in the construction
+  of discrete Hodge star operators is stressed.
+archiveprefix: arXiv
+author: Teixeira, F. L.
+author_list:
+- family: Teixeira
+  given: F. L.
+eprint: 1304.3485v2
+file: 1304.3485v2.pdf
+files:
+- tmpj1h2wmt3.pdf
+month: Apr
+primaryclass: math-ph
+ref: 1304.3485v2
+tags: lattice gauge-theory differential-geometry DDG DEC discrete-exterior-calculus
+  field-theory random-simplicial-lattice hodge-star
+time-added: 2021-04-13-01:55:45
+title: Random Lattice Gauge Theories and Differential Forms
+type: article
+url: http://arxiv.org/abs/1304.3485v2
+year: '2013'

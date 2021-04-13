@@ -1,0 +1,61 @@
+author: Monk, Peter
+author_list:
+- affiliation: []
+  family: Monk
+  given: Peter
+citations:
+- doi: 10.1016/0045-7825(80)90004-3
+- author: Baker Garth
+  doi: 10.1051/m2an/1979130200751
+  first-page: '75'
+  journal-title: RAIRO Anal. Numér.
+  volume: '13'
+  year: '1979'
+- unstructured: Philippe G. Ciarlet, The finite element method for elliptic problems,
+    Studies In Mathematics and Its Applications, Vol. 4, Elsevier North-Holland, New
+    York, 1978, 36–690383.65058
+- doi: 10.1007/978-3-642-66165-5
+- author: Girault V.
+  first-page: '55'
+  journal-title: Math. Comp.
+  volume: '51'
+  year: '1988'
+- author: Girault V.
+  volume-title: Finite Element Methods for Navier–Stokes Equations
+  year: '1980'
+- doi: 10.1007/BF03167091
+- doi: 10.1016/0045-7825(87)90053-3
+- author: Leis R.
+  volume-title: Initial Boundary Value Problems in Mathematical Physics
+  year: '1988'
+- doi: 10.1007/BF01396415
+- doi: 10.1007/BF01396370
+- doi: 10.1080/01630568008816057
+- doi: 10.1080/00036818108839349
+- doi: 10.1017/S0308210500032406
+- doi: 10.1080/00036818008839283
+- doi: 10.1016/0021-9991(88)90105-2
+- author: Yee K.
+  doi: 10.1109/TAP.1966.1138693
+  first-page: '302'
+  journal-title: IEEE Trans. Antennas and Propagation
+  volume: '16'
+  year: '1966'
+doi: 10.1137/0729045
+files:
+- fem-maxwell-analysis-monk.pdf
+issue: '3'
+journal: SIAM Journal on Numerical Analysis
+language: en
+month: 6
+pages: 714--729
+publisher: Society for Industrial & Applied Mathematics (SIAM)
+ref: AnalysisOfAFMonk1992
+tags: fem maxwell computational-em discretization time-dependent-maxwell energy-norm
+  nedelec
+time-added: 2021-04-13-03:44:09
+title: Analysis of a Finite Element Method for Maxwell’s Equations
+type: article
+url: http://dx.doi.org/10.1137/0729045
+volume: '29'
+year: 1992

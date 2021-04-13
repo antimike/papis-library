@@ -1,0 +1,29 @@
+author: Marsden, Jerrold E. and Patrick, George W. and Shkoller, Steve
+author_list:
+- affiliation: []
+  family: Marsden
+  given: Jerrold E.
+- affiliation: []
+  family: Patrick
+  given: George W.
+- affiliation: []
+  family: Shkoller
+  given: Steve
+doc_url: http://link.springer.com/article/10.1007/s002200050505/fulltext.html
+doi: 10.1007/s002200050505
+files:
+- marsden1998-article-multisymplecticgeometryvariati.pdf
+issue: '2'
+journal: Communications in Mathematical Physics
+month: 12
+pages: 351--395
+publisher: Springer Science and Business Media LLC
+ref: MultisymplecticMarsde1998
+tags: multisymplectic variational symplectic-integrator nonlinear pde numerics algorithm
+  discretization field-theory
+time-added: 2021-04-13-00:19:38
+title: Multisymplectic Geometry, Variational Integrators, and Nonlinear PDEs
+type: article
+url: http://dx.doi.org/10.1007/s002200050505
+volume: '199'
+year: 1998

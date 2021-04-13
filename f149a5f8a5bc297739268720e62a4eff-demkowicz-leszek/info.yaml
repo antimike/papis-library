@@ -1,0 +1,514 @@
+author: Demkowicz, Leszek
+author_list:
+- affiliation: []
+  family: Demkowicz
+  given: Leszek
+citations:
+- article-title: Hierarchic hp-edge element families for Maxwell's equations on hybrid
+    quadrilateral/triangular meshes
+  author: Ainsworth
+  doi: 10.1016/S0045-7825(01)00259-6
+  first-page: '6709'
+  journal-title: Comput. Methods Appl. Mech. Eng.
+  volume: '190'
+  year: '2001'
+- article-title: Conditioning of hierarchic p-version Nï¿½ï¿½dï¿½ï¿½lecelements on
+    meshes of curvilinear quadrilaterals and hexahedra
+  author: Ainsworth
+  doi: 10.1137/S003614290239590X
+  first-page: '731'
+  issue: '2'
+  journal-title: SIAM J. Numer. Anal.
+  volume: '41'
+  year: '2003'
+- article-title: Hierarchic finite element bases on unstructured tetrahedral meshes
+  author: Ainsworth
+  doi: 10.1002/nme.847
+  first-page: '2103'
+  issue: '14'
+  journal-title: Int. J. Numer. Methods Eng.
+  volume: '58'
+  year: '2003'
+- author: Arnold
+  first-page: '1'
+  journal-title: Quadrilateral H(div) Finite Elements
+  volume: '1283'
+  year: '2002'
+- article-title: Multigrid in \documentclass{article}\usepackage{amsmath}\pagestyle{empty}\begin{document}$\boldsymbol{H}({\rm{div}})$\end{document}
+    and \documentclass{article}\usepackage{amsmath}\pagestyle{empty}\begin{document}$\boldsymbol{H}(\bf{curl})$\end{document}
+  author: Arnold
+  doi: 10.1007/PL00005386
+  first-page: '197'
+  issue: '2'
+  journal-title: Numer. Math.
+  volume: '85'
+  year: '2000'
+- article-title: Adaptive multilevel methods for edge element discretizations of Maxwell's
+    equations
+  author: Beck
+  first-page: '271'
+  journal-title: Surv. Methods Ind.
+  volume: '8'
+  year: '1999'
+- article-title: A perfectly matched layer for the absorption of electromagnetic waves
+  author: Bï¿½ï¿½renger
+  doi: 10.1006/jcph.1994.1159
+  first-page: '185'
+  journal-title: J. Comput. Phys.
+  volume: '114'
+  year: '1994'
+- author: van Bladel
+  volume-title: Singular Electromagnetic Fields and Sources
+  year: '1991'
+- article-title: Discrete compactness and Fortin operator for edge elements
+  author: Boffi
+  doi: 10.1007/s002110000182
+  first-page: '229'
+  issue: '2'
+  journal-title: Numer. Math.
+  volume: '87'
+  year: '2000'
+- article-title: A note on the discrete compactness property and the de Rham diagram
+  author: Boffi
+  doi: 10.1016/S0893-9659(00)00108-7
+  first-page: '33'
+  issue: '1'
+  journal-title: Appl. Math. Lett.
+  volume: '14'
+  year: '2001'
+- article-title: Discrete compactness for the hp version of rectangular edge finite
+    elements
+  author: Boffi
+  doi: 10.1137/04061550X
+  first-page: '979'
+  issue: '3'
+  journal-title: SIAM J. Numer. Anal.
+  volume: '44'
+  year: '2006'
+- article-title: Un noveau point de vue sur les ï¿½ï¿½lï¿½ï¿½ments finis mixtes
+  author: Bossavit
+  first-page: '23'
+  journal-title: Matapli
+  volume: '20'
+  year: '1989'
+- article-title: Analysis of a finite element PML approximation for the three-dimensional
+    time-harmonic Maxwell and acoustic scattering problems
+  author: Bramble
+  doi: 10.1090/S0025-5718-06-01930-2
+  first-page: '597'
+  journal-title: Math. Comput.
+  volume: '76'
+  year: '2007'
+- article-title: 'On traces for functional spaces related to Maxwell''s equations.
+    Part I: an integration by parts formula in Lipschitz polyhedra. Part II: Hodge
+    decompositions on the boundary of Lipschitz polyhedra and applications'
+  author: Buffa
+  doi: 10.1002/1099-1476(20010110)24:1<9::AID-MMA191>3.0.CO;2-2
+  first-page: '9'
+  journal-title: Math. Methods Appl. Sci.
+  volume: '24'
+  year: '2001'
+- author: Cessenat
+  doi: 10.1142/2938
+  volume-title: Mathematical Methods in Electromagnetism
+  year: '1996'
+- author: Ciarlet
+  volume-title: The Finite Element Method for Elliptic Problems
+  year: '1978'
+- article-title: A 3D perfectly matched medium from modified Maxwell's equations with
+    stretched coordinates
+  author: Chew
+  doi: 10.1002/mop.4650071304
+  first-page: '599'
+  issue: '13'
+  journal-title: Microw. Opt. Technol. Lett.
+  volume: '7'
+  year: '1994'
+- article-title: A coercive bilinear form for Maxwell's equations
+  author: Costabel
+  doi: 10.1002/mma.1670120406
+  first-page: '365'
+  issue: '4'
+  journal-title: Math. Methods Appl. Sci.
+  volume: '12'
+  year: '1990'
+- article-title: Singularities of electromagnetic fields in polyhedral domains
+  author: Costabel
+  doi: 10.1007/s002050050197
+  first-page: '221'
+  journal-title: Arch. Ration. Mech. Anal.
+  volume: '151'
+  year: '2000'
+- article-title: Weighted regularization of Maxwell equations in polyhedral domains
+  author: Costabel
+  doi: 10.1007/s002110100388
+  first-page: '239'
+  issue: '2'
+  journal-title: Numer. Math.
+  volume: '93'
+  year: '2002'
+- author: Demkowicz
+  volume-title: Scientific Computing in Electrical Engineering
+  year: '2000'
+- series-title: Proceedings of the 3rd International Workshop, August 20-23, Warnemuende
+- author: Demkowicz
+  doi: 10.1201/9781420011685
+  volume-title: Computing with hp-Adaptive Finite Elements
+  year: '2006'
+- unstructured: Demkowicz L Polynomial Exact Sequences and Projection-Based Interpolation
+    with Applications to Maxwell Equations 06-12 2006b
+- article-title: \documentclass{article}\usepackage{amsmath}\pagestyle{empty}\begin{document}\def\bfH{\mbox{\boldmath
+    $H$}}$H^{1}, \bfH({\rm{curl}})$\end{document} and \documentclass{article}\usepackage{amsmath}\pagestyle{empty}\begin{document}\def\bfH{\mbox{\boldmath
+    $H$}}$\bfH({\rm{div}})$\end{document}-conforming projection-based interpolation
+    in three dimensions. Quasi-optimal p-interpolation estimates
+  author: Demkowicz
+  first-page: '267'
+  journal-title: Comput. Methods Appl. Mech. Eng.
+  volume: '194'
+  year: '2005'
+- author: Demkowicz
+  doi: 10.1201/9781420011692
+  volume-title: Computing with hp-Adaptive Finite Elements
+  year: '2007'
+- article-title: De Rham diagram for hp finite element spaces
+  author: Demkowicz
+  doi: 10.1016/S0898-1221(00)00062-6
+  first-page: '29'
+  issue: 7-8
+  journal-title: Math. Comput. Appl.
+  volume: '39'
+  year: '2000'
+- article-title: Modeling of electromagnetic absorption/scattering problems using
+    hp-adaptive finite elements
+  author: Demkowicz
+  doi: 10.1016/S0045-7825(97)00184-9
+  first-page: '103'
+  issue: 1-2
+  journal-title: Comput. Methods Appl. Mech. Eng.
+  volume: '152'
+  year: '1998'
+- unstructured: Frauenfelder P hp Finite Element Methods on Anisotropically Locally
+    Refined Meshes in Three Dimensions with Stochastic Data 2004
+- article-title: Overlapping Schwarz preconditioners for indefinite time harmonic
+    Maxwell equations
+  author: Gopalakrishnan
+  first-page: '1'
+  journal-title: Math. Comput.
+  volume: '241'
+  year: '2003'
+- article-title: Whitney elements on pyramids
+  author: Gradinaru
+  first-page: '154'
+  journal-title: Electron. Trans. Numer. Anal.
+  volume: '8'
+  year: '1999'
+- article-title: Higher order interpolatory vector bases for computational electromagnetics
+  author: Graglia
+  doi: 10.1109/8.558649
+  first-page: '329'
+  issue: '3'
+  journal-title: IEEE Trans. Antennas Propagat.
+  volume: '45'
+  year: '1997'
+- article-title: Parallel multigrid 3D Maxwell solvers
+  author: Haase
+  doi: 10.1016/S0167-8191(00)00106-X
+  first-page: '761'
+  journal-title: Parallel Comput.
+  volume: '27'
+  year: '2001'
+- article-title: High-order/spectral methods on unstructured grids. I. Time-domain
+    solution of Maxwell's Equations
+  author: Hesthaven
+  doi: 10.1006/jcph.2002.7118
+  first-page: '186'
+  issue: '1'
+  journal-title: J. Comput. Phys.
+  volume: '181'
+  year: '2002'
+- article-title: Multigrid method for Maxwell's equations
+  author: Hiptmair
+  doi: 10.1137/S0036142997326203
+  first-page: '204'
+  issue: '1'
+  journal-title: SIAM J. Numer. Anal.
+  volume: '36'
+  year: '1998'
+- article-title: Canonical construction of finite elements
+  author: Hiptmair
+  doi: 10.1090/S0025-5718-99-01166-7
+  first-page: '1325'
+  journal-title: Math. Comput.
+  volume: '68'
+  year: '1999'
+- doi: 10.2528/PIER00080111
+  unstructured: Hiptmair R Higher Order Whitney Forms 156 2000
+- doi: 10.4171/OWR/2007/05
+  unstructured: Hiptmair R Hoppe RHW Joly P Langer U Computational Electromagnetism
+    and Acoustics 0706 2007
+- article-title: On a discrete compactness property for the Nï¿½ï¿½dï¿½ï¿½lecfinite
+    elements
+  author: Kikuchi
+  first-page: '479'
+  issue: '3'
+  journal-title: J. Fac. Sci. Univ. Tokyo Sect. IA Math.
+  volume: '36'
+  year: '1989'
+- article-title: The application of the hp-finite element method to electromagnetic
+    problems
+  author: Ledger
+  doi: 10.1007/BF02736177
+  first-page: '235'
+  journal-title: Arch. Comput. Methods Sci. Eng.
+  volume: '12'
+  year: '2005'
+- article-title: Efficient, highly accurate hp adaptive finite element computations
+    of the scattering width output of Maxwell's equations
+  author: Ledger
+  first-page: '953'
+  journal-title: Int. J. Numer. Methods Fluids
+  volume: '43'
+  year: '2003'
+- article-title: Full-wave analysis of dielectric waveguides using tangential vector
+    finite elements
+  author: Lee
+  doi: 10.1109/22.85399
+  first-page: '1262'
+  issue: '8'
+  journal-title: IEEE Trans. Microw. Theory Tech.
+  volume: '39'
+  year: '1991'
+- author: McLean
+  volume-title: Strongly Elliptic Systems and Boundary Integral Equations
+  year: '2000'
+- doi: 10.21236/ADA457406
+  unstructured: Michler Ch Demkowicz L Kurtz J Pardo D Improving the Performance of
+    Perfectly Matched Layers by Means of hp -Adaptivity 06-17 2006 www.interscience.wiley.com
+- article-title: On the pï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½and hpï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½extension
+    of Nï¿½ï¿½dï¿½ï¿½lec's curl-conforming elements
+  author: Monk
+  doi: 10.1016/0377-0427(92)00127-U
+  first-page: '117'
+  journal-title: J. Comput. Appl. Math.
+  volume: '53'
+  year: '1994'
+- author: Monk
+  doi: 10.1093/acprof:oso/9780198508885.001.0001
+  volume-title: Finite Element Methods for Maxwell's Equations
+  year: '2003'
+- article-title: Discrete compactness and the approximation of Maxwell's equations
+    in \documentclass{article}\usepackage{amsmath}\pagestyle{empty}\begin{document}\def\doubleIR{\mbox{$I
+    \!\!\!\! R$}}$\doubleIR^{3}$\end{document}
+  author: Monk
+  doi: 10.1090/S0025-5718-00-01229-1
+  first-page: '507'
+  issue: '234'
+  journal-title: Math. Comput.
+  volume: '70'
+  year: '2000'
+- article-title: Mixed finite elements in \documentclass{article}\usepackage{amsmath}\pagestyle{empty}\begin{document}\def\doubleIR{\mbox{$I
+    \!\!\!\! R$}}$\doubleIR^{3}$\end{document}
+  author: Nedelec
+  doi: 10.1007/BF01396415
+  first-page: '315'
+  journal-title: Numer. Math.
+  volume: '35'
+  year: '1980'
+- article-title: A new family of mixed finite elements in \documentclass{article}\usepackage{amsmath}\pagestyle{empty}\begin{document}\def\doubleIR{\mbox{$I
+    \!\!\!\! R$}}$\doubleIR^{3}$\end{document}
+  author: Nedelec
+  first-page: '57'
+  journal-title: Numer. Math.
+  volume: '50'
+  year: '1986'
+- author: Nedelec
+  doi: 10.1007/978-1-4757-4393-7
+  volume-title: 'Acoustic and Electromagnetic Equations: Integral Representations
+    for Harmonic Problems'
+  year: '2001'
+- unstructured: Nigam N Phillips J 2007
+- article-title: Stabilized interior penalty methods for the time-harmonic Maxwell
+    equations
+  author: Perugia
+  doi: 10.1016/S0045-7825(02)00399-7
+  first-page: '4675'
+  issue: 41-42
+  journal-title: Comput. Methods Appl. Mech. Eng.
+  volume: '191'
+  year: '2002'
+- article-title: 'An hp-adaptive finite element method for electromagnetics. Part
+    1: data structure and constrained approximation'
+  author: Rachowicz
+  doi: 10.1016/S0045-7825(99)00137-1
+  first-page: '307'
+  issue: 1-2
+  journal-title: Comput. Methods Appl. Mech. Eng.
+  volume: '187'
+  year: '2000'
+- article-title: 'An hp-adaptive finite element method for electromagnetics. Part
+    II: a 3D implementation'
+  author: Rachowicz
+  doi: 10.1002/nme.396
+  first-page: '147'
+  journal-title: Int. J. Numer. Methods Eng.
+  volume: '53'
+  year: '2002'
+- article-title: hp-adaptive FE modeling for Maxwell's equations. Evidence of exponential
+    convergence
+  author: Rachowicz
+  series-title: ACES' 99, Monterey, 16-20 March, 1999
+- article-title: Electromagnetic scattering by surfaces of arbitrary shape
+  author: Rao
+  doi: 10.1109/TAP.1982.1142818
+  first-page: '409'
+  journal-title: IEEE Trans. Antennas Propagat.
+  volume: '30'
+  year: '1982'
+- article-title: Rapid solution of integral equations of classical potential theory
+  author: Rokhlin
+  doi: 10.1016/0021-9991(85)90002-6
+  first-page: '187'
+  issue: '2'
+  journal-title: Comput. Phys.
+  volume: '60'
+  year: '1985'
+- author: Salazar-Palma
+  volume-title: Iterative and Self-Adaptive Finite-Elements in Electromagnetic Modeling
+  year: '1998'
+- author: Schï¿½ï¿½berl
+  volume-title: Commuting Quasi-Interpolation Operators for Mixed Finite Elements
+  year: '2001'
+- author: Senior
+  doi: 10.1049/PBEW041E
+  volume-title: Approximate Boundary Conditions in Electromagnetics
+  year: '1995'
+- author: Szabo
+  volume-title: Finite Element Analysis
+  year: '1991'
+- author: Taflove
+  edition: '3'
+  volume-title: 'Computational Electrodynamics: The Finite-Difference Time-Domain
+    Method'
+  year: '2005'
+- article-title: Full-wave analysis of dielectric waveguides at a given frequency
+  author: Vardapetyan
+  doi: 10.1090/S0025-5718-02-01411-4
+  first-page: '105'
+  journal-title: Math. Comput.
+  volume: '72'
+  year: '2002'
+- article-title: hp vector finite element method for eigenmode analysis of waveguides
+  author: Vardapetyan
+  doi: 10.1016/S0045-7825(02)00539-X
+  first-page: '185'
+  journal-title: Comput. Methods Appl. Mech. Eng.
+  volume: '192'
+  year: '2003'
+- article-title: Computing cavity modes using the p version of the finite element
+    method
+  author: Wang
+  doi: 10.1109/20.492889
+  first-page: '1934'
+  issue: '3'
+  journal-title: IEEE Trans. Magn.
+  volume: '32'
+  year: '1996'
+- article-title: Hierarchical vector boundary elements and p-adaption for 3-D electromagnetic
+    scattering
+  author: Wang
+  doi: 10.1109/8.650207
+  first-page: '1869'
+  issue: '12'
+  journal-title: IEEE Trans. Antennas Propagat.
+  volume: '45'
+  year: '1997'
+- article-title: Hierarchical vector based functions of arbitrary order for triangular
+    and tetrahedral finite elements
+  author: Webb
+  doi: 10.1109/8.791939
+  first-page: '1244'
+  issue: '8'
+  journal-title: IEEE Antennas Propagat. Mag.
+  volume: '47'
+  year: '1999'
+- article-title: Hierarchical scalar and vector tetrahedra
+  author: Webb
+  doi: 10.1109/20.250686
+  first-page: '1295'
+  issue: '2'
+  journal-title: IEEE Trans. Magn.
+  volume: '29'
+  year: '1993'
+- article-title: A TDIE-based asynchronous electromagnetic-circuit simulator
+  author: Yilmaz
+  doi: 10.1109/LMWC.2006.869861
+  first-page: '122'
+  journal-title: IEEE Microw. Wireless Compon. Lett.
+  volume: '16'
+  year: '2006'
+- unstructured: Zaglmayr S High Order Finite Element Methods for Electromagnetic Field
+    Computation 2006
+- unstructured: Zaglmayr S 2007
+- volume-title: Computational Electromagnetics
+  year: '2003'
+- author: Colton
+  doi: 10.1007/978-3-662-02835-3
+  volume-title: Inverse Acoustic and Electromagnetic Scattering Theory
+  year: '1992'
+- article-title: Finite elements in computational electromagnetism
+  author: Hiptmair
+  doi: 10.1017/S0962492902000041
+  first-page: '237'
+  journal-title: Acta Numer.
+  volume: '11'
+  year: '2002'
+- author: Jin
+  volume-title: The Finite Element Method in Electromagnetics
+  year: '1993'
+- article-title: Mixed and penalty formulations for finite element analysis of an
+    eigenvalue problem in electromagnetism
+  author: Kikuchi
+  doi: 10.1016/0045-7825(87)90053-3
+  first-page: '509'
+  journal-title: Comput. Methods Appl. Mech. Eng.
+  volume: '64'
+  year: '1987'
+- author: Silvester
+  doi: 10.1017/CBO9781139170611
+  edition: '3'
+  volume-title: Finite Elements for Electrical Engineers
+  year: '1996'
+- volume-title: Finite Elements for Wave Electromagnetics
+  year: '1994'
+- author: Volakis
+  doi: 10.1109/9780470544655
+  volume-title: Finite Element Method for Electromagnetics
+  year: '1998'
+- article-title: Curvilinear and higher-order edge elements in electromagnetic field
+    computation
+  author: Wang
+  doi: 10.1109/20.250685
+  first-page: '1491'
+  journal-title: IEEE Trans. Magn.
+  volume: '29'
+  year: '1993'
+- author: Whitney
+  doi: 10.1515/9781400877577
+  volume-title: Geometric Integration Theory
+  year: '1957'
+doi: 10.1002/0470091355.ecm023.pub2
+isbn:
+- 0470846992
+- '9780470846995'
+- 0470091355
+- '9780470091357'
+journal: Encyclopedia of Computational Mechanics
+month: 10
+publisher: John Wiley & Sons, Ltd
+ref: FiniteElementDemkow2007
+tags: fem computational-em maxwell review time-harmonic-maxwell variational nedelec
+  hp-discretization hp-adaptive numerics
+time-added: 2021-04-13-03:56:19
+title: Finite Element Methods for Maxwell Equations
+url: http://dx.doi.org/10.1002/0470091355.ecm023.pub2
+year: 2007

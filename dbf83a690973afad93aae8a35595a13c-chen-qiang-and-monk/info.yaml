@@ -1,0 +1,464 @@
+author: Chen, Qiang and Monk, Peter
+author_list:
+- affiliation: []
+  family: Chen
+  given: Qiang
+- affiliation: []
+  family: Monk
+  given: Peter
+citations:
+- unstructured: T. Abboud, J.-C. Nédélec, and J. Volakis, Stable solution of the retarded
+    potential equations, in Proc. 17th Ann. Rev. Progress in Appl. Comp. Electromagnetics,
+    Monterey, CA, 2001, pp. 146–151.
+- unstructured: J. Adam, A. Serveniere, J. Nédélec, and P. Raviart, Study of an implicit
+    scheme for integrating Maxwell’s equations, Comput. Meth. Appl. Mech. Eng., 22
+    (1980), pp. 327–46.
+- doi: 10.1002/nme.2660
+  unstructured: A. Aimi, M. Diligenti, C. Guardasoni, I. Mazzieri, and S. Panizzi,
+    An energy approach to spacetime Galerkin BEM for wave propagation problems, Int.
+    J. Numer. Meth. Eng., DOI:10.1002/nme.2660 (2009).
+- unstructured: M. Ainsworth, Dispersive and dissipative behaviour of high order discontinuous
+    Galerkin finite element methods, J. Comp. Phys., 198 (2004), pp. 106–130.
+- unstructured: M. Ainsworth, Dispersive properties of high-order Nedelec/edge element
+    approximation of the time-harmonic Maxwell equations, Phil. Trans. Roy. Soc. A,
+    362 (2004), pp. 471–91.
+- unstructured: M. Ainsworth and J. Coyle, Hierarchic finite element bases on unstructured
+    tetrahedral meshes, Int. J. Numer. Meth. Eng., 58 (2003), pp. 2103–30.
+- author: M. Ainsworth
+  doi: 10.1007/s10915-005-9044-x
+  first-page: '5'
+  journal-title: J. Sci. Comput.
+  unstructured: M. Ainsworth, P. Monk, and W. Muniz, Dispersive and dissipative properties
+    of discontinuous Galerkin methods for the wave equation, J. Sci. Comput., 27 (2006),
+    pp. 5–40.
+  volume: '27'
+  year: '2006'
+- unstructured: M. Ainsworth and H. Wajid, Optimally blended spectral-finite element
+    scheme for wave propagation and nonstandard reduced integration, SIAM J. Numer.
+    Anal., 48 (2010), pp. 346–71.
+- unstructured: C. Amrouche, C. Bernardi, M. Dauge, and V. Girault, Vector potentials
+    in three-dimensional nonsmooth domains, Math. Meth. Appl. Sci., 21 (1998), pp. 823–64.
+- unstructured: D. Arnold, R. Falk, and R. Winther, Finite element exterior calculus,
+    homological techniques, and applications, Acta Numer., 15 (2006), pp. 1–155.
+- unstructured: D. Arnold, R. Falk, and R. Winther, Finite element exterior calculus
+    from Hodge theory to numerical stability, Bulletin of the American Mathematical
+    Society, 47 (2010), pp. 281–354.
+- unstructured: D. Arnold, R. Falk, and R. Winthur, Multigrid in H(div) and H(curl),
+    Numer. Math., 85 (2000), pp. 197–217.
+- author: F. Assous
+  doi: 10.1006/jcph.1993.1214
+  first-page: '222'
+  journal-title: J. Comput. Phys.
+  unstructured: F. Assous, P. Degond, E. Heintze, P. Raviart, and J. Segreé, On a
+    finite-element method for solving the three-dimensional Maxwell equations, J.
+    Comput. Phys., 109 (1993), pp. 222–37open.
+  volume: '109'
+  year: '1993'
+- unstructured: 'F. Assous, P. Degond, and J. Segré, Numerical approximation of the
+    Maxwell equations in inhomogeneous media by a p
+
+    1
+
+    conforming finite element method, J. Comput. Phys., 128 (1996), pp. 363–80.'
+- unstructured: F. Assous and M. Mikhaeli, Nitsche type method for approximating boundary
+    conditions in the static maxwell equations, in Proceedings of the 26th IASTED
+    International Conference on Modelling, Identification, and Control, MIC ’07, Anaheim,
+    CA, USA, 2007, ACTA Press, pp. 402–407.
+- unstructured: I. Babuška and S. Sauter, Is the pollution effect of the FEM avoidable
+    for the Helmholtz equation considering high wave numbers?, SIAM J. Numer. Anal.,
+    34 (1997), pp. 2392–423.
+- unstructured: A. Bachelot and A. Pujols, Equations intégrales espace-temps pour
+    le systeème de Maxwell, C.R. Acad. Sc. Paris, Série I, 314 (1992), pp. 639–44.
+- unstructured: C. Balanis, Advanced Engineering Electromagnetics, Wiley, 1989.
+- unstructured: A. Bamberger and T. Ha-Duong, Formulation variationnelle espace-temps
+    pour le calcul par potentiel retarde de la diffraction d’une onde acoustique(i),
+    Math. Mech. in the Appl. Sci, 8 (1986), pp. 405–435.
+- unstructured: 'L. Banjai, Multistep and multistage convolution quadrature for the
+    wave equation: Algorithms and experiments, SIAM J. Sci. Comput., 32 (2010), pp. 2964–2994.'
+- unstructured: L. Banjai and W. Hackbusch, Hierarchical matrix techniques for low-
+    and high-frequency Helmholtz problems, IMA J. Numer. Anal., 28 (2008), pp. 46–79.
+- unstructured: L. Banjai and S. Sauter, Rapid solution of the wave equation in unbounded
+    domains, SIAM J. Numer. Anal., 47 (2008), pp. 227–49.
+- unstructured: R. Barthelmé, P. Ciarlet, and E. Sonnendrücker, Generalized formulations
+    of Maxwell’s equations for numerical Vlasov-Maxwell simulations, Math. Meth. Appl.
+    Sci., 17 (2007), pp. 659–80.
+- unstructured: 'A. Bendali, Numerical analysis of the exterior boundary value problem
+    for the time harmonic Maxwell equations by a boundary finite element method. Part
+    ii: The discrete problem, Math. Comput., 43 (1984), pp. 47–68.'
+- unstructured: J. Bérenger, A perfectly matched layer for the absorption of electromagnetics
+    waves, J. Comput. Phys., 114 (1994), pp. 185–200.
+- unstructured: H. Bertram, Theory of Magnetic Recording, Cambridge University Press,
+    ber94.
+- unstructured: D. Biskamp, An Introduction to Magnetohydrodynamics, Cambridge University
+    Press, 2001.
+- unstructured: D. Boffi, L. Gastaldi, and A. Buffa, Convergence analysis for hyperbolic
+    evolution problems in mixed form, Tech. Rep. 17-PV, I.M.A.T.I.-C.N.R., University
+    of Pavia, Italy, 2005.
+- unstructured: A. Bossavit, Computational Electromagnetism, Academic Press, San Diego,
+    1998.
+- doi: 10.1007/978-1-4612-3172-1
+  unstructured: F. Brezzi and M. Fortin, Mixed and Hybrid Finite Element Methods,
+    Springer, New York, 1991.
+- unstructured: A. Buffa and S. Christiansen, A dual finite element complex on the
+    barycentric refinement, Math. Comput., 76 (2007), pp. 1743–69.
+- author: A. Buffa
+  doi: 10.1002/1099-1476(20010110)24:1<9::AID-MMA191>3.0.CO;2-2
+  first-page: '9'
+  journal-title: Math. Meth. Appl. Sci.
+  unstructured: A. Buffa and P. Ciarlet Jr., On traces for functional spaces related
+    to Maxwell’s equations. I. An integration by parts formula in Lipschitz polyhedra,
+    Math. Meth. Appl. Sci., 24 (2001), pp. 9–30.
+  volume: '24'
+  year: '2001'
+- author: A. Buffa
+  doi: 10.1002/1099-1476(20010110)24:1<31::AID-MMA193>3.0.CO;2-X
+  first-page: '31'
+  journal-title: Math. Meth. Appl. Sci.
+  unstructured: A. Buffa and P. Ciarlet Jr., On traces for functional spaces related
+    to Maxwell’s equations. II. Hodge decompositions on the boundary of Lipschitz
+    polyhedra, Math. Meth. Appl. Sci., 24 (2001), pp. 31–48.
+  volume: '24'
+  year: '2001'
+- author: A. Buffa
+  doi: 10.1016/S0022-247X(02)00455-9
+  first-page: '845'
+  journal-title: J. Math. Anal. Appl.
+  unstructured: 'A. Buffa, M. Costabel, and D. Sheen, On the traces of
+
+    H(curl,Ω) in Lipschitz domains, J. Math. Anal. Appl., 276 (2003), pp. 845–67.'
+  volume: '276'
+  year: '2003'
+- unstructured: A. Buffa, R. Hiptmair, T. von Petersdorff, and C. Schwab, Boundary
+    element methods for Maxwell transmission problems in Lipschitz domains, Numer.
+    Math., 95 (2003), pp. 459–85.
+- unstructured: A. Buffa, P. Houston, and I. Perugia, Discontinuous Galerkin computation
+    of the Maxwell eigenvalues on simplicial meshes, J. Comput. Appl. Math., 204 (2007),
+    pp. 317–33.
+- unstructured: A. Buffa and I. Perugia, Discontinuous galerkin approximation of the
+    Maxwell eigenproblem, SIAM J. Numer. Anal., 44 (2006), pp. 2198–226.
+- unstructured: 'A. Buffa, G. Sangalli, and R. Vazquez, Isogeometric analysis in electromagnetics:
+    B-splines approximation, Comput. Meth. Appl. Mech. Eng., 199 (2010), pp. 1143–52.'
+- unstructured: A. Campbell, An introduction to numerical methods in superconductors,
+    J. Supercond. Nov. Magn., (2010). DOI 10.1007/s10948-010-0895-5.
+- unstructured: Q. Chen, P. Monk, D. Weile, and X. Wang, Analysis of convolution quadrature
+    applied to the time-domain electric field integral equation. to appear in Communications
+    in Computational Physics.
+- unstructured: W. C. Chew and W. H. Weedon, A 3D perfectly matched medium from modified
+    Maxwell’s equations with stretched coordinates, Microwave Opt. Technol. Lett.,
+    7 (1994), pp. 599–604.
+- doi: 10.1007/978-3-642-00585-5_17
+  unstructured: S. Christiansen, Foundations of finite element methods for wave equations
+    of Maxwell type, in Applied Wave Mathematics, E. Quak and T. Soomere, eds., Springer-Verlag,
+    Berlin Heidelberg, 2009, pp. 335–93.
+- unstructured: P. Ciarlet, The Finite Element Method for Elliptic Problems, vol. 4
+    of Studies In Mathematics and Its Applications, North-Holland, New York, 1978.
+- unstructured: P. Ciarlet and E. Jamelot, Continuous Galerkin methods for solving
+    the time-dependent Maxwell equations in 3D geometries, J. Comput. Phys., 226 (2007),
+    pp. 1122–35.
+- unstructured: P. Ciarlet and J. Zou, Fully discrete finite element approaches for
+    time-dependent Maxwell’s equations, Numer. Math., 82 (1999), pp. 193–219.
+- unstructured: 'B. Cockburn and C.-W. Shu, The Runge-Kutta discontinuous Galerkin
+    method for conservation laws V: Multidimensional systems, J. Comput. Phys., 141
+    (1998), pp. 199–224.'
+- doi: 10.1007/978-3-662-04823-8
+  unstructured: G. Cohen, Higher-order numerical methods for transient wave equations,
+    Springer, Berlin, 2002.
+- unstructured: G. Cohen, P. Joly, J. Roberts, and N. Tordjman, Higher order triangular
+    finite elements with mass lumping for the wave equation, SIAM J. Numer. Anal.,
+    38 (2001), pp. 2047–78.
+- unstructured: G. Cohen and P. Monk, Gauss point mass lumping schemes for Maxwell’s
+    equations, Numer. Meth. Partial Diff. Eqns., 14 (1998), pp. 63–88.
+- doi: 10.1007/978-3-662-03537-5
+  unstructured: D. Colton and R. Kress, Inverse Acoustic and Electromagnetic Scattering
+    Theory, Springer-Verlag, New York, 2nd ed., 1998.
+- unstructured: 'K. Cools, F. Andriulli, F. Olyslager, and E. Michielssen, Time domain
+    Calderón identities and their application to the integral equation analysis of
+    scattering by PEC objects Part I: Preconditioning, IEEE Trans. Antennas Propagat.,
+    57 (2009), pp. 2352–64.'
+- doi: 10.1002/0470091355.ecm022
+  unstructured: M. Costabel, Fundamentals, vol. 1 of Encyclopedia of Computational
+    Mechanics, John Wiley & Sons, 2004, ch. Time-dependent Problems with the Boundary
+    Integral Equation Method.
+- unstructured: P. Davies, Numerical stability and convergence of approximations of
+    retarded potential integral equations, SIAM J. Numer. Anal., 31 (1994), pp. 856–75.
+- unstructured: P. Davies and D. Duncan, Averaging techniques for time-marching schemes
+    for retarded potential integral equations, Applied Numerical Mathematics, 23 (1997),
+    pp. 291–310.
+- doi: 10.1007/978-3-642-55483-4_5
+  unstructured: 'L. Demkowicz, hp-adaptive finite elements for time-harmonic Maxwell
+    equations, in Topics in Computational Wave Propagation: Direct and Inverse Problems,
+    M. Ainsworth, P. Davies, D. Duncan, P. Martin, and B. Rynne, eds., vol. 31 of
+    Lecture Notes in Computational Science and Engineering, Springer, 2003.'
+- unstructured: L. Demkowicz, P. Monk, and L. Vardapetyan, de Rham diagram for hp
+    finite element spaces, Comput. Math. Appl., 39 (2000), pp. 29–38.
+- doi: 10.1007/978-3-642-66165-5
+  unstructured: G. Duvaut and J.-L. Lions, Inequalities in Mechanics and Physics,
+    Springer, New York, 1976.
+- unstructured: 'A. Elmkies and P. Joly, Elements finis d’arete et condensation de
+    masse pour les equations de Maxwell: le cas 3D, C. R. Acad. Sci. Paris, Série
+    1, 325 (1997), pp. 1217–22.'
+- unstructured: B. Engquist and A. Majda, Absorbing boundary conditions for the numerical
+    simulation of waves, Math. Comput., 31 (1977), pp. 629–51.
+- unstructured: A. Ergin, B. Shanker, and E. Michielssen, The plane-wave time-domain
+    algorithm for fast analysis of transient phenomena, IEEE Antennas and Propagation
+    Magazine, 41 (1999), pp. 39–52.
+- unstructured: 'L. Fezoui, S. Lanteri, S. Lohrengel, and S. Piperno, Convergence
+    and stability of a discontinuous Galerkin time-domain method for the 3D heterogeneous
+    Maxwell equations on unstructured meshes, ESAIM: Mathematical Modeling and Numerical
+    Analysis, 39 (2005), pp. 1149–76.'
+- author: A. Fisher
+  doi: 10.1109/TAP.2005.854520
+  first-page: '2900'
+  journal-title: IEEE Trans. Antennas Propagat
+  unstructured: A. Fisher, R. Rieben, G. Rodrigue, and D. White, A generalized mass
+    lumping technique for vector finite-element solutions of the time-dependent maxwell
+    equations, IEEE Trans. Antennas Propagat., 53 (2005), pp. 2900–10.
+  volume: '53'
+  year: '2005'
+- unstructured: M. Gander, F. Magoulès, and F. Nataf, Optimized Schwarz methods without
+    overlap for the Helmholtz equation, SIAM J. Sci. Comput., 24 (2002), pp. 36–80.
+- unstructured: N. Geodel, S. Schomann, and T. W. M. Clemens, GPU accelerated Adams-Bashforth
+    multirate discontinuous Galerkin FEM simulation of high-frequency electromagnetic
+    fields, IEEE Trans. Mag., 46 (2010), pp. 2735–8.
+- unstructured: N. Goedel, N. N. T. Warburton, and M. Clemens, Scalability of higher-order
+    discontinuous Galerkin FEM computations for solving electromagnetic wave propagation
+    problems on GPU clusters, IEEE Trans. Mag., 46 (2010), pp. 3469–72.
+- unstructured: J. Gopalakrishnan and J. Pasciak, Overlapping Schwarz preconditioners
+    for indefinite time harmonic Maxwell equations, Math. Comput., 72 (2003), pp. 1–15.
+- unstructured: V. Gradinaru and R. Hiptmair, Whitney elements on pyramids, ETNA,
+    8 (1999), pp. 154–68.
+- unstructured: R. Graglia, D. Wilton, and A. Peterson, Higher order interpolatory
+    vector bases for computational electromagnetics, IEEE Trans. Antennas Propagat.,
+    45 (1997), pp. 329–342.
+- unstructured: M. Grote and T. Mitkova, Explicit local time-stepping methods for
+    Maxwell’s equations, J. Comput. Appl. Math., 234 (2010), pp. 3283–302.
+- unstructured: M. Grote, A. Schneebeli, and D. Schötzau, Interior penalty discontinuous
+    Galerkin method for Maxwell’s equations:Energy norm error estimates, IMA J. Numer.
+    Anal., 204 (2007), pp. 375–86.
+- unstructured: 'M. Grote, A. Schneebeli, and D. Schötzau, Interior penalty discontinuous
+    Galerkin method for Maxwell’s equations: Optimal L
+
+    2
+
+    -norm error estimates, IMA J. Numer. Anal., 28 (2008), pp. 440–68.'
+- unstructured: M. Grote and D. Schoetzau, Optimal Error Estimates for the Fully Discrete
+    Interior Penalty DG Method for the Wave Equation, JOURNAL OF SCIENTIFIC COMPUTING,
+    40 (2009), pp. 257–272.
+- doi: 10.1007/978-3-642-55483-4_8
+  unstructured: 'T. Ha-Duong, On retarded potential boundary integral equations and
+    their discretizations, in Topics in Computational Wave Propagation: Direct and
+    Inverse Problems, M. Ainsworth, ed., Springer, 2003, pp. 301–36.'
+- unstructured: T. Ha-Duong, B. Ludwig, and I. Terrasse, A galerkin BEM for transient
+    acoustic scattering by an absorbing obstacle, Int. J. Numer. Meth. Engng., 57
+    (2003), pp. 1845–82.
+- unstructured: W. Hackbusch, W. Kress, and S. Sauter, Sparse convolution quadrature
+    for time domain boundary integral formulations of the wave equation, IMA J. Numer.
+    Anal., 29 (2009), pp. 158–79.
+- unstructured: T. Hagstrom, Warburton, and D. Givoli, Radiation boundary conditions
+    for time-dependent waves based on complete plane wave expansions, J. Comput. Appl.
+    Math., 234 (2010), pp. 1988–95.
+- unstructured: Y. Haugazeau and P. Lacoste, Condenstaion de la matrice masse pour
+    les éléments finis mixtes de h(rot), Comptes Rendu, Series 1, 316 (1993), pp. 509–12.
+- unstructured: Y. Heaugazeau and P. Lacoste, Lumping of the mass matrix for 1st-order
+    mixed finite elements in h(curl), in Mathematical and Numerical Aspects of Wave
+    Propagation, R. Kleinman, T. Angell, D. Colton, F. Santosa, and I. Stakgold, eds.,
+    SIAM, Philadelphia, 1993, pp. 259–68.
+- unstructured: J. Hesthaven and T. Warburton, Nodal high-order methods on unstructured
+    grids - I. Time-domain solution of Maxwell’s equations, J. Comput. Phys., 181
+    (2002), pp. 186–221.
+- unstructured: R. Hiptmair, Multigrid method for Maxwell’s equations, SIAM J. Numer.
+    Anal., 36 (1998), pp. 204–25.
+- unstructured: 'R. Hiptmair, Discrete Hodge-operators: An algebraic perspective,
+    Journal of Electromagnetic Waves and Applications, 15 (2001), pp. 343–4.'
+- unstructured: R. Hiptmair, Finite elements in computational electromagnetism, Acta
+    Numerica, 11 (2002), pp. 237–339.
+- unstructured: H. Holter, Some experiences from FDTD analysis of infinite and finite
+    multi-octave phased arrays, IEEE Trans. Antennas Propagat., 50 (2002), pp. 1725–31.
+- unstructured: W. Kress and S. Sauter, Numerical treatment of retarded boundary integral
+    equations by sparse panel clustering, IMA J. Numer. Anal., 28 (2008), pp. 162–85.
+- unstructured: T. Lahivaara and T. Huttunen, A non-uniform basis order for the discontinuous
+    Galerkin method of the acoustic and elastic wave equations, Applied Numerical
+    Mathematics, 61 (2011), pp. 473–86.
+- unstructured: A. Laliena and F. Sayas, Theoretical aspects of the application of
+    convolution quadrature to scattering of acoustic waves, Numer. Math., 112 (2009),
+    pp. 637–78.
+- unstructured: P. Lax, Functional Analysis, Wiley, New York, 2002.
+- unstructured: M. Lazebnik, M. Okoniewski, J. Booske, and S. Hagness, Highly accurate
+    Debye models for normal and malignant breast tissue dielectric properties at microwave
+    frequencies, IEEE Microwave and Wireless Components Letters, 17 (2007), pp. 822–4.
+- unstructured: J. Lee and B. Fornberg, Some unconditionally stable time stepping
+    methods for the 3D Maxwell’s equations, J. Comput. Appl. Math., 166 (2004), pp. 497–523.
+- unstructured: J.-F. Lee, WETD - A finite element time domain approach for solving
+    Maxwell’s equations, IEEE Microwave and Guided Wave Lett., 4 (1994), pp. 11–3.
+- unstructured: J.-F. Lee, R. Lee, and A. Cangellaris, Time-domain finite-element
+    methods, IEEE Trans. Antennas Propagat., 45 (1997), pp. 430–42.
+- unstructured: J. Li, Finite element study of the Lorentz model in metamaterials,
+    Comput. Meth. Appl. Mech. Eng., 200 (2011), pp. 626–37.
+- unstructured: J. Li, Y. Chen, and V. Elander, Mathematical and numerical study of
+    wave propagation in negative-index materials, Comput. Meth. Appl. Mech. Eng.,
+    197 (2008), pp. 45–8.
+- author: J. Li
+  doi: 10.4208/jcm.1001-m3072
+  first-page: '693'
+  journal-title: Journal of Computational Mathematics
+  unstructured: J. Li and Z. Zhang, Unified analysis of time domain mixed finite element
+    methods for Maxwell’s equations in dispersive media, Journal of Computational
+    Mathematics, 28 (2010), pp. 693–710.
+  volume: '28'
+  year: '2010'
+- unstructured: C. Lubich, Convolution quadrature and discretized operational calculus.
+    I and II, Numer. Math., 52 (1988), pp. 129–45 and 413–425.
+- unstructured: C. Lubich, On the multistep time discretization of linear initial-boundary
+    value problems and their boundary integral equations, Numer. Math., 67 (1994),
+    pp. 365–89.
+- unstructured: C. Lubich and A. Ostermann, Runge-Kutta methods for parabolic equations
+    and convolution quadratur, Math. Comput., 60 (1993), pp. 105–31.
+- unstructured: C. Makridakis and P. Monk, Time-discrete finite element schemes for
+    Maxwell’s equations, RAIRO - Math. Model. Numer. Anal., 29 (1995), pp. 171–97.
+- unstructured: W. McLean, Strongly Elliptic Systems and Boundary Integral Equations,
+    Cambridge University Press, Cambridge, 2000.
+- unstructured: T. W. M.Clemens, Transient eddy-current calculation with the FI-method,
+    IEEE Trans. Mag., 35 (1999), pp. 1163–6.
+- unstructured: J. Melenk and S. Sauter, Convergence analysis for finite element discretizations
+    of the Helmholtz equation with Dirichlet-to-Neumann boundary conditions, Math.
+    Comput., 79 (2010), pp. 1871–914.
+- unstructured: P. Monk, Analysis of a finite element method for Maxwell’s equations,
+    SIAM J. Numer. Anal., 29 (1992), pp. 714–29.
+- unstructured: P. Monk, An analysis of Nédélec’s method for the spatial discretization
+    of Maxwell’s equations, J. Comput. Appl. Math., 47 (1993), pp. 101–21.
+- doi: 10.1093/acprof:oso/9780198508885.001.0001
+  unstructured: P. Monk, Finite Element Methods for Maxwell’s Equations, Oxford University
+    Press, Oxford, 2003.
+- unstructured: P. Monk and A. Parrott, Phase-accuracy comparisons and improved far-field
+    estimates for 3-D edge elements on tetrahedral meshes, J. Comput. Phys., 170 (2001),
+    pp. 614–41.
+- unstructured: "J. Nédélec, Mixed finite elements in\n\n                  \n    \
+    \                \n                  \n                  \n$${\\mathbb{R}}^{3}$$\n\
+    \n                , Numer. Math., 35 (1980), pp. 315–41."
+- unstructured: "J. Nédélec, A new family of mixed finite elements in\n\n        \
+    \          \n                    \n                  \n                  \n$${\\\
+    mathbb{R}}^{3}$$\n\n                , Numer. Math., 50 (1986), pp. 57–81."
+- doi: 10.1093/imanum/drr015
+  unstructured: N.NIGAM and J. PHILLIPS, High-order finite elements on pyramids. accepted,
+    IMA J. Numer.Anal., 2011.
+- unstructured: 'J. Proakis and D. Manolakis, Digital Signal Processing: Principles,
+    Algorithms, and Applications, Prentice Hall, Upper Saddle River, NJ, third edition ed.,
+    1996.'
+- author: S. Rao
+  doi: 10.1109/TAP.1982.1142818
+  first-page: '409'
+  journal-title: IEEE Trans. Antennas Propagat.
+  unstructured: S. Rao, D. Wilton, and A. Glisson, Electromagnetic scattering by surfaces
+    of arbitrary shap, IEEE Trans. Antennas Propagat., 30 (1982), pp. 409–18.
+  volume: '30'
+  year: '1982'
+- unstructured: P. Raviart and J. Thomas, Primal hybrid finite element methods for
+    2nd order elliptic equations, Math. Comput., 31 (1977), pp. 391–413.
+- author: R. Rieben
+  doi: 10.1016/j.jcp.2004.10.030
+  first-page: '490'
+  journal-title: J. Comput. Phys.
+  unstructured: R. Rieben, G. Rodrigue, and D. White, A high order mixed vector finite
+    element method for solving the time dependent Maxwell equations on unstructured
+    grids, J. Comput. Phys., 204 (2005), pp. 490–519.
+  volume: '204'
+  year: '2005'
+- unstructured: D. Riley and J. Jin, Finite-element time-domain analysis of electrically
+    and magnetically dispersive periodic structures, IEEE Trans. Antennas Propagat.,
+    (2008), pp. 3501–9.
+- author: T. Rylander
+  doi: 10.1006/jcph.2002.7063
+  first-page: '426'
+  journal-title: J. Comput. Phys.
+  unstructured: T. Rylander and A. Bondeson, Stability of explicit-implicit hybrid
+    time-stepping schemes for Maxwell’s equations, J. Comput. Phys., 179 (2002), pp. 426–438.
+  volume: '179'
+  year: '2002'
+- unstructured: M. Schanz and H. Antes, A new visco- and elastodynamic time domain
+    boundary element formulation, Computational Mechanics, 20 (1997), pp. 452–9.
+- unstructured: S. Schomann, N. Goedel, T. Warburton, and M. Clemens, Local timestepping
+    techniques using Taylor expansion for modeling electromagnetic wave propagation
+    with discontinuous Galerkin-FEM, IEEE Trans. Mag., 46 (2010), pp. 3504–7.
+- unstructured: W. Sha, X. Wu, Z. Huang, and M. Chen, Waveguide simulation using the
+    high-order symplectic finite-difference time-domain scheme, Progress In Electromagnetics
+    Research B, 13 (2009), pp. 217–56.
+- unstructured: B. Shanker, A. Ergin, M. Lu, and E. Michielssen, Fast analysis of
+    transient electromagnetic scattering phenomena using the multilevel plane wave
+    time domain algorithm, IEEE Trans. Antennas Propagat., 51 (2003), pp. 628–41.
+- unstructured: B. Shanker, A. A. Ergin, K. Aygun, and E. Michielssen, Analysis of
+    transient electromagnetic scattering phenomena using a two-level plane wave time-domain
+    algorithm, IEEE Trans. Antennas Propagat., 48 (2000), pp. 510–23.
+- unstructured: S. Shaw, Finite element approximation of Maxwell’s equations with
+    Debye memory. to appear in Advances in Numerical Analysis.
+- unstructured: A. Taflove, Computational Electrodynamics, Artech House, Boston, 1995.
+- unstructured: 'I. Terrasse, Résolution mathématique et numérique des équations de
+    Maxwell instationnaires par une méthode de potentiels retardés, Spécialité: Mathématiques
+    Appliquées, Ecole Polytechnique, Paris, France, 1993.'
+- unstructured: A. Toselli, Overlapping Schwarz methods for Maxwell’s equations in
+    three dimensions, Numer. Math., 86 (2000), pp. 733–52.
+- unstructured: X. Wang and D. Weile, Implicit Runge-Kutta methods for the discretization
+    of time domain integral equations. IEEE Trans. Antennas Propagat., (2011), pp. 4651–63.
+- author: X. Wang
+  doi: 10.1109/TAP.2008.926753
+  first-page: '2442'
+  journal-title: IEEE Trans. Antennas Propagat
+  unstructured: X. Wang, R. Wildman, D. Weile, and P. Monk, A finite difference delay
+    modeling approach to the discretization of the time domain integral equations
+    of electromagnetism, IEEE Trans. Antennas Propagat., 56 (2008), pp. 2442–52.
+  volume: '56'
+  year: '2008'
+- unstructured: J. Webb and B. Forghani, Hierarchal scalar and vector tetrahedra,
+    IEEE Trans. Mag., 29 (1993), pp. 1495–8.
+- unstructured: T. Weiland, A discretization method for the solution of Maxwell’s
+    equations for six-component fields, Electronics and Communications AEUE, 31 (1977),
+    pp. 116–120.
+- unstructured: T. Weiland, Numerical solution of Maxwell’s equation for static, resonant
+    and transient problems, in Studies in Electrical and Electronic Engineering 28B,
+    T. Berceli, ed., URSI International Symposium on Electromagnetic Theory Part B,
+    Elsevier, New York, 1986, pp. 537–42.
+- unstructured: D. Weile, G. Pisharody, N.-W. Chen, B. Shanker, and E. Michielssen,
+    A novel scheme for the solution of the time-domain integral equations of electromagnetics,
+    IEEE Trans. Antennas Propagat., 52 (2004), pp. 283–95.
+- unstructured: "Wikipedia: Finite-difference time-domain method. \n             \
+    \     http://en.wikipedia.org/wiki/Finite-difference-time-domain_method\n    \
+    \              \n                , 2010."
+- unstructured: R. Wildman and D. Weile, An accurate broad-band method of moments
+    using higher order basis functions and tree-loop decomposition, IEEE Trans. Antennas
+    Propagat., 52 (2004), pp. 3005–11.
+- author: K. Yee
+  doi: 10.1109/TAP.1966.1138693
+  first-page: '302'
+  journal-title: IEEE Trans. Antennas Propagat
+  unstructured: K. Yee, Numerical solution of initial boundary value problems involving
+    Maxwell’s equations in isotropic media, IEEE Trans. Antennas Propagat., 16 (1966),
+    pp. 302–7.
+  volume: '16'
+  year: '1966'
+- unstructured: A. Yilmaz, D. W. E. Michielssen, and J.-M. Jin, A fast Fourier transform
+    accelerated marching-on-in-time algorithm for electromagnetic analysis, Electromagnetics,
+    21 (2001), pp. 181–97.
+- doi: 10.1109/TAP.2002.802094
+  unstructured: A. Yilmaz, D. Weile, E. Michielssen, and J.-M. Jin, A hierarchical
+    FFT algorithm (HIL-FFT) for the fast analysis of transient electromagnetic scattering
+    phenomena, IEEE Trans. Antennas Propagat., (2002).
+- unstructured: J. Zhao, Analysis of the finite element method for time-dependent
+    Maxwell problems, Math. Comput., 247 (2003), pp. 1089–105.
+doi: 10.1007/978-3-642-23914-4_3
+files:
+- 2012-book-frontiersinnumericalanalysis-d.pdf
+isbn:
+- '9783642239137'
+- '9783642239144'
+journal: Lecture Notes in Computational Science and Engineering
+month: 10
+pages: 149--225
+publisher: Springer Berlin Heidelberg
+ref: IntroductionToChen2011
+tags: time-dependent-maxwell computational-em fem numerics pde mixed-fem time-step
+  edge-fem fourier-laplace integral-equation
+time-added: 2021-04-13-04:17:05
+title: Introduction to Applications of Numerical Analysis in Time Domain Computational
+  Electromagnetism
+type: inbook
+url: http://dx.doi.org/10.1007/978-3-642-23914-4_3
+year: 2011

@@ -1,0 +1,36 @@
+abstract: We study the loop $O(n)$ model on the honeycomb lattice. By means of local
+  non-planar deformations of the lattice, we construct a discrete stress-energy tensor.
+  For $n\in [-2,2]$, it gives a new observable satisfying a part of Cauchy-Riemann
+  equations. We conjecture that it is approximately discrete-holomorphic and converges
+  to the stress-energy tensor in the continuum, which is known to be a holomorphic
+  function with the Schwarzian conformal covariance. In support of this conjecture,
+  we prove it for the case of $n=1$ which corresponds to the Ising model. Moreover,
+  in this case, we show that the correlations of the discrete stress-energy tensor
+  with primary fields converge to their continuous counterparts, which satisfy the
+  OPEs given by the CFT with central charge $c=1/2$.   Proving the conjecture for
+  other values of $n$ remains a challenge. In particular, this would open a road to
+  establishing the convergence of the interface to the corresponding $\mathrm{SLE}_\kappa$
+  in the scaling limit.
+archiveprefix: arXiv
+author: Chelkak, Dmitry and Glazman, Alexander and Smirnov, Stanislav
+author_list:
+- family: Chelkak
+  given: Dmitry
+- family: Glazman
+  given: Alexander
+- family: Smirnov
+  given: Stanislav
+eprint: 1604.06339v3
+file: 1604.06339v3.pdf
+files:
+- tmpxv5qijiv.pdf
+month: Apr
+primaryclass: math-ph
+ref: 1604.06339v3
+tags: discretization stress-energy tensor loop honeycomb-lattice complex-analysis
+  discrete-holomorphic conformal-covariance ising
+time-added: 2021-04-13-03:15:06
+title: Discrete stress-energy tensor in the loop O(n) model
+type: article
+url: http://arxiv.org/abs/1604.06339v3
+year: '2016'

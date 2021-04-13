@@ -1,0 +1,23 @@
+author: Magrez, Hamid and Ziyyat, Abdelhak
+author_list:
+- affiliation: []
+  family: Magrez
+  given: Hamid
+- affiliation: []
+  family: Ziyyat
+  given: Abdelhak
+doi: 10.2528/pierb11050102
+files:
+- element-oriented-computational-em.pdf
+journal: Progress In Electromagnetics Research B
+language: en
+pages: 193--220
+publisher: The Electromagnetics Academy
+ref: ANewElementOMagrez2012
+tags: fem computational-em maxwell topology finite-difference FDTD numerics algorithm
+time-added: 2021-04-13-01:46:29
+title: A NEW ELEMENT-ORIENTED MODEL FOR COMPUTATIONAL ELECTROMAGNETICS
+type: article
+url: http://dx.doi.org/10.2528/pierb11050102
+volume: '36'
+year: 2012

@@ -1,0 +1,37 @@
+abstract: In recent years, two important techniques for geometric numerical discretization
+  have been developed. In computational electromagnetics, spatial discretization has
+  been improved by the use of mixed finite elements and discrete differential forms.
+  Simultaneously, the dynamical systems and mechanics communities have developed structure-preserving
+  time integrators, notably variational integrators that are constructed from a Lagrangian
+  action principle. Here, we discuss how to combine these two frameworks to develop
+  variational spacetime integrators for Maxwell's equations. Extending our previous
+  work, which first introduced this variational perspective for Maxwell's equations
+  without sources, we also show here how to incorporate free sources of charge and
+  current.
+archiveprefix: arXiv
+author: Stern, Ari and Tong, Yiying and Desbrun, Mathieu and Marsden, Jerrold E.
+author_list:
+- family: Stern
+  given: Ari
+- family: Tong
+  given: Yiying
+- family: Desbrun
+  given: Mathieu
+- family: Marsden
+  given: Jerrold E.
+doi: 10.2529/PIERS071019000855
+eprint: 0803.2070v1
+file: 0803.2070v1.pdf
+files:
+- tmp9fsif624.pdf
+month: Mar
+note: PIERS Online, Vol. 4, No. 7, 711-715, 2008
+primaryclass: math.NA
+ref: 0803.2070v1
+tags: variational-integrator maxwell em numerics algorithm discretization computational-em
+  fem discrete-exterior-calculus DEC DDG
+time-added: 2021-04-13-01:43:45
+title: Variational Integrators for Maxwell's Equations with Sources
+type: article
+url: http://arxiv.org/abs/0803.2070v1
+year: '2008'

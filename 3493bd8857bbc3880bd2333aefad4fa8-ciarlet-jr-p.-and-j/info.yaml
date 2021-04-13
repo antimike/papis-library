@@ -1,0 +1,228 @@
+author: Ciarlet Jr, P. and Jung, B. and Kaddouri, S. and Labrunie, S. and Zou, J.
+author_list:
+- affiliation: []
+  family: Ciarlet Jr
+  given: P.
+- affiliation: []
+  family: Jung
+  given: B.
+- affiliation: []
+  family: Kaddouri
+  given: S.
+- affiliation: []
+  family: Labrunie
+  given: S.
+- affiliation: []
+  family: Zou
+  given: J.
+citations:
+- unstructured: Amara, M., Moussaoui, M. Approximation of solutions and singularities
+    coefficients for an elliptic problem in a plane polygonal domain. Technical Report
+    ENS Lyon, Lyon, France, 1989
+- unstructured: 'Apel, T.: Anisotropic finite elements: local estimates and applications.
+    B.G. Teubner, Advances in Numerical Mathematics, 1999'
+- author: Apel
+  doi: 10.1137/0731037
+  first-page: '695'
+  journal-title: SIAM J. Numer. Anal.
+  unstructured: 'Apel, T., Heinrich, B.: Mesh refinement and windowing near edges
+    for some elliptic problem. SIAM J. Numer. Anal. 31, 695–708 (1994)'
+  volume: '31'
+  year: '1994'
+- author: Apel
+  doi: 10.1002/(SICI)1099-1476(199804)21:6<519::AID-MMA962>3.0.CO;2-R
+  first-page: '519'
+  journal-title: Math. Meth. Appl. Sci.
+  unstructured: 'Apel, T., Nicaise, S.: The finite element with anisotropic mesh grading
+    for elliptic problems in domains with corners and edges. Math. Meth. Appl. Sci.
+    21, 519–549 (1998)'
+  volume: '21'
+  year: '1998'
+- author: Apel
+  doi: 10.1002/(SICI)1099-1476(19960110)19:1<63::AID-MMA764>3.0.CO;2-S
+  first-page: '63'
+  journal-title: Math. Meth. Appl. Sci.
+  unstructured: 'Apel, T., Sändig, A., Whiteman, J.: Graded mesh refinement and error
+    estimates for finite element solutions of elliptic boundary value problems in
+    non-smooth domains. Math. Meth. Appl. Sci. 19, 63–85 (1996)'
+  volume: '19'
+  year: '1996'
+- author: Assous
+  doi: 10.1016/S0764-4442(00)00159-2
+  first-page: '391'
+  journal-title: C. R. Acad. Sci. Paris, Ser. I
+  unstructured: 'Assous, F., Ciarlet Jr, P. Garcia, E.: Solution of the time-dependent
+    Maxwell equations with charges in a 2D nonsmooth domain. C. R. Acad. Sci. Paris,
+    Ser. I 330, 391–396 (2000)'
+  volume: '330'
+  year: '2000'
+- author: Assous
+  doi: 10.1006/jcph.2000.6499
+  first-page: '218'
+  journal-title: J. Comput. Phys.
+  unstructured: 'Assous, F., Ciarlet, Jr, P. Segré, J.: Numerical solution to the
+    time-dependent Maxwell equations in two-dimensional singular domains: the Singular
+    Complement Method. J. Comput. Phys. 161, 218–249 (2000)'
+  volume: '161'
+  year: '2000'
+- author: Assous
+  doi: 10.1051/m2an/1998320303591
+  first-page: '359'
+  journal-title: Math. Model. Numer. Anal.
+  unstructured: 'Assous, F., Ciarlet Jr, P. Sonnendrücker, E.: Resolution of the Maxwell
+    equations in a domain with reentrant corners. Math. Model. Numer. Anal. 32, 359–389
+    (1998)'
+  volume: '32'
+  year: '1998'
+- author: Assous
+  doi: 10.1006/jcph.1993.1214
+  first-page: '222'
+  journal-title: J. Comput. Phys.
+  unstructured: 'Assous, F., Degond, P., Heintzé, E., Raviart, P.-A., Segré, J.: On
+    a finite-element method for solving the three-dimensional Maxwell equations. J.
+    Comput. Phys. 109, 222–237 (1993)'
+  volume: '109'
+  year: '1993'
+- author: Blum
+  doi: 10.1007/BF02237995
+  first-page: '53'
+  journal-title: Computing
+  unstructured: 'Blum, H., Dobrowolski, M.: On finite element methods for elliptic
+    equations on domains with corners. Computing 28, 53–63 (1982)'
+  volume: '28'
+  year: '1982'
+- unstructured: 'Brenner, S.C., Nicaise, S., Sung, L.-Y.: Multigrid methods for the
+    computation of edge tensor product singular functions. In preparation'
+- author: Cai
+  doi: 10.1137/S0036142999355945
+  first-page: '286'
+  journal-title: SIAM J. Numer. Anal.
+  unstructured: 'Cai, Z., Kim, S.: A finite element method using singular functions
+    for the Poisson equation: corner singularities. SIAM J. Numer. Anal. 39, 286–299
+    (2001)'
+  volume: '39'
+  year: '2001'
+- author: Jr
+  doi: 10.1016/S1631-073X(03)00030-X
+  first-page: '353'
+  journal-title: C. R. Acad. Sci. Paris, Ser. I
+  unstructured: 'Ciarlet Jr, P. He, J.: The Singular Complement Method for 2D problems.
+    C. R. Acad. Sci. Paris, Ser. I 336, 353–358 (2003)'
+  volume: '336'
+  year: '2003'
+- unstructured: 'Ciarlet Jr, P. Jung, B., Kaddouri, S., Labrunie, S., Zou, J.: The
+    Fourier Singular Complement Method for the Poisson problem. Part II: axisymmetric
+    domains. Submitted to this Journal, 2004'
+- unstructured: 'Ciarlet Jr, P. Jung, B., Kaddouri, S., Labrunie, S., Zou, J.: The
+    Fourier Singular Complement Method for the Poisson problem. Part III: implementation
+    issues. Submitted, 2004'
+- doi: 10.1016/S1570-8659(05)80039-0
+  unstructured: 'Ciarlet, P.: Basic error estimates for elliptic problems. In: P.
+    Ciarlet, J.-L. Lions (eds.), Handbook of Numerical Analysis, Volume II, North
+    Holland, 1991, pp. 17–352'
+- author: Costabel
+  doi: 10.1016/0022-247X(91)90104-8
+  first-page: '527'
+  journal-title: J. Math. Anal. Appl.
+  unstructured: 'Costabel, M.: A coercive bilinear form for Maxwell''s equations.
+    J. Math. Anal. Appl. 157, 527–541 (1991)'
+  volume: '157'
+  year: '1991'
+- author: Costabel
+  doi: 10.1007/s002050050197
+  first-page: '221'
+  journal-title: Arch. Rational Mech. Anal.
+  unstructured: 'Costabel, M., Dauge, M.: Singularities of electromagnetic fields
+    in polyhedral domains. Arch. Rational Mech. Anal. 151, 221–276 (2000)'
+  volume: '151'
+  year: '2000'
+- unstructured: 'Garcia, E.: Résolution des équations de Maxwell instationnaires avec
+    charges dans des domaines non-convexes. PhD Thesis, Paris 6 University, France,
+    2002'
+- doi: 10.1007/978-3-642-61623-5
+  unstructured: 'Girault, V., Raviart, P.-A.: Finite element methods for Navier–Stokes
+    equations. Springer–Verlag, Berlin, 1986'
+- author: Grisvard
+  doi: 10.1002/mana.19871320119
+  first-page: '281'
+  journal-title: Math. Nachr.
+  unstructured: 'Grisvard, P.: Edge behavior of the solution of an elliptic problem.
+    Math. Nachr. 132, 281–299 (1987)'
+  volume: '132'
+  year: '1987'
+- unstructured: 'Grisvard, P.: Singularities in boundary value problems. RMA 22, Masson,
+    Paris, 1992'
+- author: Heinrich
+  doi: 10.1002/mma.1670161202
+  first-page: '837'
+  journal-title: Math. Meth. Appl. Sci.
+  unstructured: 'Heinrich, B.: Singularity functions at axisymmetric edges and their
+    representation by Fourier series. Math. Meth. Appl. Sci. 16, 837–854 (1993)'
+  volume: '16'
+  year: '1993'
+- author: Heinrich
+  doi: 10.1137/S0036142994266108
+  first-page: '1885'
+  journal-title: SIAM J. Numer. Anal.
+  unstructured: 'Heinrich, B.: The Fourier-finite element method for Poisson''s equation
+    in axisymmetric domains with edges. SIAM J. Numer. Anal. 33, 1885–1911 (1996)'
+  volume: '33'
+  year: '1996'
+- author: Heinrich
+  first-page: '571'
+  journal-title: 'Part II: The Fourier-finite-element approximation of non-tensorial
+    singularities. Advances in Mathematical Sciences and Applications'
+  unstructured: 'Heinrich, B., Nicaise, S., Weber, B.: Elliptic interface problems
+    in axisymmetric domains. Part II: The Fourier-finite-element approximation of
+    non-tensorial singularities. Advances in Mathematical Sciences and Applications
+    10, 571–600 (2000)'
+  volume: '10'
+  year: '2000'
+- author: Lenczner
+  doi: 10.1051/m2an/1993270403951
+  first-page: '395'
+  journal-title: Modél. Math. Anal. Numér.
+  unstructured: 'Lenczner, M.: Méthode de calcul du coefficient de singularité pour
+    la solution du problème de Laplace dans un domaine diédral. Modél. Math. Anal.
+    Numér. 27, 395–420 (1993)'
+  volume: '27'
+  year: '1993'
+- author: Moussaoui
+  first-page: '199'
+  journal-title: 'In: P. Grisvard et al, (eds.), Singularities and constructive methods
+    for their treatment, Springer Verlag,'
+  unstructured: 'Moussaoui, M.: Sur l''approximation des solutions du problème de
+    Dirichlet dans un ouvert avec coins. In: P. Grisvard et al, (eds.), Singularities
+    and constructive methods for their treatment, Springer Verlag, 1121, 199–206 (1984)'
+  volume: '1121'
+  year: '1984'
+- unstructured: 'Raugel, G.: Résolution numérique de problèmes elliptiques dans des
+    domaines avec coins. PhD Thesis, Rennes University, France, 1978'
+- author: Stephan
+  doi: 10.1002/mma.1670100309
+  first-page: '339'
+  journal-title: Math. Meth. Appl. Sci.
+  unstructured: 'Stephan, E., Whiteman, J.R.: Singularities of the Laplacian at corners
+    and edges of three-dimensional domains and their treatment with finite element
+    methods. Math. Meth. Appl. Sci. 10, 339–350 (1988)'
+  volume: '10'
+  year: '1988'
+doc_url: http://link.springer.com/article/10.1007/s00211-005-0621-6/fulltext.html
+doi: 10.1007/s00211-005-0621-6
+files:
+- fscm-part-i.pdf
+issue: '3'
+journal: Numerische Mathematik
+language: en
+month: 9
+pages: 423--450
+publisher: Springer Science and Business Media LLC
+ref: TheFourierSinCiarle2005
+tags: fourier-singular-complement poisson prismatic-domain axisymmetric FSCM numerics
+time-added: 2021-04-13-04:37:56
+title: 'The Fourier Singular Complement Method for the Poisson problem. Part I: prismatic
+  domains'
+type: article
+url: http://dx.doi.org/10.1007/s00211-005-0621-6
+volume: '101'
+year: 2005

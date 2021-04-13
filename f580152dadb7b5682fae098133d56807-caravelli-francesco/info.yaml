@@ -1,0 +1,34 @@
+abstract: We present a mapping of dynamical graphs and, in particular, the graphs
+  used in the Quantum Graphity models for emergent geometry, into an Ising hamiltonian
+  on the line graph of a complete graph with a fixed number of vertices. We use this
+  method to study the properties of Quantum Graphity models at low temperature in
+  the limit in which the valence coupling constant of the model is much greater than
+  the coupling constants of the loop terms. Using mean field theory we find that an
+  order parameter for the model is the average valence of the graph. We calculate
+  the equilibrium distribution for the valence as an implicit function of the temperature.
+  In the approximation in which the temperature is low, we find the first two Taylor
+  coefficients of the valence in the temperature expansion. A discussion of the susceptibility
+  function and a generalization of the model are given in the end.
+archiveprefix: arXiv
+author: Caravelli, Francesco and Markopoulou, Fotini
+author_list:
+- family: Caravelli
+  given: Francesco
+- family: Markopoulou
+  given: Fotini
+doi: 10.1103/PhysRevD.84.024002
+eprint: 1008.1340v3
+file: 1008.1340v3.pdf
+files:
+- tmpz8qb8-c0.pdf
+month: Aug
+note: Phys.Rev.D84:024002,2011
+primaryclass: gr-qc
+ref: 1008.1340v3
+tags: quantum-graphity low-temperature graph-theory emergent-geometry hamiltonian
+  ising
+time-added: 2021-04-13-00:49:47
+title: Properties of Quantum Graphity at Low Temperature
+type: article
+url: http://arxiv.org/abs/1008.1340v3
+year: '2010'

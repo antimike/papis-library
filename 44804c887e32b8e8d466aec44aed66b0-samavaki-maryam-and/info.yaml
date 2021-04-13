@@ -1,0 +1,31 @@
+abstract: We study properties of the solutions to Navier-Stokes system on compact
+  Riemannian manifolds. The motivation for such a formulation comes from atmospheric
+  models as well as some thin film flows on curved surfaces. There are different choices
+  of the diffusion operator which have been used in previous studies, and we make
+  a few comments why the choice adopted below seems to us the correct one. This choice
+  leads to the conclusion that Killing vector fields are essential in analyzing the
+  qualitative properties of the flow. We give several results illustrating this and
+  analyze also the linearized version of Navier-Stokes system which is interesting
+  in numerical applications. Finally we consider the 2 dimensional case which has
+  specific characteristics, and treat also the Coriolis effect which is essential
+  in atmospheric flows.
+archiveprefix: arXiv
+author: Samavaki, Maryam and Tuomela, Jukka
+author_list:
+- family: Samavaki
+  given: Maryam
+- family: Tuomela
+  given: Jukka
+eprint: 1812.09015v2
+file: 1812.09015v2.pdf
+files:
+- tmpiq1j6q-4.pdf
+month: Dec
+primaryclass: math.NA
+ref: 1812.09015v2
+tags: differential-geometry navier-stokes pde
+time-added: 2021-04-13-04:58:07
+title: Navier-Stokes equations on Riemannian manifolds
+type: article
+url: http://arxiv.org/abs/1812.09015v2
+year: '2018'

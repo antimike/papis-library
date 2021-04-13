@@ -1,0 +1,133 @@
+author: Yavari, Arash
+author_list:
+- affiliation: []
+  family: Yavari
+  given: Arash
+citations:
+- doi: 10.1007/978-1-4612-1029-0
+- unstructured: 'Beauće, V. d. , and Sen, S. “Discretizing geometry and preserving
+    topology I: A discrete exterior calculus,” preprint, 2006 (unpublished).'
+- author: Bossavit A.
+  volume-title: Computational Electromagnetism
+  year: '1998'
+- author: Bossavit A.
+  first-page: '474'
+  issn: http://id.crossref.org/issn/0997-7546
+  issn-type: print
+  journal-title: Eur. J. Mech. B/Fluids
+  volume: '10'
+  year: '1991'
+- author: Bossavit A.
+  doi: 10.1108/03321640310474877
+  first-page: '470'
+  issn: http://id.crossref.org/issn/0332-1649
+  issn-type: print
+  journal-title: Compel
+  volume: '22'
+  year: '2003'
+- doi: 10.1063/1.525603
+- doi: 10.2307/1968752
+- doi: 10.1016/S0378-4754(00)00198-1
+- doi: 10.1063/1.355770
+- author: Cosmi F.
+  first-page: '365'
+  issn: http://id.crossref.org/issn/1526-1492
+  issn-type: print
+  journal-title: Comput. Model. Eng. Sci.
+  volume: '2'
+  year: '2001'
+- unstructured: Desbrun, M., Hirani, A. N. , Leok, M., and Marsden, J. E. “Discrete
+    exterior calculus,” preprint, 2003 (unpublished).
+- doi: 10.1109/PROC.1981.12048
+- doi: 10.1007/978-3-642-61752-2
+- author: Ferretti E.
+  first-page: '51'
+  issn: http://id.crossref.org/issn/1526-1492
+  issn-type: print
+  journal-title: Comput. Model. Eng. Sci.
+  volume: '4'
+  year: '2003'
+- author: Flanders H.
+  volume-title: Differential Forms and Application to Physical Sciences
+  year: '1990'
+- author: Frankel T.
+  volume-title: 'The Geometry of Physics: An Introduction'
+  year: '1997'
+- doi: 10.1007/BF01607019
+- author: Gross P.
+  doi: 10.1017/CBO9780511756337
+  volume-title: 'Electromagnetic Theory and Computation: A Topological Approach'
+  year: '2004'
+- author: Guillemin V.
+  volume-title: Differential Topology
+  year: '1974'
+- author: Hatcher A.
+  volume-title: Algebraic Topology
+  year: '2002'
+- unstructured: Hirani, A. N. , Ph.D. thesis, California Institute of Technology,
+    2003.
+- doi: 10.1007/s00033-007-6141-8
+- author: Lee J. M.
+  volume-title: Introduction to Topological Manifolds
+  year: '2000'
+- author: Lee J. M.
+  doi: 10.1007/b98852
+  volume-title: Riemannian Manifold An Introduction to Curves
+  year: '1997'
+- doi: 10.1007/s00205-002-0212-y
+- author: Lovelock D.
+  volume-title: Tensors, Differential Forms and Variational Principles
+  year: '1989'
+- author: Marsden J. E.
+  volume-title: Mathematical Foundations of Elasticity
+  year: '1983'
+- author: Munkres J.
+  volume-title: Elements of Algebraic Topology
+  year: '1984'
+- author: Nakahara M.
+  volume-title: Geometry, Topology and Physics
+  year: '2003'
+- doi: 10.1016/S0927-0256(02)00412-3
+- author: Patnaik S. N.
+  doi: 10.2514/3.10662
+  first-page: '820'
+  issn: http://id.crossref.org/issn/0001-1452
+  issn-type: print
+  journal-title: AIAA J.
+  volume: '29'
+  year: '1991'
+- doi: 10.1093/comjnl/21.3.243
+- doi: 10.1007/BF00281556
+- doi: 10.1063/1.532767
+- author: Tonti E.
+  first-page: '237'
+  issn: http://id.crossref.org/issn/1526-1492
+  issn-type: print
+  journal-title: Comput. Model. Eng. Sci.
+  volume: '2'
+  year: '2001'
+- author: Tonti E.
+  volume-title: On the Formal Structure of Physical Theories
+  year: '1975'
+- doi: 10.1016/0307-904X(76)90023-8
+- author: Weyl H.
+  volume-title: Space, Time, Matter
+  year: '1922'
+doi: 10.1063/1.2830977
+files:
+- elasticity-geometric-discretization.pdf
+issue: '2'
+journal: Journal of Mathematical Physics
+language: en
+month: 2
+pages: 022901
+publisher: AIP Publishing
+ref: OnGeometricDiYavari2008
+tags: math pde discretization geometry differential-geometry fem elasticity numerics
+  DEC FEEC
+time-added: 2021-04-12-22:35:30
+title: On geometric discretization of elasticity
+type: article
+url: http://dx.doi.org/10.1063/1.2830977
+volume: '49'
+year: 2008

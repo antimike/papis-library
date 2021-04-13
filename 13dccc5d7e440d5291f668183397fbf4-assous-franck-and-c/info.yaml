@@ -1,0 +1,95 @@
+author: Assous, Franck and Ciarlet, Patrick and Labrunie, Simon
+author_list:
+- affiliation: []
+  family: Assous
+  given: Franck
+- affiliation: []
+  family: Ciarlet
+  given: Patrick
+- affiliation: []
+  family: Labrunie
+  given: Simon
+citations:
+- author: Assous
+  doi: 10.1002/mma.279
+  first-page: '49'
+  journal-title: Mathematical Methods in the Applied Sciences
+  volume: '25'
+  year: '2002'
+- author: Bernardi
+  unstructured: 'Spectral Methods for Axisymmetric Domains, Gauthier-Villars North
+    Holland: Paris, Amsterdam, 1999.'
+  volume-title: Spectral Methods for Axisymmetric Domains
+  year: '1999'
+- author: Mercier
+  doi: 10.1051/m2an/1982160404051
+  first-page: '405'
+  journal-title: RAIRO Analyse Num�rique
+  volume: '16'
+  year: '1982'
+- author: Costabel
+  doi: 10.1007/s002050050197
+  first-page: '221'
+  journal-title: Archive for Rational Mechanics and Analysis
+  volume: '151'
+  year: '2000'
+- author: Assous
+  doi: 10.1002/(SICI)1099-1476(199904)22:6<485::AID-MMA46>3.0.CO;2-E
+  first-page: '485'
+  journal-title: Mathematical Methods in the Applied Sciences
+  volume: '22'
+  year: '1999'
+- author: Assous
+  unstructured: Resolution of axisymmetric Maxwell equations. Technical Report no.
+    50, In-stitut �lie Cartan, Nancy, 2001. http://www.iecn.u-nancy.fr/Preprint/publis/Textes/2001-50.ps.
+  year: '2001'
+- author: Assous
+  doi: 10.1051/m2an/1998320303591
+  first-page: '359'
+  journal-title: Mod�l. Math. Anal. Num�r
+  volume: '32'
+  year: '1998'
+- author: Grisvard
+  unstructured: 'Singularities in Boundary-Value Problems, RMA 22. Masson: Paris,
+    1992.'
+  volume-title: Singularities in Boundary-Value Problems
+  year: '1992'
+- author: Abramowitz
+  unstructured: 'Handbook of Mathematical Functions. Dover: New York, 1965.'
+  volume-title: Handbook of Mathematical Functions
+  year: '1965'
+- author: Ciarlet
+  doi: 10.1051/m2an/1997310202131
+  first-page: '213'
+  journal-title: Mod�l. Math. Anal. Num�r.
+  volume: '31'
+  year: '1997'
+- author: Girault
+  doi: 10.1007/978-3-642-61623-5
+  unstructured: 'Finite Element Method for Navier-Stokes Equations. Springer: Berlin,
+    1986.'
+  volume-title: Finite Element Method for Navier-Stokes Equations
+  year: '1986'
+- author: Garcia
+  first-page: '293'
+  journal-title: Comptes Rendus des Seances de l'Academie des Sciences Serie I
+  volume: '334'
+  year: '2002'
+doc_url: https://onlinelibrary.wiley.com/doi/full/10.1002/mma.400
+doi: 10.1002/mma.400
+files:
+- axisymmetric-maxwell-solution.pdf
+issue: '10'
+journal: Mathematical Methods in the Applied Sciences
+language: en
+month: 7
+pages: 861--896
+publisher: Wiley
+ref: SolutionOfAxiAssous2003
+tags: axisymmetric numerics computational-maxwell static-maxwell time-dependent-maxwell
+time-added: 2021-04-13-04:29:58
+title: Solution of axisymmetric Maxwell equations
+type: article
+url: http://dx.doi.org/10.1002/mma.400
+volume: '26'
+year: 2003

@@ -1,0 +1,312 @@
+author: Grady, Leo J. and Polimeni, Jonathan R.
+author_list:
+- affiliation: []
+  family: Grady
+  given: Leo J.
+- affiliation: []
+  family: Polimeni
+  given: Jonathan R.
+citations:
+- author: A. Barabasi
+  doi: 10.1126/science.286.5439.509
+  first-page: '509'
+  issue: '5439'
+  journal-title: Science
+  unstructured: 'Barabasi, A., Albert, R.: Emergence of scaling in random networks.
+    Science 286(5439), 509–512 (1999)'
+  volume: '286'
+  year: '1999'
+- author: A.L. Barabasi
+  unstructured: 'Barabasi, A.L.: Linked: How Everything Is Connected to Everything
+    Else and What It Means for Business, Science, and Everyday Life. Plume, Cambridge
+    (2003)'
+  volume-title: 'Linked: How Everything Is Connected to Everything Else and What It
+    Means for Business, Science, and Everyday Life'
+  year: '2003'
+- author: N. Biggs
+  unstructured: 'Biggs, N., Lloyd, E., Wilson, R.: Graph Theory, 1736–1936. Clarendon,
+    Oxford (1986)'
+  volume-title: Graph Theory, 1736–1936
+  year: '1986'
+- author: P.B. Bochev
+  doi: 10.1007/0-387-38034-5_5
+  first-page: '89'
+  series-title: The IMA Volumes in Mathematics and Its Applications
+  unstructured: 'Bochev, P.B., Hyman, J.M.: Principles of mimetic discretizations
+    of differential operators. In: Arnold, D.N., Bochev, P.B., Lehoucq, R.B., Nicolaides,
+    R.A., Shashkov, M. (eds.) Compatible Spatial Discretizations. The IMA Volumes
+    in Mathematics and Its Applications, vol. 142, pp. 89–119. Springer, New York
+    (2006)'
+  volume-title: Compatible Spatial Discretizations
+  year: '2006'
+- author: A. Bossavit
+  unstructured: 'Bossavit, A.: Computational Electromagnetism. Academic Press, San
+    Diego (1998)'
+  volume-title: Computational Electromagnetism
+  year: '1998'
+- unstructured: 'Branin, F.H. Jr.: The algebraic-topological basis for network analogies
+    and the vector calculus. In: Proc. of Conf. on Generalized Networks, pp. 453–491,
+    Brooklyn, NY (1966)'
+- author: M. Buchanan
+  unstructured: 'Buchanan, M.: Nexus: Small Worlds and the Groundbreaking Theory of
+    Networks. Norton, New York (2003)'
+  volume-title: 'Nexus: Small Worlds and the Groundbreaking Theory of Networks'
+  year: '2003'
+- author: N.A. Christakis
+  unstructured: 'Christakis, N.A., Fowler, J.H.: Connected: The Surprising Power of
+    Our Social Networks and How They Shape Our Lives. Little, Brown and Company, London
+    (2009)'
+  volume-title: 'Connected: The Surprising Power of Our Social Networks and How They
+    Shape Our Lives'
+  year: '2009'
+- author: F.R.K. Chung
+  series-title: Regional Conference Series in Mathematics
+  unstructured: 'Chung, F.R.K.: Spectral Graph Theory. Regional Conference Series
+    in Mathematics, vol. 92. Am. Math. Soc., Providence (1997)'
+  volume-title: Spectral Graph Theory
+  year: '1997'
+- author: R.L. Courant
+  doi: 10.1090/S0002-9904-1943-07818-4
+  first-page: '1'
+  journal-title: Bulletin of the American Mathematical Society
+  unstructured: 'Courant, R.L.: Variational methods for the solution of problems of
+    equilibrium and vibration. Bulletin of the American Mathematical Society 43, 1–23
+    (1943)'
+  volume: '43'
+  year: '1943'
+- author: R.L. Courant
+  doi: 10.1007/BF01448839
+  first-page: '32'
+  issue: '1'
+  journal-title: Mathematische Annalen
+  unstructured: 'Courant, R.L., Friedrichs, K., Lewy, H.: Über die partiellen Differenzengleichungen
+    der mathematischen Physik. Mathematische Annalen 100(1), 32–74 (1928)'
+  volume: '100'
+  year: '1928'
+- author: M.J. Crowe
+  unstructured: 'Crowe, M.J.: A History of Vector Analysis: The Evolution of the Idea
+    of a Vectorial System. Dover, New York (1994)'
+  volume-title: 'A History of Vector Analysis: The Evolution of the Idea of a Vectorial
+    System'
+  year: '1994'
+- doi: 10.1145/1198555.1198666
+  unstructured: 'Desbrun, M., Kanso, E., Tong, Y.: Discrete differential forms for
+    computational modeling. In: Proc. of SIGGRAPH (2005)'
+- author: M. Desbrun
+  doi: 10.1016/j.cagd.2007.07.005
+  first-page: '427'
+  issue: 8–9
+  journal-title: Computer Aided Geometric Design
+  unstructured: 'Desbrun, M., Polthier, K.: Discrete differential geometry. Computer
+    Aided Geometric Design 24(8–9), 427 (2007)'
+  volume: '24'
+  year: '2007'
+- author: J. Dieudonné
+  unstructured: 'Dieudonné, J.: A History of Algebraic and Differential Topology,
+    1900–1960. Springer, Berlin (1989)'
+  volume-title: A History of Algebraic and Differential Topology, 1900–1960
+  year: '1989'
+- author: B. Eckmann
+  doi: 10.1007/BF02566245
+  first-page: '240'
+  journal-title: Commentarii Mathematici Helvetici
+  unstructured: 'Eckmann, B.: Harmonische Funktionen und Randwertaufgaben in einem
+    Komplex. Commentarii Mathematici Helvetici 17, 240–245 (1945)'
+  volume: '17'
+  year: '1945'
+- author: A. Elmoataz
+  doi: 10.1109/TIP.2008.924284
+  first-page: '1047'
+  issue: '7'
+  journal-title: IEEE Transactions on Image Processing
+  unstructured: 'Elmoataz, A., Lézoray, O., Bougleux, S.: Nonlocal discrete regularization
+    on weighted graphs: A framework for image and manifold processing. IEEE Transactions
+    on Image Processing 17(7), 1047–1060 (2008)'
+  volume: '17'
+  year: '2008'
+- author: L. Euler
+  first-page: '128'
+  journal-title: Commentarii Academiae Scientiarum Petropolitanae
+  unstructured: 'Euler, L.: Solutio problematis ad geometriam situs pertinentis. Commentarii
+    Academiae Scientiarum Petropolitanae 8, 128–140 (1736)'
+  volume: '8'
+  year: '1736'
+- author: L. Grady
+  doi: 10.1109/TPAMI.2006.233
+  first-page: '1768'
+  issue: '11'
+  journal-title: IEEE Transactions on Pattern Analysis and Machine Intelligence
+  unstructured: 'Grady, L.: Random walks for image segmentation. IEEE Transactions
+    on Pattern Analysis and Machine Intelligence 28(11), 1768–1783 (2006)'
+  volume: '28'
+  year: '2006'
+- author: L. Grady
+  doi: 10.1109/TIP.2009.2028258
+  first-page: '2547'
+  issue: '11'
+  journal-title: IEEE Transactions on Image Processing
+  unstructured: 'Grady, L., Alvino, C.: The piecewise smooth Mumford-Shah functional
+    on an arbitrary graph. IEEE Transactions on Image Processing 18(11), 2547–2561
+    (2009)'
+  volume: '18'
+  year: '2009'
+- author: P.W. Gross
+  doi: 10.1017/CBO9780511756337
+  unstructured: 'Gross, P.W., Kotiuga, P.R.: Electromagnetic Theory and Computation:
+    A Topological Approach. Cambridge University Press, Cambridge (2004)'
+  volume-title: 'Electromagnetic Theory and Computation: A Topological Approach'
+  year: '2004'
+- author: W.R. Hamilton
+  first-page: '489'
+  issue: '3'
+  journal-title: Philosophical Magazine
+  unstructured: 'Hamilton, W.R.: On quaternions, or on a new system of imaginaries
+    in algebra. Philosophical Magazine 25(3), 489–495 (1844)'
+  volume: '25'
+  year: '1844'
+- unstructured: 'Hirani, A.N.: Discrete exterior calculus. Ph.D. thesis, California
+    Institute of Technology (2003)'
+- author: I. James
+  unstructured: 'James, I.: History of Topology. North-Holland, Amsterdam (1999)'
+  volume-title: History of Topology
+  year: '1999'
+- unstructured: 'Jiang, X., Lim, L.H., Yao, Y., Ye, Y.: Statistical ranking and combinatorial
+    Hodge theory. Mathematical Programming (to appear)'
+- author: M. Kass
+  doi: 10.1007/BF00133570
+  first-page: '321'
+  issue: '4'
+  journal-title: International Journal of Computer Vision
+  unstructured: 'Kass, M., Witkin, A., Terzopoulos, D.: Snakes: Active contour models.
+    International Journal of Computer Vision 1(4), 321–331 (1988)'
+  volume: '1'
+  year: '1988'
+- author: G. Kirchhoff
+  doi: 10.1002/andp.18471481202
+  first-page: '497'
+  journal-title: Annalen der Physik und Chemie
+  unstructured: 'Kirchhoff, G.: Über die Auflösung der Gleichungen, auf welche man
+    bei der Untersuchung der linearen Verteilung galvanischer Ströme geführt wird.
+    Annalen der Physik und Chemie 72, 497–508 (1847)'
+  volume: '72'
+  year: '1847'
+- unstructured: 'Kotiuga, P.R.: Hodge decompositions and computational electromagnetics.
+    Ph.D. thesis, McGill University, Montréal, Canada (1984)'
+- author: G. Kron
+  unstructured: 'Kron, G.: Diakoptics: The Piecewise Solution of Large Scale Systems.
+    MacDonald, London (1963)'
+  volume-title: 'Diakoptics: The Piecewise Solution of Large Scale Systems'
+  year: '1963'
+- unstructured: 'Lévy, B.: Laplace-Beltrami eigenfunctions towards an algorithm that
+    “understands” geometry. In: IEEE International Conference on Shape Modeling and
+    Applications SMI 2006, p. 13 (2006)'
+- author: C. Mattiusi
+  doi: 10.1016/S1076-5670(00)80012-9
+  first-page: '1'
+  journal-title: Advances in Imaging and Electron Physics
+  unstructured: 'Mattiusi, C.: The finite volume, finite difference, and finite elements
+    methods as numerical methods for physical field problems. Advances in Imaging
+    and Electron Physics 113, 1–146 (2000)'
+  volume: '113'
+  year: '2000'
+- author: H. Poincaré
+  first-page: '1'
+  issue: '1'
+  journal-title: Journal de l’École Polytechnique
+  unstructured: 'Poincaré, H.: Analysis situs. Journal de l’École Polytechnique 2(1),
+    1–123 (1895)'
+  volume: '2'
+  year: '1895'
+- author: J.P. Roth
+  doi: 10.1073/pnas.41.7.518
+  first-page: '518'
+  issue: '7'
+  journal-title: Proceedings of the National Academy of Sciences of the United States
+    of America
+  unstructured: 'Roth, J.P.: An application of algebraic topology to numerical analysis:
+    On the existence of a solution to the network problem. Proceedings of the National
+    Academy of Sciences of the United States of America 41(7), 518–521 (1955)'
+  volume: '41'
+  year: '1955'
+- author: J. Sethian
+  unstructured: 'Sethian, J.: Level Set Methods and Fast Marching Methods. Cambridge
+    University Press, Cambridge (1999)'
+  volume-title: Level Set Methods and Fast Marching Methods
+  year: '1999'
+- author: G. Strang
+  unstructured: 'Strang, G., Fix, G.J.: An Analysis of the Finite Element Method.
+    Prentice-Hall, Englewood Cliffs (1973)'
+  volume-title: An Analysis of the Finite Element Method
+  year: '1973'
+- author: S. Strogatz
+  doi: 10.1038/35065725
+  first-page: '268'
+  issue: '6825'
+  journal-title: Nature
+  unstructured: 'Strogatz, S.: Exploring complex networks. Nature 410(6825), 268–276
+    (2001)'
+  volume: '410'
+  year: '2001'
+- author: G. Tewari
+  doi: 10.1016/j.cag.2006.08.019
+  first-page: '917'
+  issue: '6'
+  journal-title: Computers & Graphics
+  unstructured: 'Tewari, G., Gotsman, C., Gortler, S.: Meshing genus-1 point clouds
+    using discrete one-forms. Computers & Graphics 30(6), 917–926 (2006)'
+  volume: '30'
+  year: '2006'
+- author: E. Tonti
+  doi: 10.1016/0307-904X(76)90023-8
+  first-page: '37'
+  journal-title: Applied Mathematical Modelling
+  unstructured: 'Tonti, E.: The reason for analogies between physical theories. Applied
+    Mathematical Modelling I, 37–50 (1976)'
+  volume: I
+  year: '1976'
+- author: D. Watts
+  doi: 10.1038/30918
+  first-page: '440'
+  issue: '6684'
+  journal-title: Nature
+  unstructured: 'Watts, D., Strogatz, S.: Collective dynamics of ‘small-world’ networks.
+    Nature 393(6684), 440–442 (1998)'
+  volume: '393'
+  year: '1998'
+- author: D.J. Watts
+  unstructured: 'Watts, D.J.: Six Degrees: The Science of a Connected Age. Norton,
+    New York (2004)'
+  volume-title: 'Six Degrees: The Science of a Connected Age'
+  year: '2004'
+- author: H. Weyl
+  first-page: '153'
+  issue: '6'
+  journal-title: Revista Matemática Hispano-Americana
+  unstructured: 'Weyl, H.: Repartición de corriente en una red conductora. Revista
+    Matemática Hispano-Americana 5(6), 153–164 (1923)'
+  volume: '5'
+  year: '1923'
+- doi: 10.1109/INFCOM.2007.259
+  unstructured: 'Zhang, F., Li, H., Jiang, A., Chen, J., Luo, P.: Face tracing based
+    geographic routing in nonplanar wireless networks. In: Proc. of the 26th IEEE
+    INFOCOM (2007)'
+- doi: 10.1111/j.1467-8659.2010.01655.x
+  unstructured: 'Zhang, H., van Kaick, O., Dyer, R.: Spectral mesh processing. In:
+    Computer Graphics Forum, pp. 1–29 (2008)'
+doi: 10.1007/978-1-84996-290-2_1
+files:
+- discrete-calculus-applied-graphs.pdf
+isbn:
+- '9781849962896'
+- '9781849962902'
+journal: Discrete Calculus
+pages: 1--9
+publisher: Springer London
+ref: DiscreteCalculGrady2010
+tags: math differential-geometry graph-theory numerics computation discrete-exterior-calculus
+  DEC
+time-added: 2021-04-12-22:22:57
+title: 'Discrete Calculus: History and Future'
+type: inbook
+url: http://dx.doi.org/10.1007/978-1-84996-290-2_1
+year: 2010

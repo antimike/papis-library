@@ -1,0 +1,51 @@
+author: Falk, Richard S. and Neilan, Michael
+author_list:
+- affiliation: []
+  family: Falk
+  given: Richard S.
+- affiliation: []
+  family: Neilan
+  given: Michael
+citations:
+- author: Argyris J. H.
+  first-page: '701'
+  journal-title: Aero. J. Roy. Aero. Soc.
+  volume: '72'
+  year: '1968'
+- doi: 10.1007/BF02576171
+- doi: 10.1090/S0025-5718-1985-0771031-7
+- doi: 10.1007/s10915-011-9549-4
+- doi: 10.1090/S0025-5718-05-01804-1
+- doi: 10.1007/s10915-006-9107-7
+- doi: 10.1137/100794250
+- doi: 10.1016/j.jcp.2013.01.006
+- doi: 10.1016/j.cma.2009.06.016
+- doi: 10.1137/S0036142901383910
+- doi: 10.1090/S0025-5718-03-01629-6
+- author: Scott L. R.
+  first-page: '11'
+  journal-title: Math. Model. Numer. Anal.
+  volume: '9'
+  year: '1985'
+- doi: 10.1090/S0025-5718-1990-1011446-7
+- doi: 10.1007/s10092-006-0124-6
+- doi: 10.1007/BF01396303
+doi: 10.1137/120888132
+files:
+- stokes-complexes-pointwise-mass-conservation.pdf
+issue: '2'
+journal: SIAM Journal on Numerical Analysis
+language: en
+month: 1
+pages: 1308--1326
+publisher: Society for Industrial & Applied Mathematics (SIAM)
+ref: StokesComplexeFalk2013
+tags: stokes-complex fem stability pointwise-mass-conservation conforming-fem mixed-fem
+  stokes de-rham-complex
+time-added: 2021-04-13-04:55:11
+title: Stokes Complexes and the Construction of Stable Finite Elements with Pointwise
+  Mass Conservation
+type: article
+url: http://dx.doi.org/10.1137/120888132
+volume: '51'
+year: 2013

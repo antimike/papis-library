@@ -1,0 +1,36 @@
+abstract: 'Models of discrete space and space-time that exhibit continuum-like behavior
+  at large lengths could have profound implications for physics. They may tame the
+  infinities that arise from quantizing gravity, and dispense with the machinery of
+  the real numbers, which has no direct observational support. Yet despite sophisticated
+  attempts at formulating discrete space, researchers have failed to construct even
+  the simplest geometries. We investigate graphs as the most elementary discrete models
+  of two-dimensional space. We show that if space is discrete, it must be disordered,
+  by proving that all planar lattice graphs exhibit the same taxicab metric as square
+  grids. We give an explicit recipe for growing disordered discrete space by sampling
+  a Boltzmann distribution of graphs at low temperature. We then propose three conditions
+  which any discrete model of Euclidean space must meet: have a Hausdorff dimension
+  of two, support unique straight lines and obey Pythagoras'' theorem. Our model satisfies
+  all three, making it the first discrete model in which continuum-like behavior is
+  recovered at large lengths.'
+archiveprefix: arXiv
+author: Farr, Robert Stanley and Fink, Thomas M. A.
+author_list:
+- family: Farr
+  given: Robert Stanley
+- family: Fink
+  given: Thomas M. A.
+doi: 10.1103/PhysRevE.100.022308
+eprint: 1904.09868v1
+file: 1904.09868v1.pdf
+files:
+- tmpghe7jx0u.pdf
+month: Apr
+note: Phys. Rev. E 100, 022308 (2019)
+primaryclass: cond-mat.stat-mech
+ref: 1904.09868v1
+tags: phase-transition emergent-geometry discretization fundamental-physics
+time-added: 2021-04-13-00:54:09
+title: A phase transition creates the geometry of the continuum from discrete   space
+type: article
+url: http://arxiv.org/abs/1904.09868v1
+year: '2019'

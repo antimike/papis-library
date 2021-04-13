@@ -1,0 +1,28 @@
+abstract: I define a statistical model of graphs in which 2-dimensional spaces arise
+  at low temperature. The configurations are given by graphs with a fixed number of
+  edges and the Hamiltonian is a simple, local function of the graphs. Simulations
+  show that there is a transition between a low-temperature regime in which the graphs
+  form triangulations of 2-dimensional surfaces and a high-temperature regime, where
+  the surfaces disappear. I use data for the specific heat and other observables to
+  discuss whether this is a phase transition. The surface states are analyzed with
+  regard to topology and defects.
+archiveprefix: arXiv
+author: Conrady, Florian
+author_list:
+- family: Conrady
+  given: Florian
+doi: 10.1007/s10955-011-0135-9
+eprint: 1009.3195v3
+file: 1009.3195v3.pdf
+files:
+- tmp0t5beprb.pdf
+month: Sep
+note: J.Statist.Phys.142:898,2011
+primaryclass: gr-qc
+ref: 1009.3195v3
+tags: low-temperature graph-theory emergent-geometry hamiltonian phase-transition
+time-added: 2021-04-13-00:52:23
+title: Space as a low-temperature regime of graphs
+type: article
+url: http://arxiv.org/abs/1009.3195v3
+year: '2010'

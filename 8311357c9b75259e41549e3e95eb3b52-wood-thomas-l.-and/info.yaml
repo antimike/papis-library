@@ -1,0 +1,26 @@
+author: Wood, Thomas L. and None, None
+author_list:
+- affiliation: []
+  family: Wood
+  given: Thomas L.
+- affiliation: []
+  family: null
+  given: null
+doi: 10.25088/complexsystems.27.2.127
+files:
+- emergent-nonlocal-dynamics.pdf
+issue: '2'
+journal: Complex Systems
+month: 6
+pages: 127--144
+publisher: Wolfram Research, Inc.
+ref: NonlocalAndLiWood2018
+tags: emergent-geometry nonlocal light-cone information-propagation discretization
+  quantum-information substitution-network
+time-added: 2021-04-13-01:15:05
+title: Nonlocal and Light Cone Dynamics Emergent from Information-Propagating Complete
+  Graph
+type: article
+url: http://dx.doi.org/10.25088/complexsystems.27.2.127
+volume: '27'
+year: 2018

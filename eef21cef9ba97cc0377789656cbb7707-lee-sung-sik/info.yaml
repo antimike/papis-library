@@ -1,0 +1,816 @@
+author: Lee, Sung-Sik
+author_list:
+- affiliation: []
+  family: Lee
+  given: Sung-Sik
+citations:
+- doi: 10.1002/andp.19163540702
+  unstructured: A. Einstein, Die Grundlage der allgemeinen Relativit¨atstheorie, Ann.
+    Phys. 49 (1916) 769.
+- unstructured: 'B.S. DeWitt, Quantum Theory of Gravity. 1. The Canonical Theory,
+    Phys. Rev. 160 (1967) 1113 [
+
+    INSPIRE
+
+
+    ].'
+- doi: 10.1007/BF02733251
+  unstructured: T. Regge, General relativity without coordinates, Nuovo Cim. 19 (1961)
+    558.
+- unstructured: 'S. Weinberg, Ultraviolet divergences in quantum theories of gravitation,
+    in General Relativity: An Einstein Centenary Survey, Cambridge University Press,
+    Cambridge U.K. (1980), pg. 790.'
+- unstructured: 'A. Ashtekar, New Variables for Classical and Quantum Gravity, Phys.
+    Rev. Lett. 57 (1986) 2244 [
+
+    INSPIRE
+
+
+    ].'
+- doi: 10.1103/PhysRevD.79.084008
+  unstructured: 'P. Horava, Quantum Gravity at a Lifshitz Point, Phys. Rev. D 79 (2009)
+    084008 [
+
+    arXiv:0901.3775
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: 'P. Di Francesco, P.H. Ginsparg and J. Zinn-Justin, 2 − D Gravity
+    and random matrices, Phys. Rept. 254 (1995) 1 [
+
+    hep-th/9306153
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: 'J.M. Maldacena, The Large N limit of superconformal field theories
+    and supergravity, Int. J. Theor. Phys. 38 (1999) 1113 [
+
+    hep-th/9711200
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- doi: 10.4310/ATMP.1998.v2.n2.a2
+  unstructured: 'E. Witten, Anti-de Sitter space and holography, Adv. Theor. Math.
+    Phys. 2 (1998) 253 [
+
+    hep-th/9802150
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: 'S.S. Gubser, I.R. Klebanov and A.M. Polyakov, Gauge theory correlators
+    from noncritical string theory, Phys. Lett. B 428 (1998) 105 [
+
+    hep-th/9802109
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- doi: 10.1103/PhysRevD.55.5112
+  unstructured: 'T. Banks, W. Fischler, S.H. Shenker and L. Susskind, M theory as
+    a matrix model: A Conjecture, Phys. Rev. D 55 (1997) 5112 [
+
+    hep-th/9610043
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: J. Polchinski, String Theory, Cambridge Monographs on Mathematical
+    Physics, Cambridge University Press, Cambridge U.K. (1998).
+- doi: 10.1017/CBO9780511920998.012
+  unstructured: 'D. Oriti, The microscopic dynamics of quantum space as a group field
+    theory, in Proceedings of Foundations of Space and Time: Reflections on Quantum
+    Gravity Cape Town South Africa (2011), pg. 257 [
+
+    arXiv:1110.5606
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: C. Rovelli and F. Vidotto, Covariant Loop Quantum Gravity, Cambridge
+    Monographs on Mathematical Physics, Cambridge University Press, Cambridge U.K.
+    (2014) [ISBN:9781107069626].
+- doi: 10.1088/0034-4885/64/8/301
+  unstructured: 'S. Carlip, Quantum gravity: A Progress report, Rept. Prog. Phys.
+    64 (2001) 885 [
+
+    gr-qc/0108040
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: 'H. Hamber, Quantum Gravitation: The Feynman Path Integral Approach,
+    Springer, Berlin Germany (2009) [ISBN:978-3-540-85292-6].'
+- doi: 10.1088/1361-6382/ab57c7
+  unstructured: 'R. Loll, Quantum Gravity from Causal Dynamical Triangulations: A
+    Review, Class. Quant. Grav. 37 (2020) 013002 [
+
+    arXiv:1905.08669
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: G. ’t Hooft and M. Veltman, One-loop divergencies in the theory of
+    gravitation, Ann. Henri Poincaré A 20 (1974) 69.
+- unstructured: 'M.H. Goroff and A. Sagnotti, The Ultraviolet Behavior of Einstein
+    Gravity, Nucl. Phys. B 266 (1986) 709 [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: 'N. Seiberg, Emergent spacetime, in The Quantum Structure of Space
+    and Time: Proceedings of the 23rd Solvay Conference on Physics, Brussels Belgium
+    (2005), pg. 163 [
+
+    hep-th/0601234
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: 'E.H. Wichmann and J.H. Crichton, Cluster Decomposition Properties
+    of the S Matrix, Phys. Rev. 132 (1963) 2788 [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: 'D. Marolf, Emergent Gravity Requires Kinematic Nonlocality, Phys.
+    Rev. Lett. 114 (2015) 031104 [
+
+    arXiv:1409.2509
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: 'J.F. Donoghue, Introduction to the effective field theory description
+    of gravity, in Advanced School on Effective Theories, Almunecar Spain (1995) [
+
+    gr-qc/9512024
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- doi: 10.12942/lrr-2004-5
+  unstructured: 'C.P. Burgess, Quantum gravity in everyday life: General relativity
+    as an effective field theory, Living Rev. Rel. 7 (2004) 5 [
+
+    gr-qc/0311082
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: 'S.-S. Lee, Emergent gravity from relatively local Hamiltonians and
+    a possible resolution of the black hole information puzzle, JHEP 10 (2018) 043
+    [
+
+    arXiv:1803.00556
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: 'S. Ryu and T. Takayanagi, Holographic derivation of entanglement
+    entropy from AdS/CFT, Phys. Rev. Lett. 96 (2006) 181602 [
+
+    hep-th/0603001
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: 'V.E. Hubeny, M. Rangamani and T. Takayanagi, A Covariant holographic
+    entanglement entropy proposal, JHEP 07 (2007) 062 [
+
+    arXiv:0705.0016
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: 'M. Van Raamsdonk, Building up spacetime with quantum entanglement,
+    Gen. Rel. Grav. 42 (2010) 2323 [
+
+    arXiv:1005.3035
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: 'H. Casini, M. Huerta and R.C. Myers, Towards a derivation of holographic
+    entanglement entropy, JHEP 05 (2011) 036 [
+
+    arXiv:1102.0440
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: 'A. Lewkowycz and J. Maldacena, Generalized gravitational entropy,
+    JHEP 08 (2013) 090 [
+
+    arXiv:1304.4926
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: 'J. Maldacena and L. Susskind, Cool horizons for entangled black holes,
+    Fortsch. Phys. 61 (2013) 781 [
+
+    arXiv:1306.0533
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- doi: 10.1103/PhysRevLett.75.1260
+  unstructured: 'T. Jacobson, Thermodynamics of space-time: The Einstein equation
+    of state, Phys. Rev. Lett. 75 (1995) 1260 [
+
+    gr-qc/9504004
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: 'C. Cao, S.M. Carroll and S. Michalakis, Space from Hilbert Space:
+    Recovering Geometry from Bulk Entanglement, Phys. Rev. D 95 (2017) 024031 [
+
+    arXiv:1606.08444
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: 'S.-S. Lee, State dependent spread of entanglement in relatively local
+    Hamiltonians, JHEP 05 (2019) 215 [
+
+    arXiv:1811.07241
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- doi: 10.1103/PhysRevD.18.3833
+  unstructured: 'A. Chodos, Dynamical lattice theory, Phys. Rev. D 18 (1978) 3833
+    [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: 'T. Konopka, F. Markopoulou and S. Severini, Quantum Graphity: A Model
+    of emergent locality, Phys. Rev. D 77 (2008) 104029 [
+
+    arXiv:0801.0861
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: "T. Konopka, F. Markopoulou and L. Smolin, Quantum Graphity, \nhep-th/0611197\n\
+    \n [\nINSPIRE\n\n]."
+- unstructured: 'T. Banks and W. Fischler, The holographic spacetime model of cosmology,
+    Int. J. Mod. Phys. D 27 (2018) 1846005 [
+
+    arXiv:1806.01749
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- doi: 10.1007/JHEP09(2016)044
+  unstructured: 'S.-S. Lee, Horizon as critical phenomenon, JHEP 09 (2016) 044 [
+
+    arXiv:1603.08509
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: 'R.L. Arnowitt, S. Deser and C.W. Misner, Dynamical Structure and
+    Definition of Energy in General Relativity, Phys. Rev. 116 (1959) 1322 [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: 'C. Teitelboim, How commutators of constraints reflect the space-time
+    structure, Annals Phys. 79 (1973) 542 [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: 'M. Henneaux, A. Kleinschmidt and G. Lucena Gómez, A dynamical inconsistency
+    of Horava gravity, Phys. Rev. D 81 (2010) 064002 [
+
+    arXiv:0912.0399
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: H. Weyl, Gravitation and electricity, Sitzungsber. Preuss. Akad. Wiss.
+    Berlin (Math. Phys.) 1918 (1918) 465.
+- unstructured: 'G. Amelino-Camelia, L. Freidel, J. Kowalski-Glikman and L. Smolin,
+    The principle of relative locality, Phys. Rev. D 84 (2011) 084010 [
+
+    arXiv:1101.0931
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- doi: 10.4153/CJM-1950-012-1
+  unstructured: 'P.A.M. Dirac, Generalized Hamiltonian dynamics, Can. J. Math. 2 (1950)
+    129 [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: "C.J. Isham, Canonical quantum gravity and the problem of time, \n\
+    gr-qc/9210011\n\n [\nINSPIRE\n\n]."
+- unstructured: K.V. Kuchar, Time and interpretations of quantum gravity, in 4th Canadian
+    Conference on General Relativity and Relativistic Astrophysics, G. Kunstatter,
+    D.E. Vincent and J.G. Williams eds., Winnipeg Canada (1992), pg. 211.
+- unstructured: 'J.B. Hartle and S.W. Hawking, Wave Function of the Universe, Phys.
+    Rev. D 28 (1983) 2960 [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: 'S.-S. Lee, Quantum renormalization group and holography, JHEP 01
+    (2014) 076 [
+
+    arXiv:1305.3908
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: "E. Witten, Multitrace operators, boundary conditions and AdS/CFT\
+    \ correspondence, \nhep-th/0112258\n\n [\nINSPIRE\n\n]."
+- unstructured: 'P. Lunts, S. Bhattacharjee, J. Miller, E. Schnetter, Y.B. Kim and
+    S.-S. Lee, Ab initio holography, JHEP 08 (2015) 107 [
+
+    arXiv:1503.06474
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- doi: 10.1088/1126-6708/2001/10/034
+  unstructured: 'A. Strominger, The dS/CFT correspondence, JHEP 10 (2001) 034 [
+
+    hep-th/0106113
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- doi: 10.1103/PhysRevD.68.044011
+  unstructured: 'S.R. Das and A. Jevicki, Large N collective fields and holography,
+    Phys. Rev. D 68 (2003) 044011 [
+
+    hep-th/0304093
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: 'R. de Mello Koch, A. Jevicki, K. Jin and J.P. Rodrigues, AdS4 /CFT3
+    Construction from Collective Fields, Phys. Rev. D 83 (2011) 025006 [
+
+    arXiv:1008.0633
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: 'D. Marolf, Emergent Gravity Requires Kinematic Nonlocality, Phys.
+    Rev. Lett. 114 (2015) 031104 [
+
+    arXiv:1409.2509
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: 'C. Hull, Timelike T-duality, de Sitter space, large N gauge theories
+    and topological field theory, JHEP 07 (1998) 021 [
+
+    hep-th/9806146
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- doi: 10.1088/1126-6708/1999/06/028
+  unstructured: 'R. Bousso, Holography in general space-times, JHEP 06 (1999) 028
+    [
+
+    hep-th/9906022
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: 'J.M. Isidro, Integrability, Seiberg-Witten models and Picard-Fuchs
+    equations, JHEP 01 (2001) 043 [
+
+    hep-th/0011253
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: 'S. Nojiri and S.D. Odintsov, Conformal anomaly from dS/CFT correspondence,
+    Phys. Lett. B 519 (2001) 145 [
+
+    hep-th/0106191
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: 'E. Abdalla, B. Wang, A. Lima-Santos and W.G. Qiu, Support of dS/CFT
+    correspondence from perturbations of three-dimensional space-time, Phys. Lett.
+    B 538 (2002) 435 [
+
+    hep-th/0204030
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- doi: 10.1088/1361-6382/34/1/015009
+  unstructured: 'D. Anninos, T. Hartman and A. Strominger, Higher Spin Realization
+    of the dS/CFT Correspondence, Class. Quant. Grav. 34 (2017) 015009 [
+
+    arXiv:1108.5735
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- doi: 10.1016/0550-3213(84)90287-6
+  unstructured: 'J. Polchinski, Renormalization and Effective Lagrangians, Nucl. Phys.
+    B 231 (1984) 269 [
+
+    INSPIRE
+
+
+    ].'
+- doi: 10.1103/PhysRevD.65.124013
+  unstructured: 'C. Rovelli, Partial observables, Phys. Rev. D 65 (2002) 124013 [
+
+    gr-qc/0110035
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: 'B. Dittrich, Partial and complete observables for Hamiltonian constrained
+    systems, Gen. Rel. Grav. 39 (2007) 1891 [
+
+    gr-qc/0411013
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: 'I.R. Klebanov and A.M. Polyakov, AdS dual of the critical O(N) vector
+    model, Phys. Lett. B 550 (2002) 213 [
+
+    hep-th/0210114
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- doi: 10.1103/PhysRevD.83.071701
+  unstructured: 'M.R. Douglas, L. Mazzucato and S.S. Razamat, Holographic dual of
+    free field theory, Phys. Rev. D 83 (2011) 071701 [
+
+    arXiv:1011.4926
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: 'L.A. Pando Zayas and C. Peng, Toward a Higher-Spin Dual of Interacting
+    Field Theories, JHEP 10 (2013) 023 [
+
+    arXiv:1303.6641
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: 'R.G. Leigh, O. Parrikar and A.B. Weiss, Holographic geometry of the
+    renormalization group and higher spin symmetries, Phys. Rev. D 89 (2014) 106012
+    [
+
+    arXiv:1402.1430
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: 'R.G. Leigh, O. Parrikar and A.B. Weiss, Exact renormalization group
+    and higher-spin holography, Phys. Rev. D 91 (2015) 026002 [
+
+    arXiv:1407.4574
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: "E. Mintun and J. Polchinski, Higher Spin Holography, RG and the Light\
+    \ Cone, \narXiv:1411.3151\n\n [\nINSPIRE\n\n]."
+- unstructured: 'M.A. Vasiliev, Higher spin gauge theories in four-dimensions, three-dimensions
+    and two-dimensions, Int. J. Mod. Phys. D 5 (1996) 763 [
+
+    hep-th/9611024
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: "M.A. Vasiliev, Higher spin gauge theories: Star product and AdS space,\
+    \ \nhep-th/9910096\n\n [\nINSPIRE\n\n]."
+- unstructured: 'S. Giombi and X. Yin, Higher Spin Gauge Theory and Holography: The
+    Three-Point Functions, JHEP 09 (2010) 115 [
+
+    arXiv:0912.3462
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: 'M.A. Vasiliev, Nonlinear equations for symmetric massless higher
+    spin fields in (A)dS(d), Phys. Lett. B 567 (2003) 139 [
+
+    hep-th/0304049
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: 'J. Maldacena and A. Zhiboedov, Constraining Conformal Field Theories
+    with A Higher Spin Symmetry, J. Phys. A 46 (2013) 214011 [
+
+    arXiv:1112.1016
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: 'J. Maldacena and A. Zhiboedov, Constraining conformal field theories
+    with a slightly broken higher spin symmetry, Class. Quant. Grav. 30 (2013) 104003
+    [
+
+    arXiv:1204.3882
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: 'I. Sachs, Higher spin versus renormalization group equations, Phys.
+    Rev. D 90 (2014) 085003 [
+
+    arXiv:1306.6654
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: J. Ambjørn, B. Durhuus and T. Jónsson, Three-dimensional simplicial
+    quantum gravity and generalized matrix models, Mod. Phys. Lett. A 06 (1991) 1133.
+- doi: 10.1142/S0217732391003055
+  unstructured: N. Sasakura, Tensor model for gravity and orientability of manifold,
+    Mod. Phys. Lett. A 06 (1991) 2613.
+- unstructured: M. Gross, Tensor models and simplicial quantum gravity in > 2 − D,
+    Nucl. Phys. Proc. Suppl. 25 (1992) 144.
+- doi: 10.1007/s00220-011-1226-9
+  unstructured: 'R. Gurau, Colored Group Field Theory, Commun. Math. Phys. 304 (2011)
+    69 [
+
+    arXiv:0907.2582
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+- unstructured: "X.-L. Qi, Exact holographic mapping and emergent space-time geometry,\
+    \ \narXiv:1309.6282\n\n [\nINSPIRE\n\n]."
+- unstructured: 'J. Maldacena, Non-gaussian features of primordial fluctuations in
+    single field inflationary models, JHEP 05 (2003) 013 [
+
+    astro-ph/0210603
+
+
+    ] [
+
+    INSPIRE
+
+
+    ].'
+doi: 10.1007/jhep06(2020)070
+files:
+- quantum-gravity-emergent-spacetime.pdf
+issue: '6'
+journal: Journal of High Energy Physics
+language: en
+month: 6
+publisher: Springer Science and Business Media LLC
+ref: AModelOfQuanLeeS2020
+tags: quantum-gravity emergent-spacetime topology fundamental-physics discretization
+time-added: 2021-04-13-01:17:18
+title: A model of quantum gravity with emergent spacetime
+type: article
+url: http://dx.doi.org/10.1007/jhep06(2020)070
+volume: '2020'
+year: 2020

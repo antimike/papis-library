@@ -1,0 +1,29 @@
+abstract: A variational integrator for ideal magnetohydrodynamics is derived by applying
+  a discrete action principle to a formal Lagrangian. Discrete exterior calculus is
+  used for the discretisation of the field variables in order to preserve their geometrical
+  character. The resulting numerical method is free of numerical resistivity, thus
+  the magnetic field line topology is preserved and unphysical reconnection is absent.
+  In 2D numerical examples we find that important conservation laws like total energy,
+  magnetic helicity and cross helicity are satisfied within machine accuracy.
+archiveprefix: arXiv
+author: Kraus, Michael and Maj, Omar
+author_list:
+- family: Kraus
+  given: Michael
+- family: Maj
+  given: Omar
+eprint: 1707.03227v2
+file: 1707.03227v2.pdf
+files:
+- tmpo2irzx17.pdf
+month: Jul
+primaryclass: math.NA
+ref: 1707.03227v2
+tags: magnetohydrodynamics variational-integrator discrete-action-principle lagrangian
+  discrete-exterior-calculus DEC DDG discretization numerics numerical-resistivity
+  magnetic-helicity cross-helicity
+time-added: 2021-04-13-03:30:46
+title: Variational Integrators for Ideal Magnetohydrodynamics
+type: article
+url: http://arxiv.org/abs/1707.03227v2
+year: '2017'

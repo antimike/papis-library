@@ -1,0 +1,103 @@
+author: Van Raamsdonk, Mark
+author_list:
+- affiliation: []
+  family: Van Raamsdonk
+  given: Mark
+citations:
+- author: T. Banks
+  doi: 10.1103/PhysRevD.55.5112
+  first-page: '5112'
+  journal-title: Phys. Rev. D
+  unstructured: 'Banks T., Fischler W., Shenker S.H., Susskind L.: M theory as a matrix
+    model: a conjecture. Phys. Rev. D 55, 5112 (1997) [arXiv:hep-th/9610043]'
+  volume: '55'
+  year: '1997'
+- author: J.M. Maldacena
+  doi: 10.4310/ATMP.1998.v2.n2.a1
+  first-page: '231'
+  journal-title: Adv. Theor. Math. Phys.
+  unstructured: 'Maldacena J.M.: The large N limit of superconformal field theories
+    and supergravity. Adv. Theor. Math. Phys. 2, 231 (1998) [Int. J. Theor. Phys.
+    38, 1113 (1999)] [arXiv:hep-th/9711200]'
+  volume: '2'
+  year: '1998'
+- author: O. Aharony
+  doi: 10.1016/S0370-1573(99)00083-6
+  first-page: '183'
+  journal-title: Phys. Rep.
+  unstructured: 'Aharony O., Gubser S.S., Maldacena J.M., Ooguri H., Oz Y.: Large
+    N field theories, string theory and gravity. Phys. Rep. 323, 183 (2000) [arXiv:hep-th/9905111]'
+  volume: '323'
+  year: '2000'
+- author: J.M. Maldacena
+  doi: 10.1088/1126-6708/2003/04/021
+  first-page: '021'
+  journal-title: JHEP
+  unstructured: 'Maldacena J.M.: Eternal black holes in Anti-de-Sitter. JHEP 0304,
+    021 (2003) [arXiv:hep-th/ 0106112]'
+  volume: '0304'
+  year: '2003'
+- author: G.T. Horowitz
+  doi: 10.1088/1126-6708/1998/07/014
+  first-page: '014'
+  journal-title: JHEP
+  unstructured: 'Horowitz G.T., Marolf D.: A new approach to string cosmology. JHEP
+    9807, 014 (1998) [arXiv:hep-th/9805207]'
+  volume: '9807'
+  year: '1998'
+- author: V. Balasubramanian
+  doi: 10.1103/PhysRevD.59.104021
+  first-page: '104021'
+  journal-title: Phys. Rev. D
+  unstructured: 'Balasubramanian V., Kraus P., Lawrence A.E., Trivedi S.P.: Holographic
+    probes of anti-de Sitter space-times. Phys. Rev. D 59, 104021 (1999) [arXiv:hep-th/9808017]'
+  volume: '59'
+  year: '1999'
+- author: E. Witten
+  doi: 10.4310/ATMP.1998.v2.n3.a3
+  first-page: '505'
+  journal-title: Adv. Theor. Math. Phys.
+  unstructured: 'Witten E.: Anti-de Sitter space, thermal phase transition, and confinement
+    in gauge theories. Adv. Theor. Math. Phys. 2, 505 (1998) [arXiv:hep-th/9803131]'
+  volume: '2'
+  year: '1998'
+- author: M.A. Nielsen
+  unstructured: 'Nielsen M.A., Chuang I.L.: Quantum Computation and Quantum Information.
+    Cambridge University Press, Cambridge (2000)'
+  volume-title: Quantum Computation and Quantum Information
+  year: '2000'
+- author: S. Ryu
+  doi: 10.1103/PhysRevLett.96.181602
+  first-page: '181602'
+  journal-title: Phys. Rev. Lett.
+  unstructured: 'Ryu S., Takayanagi T.: Holographic derivation of entanglement entropy
+    from AdS/CFT. Phys. Rev. Lett. 96, 181602 (2006) [arXiv:hep-th/0603001]'
+  volume: '96'
+  year: '2006'
+- author: M.M. Wolf
+  doi: 10.1103/PhysRevLett.100.070502
+  first-page: '070502'
+  journal-title: Phys. Rev. Lett.
+  unstructured: 'Wolf M.M., Verstraete F., Hastings M.B., Cirac J.I.: Area laws in
+    quantum systems: mutual information and correlations. Phys. Rev. Lett. 100, 070502
+    (2008) [arXiv:0704.3906[quant-ph'
+  volume: '100'
+  year: '2008'
+doc_url: http://link.springer.com/article/10.1007/s10714-010-1034-0/fulltext.html
+doi: 10.1007/s10714-010-1034-0
+files:
+- vanraamsdonk2010-article-buildingupspacetimewithquantum.pdf
+issue: '10'
+journal: General Relativity and Gravitation
+language: en
+month: 10
+pages: 2323--2329
+publisher: Springer Science and Business Media LLC
+ref: BuildingUpSpaVanRa2010
+tags: entanglement quantum-gravity non-perturbative emergent-spacetime emergent-geometry
+time-added: 2021-04-13-01:07:14
+title: Building up spacetime with quantum entanglement
+type: article
+url: http://dx.doi.org/10.1007/s10714-010-1034-0
+volume: '42'
+year: 2010

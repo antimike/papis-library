@@ -1,0 +1,100 @@
+author: Lu, Xiaowu and Schmid, Rudolf
+author_list:
+- affiliation: []
+  family: Lu
+  given: Xiaowu
+- affiliation: []
+  family: Schmid
+  given: Rudolf
+citations:
+- article-title: Resonance windows in kink-antikink interactions in Φ4 theory
+  author: Campbell
+  doi: 10.1016/0167-2789(83)90289-0
+  first-page: '1'
+  journal-title: Physica D
+  volume: '9'
+  year: '1983'
+- article-title: Kink-antikink interactions in the double Sine–Gordon equation
+  author: Campbell
+  doi: 10.1016/0167-2789(86)90019-9
+  first-page: '165'
+  journal-title: Physica D
+  volume: '19'
+  year: '1986'
+- unstructured: 'P. Chernoff, J. Marsden, Properties of infinite dimensional Hamilton
+    system, in: Lecture Notes in Mathematics, vol. 425, Springer, New York'
+- article-title: Difference schemes for Hamiltonian formalism and symplectic geometry
+  author: Feng
+  first-page: '279'
+  journal-title: J. Comput. Math.
+  volume: '4'
+  year: '1986'
+- doi: 10.1007/BFb0078537
+  unstructured: 'K. Feng, M. Qin, The symplectic methods for the computation of Hamiltonian
+    equation, in: Z. You-lan, G. Ben-Yu (Eds.), Proceedings of the First Chinese Conference
+    on Numerical Methods of PDE''s, Lecture Notes in Mathematics, vol. 1297, Springer,
+    New York, 1987, pp. 1–37'
+- article-title: Construction of canonical difference schemes for Hamiltonian formalism
+    via generating functions
+  author: Feng
+  first-page: '71'
+  journal-title: J. Comput. Math.
+  volume: '7'
+  year: '1989'
+- article-title: A symplectic difference scheme for the infinite dimensional Hamilton
+    system
+  author: Li
+  first-page: '164'
+  journal-title: J. Comput. Math.
+  volume: '6'
+  year: '1988'
+- article-title: A symplectic algorithm for wave equations
+  author: Lu
+  doi: 10.1016/S0378-4754(96)00052-3
+  first-page: '29'
+  journal-title: Mathematics and Computers in Simulation
+  volume: '43'
+  year: '1997'
+- article-title: Global weak entropy solutions to quasilinear wave equations of Klein–Gordon
+    and Sine–Gordon type
+  author: Marcati
+  first-page: '1526'
+  journal-title: IEEE Trans. Comput.
+  volume: '38'
+  year: '1989'
+- article-title: Multi-stage symplectic schemes of two kinds of Hamiltonian systems
+    for wave equations
+  author: Qin
+  doi: 10.1016/0898-1221(90)90357-P
+  first-page: '51'
+  journal-title: Comput. Math. Appl.
+  volume: '19'
+  year: '1990'
+- article-title: Explicit symplectic difference scheme for separatable Hamiltonian
+    system
+  author: Qin
+  first-page: '211'
+  journal-title: J. Comput. Math.
+  volume: '9'
+  year: '1991'
+- doi: 10.1007/978-1-4899-3093-4
+  unstructured: J.M. Sanz-Serna, M.P. Calvo, Numerical Hamiltonian Problems, Chapman
+    & Hall, London, 1994
+doc_url: https://api.elsevier.com/content/article/PII:S037847549900083X?httpAccept=text/plain
+doi: 10.1016/s0378-4754(99)00083-x
+files:
+- sine-gordon-symplectic-integration.pdf
+issue: 1-4
+journal: Mathematics and Computers in Simulation
+language: en
+month: 11
+pages: 255--263
+publisher: Elsevier BV
+ref: SymplecticInteLuXi1999
+tags: sine-gordon solitons pde numerics algorithm symplectic-integrator
+time-added: 2021-04-13-00:02:59
+title: Symplectic integration of Sine–Gordon type systems
+type: article
+url: http://dx.doi.org/10.1016/s0378-4754(99)00083-x
+volume: '50'
+year: 1999

@@ -1,0 +1,211 @@
+author: Kähler, Uwe and Sommen, Frank
+author_list:
+- affiliation: []
+  family: Kähler
+  given: Uwe
+- affiliation: []
+  family: Sommen
+  given: Frank
+citations:
+- author: P Becher
+  doi: 10.1007/BF01614426
+  first-page: '343'
+  issue: '4'
+  journal-title: 'Z. Phys. C: Part. Fields'
+  unstructured: 'Becher, P., Joos, H.: The Dirac-Kähler equation and fermions on the
+    lattice. Z. Phys. C: Part. Fields 15(4), 343–365 (1982)'
+  volume: '15'
+  year: '1982'
+- author: F Brackx
+  first-page: '37'
+  unstructured: 'Brackx, F., De Schepper, H., Sommen, F., Van de Voorde, L.: Discrete
+    Clifford analysis: a germ of function theory. In: Sabadini, I., Shapiro, M., Sommen
+    F. (eds.) Hypercomplex Analysis, pp. 37–53. Birkhäuser, Basel (2009)'
+  volume-title: Hypercomplex Analysis
+  year: '2009'
+- author: P Cerejeiras
+  doi: 10.1002/num.20312
+  first-page: '1181'
+  issue: '4'
+  journal-title: Numer. Methods Partial Differ. Equ.
+  unstructured: 'Cerejeiras, P., Faustino, N., Vieira, N.: Numerical Clifford analysis
+    for nonlinear Schrödinger problem. Numer. Methods Partial Differ. Equ. 24(4),
+    1181–1202 (2008)'
+  volume: '24'
+  year: '2008'
+- author: P Cerejeiras
+  doi: 10.1007/s00041-014-9331-8
+  first-page: '715'
+  journal-title: J. Fourier Anal. Appl.
+  unstructured: 'Cerejeiras, P., Kähler, U., Ku, M., Sommen, F.: Discrete Hardy spaces.
+    J. Fourier Anal. Appl. 20, 715–750 (2014)'
+  volume: '20'
+  year: '2014'
+- author: H Bie de
+  doi: 10.1080/17476933.2011.636431
+  first-page: '903'
+  journal-title: Complex Var. Elliptic Equ.
+  unstructured: 'de Bie, H., De Ridder, H., Sommen, F.: Discrete Clifford analysis:
+    the one-dimensional setting. Complex Var. Elliptic Equ. 57, 903–920 (2012)'
+  volume: '57'
+  year: '2012'
+- unstructured: 'De Ridder, H.: Discrete Clifford analysis: function theory and integral
+    transforms. Ph.D. thesis, Ghent (2013)'
+- author: H Ridder De
+  doi: 10.1090/S0002-9939-2010-10480-X
+  first-page: '3241'
+  issue: '9'
+  journal-title: Proc. Am. Math. Soc.
+  unstructured: 'De Ridder, H., De Schepper, H., Kähler, U., Sommen, F.: Discrete
+    function theory based on skew Weyl relations. Proc. Am. Math. Soc. 138(9), 3241–3256
+    (2010)'
+  volume: '138'
+  year: '2010'
+- author: H Ridder De
+  doi: 10.3934/cpaa.2011.10.1097
+  first-page: '1097'
+  issue: '4'
+  journal-title: Commun. Pure Appl. Anal.
+  unstructured: 'De Ridder, H., De Schepper, H., Sommen, F.: The Cauchy-Kovalevskaya
+    extension theorem in discrete Clifford analysis. Commun. Pure Appl. Anal. 10(4),
+    1097–1109 (2011)'
+  volume: '10'
+  year: '2011'
+- author: H Ridder De
+  doi: 10.1007/s00209-011-0932-5
+  first-page: '253'
+  issue: 1–2
+  journal-title: Math. Zeit.
+  unstructured: 'De Ridder, H., De Schepper, H., Sommen, F.: Fueter polynomials in
+    discrete Clifford analysis. Math. Zeit. 272(1–2), 253–268 (2012)'
+  volume: '272'
+  year: '2012'
+- unstructured: 'Faustino, N.: Discrete Clifford analysis. Ph.D. thesis, University
+    of Aveiro (2008)'
+- unstructured: 'Faustino, N., Kähler, U.: On a correspondence principle between discrete
+    differential forms, graph structure and multi-vector calculus on symmetric lattices
+    (2007). arXiv:0712.1004'
+- author: N Faustino
+  doi: 10.1007/s00006-006-0016-5
+  first-page: '37'
+  journal-title: Adv. Appl. Cliff. Alg.
+  unstructured: 'Faustino, N., Kähler, U.: Fischer decomposition for difference Dirac
+    operators. Adv. Appl. Cliff. Alg. 17, 37–58 (2007)'
+  volume: '17'
+  year: '2007'
+- unstructured: "Faustino, N., Ren, G.: (Discrete) Almansi type decompositions: an\
+    \ umbral calculus framework based on \n                  \n                  \
+    \  \n                  \n                  \n                    \n          \
+    \            \U0001D52C\n                      \U0001D530\n                  \
+    \    \U0001D52D\n                      (\n                      1\n          \
+    \            |\n                      2\n                      )\n           \
+    \         \n                  \n                  $$\\mathfrak{o}\\mathfrak{s}\\\
+    mathfrak{p}(1\\vert 2)$$\n                 symmetries. Math. Meth. Appl. Sci.\
+    \ 11, 305–318 (2011)"
+- author: N Faustino
+  doi: 10.1080/10236190600637965
+  first-page: '577'
+  issue: '6'
+  journal-title: J. Differ. Equ. Appl.
+  unstructured: 'Faustino, N., Gürlebeck, K., Hommel, A., Kähler, U.: Difference potentials
+    for the Navier-Stokes equations in unbounded domains. J. Differ. Equ. Appl. 12(6),
+    577–595 (2006)'
+  volume: '12'
+  year: '2006'
+- author: N Faustino
+  doi: 10.1007/s00006-007-0041-z
+  first-page: '451'
+  issue: '3'
+  journal-title: Adv. Appl. Cliff. Alg.
+  unstructured: 'Faustino, N., Kähler, U., Sommen, F.: Discrete Dirac operators in
+    Clifford analysis. Adv. Appl. Cliff. Alg. 17(3), 451–467 (2007)'
+  volume: '17'
+  year: '2007'
+- author: E Forgy
+  unstructured: 'Forgy, E., Schreiber, U.: Discrete differential geometry on causal
+    graphs (2004). arXiv:math-ph/0407005v1'
+  volume-title: Discrete differential geometry on causal graphs
+  year: '2004'
+- author: K Gürlebeck
+  doi: 10.1007/BF03219125
+  first-page: '89'
+  issue: S2
+  journal-title: Adv. Appl. Cliff. Alg.
+  unstructured: 'Gürlebeck, K., Hommel, A.: On finite difference Dirac operators and
+    their fundamental solutions. Adv. Appl. Cliff. Alg. 11(S2), 89–106 (2001)'
+  volume: '11'
+  year: '2001'
+- author: K Gürlebeck
+  doi: 10.1007/978-3-0348-7295-9
+  unstructured: 'Gürlebeck, K., Sprößig, W.: Quaternionic Analysis and Elliptic Boundary
+    Value Problems. Birkhäuser, Basel (1990)'
+  volume-title: Quaternionic Analysis and Elliptic Boundary Value Problems
+  year: '1990'
+- author: K Gürlebeck
+  unstructured: 'Gürlebeck, K., Sprößig, W.: Quaternionic and Clifford Calculus for
+    Physicists and Engineers. Wiley, New York (1997)'
+  volume-title: Quaternionic and Clifford Calculus for Physicists and Engineers
+  year: '1997'
+- unstructured: 'Hommel, A.: Fundamentallösungen partieller Differentialoperatoren
+    und die Lösung diskreter Randwertprobleme mit Hilfe von Differenzenpotentialen.
+    Ph.D. thesis, Bauhaus-Universität Weimar, Weimar (1998)'
+- author: RP Isaacs
+  first-page: '177'
+  journal-title: Univ. Nac. Tucumán Rev. A
+  unstructured: 'Isaacs, R.P.: A finite difference function theory. Univ. Nac. Tucumán
+    Rev. A 2, 177–201 (1941)'
+  volume: '2'
+  year: '1941'
+- author: I Kanamori
+  doi: 10.1142/S0217751X04017628
+  first-page: '695'
+  journal-title: Int. J. Mod. Phys.
+  unstructured: 'Kanamori, I., Kawamoto, N.: Dirac-Kaehler Fermion from Clifford product
+    with noncommutative differential form on a lattice. Int. J. Mod. Phys. A19, 695–736
+    (2004)'
+  volume: A19
+  year: '2004'
+- author: L Lovasz
+  unstructured: 'Lovasz, L.: Discrete analytic functions: an exposition. In: Grigor’yan
+    A., Yau S.-T. (eds.) Surveys in Differential Geometry, Vol. IX: Eigenvalues of
+    Laplacians and Other Geometric Operators, pp. 241–247. Somerville, MA: International
+    Press (2004)'
+  volume-title: 'Discrete analytic functions: an exposition. In: Grigor’yan A., Yau
+    S.-T. (eds.) Surveys in Differential Geometry, Vol. IX: Eigenvalues of Laplacians
+    and Other Geometric Operators, pp. 241–247'
+  year: '2004'
+- unstructured: 'Ryabenskij, V.S.: The Method of Difference Potentials for Some Problems
+    of Continuum Mechanics. Nauka, Moscow (1984, in Russian)'
+- unstructured: 'Smirnov, S.: Discrete complex analysis and probability. In: Proceedings
+    of the ICM 2010, Hyderabad, pp. 1–27 (2010)'
+- author: K Stephenson
+  unstructured: 'Stephenson, K.: Introduction to Circle Packing: The Theory of Discrete
+    Analytic Functions. Cambridge University Press, New York (2005)'
+  volume-title: 'Introduction to Circle Packing: The Theory of Discrete Analytic Functions'
+  year: '2005'
+- author: J Vaz
+  doi: 10.1007/BF03041215
+  first-page: '37'
+  issue: '1'
+  journal-title: Adv. Appl. Cliff. Alg.
+  unstructured: 'Vaz, J.: Clifford-like calculus over lattices. Adv. Appl. Cliff.
+    Alg. 7(1), 37–70 (1997)'
+  volume: '7'
+  year: '1997'
+doi: 10.1007/978-3-0348-0667-1_18
+files:
+- 2015-book-operatortheory.pdf
+isbn:
+- '9783034806664'
+- '9783034806671'
+journal: Operator Theory
+month: 6
+pages: 1609--1630
+publisher: Springer Basel
+ref: DiscreteCliffoKahler2015
+tags: clifford-algebra analysis discretization survey overview weyl-relations noncommutative-geometry
+time-added: 2021-04-13-02:38:10
+title: Discrete Clifford Analysis
+type: inbook
+url: http://dx.doi.org/10.1007/978-3-0348-0667-1_18
+year: 2015

@@ -1,0 +1,30 @@
+author: Müller-Hoissen, Folkert and Macias, Alfredo and Lämmerzahl, Claus and Camacho,
+  Abel
+author_list:
+- affiliation: []
+  family: Müller-Hoissen
+  given: Folkert
+- affiliation: []
+  family: Macias
+  given: Alfredo
+- affiliation: []
+  family: Lämmerzahl
+  given: Claus
+- affiliation: []
+  family: Camacho
+  given: Abel
+booktitle: '2007'
+doi: 10.1063/1.2902778
+files:
+- noncommutative-geometries-gravity.pdf
+journal: AIP Conference Proceedings
+publisher: AIP
+ref: NoncommutativeMulle2008
+tags: noncommutative-geometry gravity emergent-spacetime differential-geometry review
+  survey
+time-added: 2021-04-13-02:42:58
+title: Noncommutative Geometries and Gravity
+type: inproceedings
+url: http://dx.doi.org/10.1063/1.2902778
+venue: Mexico City (Mexico)
+year: 2008

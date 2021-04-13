@@ -1,0 +1,130 @@
+author: Liao, Xinhao and Liu, Lin
+author_list:
+- affiliation: []
+  family: Liao
+  given: Xinhao
+- affiliation: []
+  family: Liu
+  given: Lin
+citations:
+- author: A. Deprit
+  doi: 10.1007/BF01230629
+  first-page: '12'
+  journal-title: Celest. Mech.
+  unstructured: 'Deprit, A.: 1969,Celest. Mech. 1, 12.'
+  volume: '1'
+  year: '1969'
+- author: K. Feng
+  first-page: '42'
+  unstructured: 'Feng, K.: 1985,Proc. 1984 Beijing Symp. on Diff. Geometry and Diff.
+    Eq., ed. by K. Feng, Science Press, Beijing, p. 42.'
+  volume-title: Proc. 1984 Beijing Symp. on Diff. Geometry and Diff. Eq.
+  year: '1985'
+- author: K. Feng
+  first-page: '1'
+  unstructured: 'Feng, K.: 1993,Proc. 1st China-Japan Conf. on Numer. Math., eds,
+    Z. C. Shi and T. Ushijima, World Scientific, Singapore, p. 1.'
+  volume-title: Proc. 1st China-Japan Conf. on Numer. Math.
+  year: '1993'
+- author: H. Kinoshita
+  doi: 10.1007/BF00048986
+  first-page: '59'
+  journal-title: Celest. Mech.
+  unstructured: 'Kinoshita, H., et al.: 1991,Celest. Mech. 52, 59.'
+  volume: '52'
+  year: '1991'
+- author: X. H. Liao
+  first-page: '198'
+  journal-title: Acta Astron. Sinica
+  unstructured: 'Liao, X. H. and Liu, L.: 1993,Acta Astron. Sinica 34, 198.'
+  volume: '34'
+  year: '1993'
+- author: X. H. Liao
+  first-page: '212'
+  journal-title: Chin. J. Comp. Phys.
+  unstructured: 'Liao, X. H. and Liu, L.: 1994,Chin. J. Comp. Phys. 11, 212.'
+  volume: '11'
+  year: '1994'
+- author: R. D. Ruth
+  doi: 10.1109/TNS.1983.4332919
+  first-page: '2669'
+  journal-title: IEEE Trans. Nucl. Sci.
+  unstructured: 'Ruth, R. D.: 1983,IEEE Trans. Nucl. Sci. NS-30, 2669.'
+  volume: NS-30
+  year: '1983'
+- author: P. Saha
+  doi: 10.1086/117210
+  first-page: '1962'
+  journal-title: Astron. J.
+  unstructured: 'Saha, P. and Tremaine, S.: 1994,Astron. J. 108, 1962.'
+  volume: '108'
+  year: '1994'
+- author: G. J. Sussman
+  doi: 10.1126/science.257.5066.56
+  first-page: '56'
+  journal-title: Science
+  unstructured: 'Sussman, G. J. and Wisdom, J.: 1992,Science 257, 56.'
+  volume: '257'
+  year: '1992'
+- author: J. Touma
+  doi: 10.1086/116931
+  first-page: '1189'
+  journal-title: Astron. J.
+  unstructured: 'Touma, J. and Wisdom, J.: 1994,Astron. J. 107, 1189.'
+  volume: '107'
+  year: '1994'
+- author: V. S. Varadarajan
+  unstructured: 'Varadarajan, V. S.: 1974,Lie Algebras and Their Representation, Prentice-Hall,
+    Englewood Cliffs.'
+  volume-title: Lie Algebras and Their Representation
+  year: '1974'
+- author: J. Wisdom
+  doi: 10.1086/115978
+  first-page: '1528'
+  journal-title: Astron. J.
+  unstructured: 'Wisdom, J. and Holman, M.: 1991,Astron. J. 102, 1528.'
+  volume: '102'
+  year: '1991'
+- author: J. Wisdom
+  doi: 10.1086/116378
+  first-page: '2022'
+  journal-title: Astron. J.
+  unstructured: 'Wisdom, J. and Holman, M.: 1992,Astron. J. 104, 2022.'
+  volume: '104'
+  year: '1992'
+- author: H. Yoshida
+  doi: 10.1016/0375-9601(90)90092-3
+  first-page: '262'
+  journal-title: Phys. Lett. A
+  unstructured: 'Yoshida, H.: 1990,Phys. Lett. A,150, 262.'
+  volume: '150'
+  year: '1990'
+- author: H. Yoshida
+  doi: 10.1007/BF00699717
+  first-page: '27'
+  journal-title: Celest. Mech. Dyn. Astron.
+  unstructured: 'Yoshida, H.: 1993,Celest. Mech. Dyn. Astron. 56NS-2, 27.'
+  volume: 56NS-2
+  year: '1993'
+- author: G. Zhong
+  doi: 10.1016/0375-9601(88)90773-6
+  first-page: '134'
+  journal-title: Phys. Lett. A
+  unstructured: 'Zhong, G. and Marsden, J.: 1988,Phys. Lett. A,133, 134.'
+  volume: '133'
+  year: '1988'
+doc_url: http://link.springer.com/article/10.1007/BF00691918/fulltext.html
+doi: 10.1007/bf00691918
+issue: '1'
+journal: Celestial Mechanics & Dynamical Astronomy
+language: en
+pages: 113--123
+publisher: Springer Science and Business Media LLC
+ref: ExistenceOfFoLiao1995
+tags: math pde algorithm numerics differential-geometry symplectic-geometry symplectic-integrator
+time-added: 2021-04-12-23:43:05
+title: Existence of formal integrals of symplectic integrators
+type: article
+url: http://dx.doi.org/10.1007/bf00691918
+volume: '63'
+year: 1995

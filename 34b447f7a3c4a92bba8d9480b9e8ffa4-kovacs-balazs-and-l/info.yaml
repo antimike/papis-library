@@ -1,0 +1,270 @@
+author: Kovács, Balázs and Lubich, Christian
+author_list:
+- affiliation: []
+  family: Kovács
+  given: Balázs
+- affiliation: []
+  family: Lubich
+  given: Christian
+citations:
+- author: T Abboud
+  doi: 10.1016/j.jcp.2011.03.062
+  first-page: '5877'
+  issue: '15'
+  journal-title: J. Comput. Phys.
+  unstructured: 'Abboud, T., Joly, P., Rodríguez, J., Terrasse, I.: Coupling discontinuous
+    Galerkin methods and retarded potentials for transient wave propagation on unbounded
+    domains. J. Comput. Phys. 230(15), 5877–5907 (2011)'
+  volume: '230'
+  year: '2011'
+- author: J Ballani
+  doi: 10.1007/s00211-012-0503-7
+  first-page: '643'
+  issue: '4'
+  journal-title: Numer. Math.
+  unstructured: 'Ballani, J., Banjai, L., Sauter, S., Veit, A.: Numerical solution
+    of exterior Maxwell problems by Galerkin BEM and Runge–Kutta convolution quadrature.
+    Numer. Math. 123(4), 643–670 (2013)'
+  volume: '123'
+  year: '2013'
+- author: L Banjai
+  doi: 10.1137/090775981
+  first-page: '2964'
+  issue: '5'
+  journal-title: SIAM J. Sci. Comput.
+  unstructured: 'Banjai, L.: Multistep and multistage convolution quadrature for the
+    wave equation: algorithms and experiments. SIAM J. Sci. Comput. 32(5), 2964–2994
+    (2010)'
+  volume: '32'
+  year: '2010'
+- author: L Banjai
+  doi: 10.1007/s00211-011-0378-z
+  first-page: '1'
+  issue: '1'
+  journal-title: Numer. Math.
+  unstructured: 'Banjai, L., Lubich, C., Melenk, J.M.: Runge–Kutta convolution quadrature
+    for operators arising in wave propagation. Numer. Math. 119(1), 1–20 (2011)'
+  volume: '119'
+  year: '2011'
+- author: L Banjai
+  doi: 10.1007/s00211-014-0650-0
+  first-page: '611'
+  journal-title: Numer. Math.
+  unstructured: 'Banjai, L., Lubich, C., Sayas, F.-J.: Stable numerical coupling of
+    exterior and interior problems for the wave equation. Numer. Math. 129, 611–646
+    (2015)'
+  volume: '129'
+  year: '2015'
+- author: J-P Berenger
+  doi: 10.1006/jcph.1994.1159
+  first-page: '185'
+  issue: '2'
+  journal-title: J. Comput. Phys.
+  unstructured: 'Berenger, J.-P.: A perfectly matched layer for the absorption of
+    electromagnetic waves. J. Comput. Phys. 114(2), 185–200 (1994)'
+  volume: '114'
+  year: '1994'
+- author: S Brenner
+  doi: 10.1090/S0025-5718-06-01950-8
+  first-page: '573'
+  issue: '258'
+  journal-title: Math. Comput.
+  unstructured: 'Brenner, S., Li, F., Sung, L.-Y.: A locally divergence-free nonconforming
+    finite element method for the time-harmonic Maxwell equations. Math. Comput. 76(258),
+    573–595 (2007)'
+  volume: '76'
+  year: '2007'
+- author: A Buffa
+  doi: 10.1016/S0022-247X(02)00455-9
+  first-page: '845'
+  issue: '2'
+  journal-title: J. Math. Anal. Appl.
+  unstructured: 'Buffa, A., Costabel, M., Sheen, D.: On traces for $$H(\text{ curl
+    }, \varOmega )$$ in Lipschitz domains. J. Math. Anal. Appl. 276(2), 845–867 (2002)'
+  volume: '276'
+  year: '2002'
+- doi: 10.1007/978-3-642-55483-4_3
+  unstructured: 'Buffa, A., Hiptmair, R.: Galerkin boundary element methods for electromagnetic
+    scattering. In: Ainsworth, M., Davies, P., Duncan, D., Rynne, B., Martin, P. (eds.)
+    Topics in Computational Wave Propagation, pp. 83–124. Springer, Berlin (2003)'
+- author: A Buffa
+  doi: 10.1007/s00211-002-0407-z
+  first-page: '459'
+  issue: '3'
+  journal-title: Numer. Math.
+  unstructured: 'Buffa, A., Hiptmair, R., von Petersdorff, T., Schwab, C.: Boundary
+    element methods for Maxwell transmission problems in Lipschitz domains. Numer.
+    Math. 95(3), 459–485 (2003)'
+  volume: '95'
+  year: '2003'
+- doi: 10.1007/978-3-642-23914-4_3
+  unstructured: 'Chen, Q., Monk, P.: Introduction to applications of numerical analysis
+    in time domain computational electromagnetism. In: Blowey, J., Jensen, M. (eds.)
+    Frontiers in Numerical Analysis, pp. 149–225. Springer, Berlin (2012)'
+- author: B Cockburn
+  doi: 10.1016/j.jcp.2003.09.007
+  first-page: '588'
+  issue: '2'
+  journal-title: J. Comput. Phys.
+  unstructured: 'Cockburn, B., Li, F., Shu, C.-W.: Locally divergence-free discontinuous
+    Galerkin methods for the Maxwell equations. J. Comput. Phys. 194(2), 588–610 (2004)'
+  volume: '194'
+  year: '2004'
+- doi: 10.1002/0470091355.ecm022
+  unstructured: 'Costabel, M.: Time-dependent problems with the boundary integral
+    equation method. In: Encyclopedia of Computational Mechanics, Wiley (2004). doi:10.1002/0470091355.ecm022'
+- author: DA Di Pietro
+  unstructured: 'Di Pietro, D.A., Ern, A.: Mathematical Aspects of Discontinuous Galerkin
+    Methods. Springer, Berlin (2011)'
+  volume-title: Mathematical Aspects of Discontinuous Galerkin Methods
+  year: '2011'
+- author: B Engquist
+  doi: 10.1073/pnas.74.5.1765
+  first-page: '1765'
+  issue: '5'
+  journal-title: Proc. Natl. Acad. Sci.
+  unstructured: 'Engquist, B., Majda, A.: Absorbing boundary conditions for numerical
+    simulation of waves. Proc. Natl. Acad. Sci. 74(5), 1765–1766 (1977)'
+  volume: '74'
+  year: '1977'
+- author: MJ Grote
+  doi: 10.1006/jcph.1996.0157
+  first-page: '52'
+  issue: '1'
+  journal-title: J. Comput. Phys.
+  unstructured: 'Grote, M.J., Keller, J.B.: Nonreflecting boundary conditions for
+    time-dependent scattering. J. Comput. Phys. 127(1), 52–65 (1996)'
+  volume: '127'
+  year: '1996'
+- author: T Hagstrom
+  doi: 10.1017/S0962492900002890
+  first-page: '47'
+  journal-title: Acta Numer.
+  unstructured: 'Hagstrom, T.: Radiation boundary conditions for the numerical simulation
+    of waves. Acta Numer. 8, 47–106 (1999)'
+  volume: '8'
+  year: '1999'
+- author: T Hagstrom
+  doi: 10.1016/j.jcp.2007.11.040
+  first-page: '3322'
+  issue: '6'
+  journal-title: J. Comput. Phys.
+  unstructured: 'Hagstrom, T., Mar-Or, A., Givoli, D.: High-order local absorbing
+    conditions for the wave equation: extensions and improvements. J. Comput. Phys.
+    227(6), 3322–3357 (2008)'
+  volume: '227'
+  year: '2008'
+- author: E Hairer
+  doi: 10.1017/S0962492902000144
+  first-page: '399'
+  journal-title: Acta Numer.
+  unstructured: 'Hairer, E., Lubich, C., Wanner, G.: Geometric numerical integration
+    illustrated by the Störmer–Verlet method. Acta Numer. 12, 399–450 (2003)'
+  volume: '12'
+  year: '2003'
+- author: G Herglotz
+  first-page: '501'
+  journal-title: Leipz. Ber.
+  unstructured: 'Herglotz, G.: Über Potenzreihen mit positivem, reellen Teil im Einheitskreis.
+    Leipz. Ber. 63, 501–511 (1911)'
+  volume: '63'
+  year: '1911'
+- author: JS Hesthaven
+  unstructured: 'Hesthaven, J.S., Warburton, T.: Nodal Discontinuous Galerkin Methods:
+    Algorithms, Analysis, and Applications. Springer, Berlin (2007)'
+  volume-title: 'Nodal Discontinuous Galerkin Methods: Algorithms, Analysis, and Applications'
+  year: '2007'
+- author: R Hiptmair
+  doi: 10.1017/S0962492902000041
+  first-page: '237'
+  journal-title: Acta Numer.
+  unstructured: 'Hiptmair, R.: Finite elements in computational electromagnetism.
+    Acta Numer. 11, 237–339 (2002)'
+  volume: '11'
+  year: '2002'
+- author: H Hochbruck
+  doi: 10.1137/15M1038037
+  first-page: '3167'
+  issue: '5'
+  journal-title: SIAM J. Numer. Anal.
+  unstructured: 'Hochbruck, H., Sturm, A.: Error analysis of a second order locally
+    implicit method for linear Maxwell’s equations. SIAM J. Numer. Anal. 54(5), 3167–3191
+    (2016)'
+  volume: '54'
+  year: '2016'
+- author: A Kirsch
+  unstructured: 'Kirsch, A., Hettlich, F.: The Mathematical Theory of Time-Harmonic
+    Maxwell’s Equations, Applied Mathematical Sciences, vol. 190. Springer, Berlin
+    (2015)'
+  volume-title: The Mathematical Theory of Time-Harmonic Maxwell’s Equations, Applied
+    Mathematical Sciences
+  year: '2015'
+- doi: 10.1007/BF01398686
+  unstructured: 'Lubich, C.: Convolution quadrature and discretized operational calculus.
+    I. and II. Numer. Math. 52(2), 129–145, 413–425 (1988)'
+- author: C Lubich
+  doi: 10.1007/s002110050033
+  first-page: '365'
+  issue: '3'
+  journal-title: Numer. Math.
+  unstructured: 'Lubich, C.: On the multistep time discretization of linear initial-boundary
+    value problems and their boundary integral equations. Numer. Math. 67(3), 365–389
+    (1994)'
+  volume: '67'
+  year: '1994'
+- author: C Lubich
+  doi: 10.1023/B:BITN.0000046813.23911.2d
+  first-page: '503'
+  issue: '3'
+  journal-title: BIT
+  unstructured: 'Lubich, C.: Convolution quadrature revisited. BIT 44(3), 503–514
+    (2004)'
+  volume: '44'
+  year: '2004'
+- author: P Monk
+  doi: 10.1093/acprof:oso/9780198508885.001.0001
+  unstructured: 'Monk, P.: Finite Element Methods for Maxwell’s Equations. Oxford
+    University Press, Oxford (2003)'
+  volume-title: Finite Element Methods for Maxwell’s Equations
+  year: '2003'
+- author: J-C Nédélec
+  doi: 10.1007/BF01396415
+  first-page: '315'
+  issue: '3'
+  journal-title: Numer. Math.
+  unstructured: 'Nédélec, J.-C.: Mixed finite elements in $$\mathbb{R}^3$$. Numer.
+    Math. 35(3), 315–341 (1980)'
+  volume: '35'
+  year: '1980'
+- author: JC Nédélec
+  first-page: '359'
+  unstructured: 'Nédélec, J.C.: Approximation of integral equations by finite elements.
+    Error analysis. In: Dautray, R., Lions, J.-L. (eds.) Mathematical Analysis and
+    Numerical Methods for Science and Technology, vol. 4, Chapter XIII, pp. 359–370.
+    Springer, Berlin (1990)'
+  volume-title: Mathematical Analysis and Numerical Methods for Science and Technology
+  year: '1990'
+- doi: 10.1007/BFb0064470
+  unstructured: 'Raviart, P.-A., Thomas, J.-M.: A mixed finite element method for
+    2-nd order elliptic problems. In: Galligani I., Magenes E. (eds.) Mathematical
+    Aspects of Finite Element Methods, pp. 292–315. Springer, Berlin (1977)'
+doc_url: http://link.springer.com/content/pdf/10.1007/s00211-017-0868-8.pdf
+doi: 10.1007/s00211-017-0868-8
+files:
+- tmps3d4jj0c.pdf
+issue: '1'
+journal: Numerische Mathematik
+language: en
+month: 9
+pages: 91--117
+publisher: Springer Science and Business Media LLC
+ref: StableAndConvKovacs2017
+tags: interior-exterior-coupling maxwell transparent-boundary-conditions numerics
+  coercivity computational-em stability
+time-added: 2021-04-13-04:42:56
+title: Stable and convergent fully discrete interior–exterior coupling of Maxwell’s
+  equations
+type: article
+url: http://dx.doi.org/10.1007/s00211-017-0868-8
+volume: '137'
+year: 2017

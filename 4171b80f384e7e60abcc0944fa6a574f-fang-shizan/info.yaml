@@ -1,0 +1,25 @@
+abstract: 'What is the suitable Laplace operator on vector fields for the Navier-Stokes
+  equation on a Riemannian manifold? In this note, by considering Nash embedding,
+  we will try to elucidate different aspects of different Laplace operators such as
+  de Rham-Hodge Laplacian as well as Ebin-Marsden''s Laplacian. A probabilistic representation
+  formula for Navier-Stokes equations on a general compact Riemannian manifold is
+  obtained when de Rham-Hodge Laplacian is involved. MSC 2010: 35Q30, 58J65'
+archiveprefix: arXiv
+author: Fang, Shizan
+author_list:
+- family: Fang
+  given: Shizan
+eprint: 1907.13519v2
+file: 1907.13519v2.pdf
+files:
+- tmpci6eekq2.pdf
+month: Jul
+primaryclass: math.DG
+ref: 1907.13519v2
+tags: differential-geometry navier-stokes nash-embedding shape-operator
+time-added: 2021-04-13-04:57:18
+title: Nash embedding, shape operator and Navier-Stokes equation on a   Riemannian
+  manifold
+type: article
+url: http://arxiv.org/abs/1907.13519v2
+year: '2019'

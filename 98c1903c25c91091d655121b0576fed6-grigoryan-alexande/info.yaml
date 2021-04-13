@@ -1,0 +1,36 @@
+author: Grigor’yan, Alexander and Lin, Yong and Muranov, Yuri and Yau, Shing-Tung
+author_list:
+- affiliation:
+  - name: Department of Mathematics, University of Bielefeld, Germany
+  family: Grigor’yan
+  given: Alexander
+- affiliation:
+  - name: Department of Mathematics, Renmin University of China, Beijing, China
+  family: Lin
+  given: Yong
+- affiliation:
+  - name: Faculty of Mathematics and Computer Science, University of Warmia and Mazury,
+      Olsztyn, Poland
+  family: Muranov
+  given: Yuri
+- affiliation:
+  - name: Department of Mathematics, Harvard University, Cambridge, Massachusetts,
+      U.S.A.
+  family: Yau
+  given: Shing-Tung
+doi: 10.4310/ajm.2015.v19.n5.a5
+files:
+- cohomology-digraphs-undirected-graphs.pdf
+issue: '5'
+journal: Asian Journal of Mathematics
+language: en
+pages: 887--932
+publisher: International Press of Boston
+ref: CohomologyOfDGrigor2015
+tags: cohomology topology digraph graph-theory category math algebra
+time-added: 2021-04-13-03:12:41
+title: Cohomology of digraphs and (undirected) graphs
+type: article
+url: http://dx.doi.org/10.4310/ajm.2015.v19.n5.a5
+volume: '19'
+year: 2015

@@ -1,0 +1,26 @@
+abstract: We show how the high order finite element spaces of differential forms due
+  to Raviart-Thomas-N\'edelec-Hiptmair fit into the framework of finite element systems,
+  in an elaboration of the finite element exterior calculus of Arnold-Falk-Winther.
+  Based on observations by Bossavit, we provide new low order degrees of freedom.
+  As an alternative to existing choices of bases, we provide canonical resolutions
+  in terms of scalar polynomials and Whitney forms.
+archiveprefix: arXiv
+author: Christiansen, Snorre Harald and Rapetti, Francesca
+author_list:
+- family: Christiansen
+  given: Snorre Harald
+- family: Rapetti
+  given: Francesca
+eprint: 1306.4835v2
+file: 1306.4835v2.pdf
+files:
+- tmpgyzrmyot.pdf
+month: Jun
+primaryclass: math.NA
+ref: 1306.4835v2
+time-added: 2021-04-12-22:46:22
+title: On high order finite element spaces of differential forms
+type: article
+url: http://arxiv.org/abs/1306.4835v2
+year: '2013'
+tags: 'differential-geometry fem pde DDG DEC discrete-exterior-calculus math'

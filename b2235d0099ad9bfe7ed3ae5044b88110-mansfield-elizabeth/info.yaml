@@ -1,0 +1,161 @@
+author: Mansfield, Elizabeth L. and Pryer, Tristan
+author_list:
+- affiliation: []
+  family: Mansfield
+  given: Elizabeth L.
+- affiliation: []
+  family: Pryer
+  given: Tristan
+citations:
+- doi: 10.1007/978-1-4757-4307-4
+  unstructured: George Bluman and Sukeyuki Kumei. Symmetries and Differential Equations,
+    volume 154 of Applied Mathematical Sciences. Springer Verlag, New York, 1989 The
+    alternative to Olver’s text.
+- unstructured: Brian J. Cantwell. Introduction to Symmetry Analysis. Cambridge University
+    Press, Cambridge, 2002. Symmetry methods with applied mathematics examples.
+- author: Peter E Hydon
+  doi: 10.1017/CBO9780511623967
+  unstructured: Peter E. Hydon. Symmetry methods for Differential Equations, A beginner’s
+    guide. Cambridge University Press, Cambridge, 2000
+  volume-title: Symmetry methods for Differential Equations. A beginner’s guide
+  year: '2000'
+- doi: 10.5962/bhl.title.18549
+  unstructured: Sophus Lie. Vorlesungen über continuierliche Gruppen mit Geometrischen
+    und anderen Anwendungen. Chelsea Publishing Co., Bronx, N.Y., 1971. Bearbeitet
+    und herausgegeben von Georg Scheffers, Nachdruck der Auflage des Jahres 1893.
+- doi: 10.1007/978-1-4612-4350-2
+  unstructured: Peter J. Olver. Applications of Lie groups to differential equations,
+    volume 107 of Graduate Texts in Mathematics. Springer-Verlag, New York, second
+    edition, 1993.
+- doi: 10.1080/00411457108231446
+  unstructured: Emmy Noether. Invariant variation problems. Transport Theory Statist.
+    Phys., 1(3):186–207, 1971. Translated from the German (Nachr. Akad. Wiss. Göttingen
+    Math.-Phys. Kl. II 1918, 235–257).
+- doi: 10.1175/1520-0493(1991)119<1929:PVDOC>2.0.CO;2
+  unstructured: Christopher A. Davis and Kerry A. Emanuel. Potential vorticity diagnostics
+    of cyclogenesis. Monthly Weather Review, 119(8):1929–1953, 2013/01/24 1991.
+- unstructured: Natalie Angier. The mighty mathematician you’ve never heard of. The
+    New York Times, March 26, 2012.
+- doi: 10.1016/S0168-9274(00)00041-6
+  unstructured: 'Vladimir Dorodnitsyn. Noether-type theorems for difference equations.
+    Appl. Numer. Math., 39(3–4):307–321, 2001. Special issue: Themes in geometric
+    integration.'
+- doi: 10.1007/s10208-002-0071-9
+  unstructured: Peter E. Hydon and Elizabeth L. Mansfield. A variational complex for
+    difference equations. Found. Comput. Math., 4(2):187–217, 2004.
+- unstructured: Dietrich Braess. Finite elements. Cambridge University Press, Cambridge,
+    second edition, 2001. Theory, fast solvers, and applications in solid mechanics,
+    Translated from the 1992 German edition by Larry L. Schumaker.
+- author: Susanne C Brenner
+  doi: 10.1007/978-1-4757-4338-8
+  unstructured: Susanne C. Brenner and L. Ridgway Scott. The mathematical theory of
+    finite element methods. Springer-Verlag, New York, 1994.
+  volume-title: The mathematical theory of finite element methods
+  year: '1994'
+- unstructured: Philippe G. Ciarlet. The finite element method for elliptic problems.
+    North-Holland Publishing Co., Amsterdam, 1978. Studies in Mathematics and its
+    Applications, Vol. 4.
+- unstructured: Ernst Hairer, Christian Lubich, and Gerhard Wanner. Geometric numerical
+    integration, volume 31 of Springer Series in Computational Mathematics. Springer-Verlag,
+    Berlin, second edition, 2006. Structure-preserving algorithms for ordinary differential
+    equations.
+- author: Douglas N Arnold
+  doi: 10.1090/S0273-0979-10-01278-4
+  first-page: '281'
+  issue: '2'
+  journal-title: Bull. Amer. Math. Soc. (N.S.)
+  unstructured: 'Douglas N. Arnold, Richard S. Falk, and Ragnar Winther. Finite element
+    exterior calculus: from Hodge theory to numerical stability. Bull. Amer. Math.
+    Soc. (N.S.) , 47(2):281–354, 2010.'
+  volume: '47'
+  year: '2010'
+- doi: 10.2478/cmam-2011-0002
+  unstructured: Nicolas Robidoux and Stanly Steinberg. A discrete vector calculus
+    in tensor grids. Comput. Methods Appl. Math., 11(1):23–66, 2011.
+- unstructured: Elizabeth L. Mansfield. Noether’s theorem for smooth, difference and
+    finite element systems. In Foundations of computational mathematics, Santander
+    2005, volume 331 of London Math. Soc. Lecture Note Ser., pages 230–254. Cambridge
+    Univ. Press, Cambridge, 2006.
+- doi: 10.1017/S096249291100002X
+  unstructured: Snorre H. Christiansen, Hans Z. Munthe-Kaas, and Brynjulf Owren. Topics
+    in structure-preserving discretization. Acta Numer., 20:1–119, 2011.
+- doi: 10.1007/BFb0064470
+  unstructured: P.-A. Raviart and J. M. Thomas. A mixed finite element method for
+    2nd order elliptic problems. In Mathematical aspects of finite element methods
+    (Proc. Conf., Consiglio Naz. delle Ricerche (C.N.R.), Rome, 1975), pages 292–315.
+    Lecture Notes in Math., Vol. 606. Springer, Berlin, 1977.
+- author: Franco Brezzi
+  doi: 10.1051/m2an:2008046
+  first-page: '277'
+  issue: '2'
+  journal-title: M2AN. Math. Model. Numer. Anal.
+  unstructured: Franco Brezzi, Annalisa Buffa, and Konstantin Lipnikov. Mimetic finite
+    differences for elliptic problems. M2AN Math. Model. Numer. Anal., 43(2):277–295,
+    2009.
+  volume: '43'
+  year: '2009'
+- doi: 10.1137/080717560
+  unstructured: Andrea Cangiani, Gianmarco Manzini, and Alessandro Russo. Convergence
+    analysis of the mimetic finite difference method for elliptic problems. SIAM J.
+    Numer. Anal., 47(4):2612–2637, 2009.
+- doi: 10.1063/1.3692167
+  unstructured: Snorre H. Christiansen and Tore G. Halvorsen. A simplicial gauge theory.
+    Journal of Mathematical Physics, 53(3):-, 2012.
+- unstructured: Lawrence C. Evans. Partial differential equations, volume 19 of Graduate
+    Studies in Mathematics. American Mathematical Society, Providence, RI, 1998.
+- unstructured: Mariano Giaquinta and Stefan Hildebrandt. Calculus of variations.
+    I, volume 310 of Grundlehren der Mathematischen Wissenschaften [Fundamental Principles
+    of Mathematical Sciences]. Springer-Verlag, Berlin, 1996. The Lagrangian formalism.
+- doi: 10.1007/978-1-4757-4355-5
+  unstructured: Alexandre Ern and Jean-Luc Guermond. Theory and practice of finite
+    elements, volume 159 of Applied Mathematical Sciences. Springer-Verlag, New York,
+    2004.
+- author: John W Barrett
+  doi: 10.1137/0731022
+  first-page: '413'
+  issue: '2'
+  journal-title: SIAM J. Numer. Anal.
+  unstructured: John W. Barrett and W. B. Liu. Finite element approximation of the
+    parabolic $$p$$ p -Laplacian. SIAM J. Numer. Anal., 31(2):413–428, 1994.
+  volume: '31'
+  year: '1994'
+- doi: 10.1007/978-1-4612-3172-1
+  unstructured: Franco Brezzi and Michel Fortin. Mixed and hybrid finite element methods,
+    volume 15 of Springer Series in Computational Mathematics. Springer-Verlag, New
+    York, 1991.
+- doi: 10.1017/S0962492901000010
+  unstructured: Roland Becker and Rolf Rannacher. An optimal control approach to a
+    posteriori error estimation in finite element methods. Acta Numer., 10:1–102,
+    2001.
+- doi: 10.1137/10081962X
+  unstructured: 'Marie E. Rognes and Anders Logg. Automated goal-oriented error control
+    I: Stationary variational problems. SIAM J. Sci. Comput., 35(3):C173–C193, 2013.'
+- doi: 10.1093/imanum/drm026
+  unstructured: Ricardo H. Nochetto, Andreas Veeser, and Marco Verani. A safeguarded
+    dual weighted residual method. IMA Journal of Numerical Analysis, 29(1):126–140,
+    2009.
+- doi: 10.1137/S0036142902413615
+  unstructured: Carsten Carstensen. Estimation of higher Sobolev norm from lower order
+    approximation. SIAM J. Numer. Anal., 42(5):2136–2147 (electronic), 2005.
+- unstructured: Alfred Schmidt and Kunibert G. Siebert. Design of adaptive finite
+    element software, volume 42 of Lecture Notes in Computational Science and Engineering.
+    Springer-Verlag, Berlin, 2005. The finite element toolbox ALBERTA, With 1 CD-ROM
+    (Unix/Linux).
+doc_url: http://link.springer.com/article/10.1007/s10208-015-9298-0/fulltext.html
+doi: 10.1007/s10208-015-9298-0
+files:
+- discrete-noether-currents-fem-variational.pdf
+issue: '3'
+journal: Foundations of Computational Mathematics
+language: en
+month: 6
+pages: 729--762
+publisher: Springer Science and Business Media LLC
+ref: NoetherTypeDiMansfi2017
+time-added: 2021-04-13-00:13:18
+title: Noether-Type Discrete Conserved Quantities Arising from a Finite Element Approximation
+  of a Variational Problem
+type: article
+url: http://dx.doi.org/10.1007/s10208-015-9298-0
+volume: '17'
+year: 2017

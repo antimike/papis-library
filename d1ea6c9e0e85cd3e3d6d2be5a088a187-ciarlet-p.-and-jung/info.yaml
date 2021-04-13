@@ -1,0 +1,163 @@
+author: Ciarlet, P. and Jung, B. and Kaddouri, S. and Labrunie, S. and Zou, J.
+author_list:
+- affiliation: []
+  family: Ciarlet
+  given: P.
+- affiliation: []
+  family: Jung
+  given: B.
+- affiliation: []
+  family: Kaddouri
+  given: S.
+- affiliation: []
+  family: Labrunie
+  given: S.
+- affiliation: []
+  family: Zou
+  given: J.
+citations:
+- unstructured: 'Abramowitz, M., Stegun, I.A.: Handbook of mathematical functions.
+    Dover, New York (1965)'
+- author: Assous
+  doi: 10.1006/jcph.1993.1214
+  first-page: '222'
+  journal-title: J. Comput. Phys.
+  unstructured: Assous, F., Degond, P., Heintzé, E., Raviart, P.-A., Segré, J.:On
+    a finite-element method for solving the three-dimensional Maxwell equations. J.
+    Comput. Phys. 109, 222–237 (1993)
+  volume: '109'
+  year: '1993'
+- author: Assous
+  doi: 10.1002/mma.279
+  first-page: '49'
+  journal-title: Math. Meth. Appl. Sci.
+  unstructured: 'Assous, F., Ciarlet, Jr, P., Labrunie, S.: Theoretical tools to solve
+    the axisymmetric Maxwell equations. Math. Meth. Appl. Sci. 25, 49–78 (2002)'
+  volume: '25'
+  year: '2002'
+- author: Assous
+  doi: 10.1002/mma.400
+  first-page: '861'
+  journal-title: Math. Meth. Appl. Sci.
+  unstructured: 'Assous, F., Ciarlet, Jr, P., Labrunie, S.: Solution of axisymmetric
+    Maxwell equations. Math. Meth. Appl. Sci. 26, 861–896 (2003)'
+  volume: '26'
+  year: '2003'
+- author: Assous
+  doi: 10.1016/S0021-9991(03)00309-7
+  first-page: '147'
+  journal-title: J. Comput. Phys.
+  unstructured: 'Assous, F., Ciarlet, Jr, P., Labrunie, S., Segré, J.: Numerical solution
+    to the time-dependent Maxwell equations in axisymmetric singular domains: the
+    Singular Complement Method. J. Comput. Phys. 191, 147–176 (2003)'
+  volume: '191'
+  year: '2003'
+- author: Assous
+  doi: 10.1051/m2an/1998320303591
+  first-page: '359'
+  journal-title: Math. Model. Numer. Anal.
+  unstructured: 'Assous, F., Ciarlet, Jr, P., Sonnendrücker, E.: Resolution of the
+    Maxwell equations in a domain with reentrant corners. Math. Model. Numer. Anal.
+    32, 359–389 (1998)'
+  volume: '32'
+  year: '1998'
+- author: Assous
+  doi: 10.1006/jcph.2000.6499
+  first-page: '218'
+  journal-title: J. Comput. Phys.
+  unstructured: 'Assous, F., Ciarlet, Jr., P., Segré, J.: Numerical solution to the
+    time-dependent Maxwell equations in two-dimensional singular domains: the Singular
+    Complement Method. J. Comput. Phys. 161, 218–249 (2000)'
+  volume: '161'
+  year: '2000'
+- unstructured: 'Belhachmi, Z., Bernardi, C., Deparis, S.: Weighted Clément operator
+    and application to the finite element discretization of the axisymmetric Stokes
+    problem. Internal Report 03029, Laboratoire Jacques-Louis Lions, Université Pierre
+    et Marie Curie. (2003)'
+- unstructured: 'Bernardi, C., Dauge, M., Maday, Y.: Polynomials in weighted Sobolev
+    spaces: basics and trace liftings. Internal Report 92039, Laboratoire d''analyse
+    numérique, Université Pierre et Marie Curie (1992)'
+- unstructured: 'Bernardi, C., Dauge, M., Maday, Y.: Spectral methods for axisymmetric
+    domains. Series in Applied Mathematics, Gauthier-Villars, Paris and North Holland,
+    Amsterdam (1999)'
+- author: Ciarlet
+  doi: 10.1016/S1631-073X(03)00030-X
+  first-page: '353'
+  journal-title: C. R. Acad. Sci. Paris, Ser. I
+  unstructured: 'Ciarlet, Jr, P., He, J.: The singular complement method for 2D scalar
+    problems. C. R. Acad. Sci. Paris, Ser. I 336, 353–358 (2003)'
+  volume: '336'
+  year: '2003'
+- author: Ciarlet
+  first-page: '423'
+  journal-title: 'Part I: prismatic domains Numer. Math.'
+  unstructured: 'Ciarlet, Jr, P., Jung, B., Kaddouri, S., Labrunie, S., Zou, J.: The
+    Fourier Singular Complement Method for the Poisson problem. Part I: prismatic
+    domains Numer. Math. 101, 423–450 (2005)'
+  volume: '101'
+  year: '2005'
+- doi: 10.1007/s00211-005-0664-8
+  unstructured: 'Ciarlet, Jr, P., Jung, B., Kaddouri, S., Labrunie, S., Zou, J.: The
+    Fourier Singular Complement Method for the Poisson problem. Part III: implementation
+    issues. In preparation. (2004)'
+- unstructured: 'Grisvard, P.: Singularities in boundary value problems. RMA 22, Masson,
+    Paris (1992)'
+- author: Heinrich
+  doi: 10.1002/mma.1670161202
+  first-page: '837'
+  journal-title: Math. Meth. Appl. Sci.
+  unstructured: 'Heinrich, B.: Singularity functions at axisymmetric edges and their
+    representation by Fourier series. Math. Meth. Appl. Sci. 16, 837–854 (1993)'
+  volume: '16'
+  year: '1993'
+- author: Heinrich
+  doi: 10.1137/S0036142994266108
+  first-page: '1885'
+  journal-title: SIAM J. Numer. Anal.
+  unstructured: 'Heinrich, B.: The Fourier-finite element method for Poisson''s equation
+    in axisymmetric domains with edges. SIAM J. Numer. Anal. 33, 1885–1911 (1996)'
+  volume: '33'
+  year: '1996'
+- author: Heinrich
+  first-page: '571'
+  journal-title: Adv. Math. Sci. Appl.
+  unstructured: 'Heinrich, B., Nicaise S., Weber, B.: Elliptic interface problems
+    in axisymmetric domains II: Convergence analysis of the Fourier-finite element
+    method. Adv. Math. Sci. Appl. 10, 571–600 (2000)'
+  volume: '10'
+  year: '2000'
+- author: Mercier
+  doi: 10.1051/m2an/1982160404051
+  first-page: '405'
+  journal-title: RAIRO Analyse numérique
+  unstructured: 'Mercier, B., Raugel, G.: Résolution d''un problème aux limites dans
+    un ouvert axisymétrique par éléments finis en r, z et séries de Fourier en θ.
+    RAIRO Analyse numérique 4, 405–461 (1982)'
+  volume: '4'
+  year: '1982'
+- doi: 10.1515/9783110848915
+  unstructured: 'Nazarov, S.A., Plamenevsky, B.A.: Elliptic problems in domains with
+    piecewise smooth boundaries. De Gruyter Exp. Math. 13 (1994)'
+- unstructured: 'Raugel, G.: Résolution numérique de problèmes elliptiques dans des
+    domaines avec coins. PhD Thesis, Rennes University, France (1978)'
+- unstructured: 'Zienkiewicz, O.C.: The Finite Element Method. McGraw–Hill, London
+    (1977)'
+doc_url: http://link.springer.com/article/10.1007/s00211-005-0664-8/fulltext.html
+doi: 10.1007/s00211-005-0664-8
+files:
+- ciarlet2006-article-thefouriersingularcomplementme.pdf
+issue: '4'
+journal: Numerische Mathematik
+language: en
+month: 2
+pages: 583--610
+publisher: Springer Science and Business Media LLC
+ref: TheFourierSinCiarle2006
+tags: fourier-singular-complement poisson axisymmetric prismatic FSCM
+time-added: 2021-04-13-04:33:52
+title: 'The Fourier Singular Complement Method for the Poisson problem. Part II: axisymmetric
+  domains'
+type: article
+url: http://dx.doi.org/10.1007/s00211-005-0664-8
+volume: '102'
+year: 2006

@@ -1,0 +1,24 @@
+author: arlet, Jr., Patrick C and Labrunie, Simon
+author_list:
+- affiliation: []
+  family: arlet, Jr.
+  given: Patrick C
+- affiliation: []
+  family: Labrunie
+  given: Simon
+doi: 10.7153/dea-03-08
+files:
+- maxwell-time-dependent-axisymmetric-numerical-solution.pdf
+issue: '1'
+journal: Differential Equations & Applications
+language: en
+pages: 113--155
+publisher: Element d.o.o.
+ref: NumericalSolutArlet2011
+tags: numerics maxwell computational-em axisymmetric fourier-singular-complement time-dependent-maxwell
+time-added: 2021-04-13-04:22:42
+title: Numerical solution of Maxwell's equations in axisymmetric domains with the
+  Fourier Singular Complement Method
+type: article
+url: http://dx.doi.org/10.7153/dea-03-08
+year: 2011

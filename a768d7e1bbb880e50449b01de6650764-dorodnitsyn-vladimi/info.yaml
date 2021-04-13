@@ -1,0 +1,105 @@
+author: Dorodnitsyn, Vladimir
+author_list:
+- affiliation: []
+  family: Dorodnitsyn
+  given: Vladimir
+citations:
+- author: Ames
+  series-title: 'CRC Handbook of Lie Group Analysis of Differential Equations, Vol.
+    I: Symmetries, Exact Solutions and Conservation Laws'
+  year: '1994'
+- unstructured: Yu. Artamonov, Master's Thesis, Physical Department of Moscow State
+    University, 1995 (in Russian)
+- article-title: Symmetry preserving difference schemes for some heat transfer equations
+  author: Bakirova
+  doi: 10.1088/0305-4470/30/23/014
+  first-page: '8139'
+  journal-title: 'J. Phys. A: Math. Gen.'
+  volume: '30'
+  year: '1997'
+- article-title: Uber die Erhaltungssatze der Elektrodynamik
+  author: Bessel-Hagen
+  doi: 10.1007/BF01459410
+  first-page: '258'
+  journal-title: Math. Ann.
+  volume: '84'
+  year: '1921'
+- article-title: Transformation groups in mesh spaces
+  author: Dorodnitsyn
+  doi: 10.1007/BF01097535
+  first-page: '1490'
+  issue: '1'
+  journal-title: J. Soviet Math.
+  volume: '55'
+  year: '1991'
+- article-title: Finite-difference models entirely inheriting symmetry of original
+    differential equations
+  author: Dorodnitsyn
+  first-page: '191'
+  series-title: 'Modern Group Analysis: Advanced Analytical and Computational Methods
+    in Mathematical Physics'
+  year: '1993'
+- article-title: Finite-difference analog of Noether's theorem
+  author: Dorodnitsyn
+  first-page: '678'
+  issue: '6'
+  journal-title: Dokl. Akad. Nauk SSSR
+  volume: '328'
+  year: '1993'
+- article-title: Conservation laws for difference equation
+  author: Dorodnitsyn
+  first-page: '91'
+  series-title: Modern Group Analysis VII, Developments in Theory, Computations and
+    Application
+  year: '1999'
+- article-title: Lie group classification of second-order ordinary difference
+  author: Dorodnitsyn
+  doi: 10.1063/1.533142
+  first-page: '480'
+  issue: '1'
+  journal-title: J. Math. Phys.
+  volume: '41'
+  year: '2000'
+- author: Ibragimov
+  series-title: Transformation Groups Applied to Mathematical Physics
+  year: '1985'
+- article-title: Extension of discrete Noether theorem
+  author: Maeda
+  first-page: '85'
+  issue: '1'
+  journal-title: Math. Japon.
+  volume: '26'
+  year: '1981'
+- article-title: The similarity method for difference equations
+  author: Maeda
+  doi: 10.1093/imamat/38.2.129
+  first-page: '129'
+  journal-title: J. Inst. Math. Appl.
+  volume: '38'
+  year: '1987'
+- unstructured: E. Noether, Invariante Variathionsprobleme, Konig. Gesell. Wissen.,
+    Gottingen, Math.-Phys. Kl., Heft 2, 235
+- author: Olver
+  series-title: Application of Lie Groups to the Differential Equations
+  year: '1986'
+- author: Ovsiannikov
+  series-title: Group Analysis of Differential Equations
+  year: '1982'
+doc_url: https://api.elsevier.com/content/article/PII:S0168927400000416?httpAccept=text/plain
+doi: 10.1016/s0168-9274(00)00041-6
+files:
+- noether-type-theorems-difference-equations.pdf
+issue: 3-4
+journal: Applied Numerical Mathematics
+language: en
+month: 12
+pages: 307--321
+publisher: Elsevier BV
+ref: NoetherTypeThDorodn2001
+tags: noether difference-equation symmetry lattice discretization quasi-extremal-equation
+time-added: 2021-04-13-03:19:22
+title: Noether-type theorems for difference equations
+type: article
+url: http://dx.doi.org/10.1016/s0168-9274(00)00041-6
+volume: '39'
+year: 2001

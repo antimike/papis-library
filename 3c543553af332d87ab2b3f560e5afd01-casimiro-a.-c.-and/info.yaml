@@ -1,0 +1,34 @@
+abstract: The present paper develops a variational theory of discrete fields defined
+  on abstract cellular complexes. The discrete formulation is derived solely from
+  a variational principle associated to a discrete Lagrangian density on a discrete
+  bundle, and developed up to the notion of symmetries and conservation laws for solutions
+  of the discrete field equations. The notion of variational integrator for a Cauchy
+  problem associated to this variational principle is also studied. The theory is
+  then connected with the classical (smooth) formulation of variational field theories,
+  describing a functorial method to derive a discrete Lagrangian density from a smooth
+  Lagrangian density on a Riemannian fibered manifold, so that all symmetries of the
+  Lagrangian turn into symmetries of the corresponding discrete Lagrangian. Elements
+  of the discrete and smooth theories are compared and all sources of error between
+  them are identified. Finally the whole theory is illustrated with the discretization
+  of the classical variational formulation of the kinematics of a Cosserat rod.
+archiveprefix: arXiv
+author: Casimiro, A. C. and Rodrigo, C.
+author_list:
+- family: Casimiro
+  given: A. C.
+- family: Rodrigo
+  given: C.
+eprint: 1509.08750v1
+file: 1509.08750v1.pdf
+files:
+- tmpvezx5ryh.pdf
+month: Sep
+primaryclass: math-ph
+ref: 1509.08750v1
+tags: symmetry discretization variational field-theory cellular-complex lagrangian
+  variational-integrator functorial differential-geometry DDG DEC
+time-added: 2021-04-13-02:29:42
+title: Symmetry-preserving discretization of variational field theories
+type: article
+url: http://arxiv.org/abs/1509.08750v1
+year: '2015'

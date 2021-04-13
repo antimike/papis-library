@@ -1,0 +1,61 @@
+author: Monk, Peter
+author_list:
+- affiliation: []
+  family: Monk
+  given: Peter
+citations:
+- doi: 10.1016/0045-7825(80)90004-3
+- author: Brezzi F.
+  first-page: '129'
+  journal-title: Rev. Française Automat. Informat. Recherche Opérationnelle Sér. Rouge
+  volume: '8'
+  year: '1974'
+- doi: 10.1109/TAP.1987.1143981
+- doi: 10.1007/BF01396415
+- doi: 10.1007/978-3-642-66165-5
+- doi: 10.1007/978-3-642-61623-5
+- author: Golub G.
+  volume-title: Matrix computations
+  year: '1983'
+- author: Jones D. S.
+  volume-title: The theory of electromagnetism
+  year: '1964'
+- doi: 10.1016/0021-9991(90)90181-Y
+- author: Leis R.
+  volume-title: Initial Boundary Value Problems in Mathematical Physics
+  year: '1988'
+- doi: 10.1137/0728081
+- doi: 10.1007/BF01396415
+- author: Raviart P. A.
+  volume-title: Mathematical aspects of finite element methods (Proc. Conf., Consiglio
+    Naz. delle Ricerche (C.N.R.), Rome, 1975)
+  year: '1977'
+- author: Richtmeyer R.
+  volume-title: Difference methods for initial value problems
+  year: '1976'
+- doi: 10.1109/8.1102
+- doi: 10.1137/1024038
+- author: Yee K.
+  doi: 10.1109/TAP.1966.1138693
+  first-page: '302'
+  journal-title: IEEE Trans. Antennas and Propagation
+  volume: '16'
+  year: '1966'
+doi: 10.1137/0913064
+files:
+- mixed-methods-td-maxwell.pdf
+issue: '5'
+journal: SIAM Journal on Scientific and Statistical Computing
+language: en
+month: 9
+pages: 1097--1122
+publisher: Society for Industrial & Applied Mathematics (SIAM)
+ref: AComparisonOfMonk1992
+tags: maxwell em fem mixed-methods time-dependent-maxwell numerics pde algorithm survey
+  benchmark
+time-added: 2021-04-13-00:00:53
+title: A Comparison of Three Mixed Methods for the Time-Dependent Maxwell’s Equations
+type: article
+url: http://dx.doi.org/10.1137/0913064
+volume: '13'
+year: 1992

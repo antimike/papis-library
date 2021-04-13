@@ -1,0 +1,195 @@
+author: Assous, F. and Ciarlet, P. and Labrunie, S. and Segré, J.
+author_list:
+- affiliation: []
+  family: Assous
+  given: F.
+- affiliation: []
+  family: Ciarlet
+  given: P.
+- affiliation: []
+  family: Labrunie
+  given: S.
+- affiliation: []
+  family: Segré
+  given: J.
+citations:
+- article-title: Résolution des équations de Maxwell instationnaires avec charges
+    dans un domaine bidimensionnel
+  author: Assous
+  doi: 10.1016/S0764-4442(00)00159-2
+  first-page: '391'
+  issue: Série I
+  journal-title: C. R. Acad. Sci. Paris, t.
+  volume: '330'
+  year: '2000'
+- article-title: Theoretical tools to solve the axisymmetric Maxwell equations
+  author: Assous
+  doi: 10.1002/mma.279
+  first-page: '49'
+  journal-title: Math. Methods Appl. Sci.
+  volume: '25'
+  year: '2002'
+- article-title: Solution of axisymmetric Maxwell equations
+  author: Assous
+  doi: 10.1002/mma.400
+  first-page: '861'
+  journal-title: Math. Methods Appl. Sci.
+  volume: '26'
+  year: '2003'
+- article-title: 'Numerical solution to the time-dependent Maxwell equations in two-dimensional
+    singular domain: the singular complement method'
+  author: Assous
+  doi: 10.1006/jcph.2000.6499
+  first-page: '218'
+  journal-title: J. Comput. Phys.
+  volume: '161'
+  year: '2000'
+- article-title: On a finite element method for solving the three-dimensional Maxwell
+    equations
+  author: Assous
+  doi: 10.1006/jcph.1993.1214
+  first-page: '222'
+  journal-title: J. Comput. Phys.
+  volume: '109'
+  year: '1993'
+- article-title: Numerical approximation of the Maxwell equations in inhomogeneous
+    media by a P1 conforming finite element method
+  author: Assous
+  doi: 10.1006/jcph.1996.0217
+  first-page: '363'
+  journal-title: J. Comput. Phys.
+  volume: '128'
+  year: '1996'
+- article-title: On finite element methods for elliptic equations on domains with
+    corners
+  author: Blum
+  doi: 10.1007/BF02237995
+  first-page: '53'
+  journal-title: Computing
+  volume: '28'
+  year: '1982'
+- article-title: Spectral analysis and singularities of a non-coercive transmission
+    problem
+  author: Bonnet-Bendhia
+  doi: 10.1016/S0764-4442(99)80241-9
+  first-page: '717'
+  issue: Série I
+  journal-title: C. R. Acad. Sci. Paris, t.
+  volume: '328'
+  year: '1999'
+- article-title: 'On traces for functional spaces related to Maxwell’s equations.
+    Part I: an integration by parts formula in Lipschitz polyhedra'
+  author: Buffa
+  doi: 10.1002/1099-1476(20010110)24:1<9::AID-MMA191>3.0.CO;2-2
+  first-page: '9'
+  journal-title: Math. Methods Appl. Sci.
+  volume: '24'
+  year: '2001'
+- article-title: Condition inf-sup pour l’élément fini de Taylor-Hood P2-iso-P1, 3-D;
+    application aux équations de Maxwell
+  author: Ciarlet
+  doi: 10.1016/S1631-073X(02)02564-5
+  first-page: '827'
+  issue: Série I
+  journal-title: C. R. Acad. Sci. Paris, t.
+  volume: '335'
+  year: '2002'
+- article-title: The singular complement method for 2D scalar problems
+  author: Ciarlet
+  doi: 10.1016/S1631-073X(03)00030-X
+  first-page: '353'
+  issue: Série I
+  journal-title: C. R. Acad. Sci. Paris, t.
+  volume: '336'
+  year: '2003'
+- article-title: Maxwell and Lamé eigenvalues on polyhedra
+  author: Costabel
+  doi: 10.1002/(SICI)1099-1476(199902)22:3<243::AID-MMA37>3.0.CO;2-0
+  first-page: '243'
+  journal-title: Math. Methods Appl. Sci.
+  volume: '22'
+  year: '1999'
+- article-title: 'Eléments finis d’arete et condensation de masse pour les équations
+    de Maxwell: le cas de dimension 3'
+  author: Elmkies
+  doi: 10.1016/S0764-4442(97)83557-4
+  first-page: '1217'
+  issue: Série I
+  journal-title: C. R. Acad. Sci. Paris, t.
+  volume: '325'
+  year: '1997'
+- author: Fortin
+  series-title: Augmented Lagrangian Methods
+  volume: '5'
+  year: '1986'
+- article-title: Updating the inverse of a matrix
+  author: Hager
+  doi: 10.1137/1031049
+  first-page: '221'
+  journal-title: SIAM Rev.
+  volume: '31'
+  year: '1989'
+- article-title: 'A singular field method for Maxwell’s equations: numerical aspects
+    for 2D magnetostatics'
+  author: Hazard
+  first-page: '1021'
+  journal-title: SIAM J. Appl. Math.
+  volume: '40'
+  year: '2002'
+- article-title: Two coupled particle-finite volume methods using Delaunay–Voronoi
+    meshes for the approximation of Vlasov–Poisson and Vlasov–Maxwell equations
+  author: Hermeline
+  doi: 10.1006/jcph.1993.1086
+  first-page: '1'
+  journal-title: J. Comput. Phys.
+  volume: '106'
+  year: '1990'
+- article-title: Sur l’approximation des solutions du problme de Dirichlet dans un
+    ouvert avec coins
+  author: Moussaoui
+  series-title: Singularities and Constructive Methods for their Treatment
+  volume: '1121'
+  year: '1984'
+- article-title: Elliptic problems in domains with piecewise smooth boundaries
+  author: Nazarov
+  journal-title: De Gruyter Exp. Math.
+  volume: '13'
+  year: '1994'
+- article-title: Mixed finite elements in R3
+  author: Nédélec
+  doi: 10.1007/BF01396415
+  first-page: '315'
+  journal-title: Numer. Math.
+  volume: '35'
+  year: '1980'
+- article-title: A new family of mixed finite elements in R3
+  author: Nédélec
+  doi: 10.1007/BF01389668
+  first-page: '57'
+  journal-title: Numer. Math.
+  volume: '50'
+  year: '1986'
+- author: Zienkiewicz
+  series-title: La Méthode Des Éléments Finis Appliquée à L’art De L’ingénieur
+  year: '1973'
+doc_url: https://api.elsevier.com/content/article/PII:S0021999103003097?httpAccept=text/plain
+doi: 10.1016/s0021-9991(03)00309-7
+files:
+- tmplcm5ece.data
+- td-maxwell-axisymmetric-singular-complement-a.pdf
+issue: '1'
+journal: Journal of Computational Physics
+language: en
+month: 10
+pages: 147--176
+publisher: Elsevier BV
+ref: NumericalSolutAssous2003
+tags: numerics computational-em time-dependent-maxwell singular-domain axisymmetric
+  singular-complement
+time-added: 2021-04-13-04:25:09
+title: 'Numerical solution to the time-dependent Maxwell equations in axisymmetric
+  singular domains: the singular complement method'
+type: article
+url: http://dx.doi.org/10.1016/s0021-9991(03)00309-7
+volume: '191'
+year: 2003

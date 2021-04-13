@@ -1,0 +1,27 @@
+abstract: The entanglement entropy has been historically studied by many authors in
+  order to obtain quantum mechanical interpretations of the gravitational entropy.
+  The discovery of AdS/CFT correspondence leads to the idea of holographic entanglement
+  entropy, which is a clear solution to this important problem in gravity. In this
+  article, we would like to give a quick survey of recent progresses on the holographic
+  entanglement entropy. We focus on its gravitational aspects, so that it is comprehensible
+  to those who are familiar with general relativity and basics of quantum field theory.
+archiveprefix: arXiv
+author: Takayanagi, Tadashi
+author_list:
+- family: Takayanagi
+  given: Tadashi
+doi: 10.1088/0264-9381/29/15/153001
+eprint: 1204.2450v2
+file: 1204.2450v2.pdf
+files:
+- tmpsbwamu13.pdf
+month: Apr
+note: Class.Quant.Grav. 29 (2012) 153001
+primaryclass: gr-qc
+ref: 1204.2450v2
+tags: entanglement-entropy holographic gravity ads-cft survey gr qft
+time-added: 2021-04-13-01:11:57
+title: Entanglement Entropy from a Holographic Viewpoint
+type: article
+url: http://arxiv.org/abs/1204.2450v2
+year: '2012'

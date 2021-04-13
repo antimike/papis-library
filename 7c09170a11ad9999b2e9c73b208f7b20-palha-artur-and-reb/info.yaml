@@ -1,0 +1,37 @@
+abstract: This paper introduces the basic concepts for physics-compatible discretization
+  techniques. The paper gives a clear distinction between vectors and forms. Based
+  on the difference between forms and pseudo-forms and the $\star$-operator which
+  switches between the two, a dual grid description and a single grid description
+  are presented. The dual grid method resembles a staggered finite volume method,
+  whereas the single grid approach shows a strong resemblance with a finite element
+  method. Both approaches are compared for the Poisson equation for volume forms.
+archiveprefix: arXiv
+author: Palha, Artur and Rebelo, Pedro Pinto and Hiemstra, René and Kreeft, Jasper
+  and Gerritsma, Marc
+author_list:
+- family: Palha
+  given: Artur
+- family: Rebelo
+  given: Pedro Pinto
+- family: Hiemstra
+  given: René
+- family: Kreeft
+  given: Jasper
+- family: Gerritsma
+  given: Marc
+doi: 10.1016/j.jcp.2013.08.005
+eprint: 1304.6908v1
+file: 1304.6908v1.pdf
+files:
+- tmp097ihb7c.pdf
+month: Apr
+primaryclass: math.NA
+ref: 1304.6908v1
+tags: discretization grid poisson volume-form physics-compatible-discretization differential-geometry
+  exterior-calculus finite-volume-method fem mimetic-method
+time-added: 2021-04-13-03:27:04
+title: Physics-compatible discretization techniques on single and dual grids,   with
+  application to the Poisson equation of volume forms
+type: article
+url: http://arxiv.org/abs/1304.6908v1
+year: '2013'

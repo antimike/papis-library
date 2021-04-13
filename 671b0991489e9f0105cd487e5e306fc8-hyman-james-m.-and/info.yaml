@@ -1,0 +1,303 @@
+author: Hyman, James M. and Shashkov, Mikhail
+author_list:
+- affiliation: []
+  family: Hyman
+  given: James M.
+- affiliation: []
+  family: Shashkov
+  given: Mikhail
+citations:
+- article-title: Study of an implicit scheme for integrating Maxwell's equations
+  author: Adam
+  doi: 10.1016/0045-7825(80)90004-3
+  first-page: '327'
+  journal-title: Comput. Methods Appl. Mech. Eng.
+  volume: '22'
+  year: '1980'
+- article-title: The convergence of difference schemes for two-dimensional equations
+    of acoustics and Maxwell's equations
+  author: Ardelyan
+  doi: 10.1016/S0041-5553(83)80162-1
+  first-page: '93'
+  journal-title: USSR Comput. Math. Math. Phys.
+  volume: '23'
+  year: '1983'
+- author: Bossavit
+  journal-title: 'Computational Electromagnetism: Variational Formulations, Complementarity,
+    Edge Elements'
+  year: '1998'
+- article-title: Control-volume mixed finite element methods
+  author: Cai
+  doi: 10.1023/A:1011577530905
+  first-page: '289'
+  journal-title: Comput. Geosci.
+  volume: '1'
+  year: '1997'
+- article-title: Electromagnetic theory on a lattice
+  author: Chew
+  doi: 10.1063/1.355770
+  first-page: '4843'
+  journal-title: J. Appl. Phys.
+  volume: '75'
+  year: '1994'
+- article-title: The convergence to generalized solutions of difference schemes of
+    the reference-operator method for Poisson's equation
+  author: Denisov
+  doi: 10.1016/0041-5553(89)90005-0
+  first-page: '32'
+  journal-title: USSR Comput. Math. Math. Phys.
+  volume: '29'
+  year: '1989'
+- unstructured: M. V. Dmitrieva, A. A. Ivanov, V. F. Tishkin, A. P. Favorskii, Construction
+    and investigation of support-operators finite-difference schemes for Maxwell equations
+    in cylindrical geometry, Keldysh Inst. of Appl. Math. USSR Ac. of Sc. 27, 1985
+- article-title: Theory of a finite difference methods on irregular networks
+  author: Girault
+  doi: 10.1137/0711026
+  first-page: '260'
+  journal-title: SIAM J. Numer. Anal.
+  volume: '11'
+  year: '1974'
+- author: Gustafsson
+  first-page: '445'
+  journal-title: Time Dependent Problems and Difference Methods
+  year: '1995'
+- article-title: Natural discretizations for the divergence, gradient, and curl on
+    logically rectangular grids
+  author: Hyman
+  doi: 10.1016/S0898-1221(97)00009-6
+  first-page: '81'
+  journal-title: Int. J. Comput. Math. Appl.
+  volume: '33'
+  year: '1997'
+- article-title: The adjoint operators for the natural discretizations for the divergence,
+    gradient, and curl on logically rectangular grids
+  author: Hyman
+  doi: 10.1016/S0168-9274(97)00097-4
+  first-page: '413'
+  journal-title: IMACS J. Appl. Numer. Math.
+  volume: '25'
+  year: '1997'
+- article-title: The orthogonal decomposition theorems for mimetic finite difference
+    methods
+  author: Hyman
+  doi: 10.1137/S0036142996314044
+  first-page: '788'
+  journal-title: SIAM J. Numer. Anal.
+  volume: '36'
+  year: '1998'
+- article-title: The approximation of boundary conditions for mimetic finite difference
+    methods
+  author: Hyman
+  doi: 10.1016/S0898-1221(98)00152-7
+  first-page: '79'
+  journal-title: Int. J. Comput. Math. Appl.
+  volume: '36'
+  year: '1998'
+- unstructured: J. M. Hyman, M. Shashkov, Mimetic Discretizations for Maxwell's Equations
+    and Equations of Magnetic Diffusion, (http://cnls.lanl.gov/~shashkov, Los Alamos,
+    NM
+- article-title: The numerical solution of diffusion problems in strongly heterogeneous
+    non-isotropic materials
+  author: Hyman
+  doi: 10.1006/jcph.1996.5633
+  first-page: '130'
+  journal-title: J. Comput. Phys.
+  volume: '132'
+  year: '1997'
+- article-title: The origin of spurious solutions in computational electromagnetics
+  author: Jiang
+  doi: 10.1006/jcph.1996.0082
+  first-page: '104'
+  journal-title: J. Comput. Phys.
+  volume: '125'
+  year: '1996'
+- author: Jiang
+  first-page: '371'
+  journal-title: 'The Least-Squares Finite Element Method: Theory and Applications
+    in Computational Fluid Dynamics and Electromagnetics'
+  year: '1998'
+- author: Jin
+  journal-title: The Finite Element Method in Electromagnetics
+  year: '1993'
+- article-title: Flow-variational difference schemes for calculating the diffusion
+    of a magnetic field
+  author: Korshiya
+  first-page: '832'
+  journal-title: Sov. Phys. Dokl.
+  volume: '25'
+  year: '1980'
+- article-title: A mixed finite element formulation for Maxwell's equations in the
+    time domain
+  author: Lee
+  doi: 10.1016/0021-9991(90)90181-Y
+  first-page: '284'
+  journal-title: J. Comput. Phys.
+  volume: '88'
+  year: '1990'
+- article-title: Mathematical modeling of a microwave plasma generator
+  author: Maikov
+  doi: 10.1016/0041-5553(85)90088-6
+  first-page: '149'
+  journal-title: USSR Comput. Math. Math. Phys.
+  volume: '25'
+  year: '1985'
+- article-title: Three dimensional finite difference frequency domain scattering computation
+    using the control region approximation
+  author: McCartin
+  doi: 10.1109/20.34378
+  first-page: '3092'
+  journal-title: IEEE Trans. Magnetics
+  volume: '25'
+  year: '1989'
+- article-title: A comparison of three mixed methods for the time-dependent Maxwell's
+    equations
+  author: Monk
+  doi: 10.1137/0913064
+  first-page: '1097'
+  journal-title: SIAM J. Sci. Stat. Comput.
+  volume: '13'
+  year: '1992'
+- article-title: Analysis of finite element method for Maxwell's equations
+  author: Monk
+  doi: 10.1137/0729045
+  first-page: '714'
+  journal-title: SIAM J. Numer. Anal.
+  volume: '29'
+  year: '1992'
+- article-title: An analysis of Nedelec's method for the spatial discretization of
+    Maxwell's equations
+  author: Monk
+  doi: 10.1016/0377-0427(93)90093-Q
+  first-page: '101'
+  journal-title: J. Comp. Appl. Math.
+  volume: '47'
+  year: '1993'
+- article-title: A local support-operators diffusion discretization scheme for quadrilateral
+    r-z meshes
+  author: Morel
+  doi: 10.1006/jcph.1998.5981
+  first-page: '17'
+  journal-title: J. Comput. Phys.
+  volume: '144'
+  year: '1998'
+- article-title: Mixed finite elements inR3
+  author: Nedelec
+  doi: 10.1007/BF01396415
+  first-page: '315'
+  journal-title: Numer. Math.
+  volume: '35'
+  year: '1980'
+- unstructured: R. A. Nicolaides, A discrete vector field theory and some applications,
+    Proceedings of IMACS'91—13th IMACS World Congress on Computation and Applied Mathematics,
+    Trinity College, Dublin, Ireland, 1991, 120
+- article-title: Covolume solutions of three dimensional DIV-CURL equations
+  author: Nicolaides
+  doi: 10.1137/S0036142994277286
+  first-page: '2195'
+  journal-title: SIAM J. Numer. Anal.
+  volume: '34'
+  year: '1997'
+- article-title: Convergence analysis of covolume scheme for Maxwell's equations in
+    three dimensions
+  author: Nicolaides
+  doi: 10.1090/S0025-5718-98-00971-5
+  first-page: '946'
+  journal-title: Math. Comput.
+  volume: '67'
+  year: '1998'
+- article-title: A mixed finite element method for 2-nd order elliptic problems
+  author: Raviart
+  first-page: '20'
+  journal-title: Mathematical Aspects of Finite Element Methods
+  year: '1977'
+- author: Reitz
+  journal-title: Foundations of Electromagnetic Theory
+  year: '1980'
+- article-title: Operational finite-difference schemes
+  author: Samarskii
+  first-page: '854'
+  journal-title: Differential Equations
+  volume: '17'
+  year: '1981'
+- article-title: Stability of the FDTD algorithm on nonorthogonal grids related to
+    the spatial interpolation scheme
+  author: Schuhmann
+  doi: 10.1109/20.717639
+  first-page: '2751'
+  journal-title: IEEE Trans. Magnetics
+  volume: '34'
+  year: '1998'
+- author: Shashkov
+  journal-title: Conservative Finite-Difference Schemes on General Grids
+  year: '1995'
+- article-title: Violation of conservation laws when solving difference equations
+    by the iteration methods
+  author: Shashkov
+  doi: 10.1016/0041-5553(82)90073-8
+  first-page: '131'
+  journal-title: U.S.S.R. Comput. Math. Math. Phys.
+  volume: '22'
+  year: '1982'
+- unstructured: M. Shashkov, A. Solov'ov, Finite-difference schemes for solution of
+    heat equation on Dirichlet grid, preprint, All Union Center for Mathematical Modeling,
+    U.S.S.R. Academy of Sciences, 27, 1991
+- article-title: Support-operator finite-difference algorithms for general elliptic
+    problems
+  author: Shashkov
+  doi: 10.1006/jcph.1995.1085
+  first-page: '131'
+  journal-title: J. Comput. Phys.
+  volume: '118'
+  year: '1995'
+- article-title: Solving diffusion equations with rough coefficients in rough grids
+  author: Shashkov
+  doi: 10.1006/jcph.1996.0257
+  first-page: '383'
+  journal-title: J. Comput. Phys.
+  volume: '129'
+  year: '1996'
+- unstructured: 'Finite Elements for Wave Electromagnetics: Methods and Techniques,
+    P. P. SilvesterG. Pelosi, IEEE Press, New York, 1994'
+- author: Shercliff
+  first-page: '24'
+  journal-title: A Textbook of Magnetohydrodynamics
+  year: '1965'
+- author: Taflove
+  journal-title: 'Computational Electrodynamics: The Finite-Difference Time-Domain
+    Method'
+  year: '1995'
+- article-title: Time domain electromagnetic field computation with finite difference
+    methods
+  author: Weiland
+  doi: 10.1002/(SICI)1099-1204(199607)9:4<295::AID-JNM240>3.0.CO;2-8
+  first-page: '295'
+  journal-title: Int. J. Numer. Model.
+  volume: '9'
+  year: '1996'
+- article-title: Numerical solution of initial boundary value problems involving Maxwell's
+    equations in isotropic media
+  author: Yee
+  doi: 10.1109/TAP.1966.1138693
+  first-page: '302'
+  journal-title: IEEE Trans. Antennas Propag.
+  volume: '14'
+  year: '1966'
+doc_url: https://api.elsevier.com/content/article/PII:S0021999199962253?httpAccept=text/plain
+doi: 10.1006/jcph.1999.6225
+files:
+- mimetic-discretizations-maxwell.pdf
+issue: '2'
+journal: Journal of Computational Physics
+language: en
+month: 5
+pages: 881--909
+publisher: Elsevier BV
+ref: MimeticDiscretHyman1999
+tags: math mimetic-method discretization maxwell em fem numerics finite-difference
+time-added: 2021-04-12-23:19:21
+title: Mimetic Discretizations for Maxwell's Equations
+type: article
+url: http://dx.doi.org/10.1006/jcph.1999.6225
+volume: '151'
+year: 1999

@@ -1,0 +1,37 @@
+abstract: The geometro-stochastic method of quantization provides a framework for
+  quantum general relativity, in which the principal frame bundles of local Lorentz
+  frames that underlie the fibre-theoretical approach to classical general relativity
+  are replaced by Poincar\'e-covariant quantum frame bundles. In the semiclassical
+  regime for quantum field theory in curved spacetime, where the gravitational field
+  is not quantized, the elements of these local quantum frames are generalized coherent
+  states, which emerge naturally from phase space representations of the Poincar\'e
+  group. Due to their informational completeness, these quantum frames are capable
+  of taking over the role played by complete sets of observables in conventional quantum
+  theory. The propagation of quantum-geometric fields proceeds by path integral methods,
+  based on parallel transport along broken paths consisting of arcs of geodesics of
+  the Levi-Civita connection. The formulation of quantum gravity within this framework
+  necessitates the transition to quantum superframe bundles and a quantum gravitational
+  supergroup capable of incorporating diffeomorphism invariance into the framework.
+  This results in a geometric version of quantum gravity which shares some conceptual
+  features with covariant as well as with canonical gravity, but which avoids the
+  foundational and the mathematical difficulties encountered by these two approaches.
+archiveprefix: arXiv
+author: Prugovecki, Eduard
+author_list:
+- family: Prugovecki
+  given: Eduard
+eprint: gr-qc/9511002v1
+file: gr-qc/9511002v1.pdf
+files:
+- tmpvpktw1ay.pdf
+month: Nov
+note: Appeared in `Quantum Gravity', Eds. P.G.Bergmann, and V.de Sabbata   and H.-J.Treder
+  (World Scientific, Singapore, 1996), pp. 276-302
+primaryclass: gr-qc
+ref: gr-qc/9511002v1
+tags: quantum-graphity geometro-stochastic quantum-gravity gr quantum-geometry
+time-added: 2021-04-13-01:03:39
+title: Quantum Geometry and Gravity
+type: article
+url: http://arxiv.org/abs/gr-qc/9511002v1
+year: '1995'

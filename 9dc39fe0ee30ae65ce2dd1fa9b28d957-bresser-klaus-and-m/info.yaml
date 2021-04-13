@@ -1,0 +1,137 @@
+author: Bresser, Klaus and Müller-Hoissen, Folkert and Dimakis, Aristophanes and Sitarz,
+  Andrzej
+author_list:
+- affiliation: []
+  family: Bresser
+  given: Klaus
+- affiliation: []
+  family: Müller-Hoissen
+  given: Folkert
+- affiliation: []
+  family: Dimakis
+  given: Aristophanes
+- affiliation: []
+  family: Sitarz
+  given: Andrzej
+citations:
+- author: Connes A
+  year: '1994'
+- author: Madore J
+  year: '1995'
+- author: Hermann R
+  year: '1977'
+- author: Baehr H C
+  doi: 10.1088/0305-4470/28/11/019
+  first-page: '3197'
+  issn: http://id.crossref.org/issn/0305-4470
+  issn-type: print
+  journal-title: 'J. Phys. A: Math. Gen.'
+  volume: '28'
+  year: '1995'
+- author: Müller-Hoissen F
+  first-page: '267'
+  year: '1995'
+- doi: 10.1063/1.530638
+- doi: 10.1063/1.530996
+- doi: 10.1016/0920-5632(95)00423-7
+- author: Mack G
+  year: '1994'
+- author: Woronowicz S L
+  doi: 10.1007/BF01221411
+  first-page: '125'
+  issn: http://id.crossref.org/issn/0010-3616
+  issn-type: print
+  journal-title: Comm. Math. Phys.
+  volume: '122'
+  year: '1989'
+- doi: 10.1016/0393-0440(94)90045-0
+- author: Dimakis A
+  doi: 10.1088/0305-4470/27/9/028
+  first-page: '3159'
+  issn: http://id.crossref.org/issn/0305-4470
+  issn-type: print
+  journal-title: 'J. Phys. A: Math. Gen.'
+  volume: '27'
+  year: '1994'
+- author: Dimakis A
+  doi: 10.1088/0305-4470/26/8/019
+  first-page: '1927'
+  issn: http://id.crossref.org/issn/0305-4470
+  issn-type: print
+  journal-title: 'J. Phys. A: Math. Gen.'
+  volume: '26'
+  year: '1993'
+- doi: 10.1016/0920-5632(91)90120-4
+- author: Chamseddine A H
+  doi: 10.1007/BF02100059
+  first-page: '205'
+  issn: http://id.crossref.org/issn/0010-3616
+  issn-type: print
+  journal-title: Comm. Math. Phys.
+  volume: '155'
+  year: '1993'
+- author: Passman D
+  year: '1968'
+- author: Cuntz J
+  doi: 10.1090/S0894-0347-1995-1303029-0
+  first-page: '251'
+  journal-title: J. Am. Math. Soc.
+  volume: '8'
+  year: '1995'
+- author: Connes A
+  doi: 10.1007/BF02698807
+  first-page: '257'
+  journal-title: Inst. Hautes Études Sci. Publ. Math.
+  volume: '62'
+  year: '1985'
+- author: Georgelin Y
+  year: '1995'
+- author: Eisenhart L P
+  year: '1961'
+- author: Mourad J
+  doi: 10.1088/0264-9381/12/4/007
+  first-page: '965'
+  issn: http://id.crossref.org/issn/0264-9381
+  issn-type: print
+  journal-title: Class. Quantum Grav.
+  volume: '12'
+  year: '1995'
+- author: Dubois-Violette M
+  doi: 10.1007/BF00750842
+  first-page: '351'
+  issn: http://id.crossref.org/issn/0377-9017
+  issn-type: print
+  journal-title: Lett. Math. Phys.
+  volume: '35'
+  year: '1995'
+- author: Dimakis A
+  first-page: '474'
+  journal-title: Int. J. Mod. Phys. A (Proc. Suppl.)
+  volume: '3'
+  year: '1993'
+- author: Dimakis A
+  year: '1992'
+- author: Dimakis A
+  year: '1995'
+- author: Dubois-Violette M
+  year: '1995'
+- author: Schmüdgen K
+  year: '1994'
+- author: Sweedler M E
+  year: '1969'
+- author: Dubois-Violette M
+  year: '1995'
+doi: 10.1088/0305-4470/29/11/010
+issue: '11'
+journal: 'Journal of Physics A: Mathematical and General'
+month: 6
+pages: 2705--2735
+publisher: IOP Publishing
+ref: NonCommutativeBresse1996
+time-added: 2021-04-13-03:02:16
+title: Non-commutative geometry of finite groups
+type: article
+url: http://dx.doi.org/10.1088/0305-4470/29/11/010
+volume: '29'
+year: 1996
+tags: noncommutative-geometry finite-group algebra math differential-calculi bicovariance hopf-algebra quantum-group linear-connection field-theory

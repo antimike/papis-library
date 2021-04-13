@@ -1,0 +1,168 @@
+author: Assous, F. and Ciarlet, P. and Segré, J.
+author_list:
+- affiliation: []
+  family: Assous
+  given: F.
+- affiliation: []
+  family: Ciarlet
+  given: P.
+- affiliation: []
+  family: Segré
+  given: J.
+citations:
+- article-title: Quelques résultats sur la régularité en temps des équations de Maxwell
+    instationnaires
+  author: Assous
+  doi: 10.1016/S0764-4442(98)80158-4
+  first-page: '719'
+  journal-title: C. R. Acad. Sci. Paris
+  volume: '327'
+  year: '1998'
+- article-title: Résolution des équations de Maxwell instationnaires avec charges
+    dans un domaine singulier bidimensionnel
+  author: Assous
+  doi: 10.1016/S0764-4442(00)00159-2
+  first-page: '391'
+  journal-title: C. R. Acad. Sci. Paris
+  volume: '330'
+  year: '2000'
+- article-title: Caractérisation de la partie singuliére et résolution des équations
+    de Maxwell en géométrie singuliére axisymétrique
+  author: Assous
+  doi: 10.1016/S0764-4442(99)80269-9
+  first-page: '767'
+  journal-title: C. R. Acad. Sci. Paris
+  volume: '328'
+  year: '1999'
+- unstructured: 'F. Assous, P. Ciarlet, Jr, and, J. Segré, Résolution des équations
+    de Maxwell dans un domaine 2D avec coins rentrants: Expériences numériques, in
+    preparation.'
+- article-title: Resolution of the Maxwell equations in a domain with reentrant corners
+  author: Assous
+  doi: 10.1051/m2an/1998320303591
+  first-page: '359'
+  journal-title: Modél. Math. Anal. Numér.
+  volume: '32'
+  year: '1998'
+- article-title: On a finite element method for solving the three-dimensional Maxwell
+    equations
+  author: Assous
+  doi: 10.1006/jcph.1993.1214
+  first-page: '222'
+  journal-title: J. Comput. Phys.
+  volume: '109'
+  year: '1993'
+- author: Birdsall
+  journal-title: Plasmas Physics via Computer Simulation
+  year: '1985'
+- article-title: A singular field method for the solution of Maxwell's equations in
+    polyhedral domains
+  author: Bonnet-Ben Dhia
+  doi: 10.1137/S0036139997323383
+  first-page: '2028'
+  journal-title: SIAM J. Appl. Math.
+  volume: '59'
+  year: '1999'
+- article-title: Fully discrete finite element approaches for time-dependent Maxwell's
+    equations
+  author: Ciarlet
+  doi: 10.1007/s002110050417
+  first-page: '193'
+  journal-title: Numer. Math
+  volume: '82'
+  year: '1999'
+- article-title: Lecture Notes in Mathematics
+  author: Dauge
+  doi: 10.1007/BFb0086682
+  journal-title: Elliptic Boundary Value Problems on Corner Domains
+  volume: '1341'
+  year: '1988'
+- author: Dautray
+  first-page: '5'
+  journal-title: Analyse mathématique et calcul numérique pour les sciences et les
+    techniques
+  year: '1988'
+- article-title: On the use of singular functions with finite element approximations
+  author: Fix
+  doi: 10.1016/0021-9991(73)90023-5
+  first-page: '209'
+  journal-title: J. Comput. Phys.
+  volume: '13'
+  year: '1976'
+- article-title: A finite element method for domains with corners
+  author: Givoli
+  doi: 10.1002/nme.1620350611
+  first-page: '1329'
+  journal-title: Int. J. Num. Meth. Eng.
+  volume: '35'
+  year: '1992'
+- article-title: Elliptic problems in nonsmooth domains
+  author: Grisvard
+  journal-title: Monographs and Studies in Mathematics
+  volume: '24'
+  year: '1985'
+- author: Grisvard
+  journal-title: Singularities in Boundary Value Problems
+  year: '1992'
+- article-title: On the solution of time-harmonic scattering problems for Maxwell's
+    equations
+  author: Hazard
+  doi: 10.1137/S0036141094271259
+  first-page: '1597'
+  journal-title: SIAM J. Math. Anal.
+  volume: '27'
+  year: '1996'
+- unstructured: 'C. Hazard, and, S. Lohrengel, A singular field method for Maxwell''s
+    equations: Numerical aspects in two dimensions, SIAM J. Appl. Math, submitted.'
+- article-title: Two coupled particle-finite volume methods using Delaunay-Voronoi
+    meshes for the approximation of Vlasov–Poisson and Vlasov–Maxwell equations
+  author: Hermeline
+  doi: 10.1006/jcph.1993.1086
+  first-page: '1'
+  journal-title: J. Comput. Phys.
+  volume: '106'
+  year: '1993'
+- article-title: An exact non-reflecting boundary condition
+  author: Keller
+  doi: 10.1016/0021-9991(89)90041-7
+  first-page: '172'
+  journal-title: J. Comp. Phys.
+  volume: '82'
+  year: '1988'
+- author: Lions
+  journal-title: Problèmes aux limites non homogènes et applications
+  year: '1968'
+- article-title: Mixed finite elements in R3
+  author: Nédélec
+  doi: 10.1007/BF01396415
+  first-page: '315'
+  journal-title: Numer. Math.
+  volume: '35'
+  year: '1980'
+- article-title: A new family of mixed finite elements in R3
+  author: Nédélec
+  doi: 10.1007/BF01389668
+  first-page: '57'
+  journal-title: Numer. Math.
+  volume: '50'
+  year: '1986'
+doc_url: https://api.elsevier.com/content/article/PII:S0021999100964994?httpAccept=text/plain
+doi: 10.1006/jcph.2000.6499
+files:
+- td-maxwell-2d-singular-domains-singular-complement.pdf
+issue: '1'
+journal: Journal of Computational Physics
+language: en
+month: 6
+pages: 218--249
+publisher: Elsevier BV
+ref: NumericalSolutAssous2000
+tags: time-dependent-maxwell computational-em singular-domain fem nedelec mixed-fem
+  lame-system
+time-added: 2021-04-13-04:35:39
+title: 'Numerical Solution to the Time-Dependent Maxwell Equations in Two-Dimensional
+  Singular Domains: The Singular Complement Method'
+type: article
+url: http://dx.doi.org/10.1006/jcph.2000.6499
+volume: '161'
+year: 2000

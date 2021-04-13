@@ -1,0 +1,29 @@
+abstract: A pedagogical and self-contained introduction to noncommutative quantum
+  field theory is presented, with emphasis on those properties that are intimately
+  tied to string theory and gravity. Topics covered include the Weyl-Wigner correspondence,
+  noncommutative Feynman diagrams, UV/IR mixing, noncommutative Yang-Mills theory
+  on infinite space and on the torus, Morita equivalences of noncommutative gauge
+  theories, twisted reduced models, and an in-depth study of the gauge group of noncommutative
+  Yang-Mills theory. Some of the more mathematical ideas and techniques of noncommutative
+  geometry are also briefly explained.
+archiveprefix: arXiv
+author: Szabo, Richard J.
+author_list:
+- family: Szabo
+  given: Richard J.
+doi: 10.1016/S0370-1573(03)00059-0
+eprint: hep-th/0109162v4
+file: hep-th/0109162v4.pdf
+files:
+- tmparh-2j8f.pdf
+month: Sep
+note: Phys.Rept.378:207-299,2003
+primaryclass: hep-th
+ref: hep-th/0109162v4
+tags: qft noncommutative-geometry string-theory weyl-wigner noncommutative-feynman
+  yang-mills gauge-theory fundamental-physics
+time-added: 2021-04-13-01:10:48
+title: Quantum Field Theory on Noncommutative Spaces
+type: article
+url: http://arxiv.org/abs/hep-th/0109162v4
+year: '2001'

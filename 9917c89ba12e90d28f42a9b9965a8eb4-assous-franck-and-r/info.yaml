@@ -1,0 +1,86 @@
+abstract: <jats:p>We propose a new numerical method to compute the singular solution
+  of the Maxwell equations in axisymmetric domains, as for example in non convex polygonal
+  domains. As geometrical singularities are mainly related to the space dependent
+  part of the model, we focus on the static field computation. We then introduce a
+  new approach, that consists in decomposing the domain into two or more subdomains,
+  and to derive an ad hoc variational formulation in each subdomain. The interface
+  conditions are then imposed with a method deduced from a Nitsche method coupled
+  with a specific “exchange” approach. An advantage of this domain decomposition method
+  is that it does not require neither overlapping nor iteration process. Another advantage
+  is that no particular mesh refinement is needed near the geometrical singularities.
+  Numerical examples will be shown.</jats:p>
+author: Assous, Franck and Raichik, Irina
+author_list:
+- affiliation:
+  - name: Ariel University
+  family: Assous
+  given: Franck
+- affiliation:
+  - name: Bar-Ilan University
+  family: Raichik
+  given: Irina
+citations:
+- doi: 10.1002/mma.279
+- doi: 10.1002/mma.400
+- doi: 10.1006/jcph.2000.6499
+- doi: 10.1051/m2an:2003023
+- doi: 10.1070/RM1987v042n06ABEH001505
+- author: Birman M.Sh.
+  first-page: '15'
+  journal-title: Vestnik. Leningr. Univ. Math
+  volume: '20'
+  year: '1987'
+- author: Van Bladel J.
+  volume-title: Electromagnetic Fields
+  year: '1985'
+- doi: 10.1007/978-3-662-04823-8
+- doi: 10.1090/S0025-5718-08-02102-9
+- doi: 10.1002/mma.1670120406
+- doi: 10.1002/(SICI)1099-1476(199902)22:3<243::AID-MMA37>3.0.CO;2-0
+- doi: 10.1007/s002110100388
+- doi: 10.1137/S0036139997323383
+- author: Grisvard P.
+  volume-title: Elliptic Problems in Nonsmooth Domains, volume 24 of Monogr. Stud.
+    Math
+  year: '1985'
+- author: Hazard C.
+  first-page: '57'
+  journal-title: C. R. Acad. Sci. Paris, Ser. IIb
+  volume: '330'
+  year: '2002'
+- author: Jackson J.D.
+  volume-title: Classical Electrodynamics
+  year: '1975'
+- doi: 10.1016/j.crma.2004.10.020
+- author: Kondrat'ev V.A.
+  first-page: '1392'
+  journal-title: Differential Equations
+  volume: '6'
+  year: '1976'
+- author: Kondrat'ev V.A.
+  first-page: '1411'
+  journal-title: Differential Equations
+  volume: '13'
+  year: '1977'
+- doi: 10.1016/j.cam.2011.05.003
+- doi: 10.1093/acprof:oso/9780198508885.001.0001
+- doi: 10.1007/BF02995904
+- doi: 10.1016/0377-0427(95)00057-7
+doi: 10.3846/13926292.2015.996615
+files:
+- static-maxwell-axisymmetric-singular-geometry.pdf
+issue: '1'
+journal: Mathematical Modelling and Analysis
+month: 2
+pages: 9--29
+publisher: Vilnius Gediminas Technical University
+ref: SolvingNumericAssous2015
+tags: static-maxwell computational-em fem axisymmetric singular-geometry variational
+  numerics
+time-added: 2021-04-13-04:27:29
+title: SOLVING NUMERICALLY THE STATIC MAXWELL EQUATIONS IN AN AXISYMMETRIC SINGULAR
+  GEOMETRY
+type: article
+url: http://dx.doi.org/10.3846/13926292.2015.996615
+volume: '20'
+year: 2015

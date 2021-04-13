@@ -1,0 +1,125 @@
+author: Assous, F. and Ciarlet, P. and Labrunie, S.
+author_list:
+- affiliation: []
+  family: Assous
+  given: F.
+- affiliation: []
+  family: Ciarlet
+  given: P.
+- affiliation: []
+  family: Labrunie
+  given: S.
+citations:
+- author: Bernardi
+  series-title: Series in App
+  unstructured: 'Spectral methods for axisymmetric domains. Series in Applied Mathematics,
+    Gauthier-Villars, North Holland: Paris, Amsterdam, 1999.'
+  volume-title: Spectral methods for axisymmetric domains
+  year: '1999'
+- author: Assous
+  doi: 10.1002/(SICI)1099-1476(199904)22:6<485::AID-MMA46>3.0.CO;2-E
+  first-page: '485'
+  journal-title: Mathematical Methods in Applied Science
+  volume: '22'
+  year: '1999'
+- author: Costabel
+  doi: 10.1051/m2an:1999155
+  first-page: '627'
+  journal-title: Mathematical Modelling in Numerical Analysis
+  volume: '33'
+  year: '1999'
+- author: Fernandes
+  doi: 10.1142/S0218202597000487
+  first-page: '957'
+  journal-title: Mathematical Models and Methods in the Applied Sciences
+  volume: '7'
+  year: '1997'
+- author: Amrouche
+  doi: 10.1002/(SICI)1099-1476(199806)21:9<823::AID-MMA976>3.0.CO;2-B
+  first-page: '823'
+  journal-title: Mathematical Methods in the Applied Sciences
+  volume: '21'
+  year: '1998'
+- author: Girault
+  doi: 10.1007/978-3-642-61623-5
+  unstructured: 'Finite Element Method for Navier-Stokes Equations. Springer: Berlin,
+    1986.'
+  volume-title: Finite Element Method for Navier-Stokes Equations
+  year: '1986'
+- author: Ciarlet
+  doi: 10.1051/m2an/1997310202131
+  first-page: '213'
+  journal-title: Mod�l. Math. Anal. Num�r.
+  volume: '31'
+  year: '1997'
+- author: Weber
+  doi: 10.1002/mma.1670020103
+  first-page: '12'
+  journal-title: Mathematical Methods in the Applied Sciences
+  volume: '2'
+  year: '1980'
+- author: Costabel
+  doi: 10.1016/0022-247X(91)90104-8
+  first-page: '527'
+  journal-title: Journal of Mathematical Analysis and Applications
+  volume: '157'
+  year: '1991'
+- author: Birman
+  doi: 10.1007/BF00970204
+  first-page: '12'
+  journal-title: Sibe?ian Mathematical Journal
+  volume: '28'
+  year: '1987'
+- author: Ciarlet
+  doi: 10.1016/S0764-4442(00)01617-7
+  first-page: '293'
+  journal-title: C. R. Academie Science Paris, S�r�e I
+  volume: t. 331
+  year: '2000'
+- author: Dauge
+  doi: 10.1007/BFb0086682
+  series-title: Lecture Notes
+  unstructured: 'Elliptic boundary value problems on corner domains, Lecture Notes
+    in Mathematics, Vol. 1341. Springer-Verlag: Berlin, 1988.'
+  volume-title: Elliptic boundary value problems on corner domains
+  year: '1988'
+- author: Birman
+  doi: 10.1007/BF02208708
+  first-page: '1128'
+  journal-title: Journal of Soviet Mathematics
+  volume: '49'
+  year: '1990'
+- author: Assous
+  unstructured: The singular complement method. In the Proceedings of the 13th International
+    Conference on Domain Decomposition Methods, Lyon, France, October 2000 (to appear).
+  year: '2000'
+- author: Assous
+  doi: 10.1051/m2an/1998320303591
+  first-page: '359'
+  journal-title: Mod�l. Math. Anal. Num�r.
+  volume: '32'
+  year: '1998'
+- author: Assous
+  doi: 10.1006/jcph.2000.6499
+  first-page: '218'
+  journal-title: Journal of Computational Physics
+  volume: '161'
+  year: '2000'
+doc_url: https://onlinelibrary.wiley.com/doi/full/10.1002/mma.279
+doi: 10.1002/mma.279
+files:
+- theoretical-tools-axisymmetric-maxwell.pdf
+issue: '1'
+journal: Mathematical Methods in the Applied Sciences
+language: en
+month: 1
+pages: 49--78
+publisher: Wiley
+ref: TheoreticalTooAssous2002
+tags: axisymmetric computational-em maxwell numerics
+time-added: 2021-04-13-04:32:07
+title: Theoretical tools to solve the axisymmetric Maxwell equations
+type: article
+url: http://dx.doi.org/10.1002/mma.279
+volume: '25'
+year: 2002

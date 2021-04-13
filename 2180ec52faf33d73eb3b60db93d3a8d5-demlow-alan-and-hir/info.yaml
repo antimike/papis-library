@@ -1,0 +1,38 @@
+abstract: Finite element exterior calculus (FEEC) has been developed over the past
+  decade as a framework for constructing and analyzing stable and accurate numerical
+  methods for partial differential equations by employing differential complexes.
+  The recent work of Arnold, Falk and Winther \cite{ArFaWi2010} includes a well-developed
+  theory of finite element methods for Hodge Laplace problems, including a priori
+  error estimates. In this work we focus on developing a posteriori error estimates
+  in which the computational error is bounded by some computable functional of the
+  discrete solution and problem data. More precisely, we prove a posteriori error
+  estimates of residual type for Arnold-Falk-Winther mixed finite element methods
+  for Hodge-de Rham Laplace problems. While a number of previous works consider a
+  posteriori error estimation for Maxwell's equations and mixed formulations of the
+  scalar Laplacian, the approach we take is distinguished by unified treatment of
+  the various Hodge Laplace problems arising in the de Rham complex, consistent use
+  of the language and analytical framework of differential forms, and the development
+  of a posteriori error estimates for harmonic forms and the effects of their approximation
+  on the resulting numerical method for the Hodge Laplacian.
+archiveprefix: arXiv
+author: Demlow, Alan and Hirani, Anil N.
+author_list:
+- family: Demlow
+  given: Alan
+- family: Hirani
+  given: Anil N.
+eprint: 1203.0803v3
+file: 1203.0803v3.pdf
+files:
+- tmpcl0watwm.pdf
+month: Mar
+primaryclass: math.NA
+ref: 1203.0803v3
+tags: error-analysis de-rham-complex fem FEEC discrete-exterior-calculus DEC DDG numerics
+  pde hodge-laplace-problem a-priori-estimate a-posteriori-estimate
+time-added: 2021-04-13-04:12:05
+title: 'A posteriori error estimates for finite element exterior calculus: The   de
+  Rham complex'
+type: article
+url: http://arxiv.org/abs/1203.0803v3
+year: '2012'

@@ -1,0 +1,24 @@
+abstract: In this article we solve a general class of sextic equations. The solution
+  follows if we consider the $j$-invariant and relate it with the polynomial equation's
+  coefficients. The form of the solution is a relation of Rogers-Ramanujan continued
+  fraction. The inverse technique can also be used for the evaluation of the Rogers-Ramanujan
+  continued fraction, in which the equation is not now the depressed equation but
+  another quite more simplified equation.
+archiveprefix: arXiv
+author: Bagis, Nikos
+author_list:
+- family: Bagis
+  given: Nikos
+eprint: 1111.6023v2
+file: 1111.6023v2.pdf
+files:
+- tmp3yg1npni.pdf
+month: Nov
+primaryclass: math.GM
+ref: 1111.6023v2
+tags: rogers-ramanujan continued-fraction math j-invariant polynomial
+time-added: 2021-04-13-00:57:14
+title: On a General Sextic Equation Solved by the Rogers Ramanujan Continued   Fraction
+type: article
+url: http://arxiv.org/abs/1111.6023v2
+year: '2011'

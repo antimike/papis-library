@@ -1,0 +1,60 @@
+author: Yoshida, Haruo
+author_list:
+- affiliation: []
+  family: Yoshida
+  given: Haruo
+citations:
+- author: Channel
+  series-title: Symplectic integration of Hamiltonian systems
+  year: '1988'
+- author: Feng
+  first-page: '1'
+  volume: Vol. 1297
+  year: '1987'
+- article-title: Canonical integrators as tracking codes
+  author: Forest
+  journal-title: SSC Central Design Group Technical Report SSC-138
+  year: '1987'
+- author: Forest
+  doi: 10.1016/0167-2789(90)90019-L
+  first-page: '105'
+  journal-title: Physica D
+  volume: '43'
+  year: '1990'
+- author: Kinoshita
+  series-title: Symplectic integrators and application to dynamical astronomy
+  year: '1990'
+- author: Neri
+  series-title: Lie algebras and canonical integration
+  year: '1988'
+- author: Yoshida
+  series-title: Conserved quantities of symplectic integrators for Hamiltonian systems
+  year: '1990'
+- author: Varadarajan
+  series-title: Lie groups, Lie algebras and their representation
+  year: '1974'
+- author: Brent
+  doi: 10.1137/0710031
+  first-page: '327'
+  journal-title: SIAM J. Num. Anal.
+  volume: '10'
+  year: '1973'
+doc_url: https://api.elsevier.com/content/article/PII:0375960190900923?httpAccept=text/plain
+doi: 10.1016/0375-9601(90)90092-3
+files:
+- higher-order-symplectic-integrators.pdf
+issue: 5-7
+journal: Physics Letters A
+language: en
+month: 11
+pages: 262--268
+publisher: Elsevier BV
+ref: ConstructionOfYoshid1990
+tags: differential-geometry math symplectic-geometry numerics symplectic-integrator
+  algorithm
+time-added: 2021-04-12-23:40:13
+title: Construction of higher order symplectic integrators
+type: article
+url: http://dx.doi.org/10.1016/0375-9601(90)90092-3
+volume: '150'
+year: 1990

@@ -1,0 +1,39 @@
+abstract: "<jats:title>Abstract</jats:title><jats:p> Mimetic discretization methods\
+  \ for the numerical solution of continuum mechanics \n\t\t\tproblems directly use\
+  \ vector calculus and differential forms identities for their \n\t\t\tderivation\
+  \ and analysis. Fully mimetic discretizations satisfy discrete analogs of \n\t\t\
+  \tthe continuum theory results used to derive energy inequalities. Consequently,\
+  \ \n\t\t\tcontinuum arguments carry over and can be used to show that discrete problems\
+  \ \n\t\t\tare well-posed and discrete solutions converge. A fully mimetic discrete\
+  \ vector \n\t\t\tcalculus on three dimensional tensor product grids is derived and\
+  \ its key properties \n\t\t\tproven. Opinions regarding the future of the field\
+  \ are stated.</jats:p>"
+author: Robidoux, Nicolas and Steinberg, Stanly
+author_list:
+- affiliation:
+  - name: 1Department of Mathematics and Computer Science, Laurentian University,
+      Sudbury ON P3E 2C6, Canada.
+  family: Robidoux
+  given: Nicolas
+- affiliation:
+  - name: 2Department of Mathematics and Statistics, University of New Mexico, Albuquerque
+      NM 87131-1141 USA.
+  family: Steinberg
+  given: Stanly
+doc_url: https://www.degruyter.com/downloadpdf/journals/cmam/11/1/article-p23.xml
+doi: 10.2478/cmam-2011-0002
+files:
+- tmp2-15rkjr.pdf
+issue: '1'
+journal: Computational Methods in Applied Mathematics
+pages: 23--66
+publisher: Walter de Gruyter GmbH
+ref: ADiscreteVectRobido2011
+tags: DDG DEC discrete-vector-calculus tensor-grid math differential-geometry numerics
+  mimetic-method discretization
+time-added: 2021-04-13-00:05:24
+title: A Discrete Vector Calculus in Tensor Grids
+type: article
+url: http://dx.doi.org/10.2478/cmam-2011-0002
+volume: '11'
+year: 2011

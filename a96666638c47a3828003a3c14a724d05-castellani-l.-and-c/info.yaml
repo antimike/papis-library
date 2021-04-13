@@ -1,0 +1,39 @@
+abstract: We study de Rham cohomology for various differential calculi on finite groups
+  G up to order 8. These include the permutation group S_3, the dihedral group D_4
+  and the quaternion group Q. Poincare' duality holds in every case, and under some
+  assumptions (essentially the existence of a top form) we find that it must hold
+  in general.   A short review of the bicovariant (noncommutative) differential calculus
+  on finite G is given for selfconsistency. Exterior derivative, exterior product,
+  metric, Hodge dual, connections, torsion, curvature, and biinvariant integration
+  can be defined algebraically. A projector decomposition of the braiding operator
+  is found, and used in constructing the projector on the space of 2-forms. By means
+  of the braiding operator and the metric a knot invariant is defined for any finite
+  group.
+archiveprefix: arXiv
+author: Castellani, L. and Catenacci, R. and Debernardi, M. and Pagani, C.
+author_list:
+- family: Castellani
+  given: L.
+- family: Catenacci
+  given: R.
+- family: Debernardi
+  given: M.
+- family: Pagani
+  given: C.
+doi: 10.1142/S0217751X04018403
+eprint: math-ph/0211008v2
+file: math-ph/0211008v2.pdf
+files:
+- tmpyxmw6q38.pdf
+month: Nov
+note: Int.J.Mod.Phys. A19 (2004) 1961-1986
+primaryclass: math-ph
+ref: math-ph/0211008v2
+tags: noncommutative-geometry topology de-rham-cohomology finite-groups math poincare-duality
+  top-form bicovariant-differential-calculus differential-geometry braiding-operator
+  projector-decomposition
+time-added: 2021-04-13-02:42:13
+title: Noncommutative de Rham cohomology of finite groups
+type: article
+url: http://arxiv.org/abs/math-ph/0211008v2
+year: '2002'

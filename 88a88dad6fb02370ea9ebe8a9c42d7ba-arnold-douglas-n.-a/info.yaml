@@ -1,0 +1,41 @@
+abstract: <jats:p>Finite element exterior calculus is an approach to the design and
+  understanding of finite element discretizations for a wide variety of systems of
+  partial differential equations. This approach brings to bear tools from differential
+  geometry, algebraic topology, and homological algebra to develop discretizations
+  which are compatible with the geometric, topological, and algebraic structures which
+  underlie well-posedness of the PDE problem being solved. In the finite element exterior
+  calculus, many finite element spaces are revealed as spaces of piecewise polynomial
+  differential forms. These connect to each other in discrete subcomplexes of elliptic
+  differential complexes, and are also related to the continuous elliptic complex
+  through projections which commute with the complex differential. Applications are
+  made to the finite element discretization of a variety of problems, including the
+  Hodge Laplacian, Maxwell’s equations, the equations of elasticity, and elliptic
+  eigenvalue problems, and also to preconditioners.</jats:p>
+author: Arnold, Douglas N. and Falk, Richard S. and Winther, Ragnar
+author_list:
+- affiliation: []
+  family: Arnold
+  given: Douglas N.
+- affiliation: []
+  family: Falk
+  given: Richard S.
+- affiliation: []
+  family: Winther
+  given: Ragnar
+doi: 10.1017/s0962492906210018
+files:
+- finite-element-exterior-calculus-homological-techniques-and-applications.pdf
+journal: Acta Numerica
+language: en
+month: 5
+pages: 1--155
+publisher: Cambridge University Press (CUP)
+ref: FiniteElementArnold2006
+tags: fem finite-element exterior-calculus differential-geometry pde algebraic-topology
+  homology math
+time-added: 2021-04-12-17:43:48
+title: Finite element exterior calculus, homological techniques, and applications
+type: article
+url: http://dx.doi.org/10.1017/s0962492906210018
+volume: '15'
+year: 2006

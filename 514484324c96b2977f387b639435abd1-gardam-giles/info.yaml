@@ -1,0 +1,24 @@
+abstract: The unit conjecture, commonly attributed to Kaplansky, predicts that if
+  $K$ is a field and $G$ is a torsion-free group then the only units of the group
+  ring $K[G]$ are the trivial units, that is, the non-zero scalar multiples of group
+  elements. We give a concrete counterexample to this conjecture; the group is virtually
+  abelian and the field is order two.
+archiveprefix: arXiv
+author: Gardam, Giles
+author_list:
+- family: Gardam
+  given: Giles
+eprint: 2102.11818v2
+file: 2102.11818v2.pdf
+files:
+- unit-conjecture-counterexample.pdf
+- tmpeps-feur-a.pdf
+month: Feb
+primaryclass: math.GR
+ref: 2102.11818v2
+tags: math algebra group-theory recent open-problems
+time-added: 2021-04-12-16:54:30
+title: A counterexample to the unit conjecture for group rings
+type: article
+url: http://arxiv.org/abs/2102.11818v2
+year: '2021'

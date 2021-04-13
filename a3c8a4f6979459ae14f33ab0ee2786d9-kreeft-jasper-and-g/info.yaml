@@ -1,0 +1,40 @@
+abstract: 'In this paper we apply the recently developed mimetic discretization method
+  to the mixed formulation of the Stokes problem in terms of vorticity, velocity and
+  pressure. The mimetic discretization presented in this paper and in [50] is a higher-order
+  method for curvilinear quadrilaterals and hexahedrals. Fundamental is the underlying
+  structure of oriented geometric objects, the relation between these objects through
+  the boundary operator and how this defines the exterior derivative, representing
+  the grad, curl and div, through the generalized Stokes theorem. The mimetic method
+  presented here uses the language of differential $k$-forms with $k$-cochains as
+  their discrete counterpart, and the relations between them in terms of the mimetic
+  operators: reduction, reconstruction and projection. The reconstruction consists
+  of the recently developed mimetic spectral interpolation functions. The most important
+  result of the mimetic framework is the commutation between differentiation at the
+  continuous level with that on the finite dimensional and discrete level. As a result
+  operators like gradient, curl and divergence are discretized exactly. For Stokes
+  flow, this implies a pointwise divergence-free solution. This is confirmed using
+  a set of test cases on both Cartesian and curvilinear meshes. It will be shown that
+  the method converges optimally for all admissible boundary conditions.'
+archiveprefix: arXiv
+author: Kreeft, Jasper and Gerritsma, Marc
+author_list:
+- family: Kreeft
+  given: Jasper
+- family: Gerritsma
+  given: Marc
+doi: 10.1016/j.jcp.2012.10.043
+eprint: 1201.4409v2
+file: 1201.4409v2.pdf
+files:
+- tmphe-nf6lz.pdf
+month: Jan
+primaryclass: math.NA
+ref: 1201.4409v2
+tags: mimetic-method spectral-element-method stokes-flow numerics example algorithm
+  mixed-method exterior-calculus
+time-added: 2021-04-13-03:25:33
+title: 'Mixed Mimetic Spectral Element Method for Stokes Flow: A Pointwise   Divergence-Free
+  Solution'
+type: article
+url: http://arxiv.org/abs/1201.4409v2
+year: '2012'

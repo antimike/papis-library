@@ -1,0 +1,35 @@
+author: Arnold, Douglas N. and Falk, Richard S. and Winther, Ragnar
+author_list:
+- affiliation: []
+  family: Arnold
+  given: Douglas N.
+- affiliation: []
+  family: Falk
+  given: Richard S.
+- affiliation: []
+  family: Winther
+  given: Ragnar
+citations:
+- author: Arnold
+  doi: 10.1017/S0962492906210018
+  first-page: '1'
+  journal-title: Acta Numerica
+  volume: '15'
+doc_url: https://onlinelibrary.wiley.com/doi/full/10.1002/pamm.200700549
+doi: 10.1002/pamm.200700549
+files:
+- fem-differential-forms.pdf
+issue: '1'
+journal: PAMM
+language: en
+month: 12
+pages: 1021901--1021902
+publisher: Wiley
+ref: FiniteElementArnold2007
+tags: differential-geometry FEEC discrete-exterior-calculus DEC DDG discretization
+time-added: 2021-04-13-04:47:13
+title: Finite element differential forms
+type: article
+url: http://dx.doi.org/10.1002/pamm.200700549
+volume: '7'
+year: 2007

@@ -1,0 +1,32 @@
+abstract: "<jats:p>This article discusses finite element Galerkin schemes for a number\
+  \ of linear \nmodel problems in electromagnetism. The finite element schemes are\
+  \ introduced \nas discrete differential forms, matching the coordinate-independent\
+  \ \nstatement of Maxwell's equations in the calculus of differential forms. The\
+  \ \nasymptotic convergence of discrete solutions is investigated theoretically.\
+  \ As \ndiscrete differential forms represent a genuine generalization of conventional\
+  \ \nLagrangian finite elements, the analysis is based upon a judicious adaptation\
+  \ \nof established techniques in the theory of finite elements. Risks and difficulties\
+  \ \nhaunting finite element schemes that do not fit the framework of discrete differential\
+  \ \nforms are highlighted.</jats:p>"
+author: Hiptmair, R.
+author_list:
+- affiliation: []
+  family: Hiptmair
+  given: R.
+doi: 10.1017/s0962492902000041
+files:
+- finite-elements-in-computational-electromagnetism.pdf
+journal: Acta Numerica
+language: en
+month: 1
+pages: 237--339
+publisher: Cambridge University Press (CUP)
+ref: FiniteElementsHiptma2002
+tags: em fem numerics galerkin maxwell differential-geometry differential-forms DEC
+  DDG discrete-exterior-calculus
+time-added: 2021-04-12-22:57:35
+title: Finite elements in computational electromagnetism
+type: article
+url: http://dx.doi.org/10.1017/s0962492902000041
+volume: '11'
+year: 2002

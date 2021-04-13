@@ -1,0 +1,218 @@
+author: Heinrich, Bernd and Weber, Beate
+author_list:
+- affiliation: []
+  family: Heinrich
+  given: Bernd
+- affiliation: []
+  family: Weber
+  given: Beate
+citations:
+- author: Babuška
+  doi: 10.1007/BF02248021
+  first-page: '207'
+  journal-title: Computing
+  volume: '5'
+  year: '1970'
+- author: Buck
+  unstructured: ‘Zur Berechnung der Verschiebungen und Spannungen in rotationssymmetrischen
+    Körpern unter beliebiger Belastung’, Dissertation, Universität Stuttgart, 1970.
+  year: '1970'
+- author: Butzer
+  doi: 10.1007/978-3-0348-7448-9
+  unstructured: and , Fourier Analysis and Approximation, Vol. I, Birkhäuser, Basel,
+    1971.
+  volume: I
+  volume-title: Fourier Analysis and Approximation
+  year: '1971'
+- author: Canuto
+  doi: 10.1007/978-3-642-84108-8
+  unstructured: ', and , Spectral Methods in Fluid Dynamics, Springer, New York, 1988.'
+  volume-title: Spectral Methods in Fluid Dynamics
+  year: '1988'
+- author: Canuto
+  doi: 10.1007/BF01408694
+  first-page: '205'
+  journal-title: Numer. Math.
+  volume: '39'
+  year: '1982'
+- author: Ciarlet
+  unstructured: The Finite Element Method for Elliptic Problems, North-Holland, Amsterdam,
+    1978.
+  volume-title: The Finite Element Method for Elliptic Problems
+  year: '1978'
+- author: Clément
+  first-page: '77'
+  journal-title: R.A.I.R.O.
+  volume: '9'
+  year: '1975'
+- author: Dobrowolski
+  unstructured: Numerical Approximation of Elliptic Interface and Corner Problems,
+    Habilitationsschrift, Bonn, 1981.
+  year: '1981'
+- author: Feistauer
+  doi: 10.1007/BF01396664
+  first-page: '451'
+  journal-title: Numer. Math.
+  volume: '50'
+  year: '1987'
+- author: Globisch
+  unstructured: ‘Robuste Mehrgitterverfahren für einige elliptische Randwertaufgaben
+    in zweidimensionalen Gebieten’, Dissertation, Technische Universität Chemnitz,
+    1992.
+  year: '1992'
+- author: Heinrich
+  doi: 10.1002/mma.1670161202
+  first-page: '837'
+  journal-title: Math. Meth. in the Appl. Sci.
+  volume: '16'
+  year: '1993'
+- author: Heinrich
+  unstructured: ‘The Fourier-finite-element method for Poisson's equation in axisymmetric
+    domains with edges’, Preprint SPC 94-17, Technische Universität Chemnitz-Zwickau,
+    Fakultät Mathematik, August 1994;
+  year: '1994'
+- journal-title: SIAM J. Numer. Anal.
+- author: Heinrich
+  unstructured: '‘The Fourier-finite-element method for elliptic problems in axisymmetric
+    domains’, in: Proc. 11th GAMM-Seminar Kiel, 20-22 January 1995, Notes on Numerical
+    Fluid Mechanics, (e.d.) Vieweg Verlag, 1995/96.'
+  volume-title: Proc. 11th GAMM-Seminar Kiel, 20-22 January 1995, Notes on Numerical
+    Fluid Mechanics
+  year: '1995'
+- author: Heinrich
+  unstructured: and , ‘Parallel computation of Fourier-finite-element approximations
+    and some experiments’, Preprint SPC 95-15, Technische Universität Chemnitz-Zwickau,
+    Fakultät für Mathematik, Mai 1995.
+  year: '1995'
+- author: Heinrich
+  unstructured: and , ‘The Fourier-finite-element method for three-dimensional elliptic
+    problems with axisymmetric interfaces’, Preprint SPC 94-22, Technische Universität
+    Chemnitz-Zwickau, Fakultät für Mathematik, November 1994.
+  year: '1994'
+- author: Heinrich
+  unstructured: and , ‘Singularities of the solution of axisymmetric elliptic interface
+    problems’, Preprint SPC 94-13, Technische Universität Chemnitz-Zwickau, Fakultät
+    für Mathematik, Juni 1994.
+  year: '1994'
+- author: Jung
+  unstructured: '‘On adaptive grids in multilevel methods’, in: GAMM-Seminar on Multigrid-Methods,
+    Gosen, Germany, 21-25 September 1992, (S. Hengst, ed.), pp. 67-80, Berlin, 1993,
+    IAAS, Report No. 5.'
+  year: '1993'
+- author: Kellogg
+  doi: 10.1016/B978-0-12-358502-8.50015-3
+  first-page: '351'
+  unstructured: '‘Singularities in interface problems’, in: Numerical Solution of
+    Partial Differential Equations II, (ed.), pp. 351-400, Academic Press, New York,
+    1971.'
+  volume-title: Numerical Solution of Partial Differential Equations II
+  year: '1971'
+- author: Ladyshenskaya
+  unstructured: Boundary Value Problems of the Mathematical Physics Nauka, Moscow,
+    1973 (in Russian).
+  volume-title: Boundary Value Problems of the Mathematical Physics
+  year: '1973'
+- author: Ladyshenskaya
+  unstructured: and , Linear and Quasilinear Equations of the Elliptic Type Nauka,
+    Moscow, 1973 (in Russian).
+  volume-title: Linear and Quasilinear Equations of the Elliptic Type
+  year: '1973'
+- author: Lai
+  doi: 10.1002/nme.1620310402
+  first-page: '619'
+  journal-title: Int. J. Numer. Eng.
+  volume: '31'
+  year: '1991'
+- author: Lemrabet
+  doi: 10.1016/0022-247X(78)90059-8
+  first-page: '549'
+  journal-title: J. Math. Anal. Appl.
+  volume: '63'
+  year: '1978'
+- author: Mercier
+  unstructured: An Introduction to the Numerical Analysis of Spectral Methods, Springer,
+    Berlin, 1989.
+  volume-title: An Introduction to the Numerical Analysis of Spectral Methods
+  year: '1989'
+- author: Mercier
+  first-page: '405'
+  journal-title: R.A.I.R.O. Anal. Numer.
+  volume: '16'
+  year: '1982'
+- author: Nicaise
+  doi: 10.1002/mma.1670170602
+  first-page: '395'
+  journal-title: Math. Meth. in the Appl. Sci.
+  volume: '17'
+  year: '1994'
+- author: Nikolski??
+  unstructured: Approximation of Functions of Several Variables and Imbedding Theorems,
+    2nd edn, Nauka, Moskva, 1977 (in Russian).
+  volume-title: Approximation of Functions of Several Variables and Imbedding Theorems
+  year: '1977'
+- author: Oganesyan
+  unstructured: and , ‘Variational-Difference Methods for the Solution of Elliptic
+    Equations’, Izd. Akad. Nauk Armianskoi SSR, Jerevan, 1979 (in Russian).
+  year: '1979'
+- author: Pester
+  unstructured: and , ‘Parallel implementation of the Fourier finite element method’,
+    Preprint SPC 94-10, Technische Universität Chemnitz-Zwickau, Fakultät für Mathematik,
+    1994.
+  year: '1994'
+- author: Runesson
+  doi: 10.1002/nme.1620190402
+  first-page: '473'
+  journal-title: Int. J. Numer. Methods Eng.
+  volume: '19'
+  year: '1983'
+- author: Schultchen
+  unstructured: and , Statische Berechnung von Rotationskörpern unter beliebiger nicht-rotationssymmetrischer
+    Belastung mit dem Programmsystem ANTRAS-ROT, Forschungsbericht 35-2, Tech. Mitt.
+    Krupp, 1977.
+  year: '1977'
+- author: Weber
+  unstructured: ‘Die Fourier-Finite-Elemente-Methode für elliptische Interfaceprobleme
+    in axialsymmetrischen Gebieten’, Dissertation, Technische Universität Chemnitz-Zwickau,
+    1994.
+  year: '1994'
+- author: Weese
+  unstructured: Spannungs-und Verformungsberechnung in Rotationskörpern mit beliebiger
+    Belastung auf der Grundlage der Fourierreihenentwicklung nach der Methode der
+    finiten Elemente, Anwenderdokumentation für das Programm ROKO 3/83, TU Magdeburg,
+    Sektion Maschinenbau, 1983.
+  year: '1983'
+- author: Wloka
+  doi: 10.1007/978-3-322-96662-9
+  unstructured: Partielle Differentialgleichungen-Sobelevräume und Randwertaufgaben,
+    Teubner, Stuttgart, 1982.
+  volume-title: Partielle Differentialgleichungen-Sobelevräume und Randwertaufgaben
+  year: '1982'
+- author: Zienkiewicz
+  unstructured: The Finite Element Method, 3rd edn, McGraw-Hill, New York, 1977.
+  volume-title: The Finite Element Method
+  year: '1977'
+- author: Zlámal
+  doi: 10.1137/0710022
+  first-page: '229'
+  journal-title: SIAM J. Numer. Anal.
+  volume: '10'
+  year: '1973'
+doc_url: https://onlinelibrary.wiley.com/doi/full/10.1002/(SICI)1099-1476(19960725)19:11%3C909::AID-MMA803%3E3.0.CO;2-U
+doi: 10.1002/(sici)1099-1476(19960725)19:11<909::aid-mma803>3.0.co;2-u
+files:
+- ffem-elliptic-interface-axisymmetric.pdf
+issue: '11'
+journal: Mathematical Methods in the Applied Sciences
+language: en
+month: 7
+pages: 909--931
+publisher: Wiley
+ref: FourierFiniteHeinri1996
+tags: fourier-fem elliptic-interface axisymmetric FFEM poisson-like-equation sobolev
+time-added: 2021-04-13-04:40:23
+title: Fourier-Finite-element Approximation of Elliptic Interface Problems in Axisymmetric
+  Domains
+type: article
+url: http://dx.doi.org/10.1002/(sici)1099-1476(19960725)19:11<909::aid-mma803>3.0.co;2-u
+volume: '19'
+year: 1996

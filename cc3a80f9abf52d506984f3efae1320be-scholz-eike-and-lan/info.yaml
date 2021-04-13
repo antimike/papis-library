@@ -1,0 +1,29 @@
+author: Scholz, Eike and Lange, Sebastian and Eibert, Thomas
+author_list:
+- affiliation: []
+  family: Scholz
+  given: Eike
+- affiliation: []
+  family: Lange
+  given: Sebastian
+- affiliation: []
+  family: Eibert
+  given: Thomas
+booktitle: 2016 URSI International Symposium on Electromagnetic Theory (EMTS)
+doi: 10.1109/ursi-emts.2016.7571435
+files:
+- algebraic-em.pdf
+isbn:
+- '9781509025022'
+journal: 2016 URSI International Symposium on Electromagnetic Theory (EMTS)
+month: 8
+publisher: IEEE
+ref: AlgebraicElectScholz2016
+tags: algebraic-em discretization nonlinear hysteresis discrete-em computational-em
+  material-operator numerics
+time-added: 2021-04-13-03:59:55
+title: Algebraic Electromagnetism
+type: inproceedings
+url: http://dx.doi.org/10.1109/ursi-emts.2016.7571435
+venue: Espoo, Finland
+year: 2016

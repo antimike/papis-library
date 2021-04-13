@@ -1,0 +1,172 @@
+author: Dimakis, Aristophanes and M�ller-Hoissen, Folkert
+author_list:
+- affiliation: []
+  family: Dimakis
+  given: Aristophanes
+- affiliation: []
+  family: M�ller-Hoissen
+  given: Folkert
+citations:
+- author: A. Connes
+  first-page: '257'
+  journal-title: Publ. IHES
+  unstructured: Connes, A., Non-commutative differential geometry,Publ. IHES 62, 257
+    (1986); Dubois-Violette, M., Dérivations et calcul différentiel non commutatif,CR
+    Acad. Sci. Paris Série I 307 403 (1988); Coquereaux, R., Noncommutative geometry
+    and theoretical physics,J. Geom. Phys. 6, 425 (1989); Manin, Yu. I.,Topics in
+    Noncommutative Geometry, Princeton University Press, Princeton, 1991.
+  volume: '62'
+  year: '1986'
+- author: A. Jaffe
+  doi: 10.1007/978-3-642-77303-7_23
+  first-page: '281'
+  unstructured: Jaffe, A., Quantum physics as non-commutative geometry, in K. Schmüdgen
+    (ed),Mathematical Physics X, Springer, Berlin, 1992, p. 281.
+  volume-title: Mathematical Physics X
+  year: '1992'
+- author: J. Bellissard
+  unstructured: Bellissard, J., Ordinary quantum Hall effect and non-commutative cohomology,
+    in W. Weller and P. Ziesche (eds),Localization of Disordered Systems, Teubner,
+    Leipzig, 1988.
+  volume-title: Localization of Disordered Systems
+  year: '1988'
+- author: S. L. Woronowicz
+  doi: 10.1007/BF01221411
+  first-page: '125'
+  journal-title: Comm. Math. Phys.
+  unstructured: Woronowicz, S. L., Differential calculus on compact matrix pseudogroups
+    (quantum groups),Comm. Math. Phys. 122, 125 (1989).
+  volume: '122'
+  year: '1989'
+- author: A. Connes
+  doi: 10.1016/0920-5632(91)90120-4
+  first-page: '29'
+  journal-title: Nuclear Phys. B (Proc. Suppl.)
+  unstructured: Connes, A. and Lott, J., Particle models and noncommutative geometry,Nuclear
+    Phys. B (Proc. Suppl.)18, 29 (1990); Chamseddine, A. H., Felder, G., and Fröhlich,
+    J., Grand unification in noncommutative geometry, Preprint ETH/TH/92-41; Dubois-Violette,
+    M., Kerner, R., and Madore, J., Noncommutative differential geometry and new models
+    of gauge theory,J. Math. Phys. 31, 323 (1990); Coquereaux, R., Esposito-Farèse,
+    G., and Scheck, F., Noncommutative geometry and graded algebras in electroweak
+    interactions,J. Mod. Phys. A 7, 6555 (1992).
+  volume: '18'
+  year: '1990'
+- author: A. Dimakis
+  doi: 10.1016/0370-2693(92)91561-M
+  first-page: '242'
+  journal-title: Phys. Lett. B
+  unstructured: Dimakis, A. and Müller-Hoissen, F., Quantum mechanics on a lattice
+    andq-deformations,Phys. Lett. B 295, 242 (1992); Dimakis, A., Müller-Hoissen,
+    F., and Striker, T., From continuum to lattice theory via deformation of the differential
+    calculus,Phys. Lett. B 300, 141 (1993); Noncommutative differential calculus and
+    lattice gauge theory, to appear inJ. Phys. A.
+  volume: '295'
+  year: '1992'
+- unstructured: Dimakis, A. and Müller-Hoissen, F., Noncommutative differential calculus,
+    gauge theory and gravitation, Preprint GOET-TP 33/92.
+- author: L. Arnold
+  unstructured: Arnold, L.,Stochastic Differential Equations, Wiley, New York, 1974.
+  volume-title: Stochastic Differential Equations
+  year: '1974'
+- author: F. Guerra
+  doi: 10.1016/0370-1573(81)90078-8
+  first-page: '263'
+  journal-title: Phys. Rep.
+  unstructured: Guerra, F., Structural aspects of stochastic mechanics and stochastic
+    field theory,Phys. Rep. 77, 263 (1981); Damgaard, P. H. and Hüffel, H., Stochastic
+    quantization,Phys. Rep. 152, 227 (1987); Namiki, M.,Stochastic Quantization, Lect.
+    Notes in Phys. m9, Springer, Berlin, 1992.
+  volume: '77'
+  year: '1981'
+- author: E. Nelson
+  doi: 10.1103/PhysRev.150.1079
+  first-page: '1079'
+  journal-title: Phys. Rev.
+  unstructured: Nelson, E., Derivation of the Schrödinger equation from Newtonian
+    mechanics,Phys. Rev. 150, 1079 (1966);Dynamical Theories of Brownian Motion, Princeton
+    University Press, Princeton, 1967;Quantum Fluctuations, Princeton University Press,
+    Princeton, 1985.
+  volume: '150'
+  year: '1966'
+- author: F. Bayen
+  doi: 10.1016/0003-4916(78)90224-5
+  first-page: '61'
+  journal-title: Ann. Phys.
+  unstructured: Bayen, F., Flato, M., Fronsdal, C., Lichnerowicz, A., and Sternheimer,
+    D., Deformation theory and quantization,Ann. Phys. 111, 61 and 111 (1978).
+  volume: '111'
+  year: '1978'
+- author: P. A. Meyer
+  first-page: '256'
+  unstructured: Meyer, P. A., A differential geometric formalism for the Ito calculus,
+    in D. Williams (ed),Stochastic Integrals, Lecture Notes in Mathematics 851, Springer,
+    Berlin, 1981, p. 256; Meyer, P.-A., Qu'est ce qu'une différentielle d'ordren?Exposition
+    Math. 7, 249 (1989).
+  volume-title: Stochastic Integrals, Lecture Notes in Mathematics 851
+  year: '1981'
+- author: J. E. Moyal
+  doi: 10.1017/S0305004100000487
+  first-page: '99'
+  journal-title: Camb. Phil. Soc.
+  unstructured: Moyal, J. E., Quantum mechanics as a statistical theory,Camb. Phil.
+    Soc. 45, 99 (1949).
+  volume: '45'
+  year: '1949'
+- author: G. V. Dunne
+  doi: 10.1088/0305-4470/21/10/012
+  first-page: '2321'
+  journal-title: J. Phys. A.
+  unstructured: Dunne, G. V., Quantum canonical invariance - A Moyal approach,J. Phys.
+    A. 21, 2321 (1988).
+  volume: '21'
+  year: '1988'
+- author: P. Fletcher
+  doi: 10.1016/0370-2693(90)90300-U
+  first-page: '323'
+  journal-title: Phys. Lett. B
+  unstructured: Fletcher, P., The uniqueness of the Moyal algebra,Phys. Lett. B 248,
+    323 (1990).
+  volume: '248'
+  year: '1990'
+- author: M. Emery
+  doi: 10.1007/978-3-642-75051-9
+  unstructured: Emery, M.,Stochastic Calculus in Manifolds, Springer, Berlin, 1989.
+  volume-title: Stochastic Calculus in Manifolds
+  year: '1989'
+- author: F. Müller-Hoissen
+  doi: 10.1088/0305-4470/25/6/024
+  first-page: '1703'
+  journal-title: J. Phys. A
+  unstructured: Müller-Hoissen, F., Differential calculi on the quantum group GL p,q
+    (2),J. Phys. A 25, 1703 (1992); Müller-Hoissen, F., and Reuten, C., Bicovariant
+    differential calculus on GL p,q (2) and quantum subgroups, to appear inJ. Phys.
+    A.
+  volume: '25'
+  year: '1992'
+- author: R. L. Hudson
+  doi: 10.1007/BF00416571
+  first-page: '47'
+  journal-title: Lett. Math. Phys.
+  unstructured: Hudson, R. L. and Robinson, P., Quantum diffusions and the noncommutative
+    torus,Lett. Math. Phys. 15, 47 (1988).
+  volume: '15'
+  year: '1988'
+doc_url: http://link.springer.com/article/10.1007/BF00750305/fulltext.html
+doi: 10.1007/bf00750305
+files:
+- dimakis-muller-hoissen1993-article-stochasticdifferentialcalculus.pdf
+issue: '2'
+journal: Letters in Mathematical Physics
+language: en
+month: 6
+pages: 123--137
+publisher: Springer Science and Business Media LLC
+ref: StochasticDiffDimaki1993
+tags: stochastic moyal-product noncommutative-geometry ito-calculus differential-geometry
+  math algebra
+time-added: 2021-04-13-02:50:29
+title: Stochastic differential calculus, the Moyal *-product, and noncommutative geometry
+type: article
+url: http://dx.doi.org/10.1007/bf00750305
+volume: '28'
+year: 1993

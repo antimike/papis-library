@@ -1,0 +1,27 @@
+author: Shu Chen, None and Weng Cho Chew, None
+author_list:
+- affiliation: []
+  family: Shu Chen
+  given: null
+- affiliation: []
+  family: Weng Cho Chew
+  given: null
+booktitle: 2017 United States National Committee of URSI National Radio Science Meeting
+  (USNC-URSI NRSM)
+doi: 10.1109/usnc-ursi-nrsm.2017.7878271
+files:
+- computational-em-discrete-exterior-calculus.pdf
+isbn:
+- '9781946815002'
+journal: 2017 United States National Committee of URSI National Radio Science Meeting
+  (USNC-URSI NRSM)
+month: 1
+publisher: IEEE
+ref: ComputationalEShuCh2017
+tags: computational-em discrete-exterior-calculus DDG DEC numerics algorithm fem
+time-added: 2021-04-13-01:49:50
+title: Computational electromagnetics with discrete exterior calculus
+type: inproceedings
+url: http://dx.doi.org/10.1109/usnc-ursi-nrsm.2017.7878271
+venue: Boulder, CO, USA
+year: 2017

@@ -1,0 +1,41 @@
+abstract: Quantum gravity is understood as a theory that, in some sense, unifies general
+  relativity (GR) and quantum theory, and is supposed to replace GR at extremely small
+  distances (high-energies). It may be that quantum gravity represents the breakdown
+  of spacetime geometry described by GR. The relationship between quantum gravity
+  and spacetime has been deemed "emergence", and the aim of this thesis is to investigate
+  and explicate this relation. After finding traditional philosophical accounts of
+  emergence to be inappropriate, I develop a new conception of emergence by considering
+  physical case studies including condensed matter physics, hydrodynamics, critical
+  phenomena and quantum field theory understood as effective field theory.   This
+  new conception of emergence is independent of reduction and derivation. Instead,
+  a low-energy theory is understood as emergent from a high-energy theory if it is
+  novel and autonomous compared to the high-energy theory, and the low-energy physics
+  is dependent (in a particular, minimal sense) on the high-energy physics (this dependence
+  is revealed by the techniques of effective field theory and the renormalisation
+  group). These ideas are important in exploring the relationship between quantum
+  gravity and GR, where GR is understood as an effective, low-energy theory of quantum
+  gravity. Without experimental data or a theory of quantum gravity, we rely on principles
+  and techniques from other areas of physics to guide the way. As well as considering
+  the idea of emergence appropriate to treating GR as an effective field theory, I
+  investigate the emergence of spacetime (and other aspects of GR) in several concrete
+  approaches to quantum gravity, including examples of the condensed matter approaches,
+  the "discrete approaches" (causal set theory, causal dynamical triangulations, quantum
+  causal histories and quantum graphity) and loop quantum gravity.
+archiveprefix: arXiv
+author: Crowther, Karen
+author_list:
+- family: Crowther
+  given: Karen
+eprint: 1410.0345v1
+file: 1410.0345v1.pdf
+files:
+- tmp6zg29mpw.pdf
+month: Oct
+primaryclass: physics.hist-ph
+ref: 1410.0345v1
+tags: emergent-geometry qft quantum-graphity emergent-spacetime thesis dissertation
+time-added: 2021-04-13-00:55:55
+title: 'Appearing Out of Nowhere: The Emergence of Spacetime in Quantum Gravity'
+type: article
+url: http://arxiv.org/abs/1410.0345v1
+year: '2014'

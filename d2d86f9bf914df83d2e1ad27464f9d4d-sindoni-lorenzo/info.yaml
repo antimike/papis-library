@@ -1,0 +1,25 @@
+abstract: We give a critical overview of various attempts to describe gravity as an
+  emergent phenomenon, starting from examples of condensed matter physics, to arrive
+  to more sophisticated pregeometric models. The common line of thought is to view
+  the graviton as a composite particle/collective mode. However, we will describe
+  many different ways in which this idea is realized in practice.
+archiveprefix: arXiv
+author: Sindoni, Lorenzo
+author_list:
+- family: Sindoni
+  given: Lorenzo
+doi: 10.3842/SIGMA.2012.027
+eprint: 1110.0686v2
+file: 1110.0686v2.pdf
+files:
+- tmpkmq5cgr8.pdf
+month: Oct
+note: SIGMA 8 (2012), 027, 45 pages
+primaryclass: gr-qc
+ref: 1110.0686v2
+tags: emergent-gravity survey cmt emergent-geometry
+time-added: 2021-04-13-00:58:17
+title: 'Emergent Models for Gravity: an Overview of Microscopic Models'
+type: article
+url: http://arxiv.org/abs/1110.0686v2
+year: '2011'

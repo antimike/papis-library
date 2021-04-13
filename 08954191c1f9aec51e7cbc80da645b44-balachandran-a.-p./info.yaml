@@ -1,0 +1,42 @@
+abstract: Conventional approaches to lattice gauge theories do not properly consider
+  the topology of spacetime or of its fields. In this paper, we develop a formulation
+  which tries to remedy this defect. It starts from a cubical decomposition of the
+  supporting manifold (compactified spacetime or spatial slice) interpreting it as
+  a finite topological approximation in the sense of Sorkin. This finite space is
+  entirely described by the algebra of cochains with the cup product. The methods
+  of Connes and Lott are then used to develop gauge theories on this algebra and to
+  derive Wilson's actions for the gauge and Dirac fields therefrom which can now be
+  given geometrical meaning. We also describe very natural candidates for the QCD
+  theta term and Chern-Simons action suggested by this algebraic formulation. Some
+  of these formulations are simpler than currently available alternatives. The paper
+  treats both the functional integral and Hamiltonian approaches.
+archiveprefix: arXiv
+author: Balachandran, A. P. and Bimonte, G. and Landi, G. and Lizzi, F. and Teotonio-Sobrinho,
+  P.
+author_list:
+- family: Balachandran
+  given: A. P.
+- family: Bimonte
+  given: G.
+- family: Landi
+  given: G.
+- family: Lizzi
+  given: F.
+- family: Teotonio-Sobrinho
+  given: P.
+doi: 10.1016/S0393-0440(97)00017-X
+eprint: hep-lat/9604012v2
+file: hep-lat/9604012v2.pdf
+files:
+- tmplzjbpk1q.pdf
+month: Apr
+note: J.Geom.Phys. 24 (1998) 353-385
+primaryclass: hep-lat
+ref: hep-lat/9604012v2
+tags: lattice gauge-theory noncommutative-geometry topology sorkin cochain cup-product
+  qcd chern-simons functional-integral hamiltonian path-integral
+time-added: 2021-04-13-03:09:11
+title: Lattice Gauge Fields and Noncommutative Geometry
+type: article
+url: http://arxiv.org/abs/hep-lat/9604012v2
+year: '1996'

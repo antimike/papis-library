@@ -1,0 +1,23 @@
+author: Hiptmair, R.
+author_list:
+- affiliation: []
+  family: Hiptmair
+  given: R.
+doc_url: http://link.springer.com/article/10.1007/s002110100295/fulltext.html
+doi: 10.1007/s002110100295
+files:
+- hiptmair2001-article-discretehodgeoperators.pdf
+issue: '2'
+journal: Numerische Mathematik
+month: 12
+pages: 265--289
+publisher: Springer Science and Business Media LLC
+ref: DiscreteHodgeHiptma2001
+tags: hodge discrete-hodge-operator computation numerics boundary-value discrete-exterior-calculus
+  DEC DDG constitutive-relations finite-volume-method
+time-added: 2021-04-13-03:42:27
+title: Discrete Hodge operators
+type: article
+url: http://dx.doi.org/10.1007/s002110100295
+volume: '90'
+year: 2001

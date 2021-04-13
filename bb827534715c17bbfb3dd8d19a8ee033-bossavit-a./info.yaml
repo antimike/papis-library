@@ -1,0 +1,21 @@
+author: Bossavit, A.
+author_list:
+- affiliation: []
+  family: Bossavit
+  given: A.
+doi: 10.2528/pier00080102
+files:
+- generalized-finite-differences-computational-em.pdf
+journal: Progress In Electromagnetics Research
+language: en
+pages: 45--64
+publisher: The Electromagnetics Academy
+ref: GeneralizedFiBossav2001
+tags: computational-em finite-difference discretization generalized-finite-difference
+  hodge numerics computation
+time-added: 2021-04-13-03:47:11
+title: '''Generalized Finite Differences'' in Computational Electromagnetics'
+type: article
+url: http://dx.doi.org/10.2528/pier00080102
+volume: '32'
+year: 2001

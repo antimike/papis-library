@@ -1,0 +1,429 @@
+author: Stuckey, W. M. and Silberstein, Michael and Cifone, Michael
+author_list:
+- affiliation: []
+  family: Stuckey
+  given: W. M.
+- affiliation: []
+  family: Silberstein
+  given: Michael
+- affiliation: []
+  family: Cifone
+  given: Michael
+citations:
+- author: B.C. Fraassen van
+  doi: 10.1093/0198239807.001.0001
+  first-page: '4'
+  unstructured: 'van Fraassen, B.C.: Quantum Mechanics: An Empiricist View. Oxford
+    University Press, London (1991), p. 4'
+  volume-title: 'Quantum Mechanics: An Empiricist View'
+  year: '1991'
+- author: L. Smolin
+  first-page: '256'
+  unstructured: 'Smolin, L.: The Trouble with Physics. Houghton Mifflin, Boston (2006),
+    p. 256'
+  volume-title: The Trouble with Physics
+  year: '2006'
+- author: E. Schrödinger
+  doi: 10.1002/andp.19263840602
+  first-page: '489'
+  journal-title: Ann. Phys.
+  unstructured: 'Schrödinger, E.: Ann. Phys. 79, 489–527 (1926)'
+  volume: '79'
+  year: '1926'
+- author: A. Einstein
+  doi: 10.1126/science.91.2369.487
+  first-page: '487'
+  issue: '5'
+  journal-title: Science
+  unstructured: 'Einstein, A.: Science 91(5), 487–492 (1940)'
+  volume: '91'
+  year: '1940'
+- author: D. Howard
+  first-page: '114'
+  unstructured: 'Howard, D.: In: Cohen, R.S., et al. (eds.) Potentiality, Entanglement
+    and Passion-at-Distance, pp. 114–115. Kluwer Academic, Dordrecht (1997)'
+  volume-title: Potentiality, Entanglement and Passion-at-Distance
+  year: '1997'
+- author: D. Howard
+  first-page: '124'
+  unstructured: 'Howard, D.: In: Cohen, R.S., et al. (eds.) Potentiality, Entanglement
+    and Passion-at-Distance, pp. 124–125. Kluwer Academic, Dordrecht (1997)'
+  volume-title: Potentiality, Entanglement and Passion-at-Distance
+  year: '1997'
+- author: A. Einstein
+  first-page: '1685'
+  journal-title: Dtsch. Litztg. Krit.
+  unstructured: 'Einstein, A.: Dtsch. Litztg. Krit. 45, 1685–1692 (1924)'
+  volume: '45'
+  year: '1924'
+- unstructured: 'Howard, D.: Einstein and the development of twentieth-century philosophy
+    of science. In: Cambridge Companion to Einstein (2008, to appear). From his website'
+- unstructured: 'Stuckey, W.M., Silberstein, M., Cifone, M.: Phys. Essays 19 (2008,
+    to appear). Preprint quant-ph/0503065'
+- author: W.M. Stuckey
+  first-page: '412'
+  unstructured: 'Stuckey, W.M., Silberstein, M., Cifone, M.: In: Foundations of Probability
+    and Physics, vol. 4, pp. 412–421. American Institute of Physics, Melville (2007)'
+  volume-title: Foundations of Probability and Physics
+  year: '2007'
+- author: W.M. Stuckey
+  unstructured: 'Stuckey, W.M., Silberstein, M., Cifone, M.: In: Relativity and the
+    Dimensionality of the World, Chap. 11. Springer, Berlin (2007). Preprint quant-ph/0605039'
+  volume-title: Relativity and the Dimensionality of the World, Chap. 11
+  year: '2007'
+- author: P. Lewis
+  doi: 10.1093/bjps/55.4.713
+  first-page: '713'
+  issue: '4'
+  journal-title: Br. J. Philos. Sci.
+  unstructured: 'Lewis, P.: Br. J. Philos. Sci. 55(4), 713–729 (2004)'
+  volume: '55'
+  year: '2004'
+- unstructured: 'Rovelli, C.: Preprint quant-ph/9609002v2 (1997)'
+- author: C. Rovelli
+  doi: 10.1007/BF02302261
+  first-page: '1637'
+  journal-title: Int. J. Theor. Phys.
+  unstructured: 'Rovelli, C.: Int. J. Theor. Phys. 35, 1637–1678 (1996)'
+  volume: '35'
+  year: '1996'
+- author: N.D. Mermin
+  doi: 10.1119/1.18955
+  first-page: '753'
+  journal-title: Am. J. Phys.
+  unstructured: 'Mermin, N.D.: Am. J. Phys. 66, 753–767 (1998)'
+  volume: '66'
+  year: '1998'
+- author: J. Barrett
+  unstructured: 'Barrett, J.: The Quantum Mechanics of Minds and Worlds. Oxford University
+    Press, London (1999), p. 217'
+  volume-title: The Quantum Mechanics of Minds and Worlds
+  year: '1999'
+- author: J. Ladyman
+  doi: 10.1093/acprof:oso/9780199276196.001.0001
+  unstructured: 'Ladyman, J., et al.: Everything Must Go: Metaphysics Naturalized.
+    Oxford University Press, London (2007)'
+  volume-title: 'Everything Must Go: Metaphysics Naturalized'
+  year: '2007'
+- author: S. French
+  doi: 10.1093/0199278245.001.0001
+  first-page: '19'
+  unstructured: 'French, S., Krause, D.: Identity in Physics: A Historical, Philosophical
+    and Formal Analysis. Clarendon, Oxford (2006), pp. 19–20'
+  volume-title: 'Identity in Physics: A Historical, Philosophical and Formal Analysis'
+  year: '2006'
+- author: R. Dipert
+  first-page: '329'
+  journal-title: J. Philos.
+  unstructured: 'Dipert, R.: J. Philos. 94, 329–358 (1997)'
+  volume: '94'
+  year: '1997'
+- unstructured: 'Leitgeb, H., Ladyman, J.: Discussion note: Criteria of identity and
+    structuralist ontology. Philos. Math. (2008, forthcoming)'
+- author: S. French
+  doi: 10.1017/CBO9780511597947.010
+  first-page: '187'
+  unstructured: 'French, S.: In: Butterfield, J., Pagonis, C. (eds.) From Physics
+    to Philosophy, pp. 187–207. Cambridge University Press, Cambridge (1999)'
+  volume-title: From Physics to Philosophy
+  year: '1999'
+- author: S. French
+  doi: 10.1023/A:1005246608001
+  first-page: '103'
+  journal-title: Synthese
+  unstructured: 'French, S.: Synthese 125, 103–120 (2000)'
+  volume: '125'
+  year: '2000'
+- author: E. Cassirer
+  doi: 10.2307/2102891
+  first-page: '1'
+  journal-title: Philos. Phenomenol. Res.
+  unstructured: 'Cassirer, E.: Philos. Phenomenol. Res. 5, 1–35 (1944)'
+  volume: '5'
+  year: '1944'
+- author: A. Eddington
+  unstructured: 'Eddington, A.: The Nature of the Physical World. Cambridge University
+    Press, Cambridge (1928)'
+  volume-title: The Nature of the Physical World
+  year: '1928'
+- author: E. Schrödinger
+  doi: 10.1017/S0305004100013554
+  first-page: '555'
+  journal-title: Proc. Cambridge Philos. Soc.
+  unstructured: 'Schrödinger, E.: Proc. Cambridge Philos. Soc. 31, 555–563 (1935)'
+  volume: '31'
+  year: '1935'
+- author: E. Schrödinger
+  doi: 10.1017/S0305004100019137
+  first-page: '446'
+  journal-title: Proc. Cambridge Philos. Soc.
+  unstructured: 'Schrödinger, E.: Proc. Cambridge Philos. Soc. 32, 446–451 (1936)'
+  volume: '32'
+  year: '1936'
+- author: H. Lyre
+  doi: 10.1016/j.shpsb.2004.07.004
+  first-page: '643'
+  journal-title: Stud. Hist. Philos. Mod. Phys.
+  unstructured: 'Lyre, H.: Stud. Hist. Philos. Mod. Phys. 35, 643–670 (2004)'
+  volume: '35'
+  year: '2004'
+- author: H. Weyl
+  unstructured: 'Weyl, H.: The Theory of Groups and Quantum Mechanics. Dover, New
+    York (1931)'
+  volume-title: The Theory of Groups and Quantum Mechanics
+  year: '1931'
+- author: R. Geroch
+  first-page: '20'
+  unstructured: 'Geroch, R.: General Relativity from A to B. University of Chicago
+    Press, Chicago (1978), pp. 20–21'
+  volume-title: General Relativity from A to B
+  year: '1978'
+- author: H. Price
+  first-page: '260'
+  unstructured: 'Price, H.: Time’s Arrow and Archimedes Point. Oxford University Press,
+    Oxford (1996) p. 260'
+  volume-title: Time’s Arrow and Archimedes Point
+  year: '1996'
+- author: H. Price
+  first-page: '15'
+  unstructured: 'Price, H.: Time’s Arrow and Archimedes Point. Oxford University Press,
+    Oxford (1996), p. 15'
+  volume-title: Time’s Arrow and Archimedes Point
+  year: '1996'
+- author: H. Price
+  first-page: '224'
+  unstructured: 'Price, H.: Time’s Arrow and Archimedes Point. Oxford University Press,
+    Oxford (1996), p. 224'
+  volume-title: Time’s Arrow and Archimedes Point
+  year: '1996'
+- author: J. Cramer
+  doi: 10.1103/RevModPhys.58.647
+  first-page: '647'
+  journal-title: Rev. Mod. Phys.
+  unstructured: 'Cramer, J.: Rev. Mod. Phys. 58, 647–687 (1986)'
+  volume: '58'
+  year: '1986'
+- unstructured: 'Lewis, P.: Towards a local hidden variable theories. Br. J. Philos.
+    Sci. (2008, forthcoming)'
+- unstructured: 'Barrett, J.: Relativistic quantum mechanics through frame-dependent
+    constructions. Philos. Sci. Archives (July, 2004)'
+- author: Y. Aharonov
+  doi: 10.1103/PhysRev.134.B1410
+  first-page: '1410'
+  journal-title: Phys. Rev.
+  unstructured: 'Aharonov, Y., Bergmann, P., Lebowitz, J.: Phys. Rev. 134B, 1410–1416
+    (1964)'
+  volume: 134B
+  year: '1964'
+- author: A.C. Elitzur
+  doi: 10.1007/BF00736012
+  first-page: '987'
+  journal-title: Found. Phys.
+  unstructured: 'Elitzur, A.C., Vaidman, L.: Found. Phys. 23, 987–997 (1993)'
+  volume: '23'
+  year: '1993'
+- author: J. Cramer
+  doi: 10.1103/RevModPhys.58.647
+  first-page: '661'
+  journal-title: Rev. Mod. Phys.
+  unstructured: 'Cramer, J.: Rev. Mod. Phys. 58, 661 (1986)'
+  volume: '58'
+  year: '1986'
+- author: B. Dainton
+  first-page: '119'
+  unstructured: 'Dainton, B.: Time and Space. McGill-Queen’s University Press, Montreal
+    (2001), p. 119'
+  volume-title: Time and Space
+  year: '2001'
+- author: D. Howard
+  first-page: '124'
+  unstructured: 'Howard, D.: In: Cohen, R.S., et al. (eds.) Potentiality, Entanglement
+    and Passion-at-Distance, pp. 124–129. Kluwer Academic, Dordrecht (1997)'
+  volume-title: Potentiality, Entanglement and Passion-at-Distance
+  year: '1997'
+- author: W. Pauli
+  unstructured: 'Pauli, W.: Scientific Correspondence with Bohr, Einstein, Heisenberg
+    a.o., vol. 2, 1930–1939. Springer, Berlin (1985), pp. 402–404 (von Meyenn, K.
+    (ed.))'
+  volume-title: Scientific Correspondence with Bohr, Einstein, Heisenberg a.o., vol. 2,
+    1930–1939
+  year: '1985'
+- author: G. Kaiser
+  doi: 10.1063/1.524962
+  first-page: '705'
+  journal-title: J. Math. Phys.
+  unstructured: 'Kaiser, G.: J. Math. Phys. 22, 705–714 (1981)'
+  volume: '22'
+  year: '1981'
+- author: A. Bohr
+  doi: 10.1103/RevModPhys.67.1
+  first-page: '1'
+  journal-title: Rev. Mod. Phys.
+  unstructured: 'Bohr, A., Ulfbeck, O.: Rev. Mod. Phys. 67, 1–35 (1995)'
+  volume: '67'
+  year: '1995'
+- author: J. Anandan
+  doi: 10.1023/A:1027378801802
+  first-page: '1943'
+  journal-title: Int. J. Theor. Phys.
+  unstructured: 'Anandan, J.: Int. J. Theor. Phys. 42, 1943–1955 (2003)'
+  volume: '42'
+  year: '2003'
+- author: H. Brown
+  doi: 10.1119/1.19227
+  first-page: '204'
+  issue: '3'
+  journal-title: Am. J. Phys.
+  unstructured: 'Brown, H., Holland, P.R.: Am. J. Phys. 67(3), 204–214 (1999)'
+  volume: '67'
+  year: '1999'
+- author: J.V. Lepore
+  doi: 10.1103/PhysRev.119.821
+  first-page: '821'
+  issue: '2'
+  journal-title: Phys. Rev.
+  unstructured: 'Lepore, J.V.: Phys. Rev. 119(2), 821–826 (1960)'
+  volume: '119'
+  year: '1960'
+- author: L. Ballentine
+  first-page: '49'
+  unstructured: 'Ballentine, L.: Quantum Mechanics. Prentice Hall, Englewood Cliffs
+    (1990), pp. 49–58'
+  volume-title: Quantum Mechanics
+  year: '1990'
+- unstructured: 'Brown, H.: Conversation with the authors while describing his work
+    with P. Holland [45] (Apr 2005)'
+- author: A. Bohr
+  doi: 10.1023/B:FOOP.0000019621.02554.7e
+  first-page: '405'
+  issue: '3'
+  journal-title: Found. Phys.
+  unstructured: 'Bohr, A., Mottelson, B., Ulfbeck, O.: Found. Phys. 34(3), 405–417
+    (2004)'
+  volume: '34'
+  year: '2004'
+- author: A. Bohr
+  doi: 10.1063/1.1825253
+  first-page: '15'
+  issue: '10'
+  journal-title: Phys. Today
+  unstructured: 'Bohr, A., Mottelson, B., Ulfbeck, O.: Phys. Today 57(10), 15–16 (2004).
+    A very nice synopsis of their formal result is in the Appendix of their 2004 Foundations
+    paper'
+  volume: '57'
+  year: '2004'
+- author: H. Georgi
+  edition: '2'
+  first-page: '14'
+  unstructured: 'Georgi, H.: Lie Algebras in Particle Physics, 2nd edn. Perseus Books,
+    Reading (1999), p. 14'
+  volume-title: Lie Algebras in Particle Physics
+  year: '1999'
+- author: H. Georgi
+  edition: '2'
+  first-page: '25'
+  unstructured: 'Georgi, H.: Lie Algebras in Particle Physics, 2nd edn. Perseus Books,
+    Reading (1999), p. 25'
+  volume-title: Lie Algebras in Particle Physics
+  year: '1999'
+- author: H. Georgi
+  edition: '2'
+  first-page: '18'
+  unstructured: 'Georgi, H.: Lie Algebras in Particle Physics, 2nd edn. Perseus Books,
+    Reading (1999), p. 18'
+  volume-title: Lie Algebras in Particle Physics
+  year: '1999'
+- unstructured: 'Stuckey, W.M.: arXiv:quant-ph/0703039'
+- author: T. Toffoli
+  doi: 10.1023/A:1024411819910
+  first-page: '363'
+  issue: '2'
+  journal-title: Int. J. Theor. Phys.
+  unstructured: 'Toffoli, T.: Int. J. Theor. Phys. 42(2), 363–381 (2003)'
+  volume: '42'
+  year: '2003'
+- author: C.W. Misner
+  first-page: '364'
+  unstructured: 'Misner, C.W., Thorne, K.S., Wheeler, J.A.: Gravitation. Freeman,
+    New York (1973), p. 364'
+  volume-title: Gravitation
+  year: '1973'
+- author: W.M. Stuckey
+  doi: 10.4006/1.3025398
+  first-page: '414'
+  journal-title: Phys. Essays
+  unstructured: 'Stuckey, W.M.: Phys. Essays 12, 414–419 (1999)'
+  volume: '12'
+  year: '1999'
+- author: R. Shankar
+  doi: 10.1007/978-1-4757-0576-8
+  edition: '2'
+  first-page: '226'
+  unstructured: 'Shankar, R.: Principles of Quantum Mechanics, 2nd edn. Plenum, New
+    York (1994), p. 226'
+  volume-title: Principles of Quantum Mechanics
+  year: '1994'
+- author: R.P. Feynman
+  first-page: '1'
+  series-title: Quantum Mechanics
+  unstructured: 'Feynman, R.P., Leighton, R.B., Sands, M.: The Feynman Lectures on
+    Physics, Quantum Mechanics, vol. III. Addison-Wesley, Reading (1965), p. 1'
+  volume-title: The Feynman Lectures on Physics
+  year: '1965'
+- author: A. Elitzur
+  doi: 10.1007/3-540-26669-0_17
+  first-page: '325'
+  unstructured: 'Elitzur, A., Dolev, S.: In: Elitzur, A., Dolev, S., Kolenda, N. (eds.)
+    Quo Vadis Quantum Mechanics, pp. 325–349. Springer, Berlin (2005)'
+  volume-title: Quo Vadis Quantum Mechanics
+  year: '2005'
+- author: A. Elitzur
+  doi: 10.1142/9789812701596_0031
+  first-page: '589'
+  unstructured: 'Elitzur, A., Dolev, S.: In: Buccheri, R., Elitzur, A., Saniga, M.
+    (eds.) Endophysics, Time, Quantum and the Subjective, pp. 589–606. World Scientific,
+    Singapore (2005)'
+  volume-title: Endophysics, Time, Quantum and the Subjective
+  year: '2005'
+- author: L. Hardy
+  doi: 10.1016/0375-9601(92)90618-V
+  first-page: '11'
+  journal-title: Phys. Lett. A
+  unstructured: 'Hardy, L.: Phys. Lett. A 167, 11–16 (1992)'
+  volume: '167'
+  year: '1992'
+- author: Y. Aharonov
+  doi: 10.1002/9783527619115
+  unstructured: 'Aharonov, Y., Rohrlich, D.: Quantum Paradoxes: Quantum Theory for
+    the Perplexed. Wiley, New York (2005). Esp. Sect. 6.4 and Chap. 17'
+  volume-title: 'Quantum Paradoxes: Quantum Theory for the Perplexed'
+  year: '2005'
+- author: N.D. Mermin
+  doi: 10.1119/1.12594
+  first-page: '940'
+  issue: '10'
+  journal-title: Am. J. Phys.
+  unstructured: 'Mermin, N.D.: Am. J. Phys. 49(10), 940–943 (1981)'
+  volume: '49'
+  year: '1981'
+- unstructured: 'Elitzur, A.C., Dolev, S., Zeilinger, A.: arXiv:quant-ph/0205182'
+doc_url: http://link.springer.com/article/10.1007/s10701-008-9206-4/fulltext.html
+doi: 10.1007/s10701-008-9206-4
+files:
+- relational-blockworld-quantum-liar.pdf
+issue: '4'
+journal: Foundations of Physics
+language: en
+month: 4
+pages: 348--383
+publisher: Springer Science and Business Media LLC
+ref: ReconcilingSpaStucke2008
+tags: relational-blockworld quantum-liar metaphysics paradox quantum-mechanics quantum-measurement
+  entanglement locality
+time-added: 2021-04-13-01:28:41
+title: 'Reconciling Spacetime and the Quantum: Relational Blockworld and the Quantum
+  Liar Paradox'
+type: article
+url: http://dx.doi.org/10.1007/s10701-008-9206-4
+volume: '38'
+year: 2008

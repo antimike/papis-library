@@ -1,0 +1,174 @@
+author: Wise, Derek K
+author_list:
+- affiliation: []
+  family: Wise
+  given: Derek K
+citations:
+- author: Álvarez M C
+  year: '2004'
+- author: Atiyah M F
+  doi: 10.1017/CBO9780511623868
+  journal-title: Geometry and Physics of Knots
+  year: '1990'
+- author: Atiyah M F
+  doi: 10.1098/rsta.1983.0017
+  first-page: '523'
+  issn: http://id.crossref.org/issn/0080-4614
+  issn-type: print
+  journal-title: Phil. Trans. R. Soc.
+  volume: '308'
+  year: '1982'
+- author: Baez J C
+  doi: 10.1088/0264-9381/15/7/004
+  first-page: '1827'
+  issn: http://id.crossref.org/issn/0264-9381
+  issn-type: print
+  journal-title: Class. Quantum Grav.
+  volume: '15'
+  year: '1998'
+- author: Baez J C
+  journal-title: Geometry and Quantum Physics
+  year: '2000'
+- author: Baez J C
+  doi: 10.1142/2324
+  journal-title: Gauge Fields, Knots and Gravity
+  volume: '4'
+  year: '1994'
+- author: Baez J C Schreiber U
+  year: '2005'
+- author: Baez J C Schreiber U
+  year: '2004'
+- author: Baez J C
+  journal-title: Quantum Gravity Seminar Notes
+- author: Bartels T
+  year: '2004'
+- author: Bossavit A
+  journal-title: Computational Electromagnetism
+  year: '1998'
+- author: Brylinski J-L
+  doi: 10.1007/978-0-8176-4731-5
+  journal-title: Loop Spaces, Characteristic Classes and Geometric Quantization
+  year: '1993'
+- author: Choquet-Bruhat Y
+  journal-title: Analysis, Manifolds, and Physics
+  year: '1982'
+- author: Ciufolini I
+  doi: 10.1515/9780691190198
+  journal-title: Gravitation and Inertia
+  year: '1995'
+- doi: 10.1063/1.532819
+- doi: 10.2307/2373615
+- author: Forgy E Schreiber U
+  year: '2004'
+- author: Forman R
+  journal-title: New Perspectives in Algebraic Combinatorics
+  volume: '38'
+  year: '1999'
+- author: Geroch R
+  journal-title: Mathematical Physics
+  year: '1985'
+- author: Grandis M
+  doi: 10.1023/A:1023544303612
+  first-page: '185'
+  issn: http://id.crossref.org/issn/1201-561X
+  issn-type: print
+  journal-title: Theory Appl. Categ.
+  volume: '11'
+  year: '2003'
+- author: Green M B
+  journal-title: Superstring Theory
+  volume: '1'
+  year: '1987'
+- author: Greenberg M J
+  journal-title: 'Algebraic Topology: A First Course'
+  year: '1981'
+- author: Hatcher A
+  journal-title: Algebraic Topology
+  year: '2002'
+- author: Hog-Angeloni C
+  doi: 10.1017/CBO9780511629358
+  journal-title: Two-Dimensional Homotopy and Combinatorial Group Theory
+  volume: '197'
+  year: '1993'
+- author: Hudson J
+  journal-title: Piecewise Linear Topology
+  year: '1969'
+- doi: 10.1103/PhysRevD.9.2273
+- author: Kogut J B
+  journal-title: 'The Phases of Quantum Chromodynamics: From Confinement to Extreme
+    Environments'
+  year: '2004'
+- author: Mackaay M
+  doi: 10.1016/S0001-8708(02)92085-2
+  first-page: '287'
+  journal-title: Adv. Math.
+  volume: '170'
+  year: '2002'
+- author: Mac Lane S
+  journal-title: Categories for the Working Mathematician
+  year: '1998'
+- author: May J P
+  journal-title: Simplicial Objects in Algebraic Topology
+  year: '1992'
+- author: Migdal A
+  first-page: '810'
+  issn: http://id.crossref.org/issn/0044-4510
+  issn-type: print
+  journal-title: Zh. Eksp. Teor. Fiz.
+  volume: '69'
+  year: '1975'
+- author: Migdal A
+  first-page: '413'
+  issn: http://id.crossref.org/issn/0038-5646
+  issn-type: print
+  journal-title: Sov. Phys.-JETP
+  volume: '42'
+  year: '1975'
+- author: Misner C W
+  journal-title: Gravitation
+  year: '1973'
+- author: Montvay I
+  doi: 10.1017/CBO9780511470783
+  journal-title: Quantum Fields on a Lattice
+  year: '1994'
+- author: Mumford D
+  journal-title: Tata Lectures on Theta I
+  volume: '28'
+  year: '1982'
+- doi: 10.1016/S0003-4916(03)00147-7
+- doi: 10.1063/1.1790048
+- author: Rourke C
+  doi: 10.1007/978-3-642-81735-9
+  journal-title: Introduction to Piecewise-Linear Topology
+  year: '1972'
+- author: Tonti E
+  first-page: '284'
+  journal-title: 4th Int. Workshop on Electric and Magnetic Fields (Marseille, France)
+  year: '1998'
+- doi: 10.2528/PIER00080101
+- author: Wilson S
+  year: '2005'
+- author: Wise D
+  year: '2005'
+- doi: 10.1007/BF02100009
+- doi: 10.1016/0393-0440(92)90034-X
+- doi: 10.1016/0550-3213(88)90143-5
+- author: Zee A
+  journal-title: Quantum Field Theory in a Nutshell
+  year: '2003'
+doi: 10.1088/0264-9381/23/17/004
+files:
+- wise-2006-class.-quantum-grav.-23-5129.pdf
+issue: '17'
+journal: Classical and Quantum Gravity
+month: 9
+pages: 5129--5176
+publisher: IOP Publishing
+ref: PWise2006
+tags: p-form-em em maxwell discretization spacetime gauge-theory math mathematical-physics
+time-added: 2021-04-13-00:37:01
+title: "p-form electromagnetism on discrete spacetimes"
+type: article
+url: http://dx.doi.org/10.1088/0264-9381/23/17/004
+volume: '23'
+year: 2006

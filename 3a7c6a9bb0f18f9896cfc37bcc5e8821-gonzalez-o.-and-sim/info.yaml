@@ -1,0 +1,167 @@
+author: Gonzalez, O. and Simo, J.C.
+author_list:
+- affiliation: []
+  family: Gonzalez
+  given: O.
+- affiliation: []
+  family: Simo
+  given: J.C.
+citations:
+- author: de Vogelaere
+  series-title: Methods of integration which preserve the contact transformation property
+    of Hamiltonian equations
+  year: '1956'
+- article-title: Difference schemes for Hamiltonian formalism and symplectic geometry
+  author: Kang
+  first-page: '279'
+  journal-title: J. Comput. Math.
+  volume: '4'
+  year: '1986'
+- article-title: Canonical Runge-Kutta methods
+  author: Lasagni
+  doi: 10.1007/BF00945133
+  first-page: '952'
+  journal-title: ZAMP
+  volume: '39'
+  year: '1988'
+- article-title: Runge-Kutta schemes for Hamiltonian systems
+  author: Sanz-Serna
+  doi: 10.1007/BF01954907
+  first-page: '877'
+  journal-title: BIT
+  volume: '28'
+  year: '1988'
+- article-title: Symplectic integration of Hamiltonian systems
+  author: Channell
+  doi: 10.1088/0951-7715/3/2/001
+  first-page: '231'
+  journal-title: Nonlinearity
+  volume: '3'
+  year: '1990'
+- article-title: Symplectic numerical integration of Hamiltonian systems
+  author: Scovel
+  first-page: '463'
+  series-title: The Geometry of Hamiltonian Systems, Proc. Workshop held June 5th
+    to 15th
+  year: '1991'
+- article-title: The numerical integration of Hamiltonian systems
+  author: Sanz-Serna
+  series-title: Proc. Conf. on Computational Differential Equations
+  year: '1992'
+- article-title: The discrete energy-momentum method. Conserving algorithms for nonlinear
+    elastodynamics
+  author: Simo
+  doi: 10.1007/BF00913408
+  first-page: '757'
+  journal-title: ZAMP
+  volume: '43'
+  year: '1992'
+- article-title: A new energy-momentum method for the dynamics of nonlinear shells
+  author: Simo
+  journal-title: Int. J. Numer. Methods Engrg.
+  year: '1992'
+- article-title: Exact energy-momentum algorithms for the dynamics of nonlinear rods
+  author: Simo
+  journal-title: Int. J. Numer Methods Engrg.
+  year: '1993'
+- article-title: Assessment of energy-momentum and symplectic schemes for stiff dynamical
+    systems
+  author: Simo
+  series-title: American Society of Mechanical Engineers, ASME Winter Annual Meeting
+  year: '1993'
+- article-title: How to make your algorithm conservative
+  author: Bayliss
+  first-page: A594
+  journal-title: Am. Math. Soc.
+  year: '1975'
+- article-title: Energy and momentum conserving methods of arbitrary order for the
+    numerical integration of equations of motion. Part I
+  author: Labudde
+  doi: 10.1007/BF01396331
+  first-page: '323'
+  journal-title: Numer. Math.
+  volume: '25'
+  year: '1976'
+- article-title: Energy and momentum conserving methods of arbitrary order for the
+    numerical integration of equations of motion. Part II
+  author: Labudde
+  doi: 10.1007/BF01396562
+  first-page: '1'
+  journal-title: Numer. Math.
+  volume: '26'
+  year: '1976'
+- article-title: Unconditionally stable algorithms for rigid body dynamics that exactly
+    preserve energy and angular momentum
+  author: Simo
+  doi: 10.1002/nme.1620310103
+  first-page: '19'
+  journal-title: Int. J. Numer. Methods Engrg.
+  volume: '31'
+  year: '1991'
+- article-title: Almost Poisson integration of rigid body systems
+  author: Austin
+  doi: 10.1006/jcph.1993.1128
+  first-page: '105'
+  issue: '1'
+  journal-title: J. Comput. Phys.
+  volume: '107'
+  year: '1992'
+- article-title: Design and analysis of conserving integrators for nonlinear Hamiltonian
+    systems with symmetry
+  author: Gonzalez
+  year: '1995'
+- author: Goldstein
+  series-title: Classical Mechanics
+  year: '1980'
+- author: Abraham
+  series-title: Foundations of Mechanics
+  year: '1978'
+- article-title: Topology in Mechanics I
+  author: Smale
+  doi: 10.1007/BF01418778
+  first-page: '305'
+  journal-title: Inventiones Math.
+  volume: '10'
+  year: '1970'
+- article-title: Topology in Mechanics II
+  author: Smale
+  doi: 10.1007/BF01389805
+  first-page: '45'
+  journal-title: Inventiones Math.
+  volume: '11'
+  year: '1970'
+- article-title: Reduction of symplectic manifolds with symmetry
+  author: Marsden
+  doi: 10.1016/0034-4877(74)90021-4
+  first-page: '121'
+  journal-title: Rep. Math. Phys.
+  volume: '5'
+  year: '1974'
+- article-title: Exact energy-momentum conserving algorithms and symplectic schemes
+    for nonlinear dynamics
+  author: Simo
+  doi: 10.1016/0045-7825(92)90115-Z
+  first-page: '63'
+  journal-title: Comput. Methods Appl. Mech. Engrg.
+  volume: '1'
+  year: '1992'
+doc_url: https://api.elsevier.com/content/article/PII:0045782596010092?httpAccept=text/plain
+doi: 10.1016/0045-7825(96)01009-2
+files:
+- stability-symplectic-algorithms-nonlinear-hamiltonian-systems.pdf
+issue: 3-4
+journal: Computer Methods in Applied Mechanics and Engineering
+language: en
+month: 8
+pages: 197--222
+publisher: Elsevier BV
+ref: OnTheStabilitGonzal1996
+tags: stability symplectic-integrator nonlinear hamiltonian symmetry pde algorithm
+  numerics
+time-added: 2021-04-12-23:55:52
+title: On the stability of symplectic and energy-momentum algorithms for non-linear
+  Hamiltonian systems with symmetry
+type: article
+url: http://dx.doi.org/10.1016/0045-7825(96)01009-2
+volume: '134'
+year: 1996

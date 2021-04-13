@@ -1,0 +1,24 @@
+author: Ern, Alexandre and Guermond, Jean-Luc
+author_list:
+- affiliation: []
+  family: Ern
+  given: Alexandre
+- affiliation: []
+  family: Guermond
+  given: Jean-Luc
+doc_url: http://link.springer.com/content/pdf/10.1007/978-1-4757-4355-5
+doi: 10.1007/978-1-4757-4355-5
+files:
+- tmpox7658lq.pdf
+isbn:
+- '9781441919182'
+- '9781475743555'
+journal: Applied Mathematical Sciences
+publisher: Springer New York
+ref: TheoryAndPracErnA2004
+tags: fem book reference galerkin text pde computation numerics algorithm
+time-added: 2021-04-13-03:21:49
+title: Theory and Practice of Finite Elements
+type: book
+url: http://dx.doi.org/10.1007/978-1-4757-4355-5
+year: 2004

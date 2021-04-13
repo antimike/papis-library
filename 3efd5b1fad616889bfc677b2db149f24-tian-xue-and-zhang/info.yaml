@@ -1,0 +1,443 @@
+author: Tian, Xue and Zhang, Yi
+author_list:
+- affiliation: []
+  family: Tian
+  given: Xue
+- affiliation: []
+  family: Zhang
+  given: Yi
+citations:
+- article-title: Invariante variationsprobleme
+  author: Noether
+  first-page: '235'
+  journal-title: Kgl. Ges. Wiss. Nachr. Göttingen Math. Phys.
+  volume: '2'
+  year: '1918'
+- article-title: Invariant variational problems
+  author: Noether
+  doi: 10.1080/00411457108231446
+  first-page: '186'
+  journal-title: Transp. Theory. Stat. Phys.
+  volume: '1'
+  year: '1971'
+- author: Mei
+  series-title: History of Analytical Mechanics
+  year: '2019'
+- article-title: Noether’s theorem in classical mechanics
+  author: Desloge
+  doi: 10.1119/1.10616
+  first-page: '336'
+  journal-title: Am. J. Phys.
+  volume: '45'
+  year: '1977'
+- author: Li
+  series-title: Classical and Quantal Dynamics of Constrained Systems and their Symmetrical
+    Properties
+  year: '1993'
+- author: Mei
+  series-title: Applications of Lie Groups and Lie Algebras to Constrained Mechanical
+    Systems
+  year: '1999'
+- author: Mei
+  series-title: Symmetries and Conserved Quantities of Constrained Mechanical Systems
+  year: '2004'
+- article-title: Noether-type symmetries and conservation laws via partial Lagrangians
+  author: Kara
+  doi: 10.1007/s11071-005-9013-9
+  first-page: '367'
+  journal-title: Nonlinear Dyn.
+  volume: '45'
+  year: '2006'
+- article-title: Noether’s theorem and Lie symmetries for time-dependent Hamilton-Lagrange
+    systems
+  author: Struckmeier
+  doi: 10.1103/PhysRevE.66.066605
+  first-page: '066605'
+  journal-title: Phys. Rev. E
+  volume: '66'
+  year: '2002'
+- article-title: Noether’s theorem and its inverse of nonholonomic nonconservative
+    dynamical systems
+  author: Liu
+  first-page: '419'
+  journal-title: Chin. Sci. Ser. A
+  volume: '34'
+  year: '1991'
+- article-title: Nonholonomic mechanical systems with symmetry
+  author: Bloch
+  doi: 10.1007/BF02199365
+  first-page: '21'
+  journal-title: Arch. Rational Mech. Anal.
+  volume: '136'
+  year: '1996'
+- article-title: Noether symmetries of discrete nonholonomic dynamical systems
+  author: Fu
+  doi: 10.1016/j.physleta.2008.11.039
+  first-page: '409'
+  journal-title: Phys. Lett. A
+  volume: '371'
+  year: '2009'
+- article-title: Perturbation to symmetry and adiabatic invariants of discrete nonholonomic
+    nonconservative mechanical system
+  author: Wang
+  doi: 10.1007/s11071-011-0203-3
+  first-page: '53'
+  journal-title: Nonlinear Dyn.
+  volume: '68'
+  year: '2012'
+- article-title: Noether-type discrete conserved quantities arising from a finite
+    element approximation of a variational problem
+  author: Mansfield
+  doi: 10.1007/s10208-015-9298-0
+  first-page: '729'
+  journal-title: Found. Comput. Math.
+  volume: '17'
+  year: '2017'
+- author: Hilger
+  series-title: Ein maßkettenkalkiilmit Anwendung auf zentrumsmannigfaltigkeiten
+  year: '1988'
+- author: Bohner
+  series-title: Dynamic Equations on Time Scales
+  year: '2001'
+- article-title: 'Dynamic equations on time scales: a survey'
+  author: Agarwal
+  doi: 10.1016/S0377-0427(01)00432-0
+  first-page: '1'
+  journal-title: J. Comput. Appl. Math.
+  volume: '141'
+  year: '2002'
+- author: Bohner
+  series-title: Advances in Dynamic Equations on Time Scales
+  year: '2003'
+- article-title: Noether’s theorem on time scales
+  author: Bartosiewicz
+  doi: 10.1016/j.jmaa.2008.01.018
+  first-page: '1220'
+  journal-title: J. Math. Anal. Appl.
+  volume: '342'
+  year: '2008'
+- article-title: The second Euler-Lagrange equation of variational calculus on time
+    scales
+  author: Bartosiewicz
+  doi: 10.3166/ejc.17.9-18
+  first-page: '9'
+  journal-title: Eur. J. Control
+  volume: '17'
+  year: '2011'
+- article-title: Dynamics symmetries of Hamiltonian system on time scales
+  author: Peng
+  doi: 10.1063/1.4871545
+  first-page: '042702'
+  journal-title: J. Math. Phys.
+  volume: '55'
+  year: '2014'
+- article-title: Noether theory for Hamiltonian system on time scales
+  author: Zhang
+  first-page: '214'
+  journal-title: Chin. Quart. Mech.
+  volume: '2'
+  year: '2016'
+- article-title: Conserved quantities for Hamiltonian systems on time scales
+  author: Song
+  first-page: '24'
+  journal-title: Appl. Math. Comput.
+  volume: '313'
+  year: '2017'
+- article-title: Conservation laws for a delayed Hamiltonian system in a time scales
+    version
+  author: Zhai
+  doi: 10.3390/sym10120668
+  first-page: '668'
+  journal-title: Symmetry (Basel)
+  volume: '10'
+  year: '2018'
+- article-title: Noether theorem for non-conservative systems with time delay on time
+    scales
+  author: Zhai
+  doi: 10.1016/j.cnsns.2017.04.012
+  first-page: '32'
+  journal-title: Commun. Nonlinear Sci. Numer. Simul.
+  volume: '52'
+  year: '2017'
+- article-title: Variational principle of Herglotz type and its Noether’s theorem
+    on time scales
+  author: Tian
+  first-page: '237'
+  journal-title: Chin. Q. Mech.
+  volume: '39'
+  year: '2018'
+- article-title: Noether symmetry and conserved quantity for Hamiltonian system of
+    Herglotz type on time scales
+  author: Tian
+  doi: 10.1007/s00707-018-2188-1
+  first-page: '3601'
+  journal-title: Acta Mech.
+  volume: '229'
+  year: '2018'
+- article-title: Noether symmetries of the nonconservative and nonholonomic systems
+    on time scales
+  author: Cai
+  doi: 10.1007/s11433-013-5065-x
+  first-page: '1017'
+  journal-title: Sci. China Phys. Mech. Astron.
+  volume: '56'
+  year: '2013'
+- article-title: Noether theorem for nonholonomic nonconservative mechanical systems
+    in phase space on time scales
+  author: Zu
+  doi: 10.1063/1.4960471
+  first-page: 082701
+  journal-title: J. Math. Phys.
+  volume: '57'
+  year: '2016'
+- article-title: Noether theorem for generalized Chaplygin system on time scales
+  author: Jin
+  doi: 10.1007/s12648-018-1345-7
+  first-page: '883'
+  journal-title: Indian J. Phys.
+  volume: '93'
+  year: '2019'
+- article-title: Noether theorem for Birkhoffian systems on time scales
+  author: Song
+  doi: 10.1063/1.4932607
+  first-page: '102701'
+  journal-title: J. Math. Phys.
+  volume: '56'
+  year: '2015'
+- article-title: Noether’s theorems for nonshifted dynamic systems on time scales
+  author: Song
+  first-page: '125086'
+  journal-title: Appl. Math. Comput.
+  volume: '374'
+  year: '2020'
+- article-title: Time-scales Herglotz type Noether theorem for delta derivatives of
+    Birkhoffian systems
+  author: Tian
+  doi: 10.1098/rsos.191248
+  first-page: '191248'
+  journal-title: R. Soc. Open Sci.
+  volume: '6'
+  year: '2019'
+- unstructured: B. Anerot, J. Cresson, F. Pierret, A time scales noether’s theorem,
+    arXiv:1609.02698 [math-ph](2016).
+- unstructured: B. Anerot, J. Cresson, K.H. Belgacem, F. Pierret, Noether’s theorem
+    on time scales, hal-02379882 (2019).
+- author: Podlubny
+  series-title: Fractional Differential Equation
+  year: '1999'
+- article-title: A transform method in discrete fractional calculus
+  author: Atici
+  first-page: '165'
+  journal-title: Int. J. Diff. Equ.
+  volume: '2'
+  year: '2007'
+- article-title: Fractional q-calculus on a time scale
+  author: Atici
+  doi: 10.2991/jnmp.2007.14.3.4
+  first-page: '341'
+  journal-title: J. Nonlinear Math. Phys.
+  volume: '14'
+  year: '2007'
+- article-title: Principles of delta fractional calculus on time scales and inequalities
+  author: Anastassiou
+  doi: 10.1016/j.mcm.2010.03.055
+  first-page: '556'
+  journal-title: Math. Comput. Model.
+  volume: '52'
+  year: '2010'
+- article-title: Existence and uniqueness of solution for a fractional Riemann-Liouville
+    initial value problem on time scales
+  author: Benkhettou
+  doi: 10.1016/j.jksus.2015.08.001
+  first-page: '87'
+  journal-title: J. King Saud Univ. Sci.
+  volume: '28'
+  year: '2016'
+- article-title: Solutions of systems with the Caputo-Fabrizio fractional delta derivative
+    on time scales
+  author: Mozyrska
+  doi: 10.1016/j.nahs.2018.12.001
+  first-page: '168'
+  journal-title: Nonlinear Anal. Hybri.
+  volume: '32'
+  year: '2019'
+- article-title: 'A fractional calculus on arbitrary time scales: fractional differentiation
+    and fractional integration'
+  author: Benkhettou
+  doi: 10.1016/j.sigpro.2014.05.026
+  first-page: '230'
+  journal-title: Signal Process.
+  volume: '107'
+  year: '2015'
+- article-title: A conformable fractional calculus on arbitrary time scales
+  author: Benkhettou
+  doi: 10.1016/j.jksus.2015.05.003
+  first-page: '93'
+  journal-title: J. King Saud Univ. Sci.
+  volume: '28'
+  year: '2016'
+- article-title: On fractional time-scale differentiation
+  author: Roble
+  first-page: '5067'
+  journal-title: Glob. J. Pure Appl. Math.
+  volume: '13'
+  year: '2017'
+- article-title: Complex-valued fractional derivatives on time scales, in differential
+    and difference equations with applications
+  author: Bayour
+  first-page: '79'
+  journal-title: Springer Proc. Math. Stat.
+  volume: '164'
+  year: '2016'
+- article-title: Generalized fractional operators on time scales with application
+    to dynamic equations
+  author: Kheira
+  doi: 10.1140/epjst/e2018-00036-0
+  first-page: '3489'
+  journal-title: Eur. Phys. J. Spec. Top.
+  volume: '226'
+  year: '2017'
+- article-title: Time-Fractional Optimal Control of Initial Value Problems on Time
+    Scales
+  author: Bahaa
+  first-page: '229'
+  series-title: Nonlinear Analysis and Boundary Value Problems
+  volume: '292'
+  year: '2019'
+- article-title: Discrete fractional logistic map and its chaos
+  author: Wu
+  doi: 10.1007/s11071-013-1065-7
+  first-page: '283'
+  journal-title: Nonlinear Dyn.
+  volume: '75'
+  year: '2014'
+- article-title: New variable-order fractional chaotic systems for fast image encryption
+  author: Wu
+  doi: 10.1063/1.5096645
+  first-page: 083103
+  journal-title: Chaos
+  volume: '29'
+  year: '2019'
+- article-title: Discrete tempered fractional calculus for new chaotic systems with
+    short memory and image encryption
+  author: Abdeljawad
+  doi: 10.1016/j.ijleo.2019.163698
+  first-page: '163698'
+  journal-title: Optik (Stuttg)
+  volume: '203'
+  year: '2020'
+- article-title: Variable-order fractional discrete-time recurrent neural networks
+  author: Huang
+  doi: 10.1016/j.cam.2019.112633
+  first-page: '112633'
+  journal-title: J. Comput. Appl. Math.
+  volume: '370'
+  year: '2020'
+- article-title: About the Noether’s theorem for fractional Lagrangian systems and
+    a generalization of the classical Jost method of proof
+  author: Cresson
+  doi: 10.1515/fca-2019-0048
+  first-page: '871'
+  journal-title: Fract. Calc. Appl. Anal.
+  volume: '22'
+  year: '2019'
+- article-title: Noether symmetries and conserved quantities for fractional Birkhoffian
+    systems
+  author: Zhang
+  doi: 10.1007/s11071-015-2005-5
+  first-page: '469'
+  journal-title: Nonlinear Dyn.
+  volume: '81'
+  year: '2015'
+- article-title: Noether’s theorem of fractional Birkhoffian systems
+  author: Zhang
+  doi: 10.1016/j.jmaa.2017.07.056
+  first-page: '1442'
+  journal-title: J. Math. Anal. Appl.
+  volume: '456'
+  year: '2017'
+- article-title: Noether symmetry and conserved quantities of fractional Birkhoffian
+    system in terms of Herglotz variational problem
+  author: Tian
+  doi: 10.1088/0253-6102/70/3/280
+  first-page: '280'
+  journal-title: Commun. Theor. Phys.
+  volume: '70'
+  year: '2018'
+- article-title: Noether symmetries for non-conservative Lagrange systems with time
+    delay based on fractional model
+  author: Jin
+  doi: 10.1007/s11071-014-1734-1
+  first-page: '1169'
+  journal-title: Nonlinear Dyn.
+  volume: '79'
+  year: '2015'
+- article-title: 'Fractional Noether’s theorem with classical and Caputo derivatives:
+    constants of motion for non-conservative systems'
+  author: Frederico
+  doi: 10.1007/s11071-016-2727-z
+  first-page: '839'
+  journal-title: Nonlinear Dyn.
+  volume: '85'
+  year: '2016'
+- article-title: Noether’s theorem for fractional Herglotz variational principle in
+    phase space
+  author: Tian
+  doi: 10.1016/j.chaos.2018.12.005
+  first-page: '50'
+  journal-title: Chaos Soliton. Fract.
+  volume: '119'
+  year: '2019'
+- author: Georgiev
+  series-title: Fractional Dynamic Calculus and Fractional Dynamic Equations on Time
+    Scales
+  year: '2018'
+- article-title: Minkowski and Beckenbach-Dresher inequalities and functionals on
+    time scales
+  author: Bibi
+  doi: 10.7153/jmi-07-28
+  first-page: '299'
+  journal-title: J. Math. Inequal.
+  volume: '3'
+  year: '2013'
+- article-title: Controllability of fractional damped dynamical systems
+  author: Balachandran
+  first-page: '66'
+  journal-title: Appl. Math. Comput.
+  volume: '257'
+  year: '2015'
+- article-title: Fractional extensions of the classical isotropic oscillator and the
+    Kepler problem
+  author: Eleonskiĭ
+  doi: 10.1134/1.1556215
+  first-page: '728'
+  journal-title: Jetp Lett.
+  volume: '76'
+  year: '2002'
+- article-title: Lie symmetry analysis on time scales and its application on mechanical
+    systems
+  author: Zhai
+  doi: 10.1177/1077546318790864
+  first-page: '581'
+  journal-title: J. Vib. Control.
+  volume: '25'
+  year: '2018'
+doc_url: https://api.elsevier.com/content/article/PII:S0096300320307062?httpAccept=text/plain
+doi: 10.1016/j.amc.2020.125753
+files:
+- fractional-time-scales-noether-caputo-derivatives.pdf
+journal: Applied Mathematics and Computation
+language: en
+month: 3
+pages: '125753'
+publisher: Elsevier BV
+ref: FractionalTimeTian2021
+tags: fractional-time-scales noether caputo-derivative hamiltonian fractional-continuous
+  fractional-discrete
+time-added: 2021-04-13-03:16:10
+title: Fractional time-scales Noether theorem with Caputo Δ derivatives for Hamiltonian
+  systems
+type: article
+url: http://dx.doi.org/10.1016/j.amc.2020.125753
+volume: '393'
+year: 2021

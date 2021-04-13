@@ -1,0 +1,27 @@
+abstract: Quantum Graphity is an approach to quantum gravity based on a background
+  independent formulation of condensed matter systems on graphs. We summarize recent
+  results obtained on the notion of emergent geometry from the point of view of a
+  particle hopping on the graph. We discuss the role of connectivity in emergent Lorentzian
+  perturbations in a curved background and the Bose--Hubbard (BH) model defined on
+  graphs with particular symmetries.
+archiveprefix: arXiv
+author: Caravelli, Francesco
+author_list:
+- family: Caravelli
+  given: Francesco
+doi: 10.1088/1742-6596/360/1/012039
+eprint: 1110.3278v3
+file: 1110.3278v3.pdf
+files:
+- tmp5yb1wp0z.pdf
+month: Oct
+note: 'J. Phys.: Conf. Ser. 360 012039 (2012)'
+primaryclass: gr-qc
+ref: 1110.3278v3
+tags: differential-geometry discretization graph-theory curvature emergent-geometry
+  quantum-graphity
+time-added: 2021-04-13-00:54:49
+title: Curved geometry and Graphs
+type: article
+url: http://arxiv.org/abs/1110.3278v3
+year: '2011'

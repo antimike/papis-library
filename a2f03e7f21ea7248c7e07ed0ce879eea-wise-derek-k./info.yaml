@@ -1,0 +1,37 @@
+abstract: Since Wilson's work on lattice gauge theory in the 1970s, discrete versions
+  of field theories have played a vital role in fundamental physics. But there is
+  recent interest in certain higher dimensional analogues of gauge theory, such as
+  p-form electromagnetism, including the Kalb-Ramond field in string theory, and its
+  nonabelian generalizations. It is desirable to discretize such `higher gauge theories'
+  in a way analogous to lattice gauge theory, but with the fundamental geometric structures
+  in the discretization boosted in dimension. As a step toward studying discrete versions
+  of more general higher gauge theories, we consider the case of p-form electromagnetism.
+  We show that discrete p-form electromagnetism admits a simple algebraic description
+  in terms of chain complexes of abelian groups. Moreover, the model allows discrete
+  spacetimes with quite general geometry, in contrast to the regular cubical lattices
+  usually associated with lattice gauge theory. After constructing a suitable model
+  of discrete spacetime for p-form electromagnetism, we quantize the theory using
+  the Euclidean path integral formalism. The main result is a description of p-form
+  electromagnetism as a `chain field theory' -- a theory analogous to topological
+  quantum field theory, but with chain complexes replacing manifolds. This, in particular,
+  gives a notion of time evolution from one `spacelike slice' of discrete spacetime
+  to another.
+archiveprefix: arXiv
+author: Wise, Derek K.
+author_list:
+- family: Wise
+  given: Derek K.
+eprint: gr-qc/0510033v1
+file: gr-qc/0510033v1.pdf
+files:
+- tmpro6tgifi.pdf
+month: Oct
+primaryclass: gr-qc
+ref: gr-qc/0510033v1
+tags: p-form-em lattice chain-field-theory gauge-theory discretization kalb-ramond-field
+  string-theory chain-complex path-integral
+time-added: 2021-04-13-02:31:19
+title: Lattice p-Form Electromagnetism and Chain Field Theory
+type: article
+url: http://arxiv.org/abs/gr-qc/0510033v1
+year: '2005'

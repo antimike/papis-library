@@ -1,0 +1,40 @@
+abstract: Variational integrators for Lagrangian dynamical systems provide a systematic
+  way to derive geometric numerical methods. These methods preserve a discrete multisymplectic
+  form as well as momenta associated to symmetries of the Lagrangian via Noether's
+  theorem. An inevitable prerequisite for the derivation of variational integrators
+  is the existence of a variational formulation for the considered problem. Even though
+  for a large class of systems this requirement is fulfilled, there are many interesting
+  examples which do not belong to this class, e.g., equations of advection-diffusion
+  type frequently encountered in fluid dynamics or plasma physics. On the other hand,
+  it is always possible to embed an arbitrary dynamical system into a larger Lagrangian
+  system using the method of formal (or adjoint) Lagrangians. We investigate the application
+  of the variational integrator method to formal Lagrangians, and thereby extend the
+  application domain of variational integrators to include potentially all dynamical
+  systems. The theory is supported by physically relevant examples, such as the advection
+  equation and the vorticity equation, and numerically verified. Remarkably, the integrator
+  for the vorticity equation combines Arakawa's discretisation of the Poisson brackets
+  with a symplectic time stepping scheme in a fully covariant way such that the discrete
+  energy is exactly preserved. In the presentation of the results, we try to make
+  the geometric framework of variational integrators accessible to non specialists.
+archiveprefix: arXiv
+author: Kraus, Michael and Maj, Omar
+author_list:
+- family: Kraus
+  given: Michael
+- family: Maj
+  given: Omar
+doi: 10.1016/j.physd.2015.08.002
+eprint: 1412.2011v3
+file: 1412.2011v3.pdf
+files:
+- tmp7niq6g74.pdf
+month: Dec
+note: 'Physica D: Nonlinear Phenomena, Volume 310, Pages 37-71, 2015'
+primaryclass: math.NA
+ref: 1412.2011v3
+time-added: 2021-04-13-00:23:59
+title: Variational Integrators for Nonvariational Partial Differential   Equations
+type: article
+url: http://arxiv.org/abs/1412.2011v3
+year: '2014'
+tags: 'variational pde numerics algorithm lagrangian multisymplectic symmetry noether'

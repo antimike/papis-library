@@ -1,0 +1,536 @@
+author: Boffi, Daniele and Brezzi, Franco and Fortin, Michel
+author_list:
+- affiliation: []
+  family: Boffi
+  given: Daniele
+- affiliation: []
+  family: Brezzi
+  given: Franco
+- affiliation: []
+  family: Fortin
+  given: Michel
+citations:
+- author: C. Amrouche
+  doi: 10.1002/(SICI)1099-1476(199806)21:9<823::AID-MMA976>3.0.CO;2-B
+  first-page: '823'
+  issue: '9'
+  journal-title: Math. Methods Appl. Sci.
+  unstructured: C. Amrouche, C. Bernardi, M. Dauge, and V. Girault. Vector potentials
+    in three-dimensional non-smooth domains. Math. Methods Appl. Sci., 21(9):823–864,
+    1998.
+  volume: '21'
+  year: '1998'
+- unstructured: P. Arbenz and R. Geus. Eigenvalue solvers for electromagnetic fields
+    in cavities. Technical report, in cavities, Tech. Rep. 275, Institute of Scientific
+    Computing, ETH Ziirich, Zfirich, 1997.
+- unstructured: D. N. Arnold. Spaces of finite element differential forms. In U. Gianazza,
+    F. Brezzi, P. Colli Franzone, and G. Gilardi, editors, Analysis and Numerics of
+    Partial Differential Equations. Springer, 2013. 19 pages. To appear. arXiv preprint
+    1204.1351.
+- unstructured: D.N. Arnold. Differential complexes and numerical stability. In Proceedings
+    of the International Congress of Mathematicians, Vol. I (Beijing, 2002), pages
+    137–157, Beijing, 2002. Higher Ed. Press.
+- doi: 10.1090/S0025-5718-2013-02783-4
+  unstructured: D.N. Arnold and G. Awanou. Finite element differential forms on cubical
+    meshes. submitted to Mathematics of Computation, 2012.
+- unstructured: D.N. Arnold, D. Boffi, and F. Bonizzoni. Approximation by tensor product
+    finite element differential forms. Submitted. arXiv preprint 1212.6559, 2012.
+- doi: 10.1137/S0036142903431924
+  unstructured: D.N. Arnold, D. Boffi, and R.S. Falk. Quadrilateral H(div) finite
+    elements. SIAM J. Numer. Anal., 42(6):2429–2451 (electronic), 2005.
+- author: D.N. Arnold
+  doi: 10.1002/cnm.450
+  first-page: '805'
+  issue: '11'
+  journal-title: Comm. Numer. Methods Engrg.
+  unstructured: D.N. Arnold, D. Boffi, R.S. Falk, and L. Gastaldi. Finite element
+    approximation on quadrilateral meshes. Comm. Numer. Methods Engrg., 17(11):805–812,
+    2001.
+  volume: '17'
+  year: '2001'
+- unstructured: D.N. Arnold, R.S. Falk, and R. Winther. Differential complexes and
+    stability of finite element methods. I. The de Rham complex. In Compatible spatial
+    discretizations, volume 142 of IMA Vol. Math. Appl., pages 24–46. Springer, New
+    York, 2006.
+- author: D.N. Arnold
+  doi: 10.1017/S0962492906210018
+  first-page: '1'
+  journal-title: Acta Numerica
+  unstructured: D.N. Arnold, R.S. Falk, and R. Winther. Finite element exterior calculus,
+    homological techniques, and applications. Acta Numerica, 15:1–155, 2006.
+  volume: '15'
+  year: '2006'
+- author: D.N. Arnold
+  doi: 10.1090/S0273-0979-10-01278-4
+  first-page: '281'
+  journal-title: Bull. Amer. Math. Soc.
+  unstructured: 'D.N. Arnold, R.S. Falk, and R. Winther. Finite element exterior calculus:
+    from Hodge theory to numerical stability. Bull. Amer. Math. Soc., 47:281–354,
+    2010.'
+  volume: '47'
+  year: '2010'
+- author: F. Assous
+  doi: 10.1051/m2an/1998320303591
+  first-page: '359'
+  issue: '3'
+  journal-title: RAIRO Modél. Math. Anal. Numér.
+  unstructured: F. Assous, P. Ciarlet Jr., and E. Sonnendrücker. Resolution of the
+    Maxwell equations in a domain with reentrant corners. RAIRO Modél. Math. Anal.
+    Numér., 32(3):359–389, 1998.
+  volume: '32'
+  year: '1998'
+- author: K.-J. Bathe
+  doi: 10.1016/0045-7949(95)00017-B
+  first-page: '225'
+  journal-title: Computers & Structures
+  unstructured: K.-J. Bathe, C. Nitikitpaiboon, and X. Wang. A mixed displacement-based
+    finite element formulation for acoustic fluid-structure interaction. Computers
+    & Structures, 56:225–237, 1995.
+  volume: '56'
+  year: '1995'
+- author: A. Bermúdez
+  doi: 10.1137/0732059
+  first-page: '1280'
+  issue: '4'
+  journal-title: SIAM J. Numer. Anal.
+  unstructured: A. Bermúdez, R. Durán, M. A. Muschietti, R. Rodríguez, and J. Solomin.
+    Finite element vibration analysis of fluid-solid systems without spurious modes.
+    SIAM J. Numer. Anal., 32(4):1280–1295, 1995.
+  volume: '32'
+  year: '1995'
+- author: A. Bermúdez
+  doi: 10.1093/imanum/dri032
+  first-page: '391'
+  issue: '2'
+  journal-title: IMA J. Numer. Anal.
+  unstructured: A. Bermúdez, P. Gamallo, M. R. Nogueiras, and R. Rodríguez. Approximation
+    of a structural acoustic vibration problem by hexahedral finite elements. IMA
+    J. Numer. Anal., 26(2):391–421, 2006.
+  volume: '26'
+  year: '2006'
+- doi: 10.1016/j.crma.2005.03.023
+  unstructured: A. Bermúdez, P. Gamallo, María R. Nogueiras, and R. Rodríguez. Approximation
+    properties of lowest-order hexahedral Raviart-Thomas finite elements. C. R. Math.
+    Acad. Sci. Paris, 340(9):687–692, 2005.
+- author: A. Bermúdez
+  doi: 10.1007/BF01385496
+  first-page: '39'
+  journal-title: Numer. Math.
+  unstructured: A. Bermúdez and D.G. Pedreira. Mathematical analysis of a finite element
+    method without spurious solutions for computation od dieletric waveguides. Numer.
+    Math., 61:39–57, 1992.
+  volume: '61'
+  year: '1992'
+- author: A. Bermúdez
+  doi: 10.1016/0045-7825(94)90095-7
+  first-page: '355'
+  issue: 3–4
+  journal-title: Comput. Methods Appl. Mech. Engrg.
+  unstructured: A. Bermúdez and R. Rodríguez. Finite element computation of the vibration
+    modes of a fluid-solid system. Comput. Methods Appl. Mech. Engrg., 119(3–4):355–370,
+    1994.
+  volume: '119'
+  year: '1994'
+- author: D. Boffi
+  doi: 10.1007/s002110000182
+  first-page: '229'
+  issue: '2'
+  journal-title: Numer. Math.
+  unstructured: D. Boffi. Fortin operator and discrete compactness for edge elements.
+    Numer. Math., 87(2):229–246, 2000.
+  volume: '87'
+  year: '2000'
+- author: D. Boffi
+  doi: 10.1016/S0893-9659(00)00108-7
+  first-page: '33'
+  issue: '1'
+  journal-title: Appl. Math. Lett.
+  unstructured: D. Boffi. A note on the de Rham complex and a discrete compactness
+    property. Appl. Math. Lett., 14(1):33–38, 2001.
+  volume: '14'
+  year: '2001'
+- author: D. Boffi
+  doi: 10.1016/j.cma.2006.10.024
+  first-page: '3672'
+  issue: 37–40
+  journal-title: Comput. Methods Appl. Mech. Engrg.
+  unstructured: D. Boffi. Approximation of eigenvalues in mixed form, discrete compactness
+    property, and application to h p mixed finite elements. Comput. Methods Appl.
+    Mech. Engrg., 196(37–40):3672–3681, 2007.
+  volume: '196'
+  year: '2007'
+- author: D. Boffi
+  doi: 10.1017/S0962492910000012
+  first-page: '1'
+  journal-title: Acta Numer.
+  unstructured: D. Boffi. Finite element approximation of eigenvalue problems. Acta
+    Numer., 19:1–120, 2010.
+  volume: '19'
+  year: '2010'
+- author: D. Boffi
+  first-page: '131'
+  issue: 1–2
+  journal-title: Ann. Scuola Norm. Sup. Pisa Cl. Sci. (4)
+  unstructured: D. Boffi, F. Brezzi, and L. Gastaldi. On the convergence of eigenvalues
+    for mixed formulations. Ann. Scuola Norm. Sup. Pisa Cl. Sci. (4), 25(1–2):131–154
+    (1998), 1997. Dedicated to Ennio De Giorgi.
+  volume: '25'
+  year: '1998'
+- author: D. Boffi
+  doi: 10.1090/S0025-5718-99-01072-8
+  first-page: '121'
+  issue: '229'
+  journal-title: Math. Comp.
+  unstructured: D. Boffi, F. Brezzi, and L. Gastaldi. On the problem of spurious eigenvalues
+    in the approximation of linear elliptic problems in mixed form. Math. Comp., 69(229):121–140,
+    2000.
+  volume: '69'
+  year: '2000'
+- author: D. Boffi
+  first-page: '31'
+  issue: '2'
+  journal-title: CMES Comput. Model. Eng. Sci.
+  unstructured: D. Boffi, C. Chinosi, and L. Gastaldi. Approximation of the grad div
+    operator in nonconvex domains. CMES Comput. Model. Eng. Sci., 1(2):31–43, 2000.
+  volume: '1'
+  year: '2000'
+- author: D. Boffi
+  doi: 10.1007/s00211-006-0037-y
+  first-page: '249'
+  journal-title: Numer. Math.
+  unstructured: D. Boffi, M. Conforti, and L. Gastaldi. Modified edge finite elements
+    for photonic crystals. Numer. Math., 105 (2006), pp. 249–266.
+  volume: '105'
+  year: '2006'
+- author: D. Boffi
+  doi: 10.1137/04061550X
+  first-page: '979'
+  issue: '3'
+  journal-title: SIAM J. Numer. Anal.
+  unstructured: D. Boffi, M. Costabel, M. Dauge, and L. Demkowicz. Discrete compactness
+    for the h p version of rectangular edge finite elements. SIAM J. Numer. Anal.,
+    44(3):979–1004 (electronic), 2006.
+  volume: '44'
+  year: '2006'
+- author: D. Boffi
+  doi: 10.1142/S0218202503003070
+  first-page: '1673'
+  issue: '11'
+  journal-title: Math. Models Methods Appl. Sci.
+  unstructured: D. Boffi, L. Demkowicz, and M. Costabel. Discrete compactness for
+    p and h p 2D edge finite elements. Math. Models Methods Appl. Sci., 13(11):1673–1687,
+    2003.
+  volume: '13'
+  year: '2003'
+- author: D. Boffi
+  doi: 10.1016/S0893-9659(98)00181-5
+  first-page: '107'
+  journal-title: Appl. Math. Lett.
+  unstructured: D. Boffi, R. Duran, and L. Gastaldi. A remark on spurious eigenvalues
+    in a square. Appl. Math. Lett., Vol. 12, 107–114 (1999).
+  volume: '12'
+  year: '1999'
+- unstructured: D. Boffi, P. Fernandes, L. Gastaldi, and I. Perugia. Edge approximation
+    of eigenvalue problems arising from electromagnetics. In Désidéri, Le Tallec,
+    Oñate, Périaux, and Stein, editors, Numerical Methods in Engeneering ’96, pages
+    551–556. John Wiley & Sons, 1996.
+- author: D. Boffi
+  doi: 10.1137/S0036142903431821
+  first-page: '1502'
+  issue: '4'
+  journal-title: SIAM J. Numer. Anal.
+  unstructured: D. Boffi and L. Gastaldi. Analysis of finite element approximation
+    of evolution problems in mixed form. SIAM J. Numer. Anal., 42(4):1502–1526 (electronic),
+    2004.
+  volume: '42'
+  year: '2004'
+- author: D. Boffi
+  doi: 10.1016/j.compstruc.2008.12.006
+  first-page: '751'
+  journal-title: Comput. Struct.
+  unstructured: D. Boffi and L. Gastaldi. Some remarks on quadrilateral mixed finite
+    elements. Comput. Struct., 87 (2009) 751–757. doi:10.1016/j.compstruc.2008.12.006.
+  volume: '87'
+  year: '2009'
+- author: D. Boffi
+  doi: 10.1142/S0218202506001145
+  first-page: '265'
+  issue: '2'
+  journal-title: Math. Models Methods Appl. Sci.
+  unstructured: D. Boffi, F. Kikuchi, and J. Schöberl. Edge element computation of
+    Maxwell’s eigenvalues on general quadrilateral meshes. Math. Models Methods Appl.
+    Sci., 16(2):265–273, 2006.
+  volume: '16'
+  year: '2006'
+- author: A. Bossavit
+  doi: 10.1049/ip-d.1988.0075
+  first-page: '493'
+  journal-title: IEEE Proc. A
+  unstructured: 'A. Bossavit. Whitney forms: a class of finite elements for three-dimensional
+    computations in electromagnetism. IEEE Proc. A, 135:493–500, 1988.'
+  volume: '135'
+  year: '1988'
+- author: A. Bossavit
+  doi: 10.1109/20.106414
+  first-page: '702'
+  journal-title: IEEE Trans. MAG
+  unstructured: A. Bossavit. Solving Maxwell’s equations in a closed cavity, and the
+    question of spurious modes. IEEE Trans. MAG, 26:702–705, 1990.
+  volume: '26'
+  year: '1990'
+- author: A. Bossavit
+  unstructured: A. Bossavit. Computational electromagnetism. Electromagnetism. Academic
+    Press Inc., San Diego, CA, 1998.
+  volume-title: Computational electromagnetism
+  year: '1998'
+- author: S. Caorsi
+  first-page: '317'
+  journal-title: COMPEL
+  unstructured: S. Caorsi, P. Fernandes, and M. Raffetto. On the spurious modes in
+    deterministic problems. COMPEL, 13, Supplement A:317–332, 1994.
+  volume: '13'
+  year: '1994'
+- doi: 10.1108/03321649610154195
+  unstructured: S. Caorsi, P. Fernandes, and M. Raffetto. Towards a good characterization
+    of spectrally correct finite element methods in electromagnetics. COMPEL, 15,
+    1996.
+- unstructured: F. Chatelin. Spectral approximation of linear operators. Computer
+    Science and Applied Mathematics. Academic Press Inc. [Harcourt Brace Jovanovich
+    Publishers], New York, 1983. With a foreword by P. Henrici, With solutions to
+    exercises by Mario Ahués.
+- author: M. Costabel
+  doi: 10.1002/mma.1670120406
+  first-page: '365'
+  issue: '4'
+  journal-title: Math. Methods Appl. Sci.
+  unstructured: M. Costabel. A remark on the regularity of solutions of Maxwell’s
+    equations on Lipschitz domains. Math. Methods Appl. Sci., 12(4):365–368, 1990.
+  volume: '12'
+  year: '1990'
+- author: M. Costabel
+  doi: 10.1002/(SICI)1099-1476(199902)22:3<243::AID-MMA37>3.0.CO;2-0
+  first-page: '243'
+  issue: '3'
+  journal-title: Math. Methods Appl. Sci.
+  unstructured: M. Costabel and M. Dauge. Maxwell and Lamé eigenvalues on polyhedra.
+    Math. Methods Appl. Sci., 22(3):243–258, 1999.
+  volume: '22'
+  year: '1999'
+- author: M. Costabel
+  doi: 10.1007/s002110100388
+  first-page: '239'
+  issue: '2'
+  journal-title: Numer. Math.
+  unstructured: M. Costabel and M. Dauge. Weighted regularization of Maxwell equations
+    in polyhedral domains. A rehabilitation of nodal finite elements. Numer. Math.,
+    93(2):239–277, 2002.
+  volume: '93'
+  year: '2002'
+- doi: 10.1007/978-3-642-55483-4_4
+  unstructured: M. Costabel and M. Dauge. Computation of resonance frequencies for
+    Maxwell equations in non-smooth domains. In Topics in computational wave propagation,
+    volume 31 of Lect. Notes Comput. Sci. Eng., pages 125–161. Springer, Berlin, 2003.
+- author: M. Costabel
+  doi: 10.1142/S0218202505000480
+  first-page: '575'
+  issue: '4'
+  journal-title: Math. Models Methods Appl. Sci.
+  unstructured: M. Costabel, M. Dauge, and C. Schwab. Exponential convergence of h
+    p-FEM for Maxwell equations with weighted regularization in polygonal domains.
+    Math. Models Methods Appl. Sci., 15(4):575–622, 2005.
+  volume: '15'
+  year: '2005'
+- author: L. Demkowicz
+  doi: 10.1016/S0898-1221(00)00182-6
+  first-page: '589'
+  issue: 4–5
+  journal-title: Comput. Math. Appl.
+  unstructured: L. Demkowicz, P. Monk, Ch. Schwab, and L. Vardapetyan. Maxwell eigenvalues
+    and discrete compactness in two dimensions. Comput. Math. Appl., 40(4–5):589–605,
+    2000.
+  volume: '40'
+  year: '2000'
+- author: L. Demkowicz
+  doi: 10.1016/S0898-1221(00)00062-6
+  first-page: '29'
+  issue: 7–8
+  journal-title: Comput. Math. Appl.
+  unstructured: L. Demkowicz, P. Monk, L. Vardapetyan, and W. Rachowicz. De Rham diagram
+    for h p finite element spaces. Comput. Math. Appl., 39(7–8):29–38, 2000.
+  volume: '39'
+  year: '2000'
+- author: J. Douglas
+  doi: 10.1090/S0025-5718-1985-0771029-9
+  first-page: '39'
+  journal-title: Math. Comp.
+  unstructured: J. Douglas and J.E. Roberts. Global estimates for mixed methods for
+    second order elliptic equations. Math. Comp., 44:39–52, 1985.
+  volume: '44'
+  year: '1985'
+- author: R.S. Falk
+  first-page: '249'
+  issue: '3'
+  journal-title: RAIRO Anal. Numér.
+  unstructured: R.S. Falk and J.E. Osborn. Error estimates for mixed methods. RAIRO
+    Anal. Numér., 14(3):249–277, 1980.
+  volume: '14'
+  year: '1980'
+- author: P Fernandes
+  doi: 10.1142/S0218202597000487
+  first-page: '957'
+  journal-title: Math. Models Methods Appl. Sci.
+  unstructured: P Fernandes and G. Gilardi. Magnetostatic and electrostatic problems
+    in inhomogeneous anisotropic media with irregular boundary and mixed boundary
+    conditions. Math. Models Methods Appl. Sci., 7:957–991, 1997.
+  volume: '7'
+  year: '1997'
+- author: F. Gardini
+  doi: 10.1002/num.20028
+  first-page: '41'
+  issue: '1'
+  journal-title: Numer. Methods Partial Differential Equations
+  unstructured: F. Gardini. Discrete compactness property for quadrilateral finite
+    element spaces. Numer. Methods Partial Differential Equations, 21(1):41–56, 2005.
+  volume: '21'
+  year: '2005'
+- author: L. Gastaldi
+  doi: 10.1007/s002110050212
+  first-page: '153'
+  issue: '2'
+  journal-title: Numer. Math.
+  unstructured: L. Gastaldi. Mixed finite element methods in fluid structure systems.
+    Numer. Math., 74(2):153–176, 1996.
+  volume: '74'
+  year: '1996'
+- author: V. Girault
+  doi: 10.1007/978-3-642-61623-5
+  unstructured: V. Girault and P.A. Raviart. Finite Element Methods for Navier-Stokes
+    Equations, Theory and Algorithms. Springer-Verlag, Berlin, 1986.
+  volume-title: Finite Element Methods for Navier-Stokes Equations, Theory and Algorithms
+  year: '1986'
+- author: C. Hazard
+  doi: 10.1016/S1631-0721(02)01425-0
+  first-page: '57'
+  journal-title: C.R. Mecanique
+  unstructured: 'C. Hazard. Numerical simulation of corner singularities: a paradox
+    in Maxwell-like problems. C.R. Mecanique, 330:57–68, 2002.'
+  volume: '330'
+  year: '2002'
+- author: R. Hiptmair
+  doi: 10.1090/S0025-5718-99-01166-7
+  first-page: '1325'
+  issue: '228'
+  journal-title: Math. Comp.
+  unstructured: R. Hiptmair. Canonical construction of finite elements. Math. Comp.,
+    68(228):1325–1346, 1999.
+  volume: '68'
+  year: '1999'
+- author: R. Hiptmair
+  doi: 10.1017/S0962492902000041
+  first-page: '237'
+  journal-title: Acta Numer.
+  unstructured: R. Hiptmair. Finite elements in computational electromagnetism. Acta
+    Numer., 11:237–339, 2002.
+  volume: '11'
+  year: '2002'
+- doi: 10.1016/0045-7825(87)90053-3
+  unstructured: F. Kikuchi. Mixed and penalty formulations for finite element analysis
+    of an eigenvalue problem in electromagnetism. In Proceedings of the first world
+    congress on computational mechanics (Austin, Tex., 1986), volume 64 (1–3), pages
+    509–521, 1987.
+- author: F. Kikuchi
+  first-page: '479'
+  issue: '3'
+  journal-title: J. Fac. Sci. Univ. Tokyo Sect. IA Math.
+  unstructured: F. Kikuchi. On a discrete compactness property for the Nédélec finite
+    elements. J. Fac. Sci. Univ. Tokyo Sect. IA Math., 36(3):479–490, 1989.
+  volume: '36'
+  year: '1989'
+- author: P. Monk
+  doi: 10.1093/acprof:oso/9780198508885.001.0001
+  unstructured: P. Monk. Finite element methods for Maxwell’s equations. Numerical
+    Mathematics and Scientific Computation. Oxford University Press, New York, 2003.
+  volume-title: Finite element methods for Maxwell’s equations
+  year: '2003'
+- author: P. Monk
+  doi: 10.1090/S0025-5718-00-01229-1
+  first-page: '507'
+  issue: '234'
+  journal-title: Math. Comp.
+  unstructured: "P. Monk and L. Demkowicz. Discrete compactness and the approximation\
+    \ of Maxwell’s equations in \n                  \n                    \n     \
+    \             \n                  $${\\mathbb{R}}^{3}$$\n                . Math.\
+    \ Comp., 70(234):507–523, 2001."
+  volume: '70'
+  year: '2001'
+- author: P. Monk
+  first-page: '37'
+  journal-title: IEEE Transactions on Magnetics
+  unstructured: P. Monk, Y. Wang, and B. Szabo. Computing cavity models using the
+    p-version of the finite element method. IEEE Transactions on Magnetics, 32:37–46,
+    1996.
+  volume: '32'
+  year: '1996'
+- author: M.J.D. Powell
+  unstructured: 'M.J.D. Powell. Piecewise quadratic surface fitting for contour plotting,
+    pages 253–271. Software for numerical mathematics. London: Academic, 1974.'
+  volume-title: Piecewise quadratic surface fitting for contour plotting, pages 253–271
+  year: '1974'
+- author: K. Preis
+  doi: 10.1109/20.877575
+  first-page: '840'
+  issue: '4'
+  journal-title: IEEE Transaction on Magnetics
+  unstructured: K. Preis, O. Bíró, and I. Ticar. Gauged current vector potential and
+    reentrant corners in the FEM analysis of 3D eddy currents. IEEE Transaction on
+    Magnetics, 36(4):840–843, 2000.
+  volume: '36'
+  year: '2000'
+- unstructured: J. Shen. Mixed finite element methods on distorted rectangular grids.
+    Technical Report ISC-94-13-MATH, Texas A&M University, 1994.
+- author: F. Stummel
+  doi: 10.1007/BF01349967
+  first-page: '45'
+  journal-title: Math Ann.
+  unstructured: F. Stummel. Diskrete Konvergenz linearer Operatoren. I. Math Ann.,
+    190:45–92, 1970/71.
+  volume: '190'
+  year: '1970'
+- author: L. Vardapetyan
+  doi: 10.1016/S0045-7825(02)00539-X
+  first-page: '185'
+  issue: 1–2
+  journal-title: Comput. Methods Appl. Mech. Engrg.
+  unstructured: L. Vardapetyan, L. Demkowicz, and D. Neikirk. h p-vector finite element
+    method for eigenmode analysis of waveguides. Comput. Methods Appl. Mech. Engrg.,
+    192(1–2):185–201, 2003.
+  volume: '192'
+  year: '2003'
+- doi: 10.1016/0041-5553(74)90100-1
+  unstructured: G.M. Vaĭnikko. Discretely compact sequences. (russian). Ž. Vyčisl.
+    Mat. i Mat. Fiz., 14:575–583, 1974.
+- author: S. Wong
+  doi: 10.1109/20.92213
+  first-page: '2685'
+  journal-title: IEEE Transactions on Magnetics
+  unstructured: S. Wong and Z. Cendes. Combined finite element-modal solution of three-dimensional
+    eddy current problems. IEEE Transactions on Magnetics, 24:2685–2687, 1988.
+  volume: '24'
+  year: '1988'
+doi: 10.1007/978-3-642-36519-5_11
+files:
+- boffi2013-book-mixedfiniteelementmethodsandap.pdf
+isbn:
+- '9783642365188'
+- '9783642365195'
+journal: Mixed Finite Element Methods and Applications
+month: 3
+pages: 625--662
+publisher: Springer Berlin Heidelberg
+ref: MixedFiniteElBoffi2013
+tags: em computational-em fem mixed-fem survey chapter
+time-added: 2021-04-13-04:01:31
+title: Mixed Finite Elements for Electromagnetic Problems
+type: inbook
+url: http://dx.doi.org/10.1007/978-3-642-36519-5_11
+year: 2013

@@ -1,0 +1,129 @@
+author: Suzuki, Masuo
+author_list:
+- affiliation: []
+  family: Suzuki
+  given: Masuo
+citations:
+- author: Trotter
+  first-page: '545'
+  volume: '10'
+  year: '1959'
+- author: Suzuki
+  doi: 10.1007/BF01609348
+  first-page: '183'
+  journal-title: Commun. Math. Phys.
+  volume: '51'
+  year: '1976'
+- author: Suzuki
+  doi: 10.1063/1.526596
+  first-page: '601'
+  journal-title: J. Math. Phys.
+  volume: '26'
+  year: '1985'
+- author: Suzuki
+  doi: 10.1143/PTP.56.1454
+  first-page: '1454'
+  journal-title: Prog. Theor. Phys.
+  volume: '56'
+  year: '1976'
+- author: Suzuki
+  doi: 10.1143/PTP.58.1377
+  first-page: '1377'
+  journal-title: Prog. Theor. Phys.
+  volume: '58'
+  year: '1977'
+- author: Suzuki
+  doi: 10.1016/0375-9601(90)90962-N
+  first-page: '319'
+  journal-title: Phys. Lett. A
+  volume: '146'
+  year: '1990'
+- author: Suzuki
+  doi: 10.1063/1.529425
+  first-page: '400'
+  journal-title: J. Math. Phys.
+  volume: '32'
+  year: '1991'
+- unstructured: M. Suzuki, reported briefly at meeting on computer physics, Tokyo,
+    8 January 1991.
+- author: Kubo
+  doi: 10.1143/JPSJ.17.1100
+  first-page: '1100'
+  journal-title: J. Phys. Soc. Japan
+  volume: '17'
+  year: '1962'
+- author: Ruth
+  doi: 10.1109/TNS.1983.4332919
+  first-page: '2669'
+  journal-title: IEEE Trans. Nucl. Sci. NS-30
+  year: '1983'
+- unstructured: F. Neri, preprint (1988).
+- author: Forest
+  doi: 10.1016/0167-2789(90)90019-L
+  first-page: '105'
+  journal-title: Physica D
+  volume: '43'
+  year: '1990'
+- author: Forest
+  doi: 10.1063/1.528795
+  first-page: '1133'
+  journal-title: J. Math. Phys.
+  volume: '31'
+  year: '1990'
+- author: Yoshida
+  doi: 10.1016/0375-9601(90)90092-3
+  first-page: '262'
+  journal-title: Phys. Lett. A
+  volume: '150'
+  year: '1990'
+- author: Bandrauk
+  doi: 10.1016/0009-2614(91)90232-X
+  first-page: '428'
+  journal-title: Chem. Phys. Lett.
+  volume: '176'
+  year: '1991'
+- author: Hatano
+  doi: 10.1016/0375-9601(91)90792-7
+  first-page: '191'
+  journal-title: Phys. Lett. A
+  volume: '153'
+  year: '1991'
+- article-title: The Fokker-Planck equation
+  author: Risken
+  first-page: '18'
+  year: '1984'
+- author: Meeron
+  doi: 10.1063/1.1743985
+  first-page: '67'
+  journal-title: J. Chem. Phys.
+  volume: '27'
+  year: '1957'
+- author: Magnus
+  series-title: Combinatorial group theory
+  year: '1976'
+- unstructured: M. Suzuki, to be submitted to J. Math. Phys.
+- author: Hatano
+  doi: 10.1143/PTP.85.481
+  first-page: '481'
+  journal-title: Prog. Theor. Phys.
+  volume: '85'
+  year: '1991'
+doc_url: https://api.elsevier.com/content/article/PII:037596019290335J?httpAccept=text/plain
+doi: 10.1016/0375-9601(92)90335-j
+files:
+- exponential-operators-symplectic-integrators.pdf
+issue: 5-6
+journal: Physics Letters A
+language: en
+month: 6
+pages: 387--395
+publisher: Elsevier BV
+ref: GeneralTheorySuzuki1992
+tags: exponential-operator symplectic-integrator math pde algorithm numerics
+time-added: 2021-04-12-23:49:46
+title: General theory of higher-order decomposition of exponential operators and symplectic
+  integrators
+type: article
+url: http://dx.doi.org/10.1016/0375-9601(92)90335-j
+volume: '165'
+year: 1992

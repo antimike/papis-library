@@ -1,0 +1,40 @@
+abstract: Finite Element Exterior Calculus (FEEC) was developed by Arnold, Falk, Winther
+  and others over the last decade to exploit the observation that mixed variational
+  problems can be posed on a Hilbert complex, and Galerkin-type mixed methods can
+  then be obtained by solving finite-dimensional subcomplex problems. Chen, Holst,
+  and Xu (Math. Comp. 78 (2009) 35-53) established convergence and optimality of an
+  adaptive mixed finite element method using Raviart-Thomas or Brezzi-Douglas-Marini
+  elements for Poisson's equation on contractible domains in two dimensions, which
+  can be viewed as a boundary problem on the de Rham complex. Recently Demlow and
+  Hirani (Found. Math. Comput. 14 (2014) 1337-1371) developed fundamental tools for
+  a posteriori analysis on the de Rham complex. In this paper, we use tools in FEEC
+  to construct convergence and complexity results on domains with general topology
+  and spatial dimension. In particular, we construct a reliable and efficient error
+  estimator and a sharper quasi-orthogonality result using a novel technique. Without
+  marking for data oscillation, our adaptive method is a contraction with respect
+  to a total error incorporating the error estimator and data oscillation.
+archiveprefix: arXiv
+author: Holst, Michael and Li, Yuwen and Mihalik, Adam and Szypowski, Ryan
+author_list:
+- family: Holst
+  given: Michael
+- family: Li
+  given: Yuwen
+- family: Mihalik
+  given: Adam
+- family: Szypowski
+  given: Ryan
+eprint: 1306.1886v3
+file: 1306.1886v3.pdf
+files:
+- tmprz1crh2i.pdf
+month: Jun
+primaryclass: math.NA
+ref: 1306.1886v3
+time-added: 2021-04-12-22:47:38
+title: Convergence and Optimality of Adaptive Methods for Poisson's Equation in   the
+  FEEC Framework
+type: article
+url: http://arxiv.org/abs/1306.1886v3
+year: '2013'
+tags: 'math differential-geometry fem exterior-calculus discrete-exterior-calculus DEC DDG'

@@ -1,0 +1,30 @@
+author: Hyman, J. and Morel, J. and Shashkov, M. and Steinberg, S.
+author_list:
+- affiliation: []
+  family: Hyman
+  given: J.
+- affiliation: []
+  family: Morel
+  given: J.
+- affiliation: []
+  family: Shashkov
+  given: M.
+- affiliation: []
+  family: Steinberg
+  given: S.
+doi: 10.1023/a:1021282912658
+files:
+- hyman2002-article-mimeticfinitedifferencemethods.pdf
+issue: 3/4
+journal: Computational Geosciences
+pages: 333--352
+publisher: Springer Science and Business Media LLC
+ref: Hyman2002
+tags: mimetic-method finite-difference diffusion-equation anisotropy grid diffusion-tensor
+  mixed-fem hybrid-mixed-fem
+time-added: 2021-04-13-03:32:05
+title: Mimetic finite difference methods for diffusion equations
+type: article
+url: http://dx.doi.org/10.1023/a:1021282912658
+volume: '6'
+year: 2002

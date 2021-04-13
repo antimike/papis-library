@@ -1,0 +1,140 @@
+author: Boffi, Daniele and Gastaldi, Lucia
+author_list:
+- affiliation: []
+  family: Boffi
+  given: Daniele
+- affiliation: []
+  family: Gastaldi
+  given: Lucia
+citations:
+- author: Amrouche
+  doi: 10.1002/(SICI)1099-1476(199806)21:9<823::AID-MMA976>3.0.CO;2-B
+  first-page: '823'
+  journal-title: Math Methods Appl. Sci.
+  volume: '21'
+  year: '1998'
+- author: Bermúdez
+  doi: 10.1137/0732059
+  first-page: '1280'
+  journal-title: SIAM J. Numer. Anal.
+  volume: '32'
+  year: '1995'
+- author: Boffi
+  doi: 10.1007/s002110000182
+  first-page: '229'
+  journal-title: Numer. Math.
+  volume: '87'
+  year: '2000'
+- author: Boffi
+  doi: 10.1016/S0893-9659(00)00108-7
+  first-page: '33'
+  journal-title: Appl. Math. Lett.
+  volume: '14'
+  year: '2001'
+- author: Boffi
+  doi: 10.1090/S0025-5718-99-01072-8
+  first-page: '121'
+  journal-title: Math. Comp.
+  volume: '69'
+  year: '2000'
+- author: Boffi
+  doi: 10.1137/S003614299731853X
+  first-page: '1264'
+  journal-title: SIAM J. Numer. Anal.
+  volume: '36'
+  year: '1998'
+- doi: 10.1007/978-1-4612-3172-1
+  unstructured: F. Brezzi and M. Fortin,Mixed and hybrid finite element methods. Springer-Verlag,
+    New York (1991).
+- author: Brezzi
+  doi: 10.1007/BF01395985
+  first-page: '1'
+  journal-title: Numer. Math.
+  volume: '36'
+  year: '1980'
+- author: Caorsi
+  doi: 10.1137/S0036142999357506
+  first-page: '580'
+  journal-title: SIAM J. Numer. Anal.
+  volume: '38'
+  year: '2000'
+- author: Demkowicz
+  doi: 10.1016/S0898-1221(00)00062-6
+  first-page: '29'
+  journal-title: Comput. Math. Appl.
+  volume: '39'
+  year: '2000'
+- author: Demkowicz
+  doi: 10.1016/S0045-7825(97)00184-9
+  first-page: '103'
+  journal-title: Comput. Methods Appl. Mech. Engrg.
+  volume: '152'
+  year: '1998'
+- author: Descloux
+  doi: 10.1051/m2an/1978120200971
+  first-page: '97'
+  journal-title: RAIRO Anal. Numér.
+  volume: '12'
+  year: '1978'
+- author: Fernandes
+  doi: 10.1142/S0218202597000487
+  first-page: '957'
+  journal-title: Math. Models Methods Appl. Sci.
+  volume: '7'
+  year: '1997'
+- doi: 10.1016/0045-7825(87)90053-3
+  unstructured: F. Kikuchi, Mixed and penalty formulations for finite element analysis
+    of an eigenvalue problem in electromagnetism. InProceedings of the first world
+    congress on computational mechanics (Austin, Tex., 1986), Vol. 64, pages 509-521,
+    1987.
+- unstructured: F. Kikuchi, On a discrete compactness property for the Nédélec finite
+    elements.J. Fac. Sci., Univ. Tokyo, Sect. I A36(1989) 479-490.
+- author: Monk
+  doi: 10.1007/BF01385860
+  first-page: '243'
+  journal-title: Numer. Math.
+  volume: '63'
+  year: '1992'
+- author: Monk
+  doi: 10.1090/S0025-5718-00-01229-1
+  first-page: '507'
+  journal-title: Math. Comp.
+  volume: '70'
+  year: '2001'
+- author: Nédélec
+  doi: 10.1007/BF01396415
+  first-page: '315'
+  journal-title: Numer. Math.
+  volume: '35'
+  year: '1980'
+- author: Nédélec
+  doi: 10.1007/BF01389668
+  first-page: '57'
+  journal-title: Numer. Math.
+  volume: '50'
+  year: '1986'
+- unstructured: J. Schöberl, Commuting quasi-interpolation operators for mixed finite
+    elements. Preprint ISC-01-10-MATH, Texas A&M University, 2001.
+- author: Vardapetyan
+  doi: 10.1016/S0045-7825(98)00161-3
+  first-page: '331'
+  journal-title: Comput. Methods Appl. Mech. Engrg.
+  volume: '169'
+  year: '1999'
+doi: 10.1051/m2an:2002013
+files:
+- edge-fem-maxwell-resolvent-operator.pdf
+issue: '2'
+journal: 'ESAIM: Mathematical Modelling and Numerical Analysis'
+month: 3
+pages: 293--305
+publisher: EDP Sciences
+ref: EdgeFiniteEleBoffi2002
+tags: edge-fem maxwell-resolvent-operator lagrange-multiplier em computational-em
+  numerics algorithm
+time-added: 2021-04-13-03:39:47
+title: Edge finite elements for the approximation of Maxwell resolvent operator
+type: article
+url: http://dx.doi.org/10.1051/m2an:2002013
+volume: '36'
+year: 2002

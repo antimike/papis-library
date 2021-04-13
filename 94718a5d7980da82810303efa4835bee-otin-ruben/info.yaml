@@ -1,0 +1,70 @@
+author: Otin, Ruben
+author_list:
+- affiliation: []
+  family: Otin
+  given: Ruben
+citations:
+- author: Bladel J. V.
+  volume-title: Singular electromagnetic fields and sources
+  year: '1991'
+- doi: 10.1109/8.144598
+- doi: 10.1109/8.320751
+- doi: 10.1016/j.cma.2004.05.021
+- doi: 10.1016/0022-247X(91)90104-8
+- doi: 10.1002/(SICI)1099-1476(199902)22:3<243::AID-MMA37>3.0.CO;2-0
+- doi: 10.1007/s002110100388
+- doi: 10.1137/S0036139997323383
+- volume-title: EADS-SN
+  year: '2008'
+- unstructured: FEKO. 2008.EM software & systemsAvailable on-line athttp://www.feko.info(accessed
+    19 January 2010)
+- doi: 10.1137/S0036141094271259
+- author: Hiptmair R.
+  doi: 10.1017/S0962492902000041
+  first-page: '237'
+  journal-title: Acta Numer.
+  volume: '1'
+  year: '2002'
+- author: Jin J.
+  volume-title: The finite element method in electromagnetics, 2nd ed.
+  year: '2002'
+- doi: 10.1109/20.996135
+- author: Katzier H.
+  first-page: '290'
+  journal-title: Arch. Elek. Übertragung
+  volume: '38'
+  year: '1984'
+- author: Lager I. E.
+  volume-title: Finite element modelling of static and stationary electric and magnetic
+    fields
+  year: '1996'
+- doi: 10.1109/22.17419
+- doi: 10.1109/22.390185
+- doi: 10.1109/20.312706
+- doi: 10.1109/20.717761
+- doi: 10.1007/BF01396415
+- doi: 10.1002/cnm.1630030110
+- doi: 10.1109/22.3572
+- doi: 10.1109/20.877575
+- author: Salazar-Palma M.
+  volume-title: Iterative and self-adaptive finite-elements in electromagnetic modeling
+  year: '1998'
+- doi: 10.1109/20.250678
+doi: 10.1080/02726340903485489
+files:
+- regularized-maxwell-equations-and-nodal-finite-elements-for-electromagnetic-field-computations.pdf
+issue: 1-2
+journal: Electromagnetics
+language: en
+month: 3
+pages: 190--204
+publisher: Informa UK Limited
+ref: RegularizedMaxOtin2010
+tags: nodal-fem computational-em maxwell regularized-maxwell lagrange-multiplier
+time-added: 2021-04-13-03:52:00
+title: Regularized Maxwell Equations and Nodal Finite Elements for Electromagnetic
+  Field Computations
+type: article
+url: http://dx.doi.org/10.1080/02726340903485489
+volume: '30'
+year: 2010

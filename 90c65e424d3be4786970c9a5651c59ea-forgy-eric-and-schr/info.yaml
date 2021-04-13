@@ -1,0 +1,32 @@
+abstract: Differential calculus on discrete spaces is studied in the manner of non-commutative
+  geometry by representing the differential calculus by an operator algebra on a suitable
+  Krein space. The discrete analogue of a (pseudo-)Riemannian metric is encoded in
+  a deformation of the inner product on that space, which is the crucial technique
+  of this paper. We study the general case but find that drastic and possibly vital
+  simplifications occur when the underlying lattice is topologically hypercubic, in
+  which case we explicitly construct mimetic analogues of the volume form, the Hodge
+  star operator, and the Hodge inner product for arbitrary discrete geometries. It
+  turns out that the formalism singles out a pseudo-Riemannian metric on topologically
+  hypercubic graphs with respect to which all edges are lightlike. We study such causal
+  graph complexes in detail and consider some of their possible physical applications,
+  such as lattice Yang-Mills theory and lattice fermions.
+archiveprefix: arXiv
+author: Forgy, Eric and Schreiber, Urs
+author_list:
+- family: Forgy
+  given: Eric
+- family: Schreiber
+  given: Urs
+eprint: math-ph/0407005v1
+file: math-ph/0407005v1.pdf
+files:
+- tmpig6bzb60.pdf
+month: Jul
+primaryclass: math-ph
+ref: math-ph/0407005v1
+tags: differential-geometry causal-graph noncommutative-geometry math topology relativity
+time-added: 2021-04-13-00:34:07
+title: Discrete Differential Geometry on causal graphs
+type: article
+url: http://arxiv.org/abs/math-ph/0407005v1
+year: '2004'

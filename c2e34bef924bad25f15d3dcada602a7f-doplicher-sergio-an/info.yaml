@@ -1,0 +1,57 @@
+author: Doplicher, Sergio and Fredenhagen, Klaus and Roberts, John E.
+author_list:
+- affiliation: []
+  family: Doplicher
+  given: Sergio
+- affiliation: []
+  family: Fredenhagen
+  given: Klaus
+- affiliation: []
+  family: Roberts
+  given: John E.
+citations:
+- author: Amati
+  doi: 10.1016/0550-3213(90)90375-N
+  first-page: '551'
+  journal-title: Nucl. Phys. B
+  volume: '347'
+  year: '1990'
+- article-title: On Spacetime at Small Distances
+  author: Amati
+  series-title: Sakharov Memorial Lectures
+  year: '1992'
+- unstructured: J. Ellis, N.E. Mavromatos, D.V. Nanopoulos, A Liouville String Approach
+    to Microscopic Time in Cosmology, Preprint CERN-TH. 7000/93.
+- unstructured: 'A. Ashtekar, Quantum Gravity: a Mathematical Physics Perspective,
+    Preprint CGPG-93/12-2.'
+- unstructured: A. Kempf, Uncertainty Relations in Quantum Mechanics with Quantum
+    Group Symmetry, Preprint DAMT/93-65.
+- author: Hawking
+  series-title: The large scale structure of spacetime
+  year: '1973'
+- unstructured: S. Doplicher, K. Fredenhagen and J.E. Roberts, The Quantum Structure
+    of Spacetime at the Planck Scale and Quantum Fields, Preprint.
+- unstructured: A. Connes, Non Commutative Geometry (Academic Press, New York), to
+    appear.
+- article-title: Local Quantum Physics
+  author: Haag
+  series-title: Springer Tracts in Mathematical Physics
+  year: '1993'
+doc_url: https://api.elsevier.com/content/article/PII:0370269394909407?httpAccept=text/plain
+doi: 10.1016/0370-2693(94)90940-7
+files:
+- induced-spacetime-quantization-classical-gravity.pdf
+issue: 1-2
+journal: Physics Letters B
+language: en
+month: 6
+pages: 39--44
+publisher: Elsevier BV
+ref: SpacetimeQuantDoplic1994
+tags: induced-quantization classical-gravity emergent-spacetime gr noncommutative-geometry
+time-added: 2021-04-13-02:55:41
+title: Spacetime quantization induced by classical gravity
+type: article
+url: http://dx.doi.org/10.1016/0370-2693(94)90940-7
+volume: '331'
+year: 1994

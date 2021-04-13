@@ -1,0 +1,36 @@
+abstract: We propose that quantum physics is the continuous approximation of a more
+  fundamental, discrete graph theory (theory X). Accordingly, the Euclidean transition
+  amplitude Z provides a partition function for geometries over the graph, which is
+  characterized topologically by the difference matrix and source vector of the discrete
+  graphical action. The difference matrix and source vector of theory X are related
+  via a graphical self-consistency criterion (SCC) based on the boundary of a boundary
+  principle on a graph. In this approach, the SCC ensures the source vector is divergence-free
+  and resides in the row space of the difference matrix. Accordingly, the difference
+  matrix will necessarily have a nontrivial eigenvector with eigenvalue zero, so the
+  graphical SCC is the origin of gauge invariance. Factors of infinity associated
+  with gauge groups of infinite volume are excluded in our approach, since Z is restricted
+  to the row space of the difference matrix and source vector. Using this formalism,
+  we obtain the two-source Euclidean transition amplitude over a (1+1)- dimensional
+  graph with N vertices fundamental to the scalar Gaussian theory.
+archiveprefix: arXiv
+author: Stuckey, W. M. and McDevitt, Timothy and Silberstein, Michael
+author_list:
+- family: Stuckey
+  given: W. M.
+- family: McDevitt
+  given: Timothy
+- family: Silberstein
+  given: Michael
+eprint: 1106.3339v1
+file: 1106.3339v1.pdf
+files:
+- tmpfcyh4wf.pdf
+month: Jun
+primaryclass: quant-ph
+ref: 1106.3339v1
+tags: gauge-invariance graph-theory self-consistency discretization homology
+time-added: 2021-04-13-01:31:06
+title: Gauge Invariance from a Graphical Self-Consistency Criterion
+type: article
+url: http://arxiv.org/abs/1106.3339v1
+year: '2011'

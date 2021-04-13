@@ -1,0 +1,323 @@
+abstract: <jats:p>In the last few decades the concepts of structure-preserving discretization,
+  geometric integration and compatible discretizations have emerged as subfields in
+  the numerical approximation of ordinary and partial differential equations. The
+  article discusses certain selected topics within these areas; discretization techniques
+  both in space and time are considered. Lie group integrators are discussed with
+  particular focus on the application to partial differential equations, followed
+  by a discussion of how time integrators can be designed to preserve first integrals
+  in the differential equation using discrete gradients and discrete variational derivatives.</jats:p><jats:p>Lie
+  group integrators depend crucially on fast and structure-preserving algorithms for
+  computing matrix exponentials. Preservation of domain symmetries is of particular
+  interest in the application of Lie group integrators to PDEs. The equivariance of
+  linear operators and Fourier transforms on non-commutative groups is used to construct
+  fast structure-preserving algorithms for computing exponentials. The theory of Weyl
+  groups is employed in the construction of high-order spectral element discretizations,
+  based on multivariate Chebyshev polynomials on triangles, simplexes and simplicial
+  complexes.</jats:p><jats:p>The theory of mixed finite elements is developed in terms
+  of special inverse systems of complexes of differential forms, where the inclusion
+  of cells corresponds to pullback of forms. The theory covers, for instance, composite
+  piecewise polynomial finite elements of variable order over polyhedral grids. Under
+  natural algebraic and metric conditions, interpolators and smoothers are constructed,
+  which commute with the exterior derivative and whose product is uniformly stable
+  in Lebesgue spaces. As a consequence we obtain not only eigenpair approximation
+  for the Hodge–Laplacian in mixed form, but also variants of Sobolev injections and
+  translation estimates adapted to variational discretizations.</jats:p>
+author: Christiansen, Snorre H. and Munthe-Kaas, Hans Z. and Owren, Brynjulf
+author_list:
+- affiliation: []
+  family: Christiansen
+  given: Snorre H.
+- affiliation: []
+  family: Munthe-Kaas
+  given: Hans Z.
+- affiliation: []
+  family: Owren
+  given: Brynjulf
+citations:
+- doi: 10.1023/A:1018908700358
+- doi: 10.1016/j.jcp.2004.08.006
+- doi: 10.1016/S0168-9274(01)00087-3
+- doi: 10.1098/rspa.1972.0074
+- author: Lomont
+  volume-title: Applications of Finite Groups
+  year: '1959'
+- doi: 10.1007/978-1-4757-4094-3
+- doi: 10.1007/BF02510919
+- article-title: Riemannian structures and triangulations of manifolds
+  author: Dodziuk
+  first-page: '1'
+  journal-title: J. Indian Math. Soc.
+  volume: '40'
+  year: '1976'
+- doi: 10.1007/978-1-4612-4350-2
+- doi: 10.1137/0916010
+- doi: 10.1090/crmp/039/06
+- doi: 10.1006/jcph.1999.6377
+- doi: 10.1007/BF01448839
+- doi: 10.1023/A:1022325426017
+- doi: 10.1016/S0168-9274(99)00049-5
+- doi: 10.1007/BF02430634
+- doi: 10.1016/0021-9991(74)90081-3
+- doi: 10.1515/1569395054068973
+- doi: 10.1016/S0168-9274(02)00138-1
+- doi: 10.1007/s00211-009-0255-1
+- doi: 10.1090/S0002-9947-1991-1019520-3
+- author: Ciarlet
+  volume-title: The Finite Element Method for Elliptic Problems, Vol. 4 of Studies
+    in Mathematics and its Applications
+  year: '1978'
+- doi: 10.1090/S0025-5718-99-01166-7
+- doi: 10.1016/S0168-9274(98)00030-0
+- doi: 10.1016/j.cam.2007.08.001
+- article-title: Die symbolische Exponential Formel in der Gruppentheorie
+  author: Hausdorff
+  first-page: '19'
+  journal-title: Leipziger Ber.
+  volume: '58'
+  year: '1906'
+- article-title: Tchebyscheffpolynome in mehreren Variablen
+  author: Lidl
+  first-page: '178'
+  journal-title: J. Reine Angew. Math.
+  volume: '273'
+  year: '1975'
+- article-title: On the solution of linear differential equations in Lie groups
+  author: Iserles
+  doi: 10.1098/rsta.1999.0362
+  first-page: '983'
+  journal-title: Philos. Trans. Roy. Soc. London Ser. A
+  volume: '357'
+  year: '1999'
+- author: Hochbruck
+  first-page: '209'
+  volume: '19'
+  volume-title: Acta Numerica
+  year: '2010'
+- author: Arnold
+  volume: '142'
+  volume-title: The IMA Volumes in Mathematics and its Applications
+  year: '2006'
+- doi: 10.1090/S0025-5718-1973-0331715-3
+- doi: 10.1007/BF02429858
+- doi: 10.1137/S003614299630587X
+- doi: 10.1007/s10543-009-0222-3
+- doi: 10.1137/S0036142901387932
+- author: Roberts
+  first-page: '523'
+  volume: II
+  volume-title: Handbook of Numerical Analysis
+  year: '1991'
+- doi: 10.1093/imanum/21.2.463
+- doi: 10.1137/S0036142902415936
+- doi: 10.1007/BF01060030
+- author: Hairer
+  volume: '31'
+  volume-title: 'Geometric Numerical Integration: Structure-Preserving Algorithms
+    for Ordinary Differential Equations'
+  year: '2006'
+- doi: 10.1137/040616887
+- author: Sanz-Serna
+  volume-title: Numerical Hamiltonian Problems, Vol. 7 of Applied Mathematics and
+    Mathematical Computation
+  year: '1994'
+- doi: 10.1088/0305-4470/39/19/S15
+- doi: 10.1007/BF02241707
+- doi: 10.1007/PL00005429
+- unstructured: 'Munthe-Kaas H. (1989), Symmetric FFTs: A general approach. In Topics
+    in Linear Algebra for Vector and Parallel Computers, PhD thesis, NTNU, Trondheim,
+    Norway. Available at: hans.munthe-kaas.no.'
+- author: Bossavit
+  first-page: '137'
+  volume-title: The Mathematics of Finite Elements and Applications VI
+  year: '1988'
+- doi: 10.1137/040611434
+- author: Monk
+  volume-title: Numerical Mathematics and Scientific Computation
+  year: '2003'
+- article-title: 'H1, H(curl) and H(div)-conforming projection-based interpolation
+    in three dimensions: Quasi-optimal p-interpolation estimates'
+  author: Demkowicz
+  first-page: '267'
+  journal-title: Comput. Methods Appl. Mech. Engrg
+  volume: '194'
+  year: '2005'
+- doi: 10.1007/BF01389710
+- doi: 10.1007/s10208-007-9016-7
+- doi: 10.1006/jcph.2001.6775
+- doi: 10.1090/S0025-5718-07-01965-5
+- doi: 10.1007/BF03167463
+- doi: 10.1112/plms/s2-3.1.24
+- unstructured: Minchev B. V. (2004), Exponential Integrators for Semilinear Problems,
+    University of Bergen. PhD thesis, University of Bergen, Norway.
+- doi: 10.1051/m2an/197509R200771
+- doi: 10.1016/j.physrep.2008.11.001
+- doi: 10.1090/pcms/001/02
+- unstructured: Trønnes A. (2005), Symmetries and generalized Fourier transforms applied
+    to computing the matrix exponential. Master's thesis, University of Bergen, Norway.
+- doi: 10.1007/978-1-4757-1799-0
+- doi: 10.1007/BF03167482
+- doi: 10.1007/PL00005432
+- doi: 10.1137/0704033
+- author: Demkowicz
+  volume: '2'
+  volume-title: 'Frontiers: Three Dimensional Elliptic and Maxwell Problems with Applications'
+  year: '2008'
+- author: Arnold
+  first-page: '1'
+  volume: '15'
+  volume-title: Acta Numerica
+  year: '2006'
+- author: Dahlby
+  volume-title: A general framework for deriving integral preserving numerical methods
+    for PDEs
+  year: '2010'
+- doi: 10.1137/090752456
+- doi: 10.1007/s00211-007-0081-2
+- doi: 10.1016/j.crma.2010.01.017
+- doi: 10.1137/070698178
+- doi: 10.1002/(SICI)1521-4001(199812)78:12<795::AID-ZAMM795>3.0.CO;2-P
+- doi: 10.1137/S0895479800377551
+- doi: 10.1090/S0025-5718-00-01223-0
+- doi: 10.1090/S0025-5718-2010-02446-9
+- doi: 10.1007/s10915-009-9291-3
+- doi: 10.1098/rsta.1972.0032
+- doi: 10.1007/s10543-005-0030-3
+- doi: 10.1007/s002110050153
+- doi: 10.1007/BF01739828
+- doi: 10.1007/BF02440162
+- doi: 10.1090/S0273-0979-10-01278-4
+- author: Canuto
+  doi: 10.1007/978-3-540-30726-6
+  volume-title: 'Spectral Methods: Fundamentals in Single Domains'
+  year: '2006'
+- author: Christiansen
+  volume-title: On the linearization of Regge calculus. E-print, Department of Mathematics
+  year: '2008'
+- doi: 10.1016/S0167-739X(02)00161-9
+- doi: 10.1016/j.cam.2006.03.009
+- author: Hiptmair
+  first-page: '237'
+  volume: '11'
+  volume-title: Acta Numerica
+  year: '2002'
+- doi: 10.1017/CBO9780511814532
+- doi: 10.1007/BF01395933
+- doi: 10.1098/rsta.1999.0363
+- doi: 10.1007/978-3-642-15337-2_2
+- doi: 10.1088/0305-4470/39/30/005
+- doi: 10.1007/978-1-4612-1126-6
+- author: Iserles
+  first-page: '215'
+  volume: '9'
+  volume-title: Acta Numerica
+  year: '2000'
+- doi: 10.1007/s10543-009-0214-3
+- doi: 10.1137/S00361445024180
+- doi: 10.1142/S0219891610002062
+- doi: 10.1023/A:1021950708869
+- author: Bochev
+  first-page: '89'
+  volume-title: Compatible Spatial Discretizations, Vol. 142 of The IMA Volumes in
+    Mathematics and its Applications
+  year: '2006'
+- author: Griffiths
+  volume: '16'
+  volume-title: Rational Homotopy Theory and Differential Forms
+  year: '1981'
+- doi: 10.1093/imanum/drp002
+- doi: 10.1007/978-3-642-60539-0_24
+- doi: 10.1098/rsta.1999.0361
+- doi: 10.1007/BF01396415
+- author: Allgower
+  first-page: '23'
+  volume: '29'
+  volume-title: Lectures in Applied Mathematics
+  year: '1993'
+- doi: 10.1016/j.apnum.2005.11.004
+- doi: 10.1007/BFb0064470
+- article-title: 'From high oscillation to rapid approximation V: The equilateral
+    triangle'
+  author: Huybrechs
+  journal-title: IMA J. Numer. Anal.
+  year: '2010'
+- unstructured: 'Christiansen S. H. and Winther R. (2010), On variational eigenvalue
+    approximation of semidefinite operators. Preprint: arXiv.org/abs/1005.2059.'
+- doi: 10.1007/s10543-006-0054-3
+- doi: 10.1007/978-3-0348-7536-3_14
+- doi: 10.1142/S021820250800284X
+- unstructured: Schöberl J. and Sinwel A. (2007), Tangential-displacement and normal-normal-stress
+    continuous mixed finite elements for elasticity. RICAM report.
+- doi: 10.1007/978-1-4684-9458-7
+- author: Stein
+  volume-title: Singular Integrals and Differentiability Properties of Functions,
+    Vol. 30 of Princeton Mathematical Series
+  year: '1970'
+- doi: 10.1090/S0025-5718-07-02030-3
+- doi: 10.1007/s10665-006-9086-6
+- doi: 10.1137/040613950
+- doi: 10.1007/BF02564296
+- doi: 10.1515/9781400877577
+- author: Leimkuhler
+  volume-title: Simulating Hamiltonian Dynamics, Vol. 14 of Cambridge Monographs on
+    Applied and Computational Mathematics
+  year: '2004'
+- doi: 10.1007/978-1-4612-3172-1
+- doi: 10.1016/j.jcp.2005.01.004
+- doi: 10.1090/S0025-5718-07-02081-9
+- doi: 10.1088/0305-4470/39/19/S14
+- doi: 10.1007/BF01475757
+- author: Certaine
+  first-page: '128'
+  volume-title: Mathematical Methods for Digital Computers
+  year: '1960'
+- article-title: Linearly implicit finite difference schemes derived by the discrete
+    variational method
+  author: Matsuo
+  first-page: '121'
+  journal-title: Sūrikaise-kikenkyūsho Kōkyūroku
+  volume: '1145'
+  year: '2000'
+- doi: 10.1007/978-3-642-00585-5_17
+- doi: 10.1137/0729034
+- doi: 10.1016/S0377-0427(00)00527-6
+- doi: 10.1137/1020098
+- doi: 10.1007/BFb0060031
+- author: Boffi
+  first-page: '1'
+  volume: '19'
+  volume-title: Acta Numerica
+  year: '2010'
+- doi: 10.1007/978-1-4612-0395-7
+- doi: 10.1016/j.cam.2009.03.008
+- doi: 10.1090/S0002-9947-1988-0946432-3
+- doi: 10.1006/jcph.2002.6995
+- author: Dahlby
+  volume-title: Preserving multiple first integrals by discrete gradients
+  year: '2010'
+- article-title: On the existence, uniqueness and approximation of saddle-point problems
+    arising from Lagrangian multipliers
+  author: Brezzi
+  first-page: '129'
+  journal-title: Rev. Fraçaise Automat. In format. Recherche Opérationnelle Sér. Rouge
+  volume: '8'
+  year: '1974'
+- doi: 10.1051/m2an/2010100
+- doi: 10.1016/1385-7258(74)90013-4
+- doi: 10.1142/S0218202510004222
+- doi: 10.1016/0045-7825(86)90119-2
+doi: 10.1017/s096249291100002x
+files:
+- topics-in-structure-preserving-discretization.pdf
+journal: Acta Numerica
+language: en
+month: 5
+pages: 1--119
+publisher: Cambridge University Press (CUP)
+ref: TopicsInStrucChrist2011
+tags: discretization structure-preserving survey review lie-group-integrator pde numerics
+time-added: 2021-04-13-03:22:45
+title: Topics in structure-preserving discretization
+type: article
+url: http://dx.doi.org/10.1017/s096249291100002x
+volume: '20'
+year: 2011
