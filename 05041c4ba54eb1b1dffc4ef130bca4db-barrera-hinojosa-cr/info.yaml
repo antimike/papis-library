@@ -1,0 +1,248 @@
+author: Barrera Hinojosa, Cristian and López-Sarrión, Justo
+author_list:
+- affiliation: []
+  family: Barrera Hinojosa
+  given: Cristian
+- affiliation: []
+  family: López-Sarrión
+  given: Justo
+citations:
+- article-title: Modern tests of Lorentz invariance
+  author: Mattingly
+  doi: 10.12942/lrr-2005-5
+  first-page: '5'
+  journal-title: Living Rev. Relativ.
+  volume: '8'
+  year: '2005'
+- article-title: Planck scale deformation of Lorentz symmetry as a solution to the
+    UHECR and the TeV gamma paradoxes
+  author: Amelino-Camelia
+  doi: 10.1103/PhysRevD.64.036005
+  journal-title: Phys. Rev. D
+  volume: '64'
+  year: '2001'
+- article-title: Generalized Lorentz invariance with an invariant energy scale
+  author: Magueijo
+  doi: 10.1103/PhysRevD.67.044017
+  journal-title: Phys. Rev. D
+  volume: '67'
+  year: '2003'
+- article-title: Quantum-spacetime phenomenology
+  author: Amelino-Camelia
+  doi: 10.12942/lrr-2013-5
+  first-page: '5'
+  journal-title: Living Rev. Relativ.
+  volume: '16'
+  year: '2013'
+- article-title: Quantum gravity corrections to neutrino propagation
+  author: Alfaro
+  doi: 10.1103/PhysRevLett.84.2318
+  first-page: '2318'
+  journal-title: Phys. Rev. Lett.
+  volume: '84'
+  year: '2000'
+- article-title: Testable scenario for relativity with minimum length
+  author: Amelino-Camelia
+  doi: 10.1016/S0370-2693(01)00506-8
+  first-page: '255'
+  journal-title: Phys. Lett. B
+  volume: '510'
+  year: '2001'
+- article-title: Doubly special relativity
+  author: Amelino-Camelia
+  doi: 10.1038/418034a
+  first-page: '34'
+  journal-title: Nature
+  volume: '418'
+  year: '2002'
+- article-title: Distance measurement and wave dispersion in a Liouville string approach
+    to quantum gravity
+  author: Amelino-Camelia
+  doi: 10.1142/S0217751X97000566
+  first-page: '607'
+  journal-title: Int. J. Mod. Phys. A
+  volume: '12'
+  year: '1997'
+- article-title: 'Doubly special relativity: first results and key open problems'
+  author: Amelino-Camelia
+  doi: 10.1142/S021827180200302X
+  first-page: '1643'
+  journal-title: Int. J. Mod. Phys. D
+  volume: '11'
+  year: '2002'
+- article-title: Logarithmic correction to the Bekenstein–Hawking entropy
+  author: Kaul
+  doi: 10.1103/PhysRevLett.84.5255
+  first-page: '5255'
+  journal-title: Phys. Rev. Lett.
+  volume: '84'
+  year: '2000'
+- article-title: On one loop quantum corrections to the thermodynamics of charged
+    black holes
+  author: Frolov
+  doi: 10.1103/PhysRevD.54.2732
+  first-page: '2732'
+  journal-title: Phys. Rev. D
+  volume: '54'
+  year: '1996'
+- article-title: Logarithmic corrections to black hole entropy from the Cardy formula
+  author: Carlip
+  doi: 10.1088/0264-9381/17/20/302
+  first-page: '4175'
+  journal-title: Class. Quantum Gravity
+  volume: '17'
+  year: '2000'
+- article-title: Severe constraints on loop-quantum-gravity energy–momentum dispersion
+    relation from black-hole area–entropy law
+  author: Amelino-Camelia
+  doi: 10.1103/PhysRevD.70.107501
+  journal-title: Phys. Rev. D
+  volume: '70'
+  year: '2004'
+- article-title: On the gravitational field of a massless particle
+  author: Aichelburg
+  doi: 10.1007/BF00758149
+  first-page: '303'
+  journal-title: Gen. Relativ. Gravit.
+  volume: '2'
+  year: '1971'
+- article-title: Action integrals and partition functions in quantum gravity
+  author: Gibbons
+  doi: 10.1103/PhysRevD.15.2752
+  first-page: '2752'
+  journal-title: Phys. Rev. D
+  volume: '15'
+  year: '1977'
+- author: Tolman
+  series-title: Relativity, Thermodynamics, and Cosmology
+  year: '1987'
+- article-title: Particle creation by black holes
+  author: Hawking
+  doi: 10.1007/BF02345020
+  first-page: '199'
+  journal-title: Commun. Math. Phys.
+  volume: '43'
+  year: '1975'
+- article-title: Notes on black-hole evaporation
+  author: Unruh
+  doi: 10.1103/PhysRevD.14.870
+  first-page: '870'
+  journal-title: Phys. Rev. D
+  volume: '14'
+  year: '1976'
+- article-title: Mass formula for Kerr black holes
+  author: Smarr
+  doi: 10.1103/PhysRevLett.30.71
+  first-page: '71'
+  journal-title: Phys. Rev. Lett.
+  volume: '30'
+  year: '1973'
+- article-title: The Four laws of black hole mechanics
+  author: Bardeen
+  doi: 10.1007/BF01645742
+  first-page: '161'
+  journal-title: Commun. Math. Phys.
+  volume: '31'
+  year: '1973'
+- article-title: 'When conceptual worlds collide: the GUP and the BH entropy'
+  author: Medved
+  doi: 10.1103/PhysRevD.70.124021
+  journal-title: Phys. Rev. D
+  volume: '70'
+  year: '2004'
+- article-title: Universal canonical black hole entropy
+  author: Chatterjee
+  doi: 10.1103/PhysRevLett.92.141301
+  journal-title: Phys. Rev. Lett.
+  volume: '92'
+  year: '2004'
+- article-title: Quantum geometry and black hole entropy
+  author: Ashtekar
+  doi: 10.1103/PhysRevLett.80.904
+  first-page: '904'
+  journal-title: Phys. Rev. Lett.
+  volume: '80'
+  year: '1998'
+- article-title: Black hole entropy from loop quantum gravity
+  author: Rovelli
+  doi: 10.1103/PhysRevLett.77.3288
+  first-page: '3288'
+  journal-title: Phys. Rev. Lett.
+  volume: '77'
+  year: '1996'
+- article-title: Microscopic origin of the Bekenstein–Hawking entropy
+  author: Strominger
+  doi: 10.1016/0370-2693(96)00345-0
+  first-page: '99'
+  journal-title: Phys. Lett. B
+  volume: '379'
+  year: '1996'
+- article-title: Renormalization group improved black hole space-times
+  author: Bonanno
+  doi: 10.1103/PhysRevD.62.043008
+  journal-title: Phys. Rev. D
+  volume: '62'
+  year: '2000'
+- article-title: Leading quantum correction to the Newtonian potential
+  author: Donoghue
+  doi: 10.1103/PhysRevLett.72.2996
+  first-page: '2996'
+  journal-title: Phys. Rev. Lett.
+  volume: '72'
+  year: '1994'
+- article-title: Tests of quantum gravity from observations of gamma-ray bursts
+  author: Amelino-Camelia
+  doi: 10.1038/31647
+  first-page: '763'
+  journal-title: Nature
+  volume: '393'
+  year: '1998'
+- article-title: Quantum gravity and minimum length
+  author: Garay
+  doi: 10.1142/S0217751X95000085
+  first-page: '145'
+  journal-title: Int. J. Mod. Phys. A
+  volume: '10'
+  year: '1995'
+- author: Smolin
+- article-title: Quantum symmetry, the cosmological constant and Planck scale phenomenology
+  author: Amelino-Camelia
+  doi: 10.1088/0264-9381/21/13/002
+  first-page: '3095'
+  journal-title: Class. Quantum Gravity
+  volume: '21'
+  year: '2004'
+- article-title: Nonstandard optics from quantum space-time
+  author: Gambini
+  doi: 10.1103/PhysRevD.59.124021
+  journal-title: Phys. Rev. D
+  volume: '59'
+  year: '1999'
+- article-title: Relative locality and the soccer ball problem
+  author: Amelino-Camelia
+  journal-title: Phys. Rev. D
+  volume: '84'
+  year: '2011'
+- article-title: Statistics, holography, and black hole entropy in loop quantum gravity
+  author: Ghosh
+  doi: 10.1103/PhysRevD.89.084069
+  issue: '8'
+  journal-title: Phys. Rev. D
+  volume: '89'
+  year: '2014'
+doc_url: https://api.elsevier.com/content/article/PII:S0370269315006073?httpAccept=text/xml
+doi: 10.1016/j.physletb.2015.08.006
+files:
+- moving-schwarzschild.pdf
+journal: Physics Letters B
+language: en
+month: 10
+pages: 431--436
+publisher: Elsevier BV
+ref: MovingSchwarzsBarrer2015
+time-added: 2021-04-17-03:57:59
+title: Moving Schwarzschild black hole and modified dispersion relations
+type: article
+url: http://dx.doi.org/10.1016/j.physletb.2015.08.006
+volume: '749'
+year: 2015
