@@ -1,0 +1,25 @@
+abstract: We propose a geometrical approach to the investigation of Hamiltonian systems
+  on (Pseudo) Riemannian manifolds. A new geometrical criterion of instability and
+  chaos is proposed. This approach is more generic than well known reduction to the
+  geodesic flow. It is applicable to various astrophysical and cosmological problems.
+archiveprefix: arXiv
+author: Kocharyan, A. A.
+author_list:
+- family: Kocharyan
+  given: A. A.
+eprint: astro-ph/0411595v1
+file: astro-ph/0411595v1.pdf
+files:
+- tmpc93uqmuu.pdf
+month: Nov
+note: In "Proceedings of the Fourth Monash General Relativity Workshop",   Eds A.Lun,
+  L.Brewin, E.Chow, p. 38, Melbourne, 1993. This article is somewhat   inaccessible
+primaryclass: astro-ph
+ref: astro-ph/0411595v1
+tags: hamiltonian differential-geometry relativity stability geodesic-flow astrophysics
+  cosmology chaos
+time-added: 2021-04-17-04:34:38
+title: Geometry of Dynamical Systems
+type: article
+url: http://arxiv.org/abs/astro-ph/0411595v1
+year: '2004'

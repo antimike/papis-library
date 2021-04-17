@@ -1,0 +1,99 @@
+author: Bargmann, V. and Michel, Louis and Telegdi, V. L.
+author_list:
+- affiliation: []
+  family: Bargmann
+  given: V.
+- affiliation: []
+  family: Michel
+  given: Louis
+- affiliation: []
+  family: Telegdi
+  given: V. L.
+citations:
+- author: H. A. Tolhoek
+  doi: 10.1016/0031-8914(51)90033-X
+  first-page: '17'
+  journal-title: Physica
+  volume: '17'
+  year: '1951'
+- author: H. Mendlowitz
+  doi: 10.1103/PhysRev.97.33
+  first-page: '33'
+  journal-title: Phys. Rev.
+  volume: '97'
+  year: '1955'
+- author: L. M. Carrassi
+  doi: 10.1007/BF02747765
+  first-page: '524'
+  journal-title: Nuovo cimento
+  volume: '7'
+  year: '1958'
+- author: F. Bloch
+  doi: 10.1103/PhysRev.70.460
+  first-page: '460'
+  journal-title: Phys. Rev.
+  volume: '70'
+  year: '1946'
+- author: J. Frenkel
+  doi: 10.1007/BF01397099
+  first-page: '243'
+  journal-title: Z. Physik
+  volume: '37'
+  year: '1926'
+- author: H. A. Kramers
+  volume-title: Quantum Mechanics
+  year: '1957'
+- author: Bargmann
+  doi: 10.1073/pnas.34.5.211
+  first-page: '211'
+  journal-title: Proc. Natl. Acad. Sci. U. S.
+  volume: '34'
+  year: '1948'
+- author: C. Bouchiat
+  doi: 10.1103/PhysRev.106.170
+  first-page: '170'
+  journal-title: Phys. Rev.
+  volume: '106'
+  year: '1955'
+- author: Crane
+  first-page: '369'
+  journal-title: Bull. Am. Phys. Soc. Ser. II
+  volume: '3'
+  year: '1958'
+- author: H. Frauenfelder
+  doi: 10.1103/PhysRev.106.386
+  first-page: '386'
+  journal-title: Phys. Rev.
+  volume: '106'
+  year: '1957'
+- author: P. E. Cavanagh
+  doi: 10.1080/14786435708242740
+  first-page: '1105'
+  journal-title: Phil. Mag.
+  volume: '2'
+  year: '1957'
+- author: P. S. Farago
+  doi: 10.1088/0370-1328/72/5/427
+  first-page: '891'
+  journal-title: Proc. Phys. Soc. (London)
+  volume: '72'
+  year: '1958'
+doc_url: http://harvest.aps.org/v2/journals/articles/10.1103/PhysRevLett.2.435/fulltext
+doi: 10.1103/physrevlett.2.435
+files:
+- tmpbwhrzejc.pdf
+issue: '10'
+journal: Physical Review Letters
+language: en
+month: 5
+pages: 435--436
+publisher: American Physical Society (APS)
+ref: PrecessionOfTBargma1959
+tags: thomas-precession relativity sr differential-geometry em
+time-added: 2021-04-17-04:33:12
+title: Precession of the Polarization of Particles Moving in a Homogeneous Electromagnetic
+  Field
+type: article
+url: http://dx.doi.org/10.1103/physrevlett.2.435
+volume: '2'
+year: 1959

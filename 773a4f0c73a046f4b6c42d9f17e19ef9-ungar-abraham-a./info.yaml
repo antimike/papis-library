@@ -1,0 +1,353 @@
+author: Ungar, Abraham A.
+author_list:
+- affiliation: []
+  family: Ungar
+  given: Abraham A.
+citations:
+- author: L. H. Thomas
+  doi: 10.1038/117514a0
+  first-page: '514'
+  journal-title: Nature
+  unstructured: L. H. Thomas,Nature,117, 514 (1926);Phil. Mag. 3, 1 (1927).
+  volume: '117'
+  year: '1926'
+- author: H. Goldstein
+  doi: 10.1119/1.9745
+  first-page: '39'
+  journal-title: Am. J. Phys.
+  unstructured: Discussed by many authors, see for instance H. Goldstein(6); W. H.
+    Weihofen,Am. J. Phys. 43, 39 (1975); S. Margulies,Am. J. Phys. 50, 434 (1980);
+    D. E. Fahnline,Am. J. Phys. 50, 818 (1982); C. B. van Wyk,Am. J. Phys. 52, 853
+    (1984); and A. C. Hirshfeld and F. Metzger,Am. J. Phys. 54, 550 (1986).
+  volume: '43'
+  year: '1975'
+- author: N. Salingaros
+  doi: 10.1063/1.527357
+  first-page: '157'
+  journal-title: J. Math. Phys.
+  unstructured: N. Salingaros, J. Math. Phys.27, 157 (1986), and references therein.
+  volume: '27'
+  year: '1986'
+- author: E. P. Wigner
+  doi: 10.2307/1968551
+  first-page: '149'
+  journal-title: Ann. Math.
+  unstructured: 'E. P. Wigner,Ann. Math. 40, 149 (1939). For some more refs. on the
+    Wigner rotation, see for instance E. C. G. Sudarshan and N. Mukunda,Classical
+    Dynamics: A Modern Perspective, (Wiley, New York, 1974), S. Gasiorowicz,Elementary
+    Particle Physics (Wiley, New York, 1967), and refs. therein; and refs. 8,9,14,15.
+    It seems that the termWigner rotation, used by several authors to describe the
+    rotation that we callThomas rotation, was introduced into the English literature
+    from German literature by Gasiorowicz. An objection to the use of this term to
+    describe the Thomas rotation is expressed in n. 4 of ref. 14.'
+  volume: '40'
+  year: '1939'
+- author: M. C. Møller
+  first-page: '53'
+  unstructured: M. C. Møller,The Theory of Relativity, pp. 53?56 (Clarendon Press,
+    Oxford, 1952).
+  volume-title: The Theory of Relativity
+  year: '1952'
+- author: H. Goldstein
+  edition: 2nd edn.
+  first-page: '285'
+  unstructured: H. Goldstein,Classical Mechanics, pp. 285?288, 2nd edn. (Addison-Wesley,
+    Menlo-Park, California, 1980).
+  volume-title: Classical Mechanics
+  year: '1980'
+- author: D. Hestenes
+  unstructured: D. Hestenes,Space-Time Algebra (Gordon & Breach, New York, 1966).
+  volume-title: Space-Time Algebra
+  year: '1966'
+- author: C. B. Wyk van
+  doi: 10.1119/1.13538
+  first-page: '853'
+  journal-title: Am. J. Phys.
+  unstructured: C. B. van Wyk,Am. J. Phys. 52, 853 (1984).
+  volume: '52'
+  year: '1984'
+- author: A. Ben-Menahem
+  doi: 10.1119/1.13953
+  first-page: '62'
+  journal-title: Am. J. Phys.
+  unstructured: A. Ben-Menahem,Am. J. Phys. 53, 62 (1985).
+  volume: '53'
+  year: '1985'
+- author: M. Rivas
+  doi: 10.1088/0143-0807/7/1/001
+  first-page: '1'
+  journal-title: Eur. J. Phys.
+  unstructured: M. Rivas, M. A. Valle and J. M. Aguirregabiria,Eur. J. Phys. 7, 1
+    (1986).
+  volume: '7'
+  year: '1986'
+- author: A. Chakrabarti
+  doi: 10.1063/1.1704097
+  first-page: '1747'
+  journal-title: J. Mat. Phys.
+  unstructured: A. Chakrabarti,J. Mat. Phys. 5, 1747 (1964); V. I. Ritus,Soviet Phys.
+    JETP 13, 240 (1961); H. P. Stapp,Phys. Rev. 103, 425 (1956); and V. Lalan,C. R.
+    Acad. Sci. (Paris) 236, 2297 (1953).
+  volume: '5'
+  year: '1964'
+- author: V. S. Varadarajan
+  unstructured: V. S. Varadarajan,Lie Groups, Lie Algebras and their Applications,
+    (Prentice-Hall, Engelwood Cliffs, 1974).
+  volume-title: Lie Groups, Lie Algebras and their Applications
+  year: '1974'
+- author: W. E. Baylis
+  doi: 10.1063/1.528135
+  first-page: '57'
+  journal-title: J. Mat. Phys.
+  unstructured: W. E. Baylis and G. Jones,J. Mat. Phys. 29, 57 (1988).
+  volume: '29'
+  year: '1988'
+- author: D. Han
+  doi: 10.1063/1.526994
+  first-page: '2228'
+  journal-title: J. Mat. Phys.
+  unstructured: D. Han, Y. S. Kim and D. Son,J. Mat. Phys. 27, 2228 (1986).
+  volume: '27'
+  year: '1986'
+- author: K. Chen
+  doi: 10.1016/0009-2614(86)85035-7
+  first-page: '365'
+  journal-title: Chem. Phys. Lett.
+  unstructured: K. Chen and C. Pei,Chem. Phys. Lett. 124, 365 (1985).
+  volume: '124'
+  year: '1985'
+- author: J. T. Cushing
+  doi: 10.1119/1.1974267
+  first-page: '858'
+  journal-title: Am. J. Phys.
+  unstructured: See for instance, in addition to Goldstein,(6) a remark in the paragraph
+    following eq. (39) in J. T. Cushing,Am. J. Phys. 35, 858 (1967).
+  volume: '35'
+  year: '1967'
+- author: P. S. Farago
+  doi: 10.1119/1.1974019
+  first-page: '246'
+  journal-title: Am. J. Phys.
+  unstructured: See, for instance, statement no. (3), 2nd paragraph, in P. S. Farago,Am.
+    J. Phys. 35, 246 (1967), according to which ?The resultant of two Lorentz transformations
+    in succession is different from the resultant of two Galilean transformations
+    even in the approximationv ? c.? Farago needed this statement to explain why the
+    angular velocity of the Thomas rotation is not negligible even when it is associated
+    with nonrelativistic velocities. The correct explanation follows from the fact
+    that the angular velocity,? T, of the Thomas rotation need not be negligible even
+    whenv/c is negligible, due to the high accelerations that may be involved in orbital
+    motions.
+  volume: '35'
+  year: '1967'
+- author: J. M. Lévy-Leblond
+  doi: 10.1016/B978-0-12-455152-7.50011-2
+  first-page: '221'
+  unstructured: J. M. Lévy-Leblond, inGroup Theory and its Applications, Vol. 2, E.
+    M. Loebl ed. (Academic Press, New York, 1971), pp. 221?299, where additional references
+    may be found.
+  volume-title: Group Theory and its Applications
+  year: '1971'
+- author: J. Krause
+  doi: 10.1063/1.523355
+  first-page: '889'
+  journal-title: J. Mat. Phys.
+  unstructured: J. Krause,J. Mat. Phys. 18, 889 (1977).
+  volume: '18'
+  year: '1977'
+- author: D. M. Fradkin
+  doi: 10.1063/1.525297
+  first-page: '2520'
+  journal-title: J. Mat. Phys.
+  unstructured: D. M. Fradkin,J. Mat. Phys. 23, 2520 (1982).
+  volume: '23'
+  year: '1982'
+- author: C. B. Wyk van
+  doi: 10.1063/1.527136
+  first-page: '1311'
+  journal-title: J. Mat. Phys.
+  unstructured: C. B. van Wyk,J. Mat. Phys. 27, 1311 (1986).
+  volume: '27'
+  year: '1986'
+- author: M. C. Møller
+  first-page: '42'
+  unstructured: 'M. C. Møller,The Theory of Relativity, p. 42, (Clarendon Press, Oxford,
+    1952). A simple derivation of the pure Lorentz transformation, in a vector form,
+    may be found in W. Pauli,Theory of Relativity, p. 10, (Pergamon Press, New York,
+    1958). He mentions an earlier writer in whom the boost matrixB(v) can be found:
+    Equation (9) on p. 497 in G. Herglotz,Ann. Phys. (Leipzig) 36, 393 (1911).'
+  volume-title: The Theory of Relativity
+  year: '1952'
+- author: F. R. Halpern
+  unstructured: Calculations of the decomposition in eq. (11) can be found, for instance,
+    in F. R. Halpern,Special Relativity and Quantum Mechanics (Prentice-Hall, Englewod
+    Cliffs, NJ, 1968), Appendix 3; and in ref. 2, D. E. Fahnline. See also ref. 6,
+    H. Goldstein, Prob. 13, p. 336 and refs. 8?11,13,14.
+  volume-title: Special Relativity and Quantum Mechanics
+  year: '1968'
+- author: G. E. Uhlenbeck
+  doi: 10.1063/1.3023519
+  first-page: '43'
+  journal-title: Phys. Today
+  unstructured: Citation from G. E. Uhlenbeck,Phys. Today 29, 43 (June 1976).
+  volume: '29'
+  year: '1976'
+- unstructured: See n. 4 in ref. 14.
+- author: M. C. Møller
+  first-page: '55'
+  unstructured: Equations equivalent to eq. (13) for the Thomas rotation are common
+    in the literature, see for instance, eq. (60) in M. C. Møller,The Theory of Relativity,
+    p. 55, (Clarendon Press, Oxford, 1952). For further understanding of composite
+    Lorentz transformations one must study properties of the Thomas rotation, tom[u;
+    v], that are not readily obtainable from eq. (13).
+  volume-title: The Theory of Relativity
+  year: '1952'
+- unstructured: The definition of the Thomas rotation in eq. (11) is identical with
+    the definition of the Wigner rotation made by several authors;(3,7,9,10) see for
+    instance eq. (11) in Rivaset al. (10) Objection for this use of the termWigner
+    rotation is expressed by Han, Kim, and Son.(25) Some authors define the Wigner
+    (or Thomas or, simply, space) rotation slightly different, describing a composite
+    boost as a boostfollowed, rather thanpreceded, by a Wigner rotation, as in Fahnline(2)
+    and in Baylis and Jones.(13) This slightly different definitions of the Wigner
+    rotation do not conflict, as seen from eq. (39) or from eq. (xii) of Section 6.
+- author: J. Mathew
+  doi: 10.1119/1.10264
+  first-page: '1210'
+  journal-title: Am. J. Phys.
+  unstructured: Elegant derivations of therhs of eq. (19) corresponding to ?? ? 0
+    can be found in J. Mathew,Am. J. Phys. 44, 1210 (1976), and in J. P. Fillmore,
+    IEEEComp. Graph. 4, 30 (1984). See also A. E. Fekete,Real Linear Algebra (Dekker,
+    New York, 1985) pp. 293 and 347 for a version attributed to N. E. Steenrod.
+  volume: '44'
+  year: '1976'
+- author: G. Temple
+  unstructured: For the theory of Cartesian tensors see, for instance, G. Temple,Cartesian
+    Tensors (Wiley, New York, 1960); H. JeffreysCartesian Tensors, (Cambridge Univ.
+    Press, Cambridge, 1965); and E. C. Young,Vector and Tensor Analysis (Dekker, New
+    York, 1978), Chap. 5.
+  volume-title: Cartesian Tensors
+  year: '1960'
+- author: R. H. Rand
+  unstructured: 'See, for instance, R. H. Rand,Computer Algebra in Applied Mathematics:
+    An Introduction to MACSYMA, (Pitman, Boston, 1984).'
+  volume-title: 'Computer Algebra in Applied Mathematics: An Introduction to MACSYMA'
+  year: '1984'
+- unstructured: A. Ungar, The relativistic noncommutative nonassociative group of
+    velocities and the Thomas rotation, to appear.
+- author: G. P. Fisher
+  doi: 10.1119/1.1987061
+  first-page: '1772'
+  journal-title: Am. J. Phys.
+  unstructured: See, for instance, Ben Menahem(9) and G. P. Fisher,Am. J. Phys. 40,
+    1772 (1972).
+  volume: '40'
+  year: '1972'
+- author: C. I. Mocanu
+  first-page: '119'
+  journal-title: Rev. Roum. Techn. - Electrotechn. Energ.
+  unstructured: C. I. Mocanu,Rev. Roum. Techn. - Electrotechn. Energ. 30, 119 and
+    367 (1985) and references therein.
+  volume: '30'
+  year: '1985'
+- author: L. Brand
+  first-page: '403'
+  unstructured: For the use of quaternions to describe rotations see, for instance,
+    L. Brand,Vector and Tensor Analysis (Wiley, New York, 1947), pp. 403?427, and
+    L. A. Pars,A Treatise on Analytical Dynamics, (Wiley, New york, 1965), pp. 90-107.
+  volume-title: Vector and Tensor Analysis
+  year: '1947'
+- author: J. Wittenburg
+  doi: 10.1007/978-3-322-90942-8
+  first-page: '23'
+  unstructured: J. Wittenburg,Dynamics of Systems of Rigid Bodies, (Teubner, Stuttgart,
+    1977), pp. 23?25.
+  volume-title: Dynamics of Systems of Rigid Bodies
+  year: '1977'
+- author: P. R. Girard
+  doi: 10.1088/0143-0807/5/1/007
+  first-page: '25'
+  journal-title: Eur. J. Phys.
+  unstructured: For an excellent demonstration of the applicability of the quaternion
+    group in modern physics and extensive relevant bibliography see P. R. Girard,Eur.
+    J. Phys. 5, 25 (1984).
+  volume: '5'
+  year: '1984'
+- unstructured: 'J. L. Synge,Relativity: The Special Theory, (North-Holland, Amsterdam,
+    1967), 2nd ed., p. 79.'
+- author: A. C. Hirshfeld
+  doi: 10.1119/1.14561
+  first-page: '550'
+  journal-title: Am. J. Phys.
+  unstructured: A. C. Hirshfeld and F. Metzger,Am. J. Phys. 54, 550 (1986).
+  volume: '54'
+  year: '1986'
+- author: D. Kalman
+  doi: 10.1080/00029890.1987.12000589
+  first-page: '21'
+  journal-title: Am. Math. Month.
+  unstructured: For some other elementary, interesting examples concerning one-parameter
+    matrices see D. Kalman and A. Ungar,Am. Math. Month. 94, 21 (1987), and D. Kalman,Math.
+    Mag. 58, 23 (1982).
+  volume: '94'
+  year: '1987'
+- author: I. M. Yaglom
+  first-page: '20'
+  unstructured: For such a Galilean transformation in two space dimensions see, for
+    instance, I. M. Yaglom,A simple Non-Euclidean Geometry and its Physical Basis
+    (trans. by A. Shenitzer) (Springer, New York, 1979) p. 20 and ref. 18.
+  volume-title: A simple Non-Euclidean Geometry and its Physical Basis
+  year: '1979'
+- author: Y. S. Kim
+  doi: 10.1007/978-94-009-4558-6
+  first-page: '215'
+  unstructured: Y. S. Kim and M. E. Noz,Theory and Applications of the Poincare Group
+    (Reidel, Boston, 1986), p. 215.
+  volume-title: Theory and Applications of the Poincare Group
+  year: '1986'
+- author: J. M. Lévy-Leblond
+  doi: 10.1063/1.1724319
+  first-page: '776'
+  journal-title: J. Mat. Phys.
+  unstructured: The composition law in eq. (58) for the homogeneous Galilean transformation
+    may be found, for instance, in eq. (2.8) of ref. 18; in eq. (I. 3) of J. M. Lévy-Leblond,J.
+    Mat. Phys. 4, 776 (1963); in Vilenkin(43); in Cornwell(43); and in J. Voisin,J.
+    Mat. Phys. 6, 1519 (1965).
+  volume: '4'
+  year: '1963'
+- author: N. J. Vilenkin
+  doi: 10.1090/mmono/022
+  first-page: '197'
+  unstructured: See, for instance, N. J. Vilenkin,Special Functions and the Theory
+    of Group Representations, (trans. V. N. Singh) (Amer. Math. Soc. Providence, Rhode
+    Island, 1968), p. 197, and J. F. Cornwell,Group Theory in Physics (Academic Press,
+    New York, 1984), Vol. I.
+  volume-title: Special Functions and the Theory of Group Representations
+  year: '1968'
+- author: R. Skinner
+  unstructured: The need to consider an orientation parameter in addition to the velocity
+    parameter in the parametrization of the Lorentz transformation in 1+3 dimensions
+    is not well known; see for instance R. Skinner,Relativity for Scientists and Engineers,
+    Dover, New York, 1982. In his eq. (1.194) and Figure 1.109, pp. 109-110, Skinner
+    presents two successive Lorentz transformations parametrized by nonparallel velocities
+    giving rise to an equivalent Lorentz transformation parametrized by velocity,
+    thus ignoring the coordinate rotation involved.
+  volume-title: Relativity for Scientists and Engineers
+  year: '1982'
+doc_url: http://link.springer.com/article/10.1007/BF00661317/fulltext.html
+doi: 10.1007/bf00661317
+files:
+- ungar1988-article-thomasrotationandtheparametriz.pdf
+issue: '1'
+journal: Foundations of Physics Letters
+language: en
+month: 3
+pages: 57--89
+publisher: Springer Science and Business Media LLC
+ref: ThomasRotationUngar1988
+tags: thomas-precession lorentz-group wigner-rotation differential-geometry sr em
+  math
+time-added: 2021-04-17-04:26:18
+title: Thomas rotation and the parametrization of the Lorentz transformation group
+type: article
+url: http://dx.doi.org/10.1007/bf00661317
+volume: '1'
+year: 1988

@@ -1,0 +1,55 @@
+author: Rȩbilas, Krzysztof
+author_list:
+- affiliation: []
+  family: Rȩbilas
+  given: Krzysztof
+citations:
+- author: O'Donnell K
+  doi: 10.1088/0143-0807/32/4/016
+  first-page: '1033'
+  issn: http://id.crossref.org/issn/0143-0807
+  issn-type: print
+  journal-title: Eur. J. Phys.
+  volume: '32'
+  year: '2011'
+- author: Møller C
+  first-page: '53'
+  journal-title: The Theory of Relativity
+  year: '1952'
+- author: Thomas L H
+  doi: 10.1080/14786440108564170
+  first-page: '1'
+  issn: http://id.crossref.org/issn/0031-8086
+  issn-type: print
+  journal-title: Phil. Mag.
+  volume: '3'
+  year: '1927'
+- author: Jackson J D
+  first-page: '548'
+  journal-title: Classical Electrodynamics
+  year: '1975'
+- doi: 10.1119/1.3619868
+- doi: 10.1007/s10701-011-9579-7
+- doi: 10.1016/0003-4916(63)90051-4
+- author: Misner C W
+  first-page: '175'
+  journal-title: Gravitation
+  year: '1973'
+doc_url: https://iopscience.iop.org/article/10.1088/0143-0807/34/3/L55
+doi: 10.1088/0143-0807/34/3/l55
+files:
+- thomas-precession-wigner-rotation-analysis.pdf
+issue: '3'
+journal: European Journal of Physics
+month: 5
+pages: L55--L61
+publisher: IOP Publishing
+ref: CommentOnEleRebila2013
+tags: thomas-precession wigner-rotation differential-geometry sr relativity em
+time-added: 2021-04-17-04:22:04
+title: Comment on ‘Elementary analysis of the special relativistic combination of
+  velocities, Wigner rotation and Thomas precession’
+type: article
+url: http://dx.doi.org/10.1088/0143-0807/34/3/l55
+volume: '34'
+year: 2013
