@@ -1,0 +1,25 @@
+author: Altman, Alon and Tennenholtz, Moshe
+author_list:
+- affiliation: []
+  family: Altman
+  given: Alon
+- affiliation: []
+  family: Tennenholtz
+  given: Moshe
+booktitle: the 6th ACM conference
+doi: 10.1145/1064009.1064010
+files:
+- ranking-systems.pdf
+isbn:
+- '1595930493'
+journal: Proceedings of the 6th ACM conference on Electronic commerce  - EC '05
+month: 6
+publisher: ACM Press
+ref: RankingSystemsAltman2005
+tags: network-ranking PageRank uniqueness math google
+time-added: 2021-04-22-14:43:06
+title: Ranking systems
+type: inproceedings
+url: http://dx.doi.org/10.1145/1064009.1064010
+venue: Vancouver, BC, Canada
+year: 2005

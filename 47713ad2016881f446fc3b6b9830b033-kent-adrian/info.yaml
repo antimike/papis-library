@@ -1,0 +1,28 @@
+abstract: Following a proposal of Vaidman, Sebens and Carroll have argued that in
+  Everettian (i.e. purely unitary) quantum theory, observers are uncertain, before
+  they complete their observation, about which Everettian branch they are on. They
+  argue further that this solves the problem of making sense of probabilities within
+  Everettian quantum theory, even though the theory itself is deterministic. We note
+  some problems with these arguments.
+archiveprefix: arXiv
+author: Kent, Adrian
+author_list:
+- family: Kent
+  given: Adrian
+doi: 10.1007/s10701-014-9862-5
+eprint: 1408.1944v3
+file: 1408.1944v3.pdf
+files:
+- tmp16e6w851.pdf
+month: Aug
+note: Foundations of Physics 45, 2 (2015), pp 211-217
+primaryclass: gr-qc
+ref: 1408.1944v3
+tags: sean-carroll everett-qm self-locating-uncertainty universal-wave-function physics-foundations
+  metaphysics qm-interpretations
+time-added: 2021-04-22-18:31:53
+title: Does it Make Sense to Speak of Self-Locating Uncertainty in the   Universal
+  Wave Function? Remarks on Sebens and Carroll
+type: article
+url: http://arxiv.org/abs/1408.1944v3
+year: '2014'

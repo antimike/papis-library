@@ -1,0 +1,40 @@
+abstract: Penrose conjectured a connection between entropy and Weyl curvature of the
+  Universe. This is plausible, as the almost homogeneous and isotropic Universe at
+  the onset of structure formation has negligible Weyl curvature, which then grows
+  (relative to the Ricci curvature) due to the formation of large-scale structure
+  and thus reminds us of the second law of thermodynamics. We study two scalar measures
+  to quantify the deviations from a homogeneous and isotropic space-time, the relative
+  information entropy and a Weyl tensor invariant, and show their relation to the
+  averaging problem. We calculate these two quantities up to second order in standard
+  cosmological perturbation theory and find that they are correlated and can be linked
+  via the kinematic backreaction of a spatially averaged universe model.
+archiveprefix: arXiv
+author: Li, Nan and Buchert, Thomas and Hosoya, Akio and Morita, Masaaki and Schwarz,
+  Dominik J.
+author_list:
+- family: Li
+  given: Nan
+- family: Buchert
+  given: Thomas
+- family: Hosoya
+  given: Akio
+- family: Morita
+  given: Masaaki
+- family: Schwarz
+  given: Dominik J.
+doi: 10.1103/PhysRevD.86.083539
+eprint: 1208.3376v2
+file: 1208.3376v2.pdf
+files:
+- tmpf6tv80q8.pdf
+month: Aug
+note: 'Phys.Rev.D86: 083539,2012'
+primaryclass: gr-qc
+ref: 1208.3376v2
+tags: entropy weyl-tensor curvature differential-geometry gr information-theory math
+  cosmology
+time-added: 2021-04-22-12:12:19
+title: Relative information entropy and Weyl curvature of the inhomogeneous   Universe
+type: article
+url: http://arxiv.org/abs/1208.3376v2
+year: '2012'

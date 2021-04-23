@@ -1,0 +1,432 @@
+author: Borgatti, Stephen P. and Everett, Martin G.
+author_list:
+- affiliation: []
+  family: Borgatti
+  given: Stephen P.
+- affiliation: []
+  family: Everett
+  given: Martin G.
+citations:
+- article-title: The intersection of social circles
+  author: Alba
+  doi: 10.1177/004912417600500103
+  first-page: '77'
+  journal-title: Sociological Methods and Research
+  volume: '5'
+  year: '1976'
+- article-title: A method for processing sociometric data
+  author: Alexander
+  doi: 10.2307/2785912
+  first-page: '268'
+  journal-title: Sociometry
+  volume: '26'
+  year: '1963'
+- article-title: A mathematical model for group structure
+  author: Bavelas
+  doi: 10.17730/humo.7.3.f4033344851gl053
+  first-page: '16'
+  journal-title: Human Organization
+  volume: '7'
+  year: '1948'
+- article-title: Communication patterns in task orientated groups
+  author: Bavelas
+  doi: 10.1121/1.1906679
+  first-page: '271'
+  journal-title: Journal of the Acoustical Society of America
+  volume: '22'
+  year: '1950'
+- author: Blau
+  series-title: 'The Dynamics of Bureaucracy: A Study of Interpersonal Relations in
+    Two Government Agencies'
+  year: '1963'
+- article-title: Factoring and weighting approaches to status scores and clique identification
+  author: Bonacich
+  doi: 10.1080/0022250X.1972.9989806
+  first-page: '113'
+  journal-title: Journal of Mathematical Sociology
+  volume: '2'
+  year: '1972'
+- article-title: 'Power and centrality: a family of measures'
+  author: Bonacich
+  doi: 10.1086/228631
+  first-page: '1170'
+  journal-title: American Journal of Sociology
+  volume: '92'
+  year: '1987'
+- article-title: Simultaneous group and individual centralities
+  author: Bonacich
+  doi: 10.1016/0378-8733(91)90018-O
+  first-page: '155'
+  journal-title: Social Networks
+  volume: '13'
+  year: '1991'
+- article-title: Centrality and AIDS
+  author: Borgatti
+  first-page: '112'
+  issue: '1'
+  journal-title: Connections
+  volume: '18'
+  year: '1995'
+- article-title: Types of network flows and how to destabilize terrorist networks
+  author: Borgatti
+  series-title: Sunbelt International Social Networks Conference
+  year: '2002'
+- unstructured: 'Borgatti, S.P., 2003. The Key Player Problem. 241-252 in Dynamic
+    Social Network Modeling and Analysis: Workshop Summary and Papers, R. Breiger,
+    K. Carley, P. Pattison (Eds.), National Academy of Sciences Press.'
+- unstructured: Borgatti, S.P. (forthcoming) Identifying sets of key players in a
+    network. Computational, Mathematical and Organizational Theory.
+- article-title: Centrality and network flow
+  author: Borgatti
+  doi: 10.1016/j.socnet.2004.11.008
+  first-page: '55'
+  issue: '1'
+  journal-title: Social Networks
+  volume: '27'
+  year: '2005'
+- unstructured: 'Borgatti, S.P., Everett, M.G., Freeman, L.C., 2002. Ucinet for Windows:
+    Software for Social Network Analysis. Harvard, MA: Analytic Technologies.'
+- article-title: LS sets, lambda sets and other cohesive subsets
+  author: Borgatti
+  doi: 10.1016/0378-8733(90)90014-Z
+  first-page: '337'
+  journal-title: Social Networks
+  volume: '12'
+  year: '1990'
+- article-title: Models of core/periphery structures
+  author: Borgatti
+  doi: 10.1016/S0378-8733(99)00019-2
+  first-page: '375'
+  journal-title: Social Networks
+  volume: '21'
+  year: '1999'
+- article-title: 'Being in the right place: a structural analysis of individual influence
+    in an organization'
+  author: Brass
+  doi: 10.2307/2392937
+  first-page: '518'
+  journal-title: Administrative Science Quarterly
+  volume: '29'
+  year: '1984'
+- unstructured: Burt, R.S., 1991. Structure Version 4.2 Reference Manual. Center for
+    the Social Sciences, Columbia University.
+- doi: 10.1016/B978-0-12-147150-7.50014-4
+  unstructured: Burt, R.S., 1982. Toward a Structural Theory of Action. New York,
+    Academic Press.
+- article-title: Social resources and socioeconomic status
+  author: Campbell
+  doi: 10.1016/S0378-8733(86)80017-X
+  first-page: '97'
+  journal-title: Social Networks
+  volume: '8'
+  year: '1986'
+- article-title: Loss of power
+  author: Coleman
+  doi: 10.2307/2094326
+  first-page: '1'
+  journal-title: American Sociological Review
+  volume: '38'
+  year: '1973'
+- author: Coleman
+  series-title: 'Medical Innovation: A Diffusion Study'
+  year: '1966'
+- article-title: 'The distribution of power in exchange networks: theory and experimental
+    results'
+  author: Cook
+  doi: 10.1086/227866
+  first-page: '275'
+  journal-title: American Journal of Sociology
+  volume: '89'
+  year: '1983'
+- article-title: U-statistic hierarchical clustering
+  author: D’Andrade
+  doi: 10.1007/BF02294089
+  first-page: '59'
+  journal-title: Psychometrika
+  volume: '43'
+  year: '1978'
+- article-title: Some effects of urbanism on black social networks
+  author: Deng
+  doi: 10.1016/0378-8733(91)90012-I
+  first-page: '35'
+  journal-title: Social Networks
+  volume: '13'
+  year: '1991'
+- article-title: Measuring relative standing in small groups and bounded social networks
+  author: Doreian
+  doi: 10.2307/2786807
+  first-page: '247'
+  journal-title: Social Psychological Quarterly
+  volume: '49'
+  year: '1986'
+- doi: 10.1017/CBO9780511811395.004
+  unstructured: Everett, M.G., Borgatti, S.P., 2004. Extending centrality. In Carrington,
+    P., Scott, J., Wasserman, S. (Eds.) Models and Methods in Social Network Analysis
+    (forthcoming).
+- article-title: Maximal flow through a network
+  author: Ford
+  doi: 10.4153/CJM-1956-045-5
+  first-page: '399'
+  journal-title: Canadian Journal of Mathematics
+  volume: '8'
+  year: '1956'
+- author: Ford
+  series-title: Flows in Networks
+  year: '1962'
+- article-title: 'Centrality in networks: I. conceptual clarification'
+  author: Freeman
+  doi: 10.1016/0378-8733(78)90021-7
+  first-page: '215'
+  journal-title: Social Networks
+  volume: '1'
+  year: '1979'
+- article-title: The gatekeeper, pair-dependency, and structural centrality
+  author: Freeman
+  doi: 10.1007/BF00184720
+  first-page: '585'
+  journal-title: Quality and Quantity
+  volume: '14'
+  year: '1980'
+- article-title: 'Spheres, cubes and boxes: graph dimensionality and network structure'
+  author: Freeman
+  doi: 10.1016/0378-8733(83)90022-9
+  first-page: '139'
+  journal-title: Social Networks
+  volume: '5'
+  year: '1983'
+- article-title: 'Centrality in valued graphs: a measure of betweenness based on network
+    flow'
+  author: Freeman
+  doi: 10.1016/0378-8733(91)90017-N
+  first-page: '141'
+  journal-title: Social Networks
+  volume: '13'
+  year: '1991'
+- article-title: Theoretical foundations for centrality measures
+  author: Friedkin
+  doi: 10.1086/229694
+  first-page: '1478'
+  journal-title: American Journal of Sociology
+  volume: '96'
+  year: '1991'
+- author: Galaskiewicz
+  series-title: Exchange Networks and Community Politics
+  year: '1979'
+- article-title: 'Structures of mediation: a formal approach to brokerage in transaction
+    networks'
+  author: Gould
+  first-page: '89'
+  series-title: Sociological Methodology
+  year: '1989'
+- author: Granovetter
+  series-title: 'Getting a Job: A Study in Contacts and Careers'
+  year: '1974'
+- doi: 10.21236/AD0705364
+  unstructured: 'Harary, F. 1969. Graph Theory. Reading, Mass: Addison-Wesley.'
+- article-title: 'Elite integration in stable democracies: a reconsideration'
+  author: Higley
+  doi: 10.1093/oxfordjournals.esr.a036576
+  first-page: '35'
+  journal-title: European Sociological Review
+  volume: '7'
+  year: '1991'
+- unstructured: Hoede, C. 1978. A New Status Score for Actors in a Social Network.
+    unpublished manuscript, dept. of mathematics, Twente University.
+- article-title: 'Structural parameters of graphs: a theoretical investigation'
+  author: Høivik
+  first-page: '203'
+  series-title: Quantitative Sociology
+  year: '1975'
+- article-title: An exponential family of probability distributions for directed graphs
+  author: Holland
+  doi: 10.2307/2287037
+  first-page: '33'
+  journal-title: Journal of the American Statistical Association
+  volume: '76'
+  year: '1981'
+- article-title: An input–output approach to clique identification
+  author: Hubbell
+  doi: 10.2307/2785990
+  first-page: '377'
+  journal-title: Sociometry
+  volume: '28'
+  year: '1965'
+- article-title: Hierarchical clustering schemes
+  author: Johnson
+  doi: 10.1007/BF02289588
+  first-page: '241'
+  journal-title: Psychometrika
+  volume: '32'
+  year: '1967'
+- article-title: A new index derived from sociometric data analysis
+  author: Katz
+  doi: 10.1007/BF02289026
+  first-page: '39'
+  journal-title: Psychometrika
+  volume: '18'
+  year: '1953'
+- article-title: Prominence
+  author: Knoke
+  first-page: '195'
+  series-title: 'Applied Network Analysis: A Methodological Introduction'
+  year: '1983'
+- article-title: New directions in the study of community elites
+  author: Laumann
+  doi: 10.2307/2094396
+  first-page: '212'
+  journal-title: American Sociological Review
+  volume: '38'
+  year: '1973'
+- author: Laumann
+  series-title: Networks of Collective Action
+  year: '1976'
+- article-title: Some effects of certain communication patterns on group performance
+  author: Leavitt
+  doi: 10.1037/h0057189
+  first-page: '38'
+  journal-title: Journal of Abnormal and Social Psychology
+  volume: '46'
+  year: '1951'
+- article-title: A method of matrix analysis of group structure
+  author: Luce
+  doi: 10.1007/BF02289038
+  first-page: '319'
+  journal-title: Psychometrika.
+  volume: '20'
+  year: '1949'
+- article-title: Interlocking directorates and control of corporations
+  author: Mariolis
+  first-page: '425'
+  journal-title: Social Science Quarterly
+  volume: '56'
+  year: '1975'
+- article-title: Power relations in exchange networks
+  author: Markovsky
+  doi: 10.2307/2095689
+  first-page: '220'
+  journal-title: American Sociological Review
+  volume: '53'
+  year: '1988'
+- article-title: Brokerage behavior in restricted exchange networks
+  author: Marsden
+  first-page: '201'
+  series-title: Social Structure and Network Analysis
+  year: '1982'
+- article-title: 'Collective action in a community elite: exchange, influence resources,
+    and issue resolution. power'
+  author: Marsden
+  first-page: '199'
+  series-title: Paradigms and Community Research
+  year: '1977'
+- article-title: Zur Allgemeinen Kurventheorie
+  author: Menger
+  doi: 10.4064/fm-10-1-96-115
+  first-page: '96'
+  journal-title: Fund. Math.
+  volume: '10'
+  year: '1927'
+- article-title: Interlocking directorates and interest group formation
+  author: Mintz
+  doi: 10.2307/2095083
+  first-page: '851'
+  journal-title: American Sociological Review
+  volume: '46'
+  year: '1981'
+- article-title: The structure of intercorporate unity in American business
+  author: Mintz
+  doi: 10.1525/sp.1981.29.2.03a00010
+  first-page: '87'
+  journal-title: Social Problems
+  volume: '28'
+  year: '1981'
+- author: Mintz
+  series-title: The Power Structure of American Business
+  year: '1985'
+- unstructured: 'Mizruchi, M. 1982. The Structure of the American Corporate Network:
+    1904–1974. Beverly Hills: Sage.'
+- doi: 10.2307/270918
+  unstructured: 'Mizruchi, M.S., Mariolis, P., Schwartz, M., Mintz, B., 1986. Techniques
+    for Disaggregating Centrality Scores in Social Networks. In: 26–48 in Sociological
+    Methodology 1986, Tuma, N.B. (Eds.). San Francisco, Jossey-Bass.'
+- article-title: 'Distribution of measures of centrality: enumerated distributions
+    of fre/eman''s graph centrality measures'
+  author: Nakao
+  first-page: '10'
+  journal-title: Connections
+  volume: '13'
+  year: '1990'
+- article-title: A measure of betweenness centrality based on random walks
+  author: Newman
+  doi: 10.1016/j.socnet.2004.11.009
+  first-page: '39'
+  issue: '1'
+  journal-title: Social Networks
+  volume: '27'
+  year: '2005'
+- author: Nunnally
+  series-title: Psychometric Theory
+  year: '1967'
+- article-title: The medieval river trade network of Russia revisited
+  author: Pitts
+  doi: 10.1016/0378-8733(78)90025-4
+  first-page: '285'
+  journal-title: Social Networks
+  volume: '1'
+  year: '1979'
+- article-title: The centrality index of a graph
+  author: Sabidussi
+  doi: 10.1007/BF02289527
+  first-page: '581'
+  journal-title: Psychometrika
+  volume: '31'
+  year: '1966'
+- article-title: 'Sociometrics of macaca mulatta I: linkages and cliques in grooming
+    networks'
+  author: Sade
+  doi: 10.1159/000155480
+  first-page: '196'
+  journal-title: Folia Primatologica
+  volume: '18'
+  year: '1972'
+- article-title: 'Sociometrics of macaca mulatta III: N-path centrality in grooming
+    networks'
+  author: Sade
+  doi: 10.1016/0378-8733(89)90006-3
+  first-page: '273'
+  journal-title: Social Networks
+  volume: '11'
+  year: '1989'
+- article-title: 'Rethinking centrality: methods and examples'
+  author: Stephenson
+  doi: 10.1016/0378-8733(89)90016-6
+  first-page: '1'
+  journal-title: Social Networks
+  volume: '11'
+  year: '1989'
+- article-title: 'Integration and radiality: measuring the extent of an individual''s
+    connectedness and reachability in a network'
+  author: Valente
+  doi: 10.1016/S0378-8733(97)00007-5
+  first-page: '89'
+  journal-title: Social Networks
+  volume: '20'
+  year: '1998'
+doc_url: https://api.elsevier.com/content/article/PII:S0378873305000833?httpAccept=text/plain
+doi: 10.1016/j.socnet.2005.11.005
+files:
+- centrality-graph-theory.pdf
+- tmpuvsko54i-a.data
+issue: '4'
+journal: Social Networks
+language: en
+month: 10
+pages: 466--484
+publisher: Elsevier BV
+ref: AGraphTheoretBorgat2006
+tags: graph-theory network graph-theory math math centrality influence-network
+time-added: 2021-04-22-15:31:39
+title: A Graph-theoretic perspective on centrality
+type: article
+url: http://dx.doi.org/10.1016/j.socnet.2005.11.005
+volume: '28'
+year: 2006

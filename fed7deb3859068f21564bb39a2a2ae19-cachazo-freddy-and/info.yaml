@@ -1,0 +1,30 @@
+abstract: This paper presents a new formula which is conjectured to yield all tree
+  amplitudes in N=8 supergravity. The amplitudes are described in terms of higher
+  degree rational maps to twistor space. The resulting expression has manifest N=8
+  supersymmetry and is manifestly permutation symmetric in all external states. It
+  depends monomially on the infinity twistor that explicitly breaks conformal symmetry
+  to Poincare. The formula has been explicitly checked to yield the correct amplitudes
+  for the 3-point MHV-bar and for the n-point MHV, where it reduces to an expression
+  of Hodges. We have also carried out numerical checks of the formula at NMHV and
+  NNMHV level, for up to eight external states.
+archiveprefix: arXiv
+author: Cachazo, Freddy and Skinner, David
+author_list:
+- family: Cachazo
+  given: Freddy
+- family: Skinner
+  given: David
+doi: 10.1103/PhysRevLett.110.161301
+eprint: 1207.0741v1
+file: 1207.0741v1.pdf
+files:
+- tmp8uod6qht.pdf
+month: Jul
+primaryclass: hep-th
+ref: 1207.0741v1
+tags: gravitation rational-curve twistor unification math theory fundamental-physics
+time-added: 2021-04-22-13:41:36
+title: Gravity from Rational Curves
+type: article
+url: http://arxiv.org/abs/1207.0741v1
+year: '2012'

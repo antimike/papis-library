@@ -1,0 +1,39 @@
+abstract: We extend the concept of eigenvector centrality to multiplex networks, and
+  introduce several alternative parameters that quantify the importance of nodes in
+  a multi-layered networked system, including the definition of vectorial-type centralities.
+  In addition, we rigorously show that, under reasonable conditions, such centrality
+  measures exist and are unique. Computer experiments and simulations demonstrate
+  that the proposed measures provide substantially different results when applied
+  to the same multiplex structure, and highlight the non-trivial relationships between
+  the different measures of centrality introduced.
+archiveprefix: arXiv
+author: Sola, Luis and Romance, Miguel and Criado, Regino and Flores, Julio and del
+  Amo, Alejandro Garcia and Boccaletti, Stefano
+author_list:
+- family: Sola
+  given: Luis
+- family: Romance
+  given: Miguel
+- family: Criado
+  given: Regino
+- family: Flores
+  given: Julio
+- family: del Amo
+  given: Alejandro Garcia
+- family: Boccaletti
+  given: Stefano
+doi: 10.1063/1.4818544
+eprint: 1305.7445v2
+file: 1305.7445v2.pdf
+files:
+- tmpcj6u760i.pdf
+month: May
+note: Chaos 23, 033131 (2013)
+primaryclass: physics.soc-ph
+ref: 1305.7445v2
+tags: multiplex network-ranking network graph-theory math eigenvector centrality node
+time-added: 2021-04-22-14:44:37
+title: Eigenvector centrality of nodes in multiplex networks
+type: article
+url: http://arxiv.org/abs/1305.7445v2
+year: '2013'

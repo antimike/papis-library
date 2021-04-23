@@ -1,0 +1,24 @@
+abstract: We provide a geometric characterisation of binary sextics with vanishing
+  quadratic invariant.
+archiveprefix: arXiv
+author: Dunajski, Maciej and Penrose, Roger
+author_list:
+- family: Dunajski
+  given: Maciej
+- family: Penrose
+  given: Roger
+doi: 10.1017/S0305004116000542
+eprint: 1504.07998v2
+file: 1504.07998v2.pdf
+files:
+- tmpw44mn9ga.pdf
+month: Apr
+primaryclass: math.DG
+ref: 1504.07998v2
+tags: penrose quadratic-invariant binary-sextic differential-geometry twistor g2-structure
+  gr math
+time-added: 2021-04-22-12:33:51
+title: On the quadratic invariant of binary sextics
+type: article
+url: http://arxiv.org/abs/1504.07998v2
+year: '2015'

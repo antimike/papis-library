@@ -1,0 +1,52 @@
+author: Atiyah, M.F. and Hitchin, N.J. and Drinfeld, V.G. and Manin, Yu.I.
+author_list:
+- affiliation: []
+  family: Atiyah
+  given: M.F.
+- affiliation: []
+  family: Hitchin
+  given: N.J.
+- affiliation: []
+  family: Drinfeld
+  given: V.G.
+- affiliation: []
+  family: Manin
+  given: Yu.I.
+citations:
+- author: Atiyah
+  volume: '74'
+  year: '1977'
+- author: Atiyah
+  doi: 10.1007/BF01626514
+  first-page: '117'
+  journal-title: Commun. Math. Phys.
+  volume: '55'
+  year: '1977'
+- unstructured: W. Barth, to appear.
+- unstructured: V.G. Drinfeld and Yu.I. Manin, Funkts. Anal. Prilož, to appear.
+- unstructured: V.G. Drinfeld and Yu.I. Manin, Usp. Math. Nauk, to appear.
+- unstructured: R. Penrose, Rept. Math. Phys., to appear.
+- author: Schwarz
+  doi: 10.1016/0370-2693(77)90095-8
+  first-page: '172'
+  journal-title: Phys. Lett.
+  volume: 67B
+  year: '1977'
+doc_url: https://api.elsevier.com/content/article/PII:037596017890141X?httpAccept=text/plain
+doi: 10.1016/0375-9601(78)90141-x
+files:
+- instanton-construction-atiyah.pdf
+issue: '3'
+journal: Physics Letters A
+language: en
+month: 3
+pages: 185--187
+publisher: Elsevier BV
+ref: ConstructionOfAtiyah1978
+tags: instanton atiyah twistor yang-mills
+time-added: 2021-04-22-13:52:52
+title: Construction of instantons
+type: article
+url: http://dx.doi.org/10.1016/0375-9601(78)90141-x
+volume: '65'
+year: 1978

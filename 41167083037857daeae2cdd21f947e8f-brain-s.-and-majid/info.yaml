@@ -1,0 +1,36 @@
+abstract: We present the main ingredients of twistor theory leading up to and including
+  the Penrose-Ward transform in a coordinate algebra form which we can then `quantise'
+  by means of a functorial cocycle twist. The quantum algebras for the conformal group,
+  twistor space CP^3, compactified Minkowski space CMh and the twistor correspondence
+  space are obtained along with their canonical quantum differential calculi, both
+  in a local form and in a global *-algebra formulation which even in the classical
+  commutative case provides a useful alternative to the formulation in terms of projective
+  varieties. We outline how the Penrose-Ward transform then quantises. As an example,
+  we show that the pull-back of the tautological bundle on CMh pulls back to the basic
+  instanton on S^4\subset CMh and that this observation quantises to obtain the Connes-Landi
+  instanton on \theta-deformed S^4 as the pull-back of the tautological bundle on
+  our \theta-deformed CMh. We likewise quantise the fibration CP^3--> S^4 and use
+  it to construct the bundle on \theta-deformed CP^3 that maps over under the transform
+  to the \theta-deformed instanton.
+archiveprefix: arXiv
+author: Brain, S. and Majid, S.
+author_list:
+- family: Brain
+  given: S.
+- family: Majid
+  given: S.
+doi: 10.1007/s00220-008-0607-1
+eprint: math/0701893v2
+file: math/0701893v2.pdf
+files:
+- tmpy732j126.pdf
+month: Jan
+note: Commun.Math.Phys.284:713-774,2008
+primaryclass: math.QA
+ref: math/0701893v2
+tags: math twistor cocycle quantization quantum-algebra hep theory
+time-added: 2021-04-22-12:37:36
+title: Quantisation of twistor theory by cocycle twist
+type: article
+url: http://arxiv.org/abs/math/0701893v2
+year: '2007'

@@ -1,0 +1,39 @@
+abstract: 'Identifying key players in collective dynamics remains a challenge in several
+  research fields, from the efficient dissemination of ideas to drug target discovery
+  in biomedical problems. The difficulty lies at several levels: how to single out
+  the role of individual elements in such intermingled systems, or which is the best
+  way to quantify their importance. Centrality measures describe a node''s importance
+  by its position in a network. The key issue obviated is that the contribution of
+  a node to the collective behavior is not uniquely determined by the structure of
+  the system but it is a result of the interplay between dynamics and network structure.
+  We show that dynamical influence measures explicitly how strongly a node''s dynamical
+  state affects collective behavior. For critical spreading, dynamical influence targets
+  nodes according to their spreading capabilities. For diffusive processes it quantifies
+  how efficiently real systems may be controlled by manipulating a single node.'
+archiveprefix: arXiv
+author: Klemm, Konstantin and Serrano, M. Angeles and Eguiluz, Victor M. and Miguel,
+  Maxi San
+author_list:
+- family: Klemm
+  given: Konstantin
+- family: Serrano
+  given: M. Angeles
+- family: Eguiluz
+  given: Victor M.
+- family: Miguel
+  given: Maxi San
+doi: 10.1038/srep00292
+eprint: 1002.4042v3
+file: 1002.4042v3.pdf
+files:
+- tmpguasz7vo.pdf
+month: Feb
+note: Scientific Reports 2, 292 (2012)
+primaryclass: physics.soc-ph
+ref: 1002.4042v3
+tags: network graph-theory math centrality node-influence collective-dynamics
+time-added: 2021-04-22-15:41:24
+title: A measure of individual role in collective dynamics
+type: article
+url: http://arxiv.org/abs/1002.4042v3
+year: '2010'

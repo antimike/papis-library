@@ -1,0 +1,50 @@
+abstract: In the past years, network theory has successfully characterized the interaction
+  among the constituents of a variety of complex systems, ranging from biological
+  to technological, and social systems. However, up until recently, attention was
+  almost exclusively given to networks in which all components were treated on equivalent
+  footing, while neglecting all the extra information about the temporal- or context-related
+  properties of the interactions under study. Only in the last years, taking advantage
+  of the enhanced resolution in real data sets, network scientists have directed their
+  interest to the multiplex character of real-world systems, and explicitly considered
+  the time-varying and multilayer nature of networks. We offer here a comprehensive
+  review on both structural and dynamical organization of graphs made of diverse relationships
+  (layers) between its constituents, and cover several relevant issues, from a full
+  redefinition of the basic structural measures, to understanding how the multilayer
+  nature of the network affects processes and dynamics.
+archiveprefix: arXiv
+author: Boccaletti, S. and Bianconi, G. and Criado, R. and del Genio, C. I. and Gómez-Gardeñes,
+  J. and Romance, M. and Sendiña-Nadal, I. and Wang, Z. and Zanin, M.
+author_list:
+- family: Boccaletti
+  given: S.
+- family: Bianconi
+  given: G.
+- family: Criado
+  given: R.
+- family: del Genio
+  given: C. I.
+- family: Gómez-Gardeñes
+  given: J.
+- family: Romance
+  given: M.
+- family: Sendiña-Nadal
+  given: I.
+- family: Wang
+  given: Z.
+- family: Zanin
+  given: M.
+doi: 10.1016/j.physrep.2014.07.001
+eprint: 1407.0742v2
+file: 1407.0742v2.pdf
+files:
+- tmp-wa2smzy.pdf
+month: Jul
+note: Physics Reports 544, 1 (2014)
+primaryclass: physics.soc-ph
+ref: 1407.0742v2
+tags: network graph-theory math multilayer-network review survey
+time-added: 2021-04-22-10:19:39
+title: The structure and dynamics of multilayer networks
+type: article
+url: http://arxiv.org/abs/1407.0742v2
+year: '2014'

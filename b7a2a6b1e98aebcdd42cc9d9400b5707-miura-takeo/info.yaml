@@ -1,0 +1,29 @@
+abstract: In this paper we consider a connection between the Moyal formuration of
+  quantum mechanics and noncommutative lattices on nonlocal spaces. The Moyal bracket
+  generates SU(N) Lie algebras,and representations of these algebras correspond to
+  Bratteli diagrams on Hilbert spaces of C*-algebras, and also representations of
+  noncommutative lattices on nonlocal spaces correspond to the same diagrams. We will
+  show that the quantization thus generates nonlocal spaces by the intermediation
+  of Bratteli diagrams.The above connection are investigated in details in two definite
+  cases, one is one-dimensional lattice QCD SU(N) fields on the unit circle, the other
+  is Penrose lattice SU-type Lie algebra fields on the Penrose lattice.
+archiveprefix: arXiv
+author: Miura, Takeo
+author_list:
+- family: Miura
+  given: Takeo
+eprint: 1207.6840v1
+file: 1207.6840v1.pdf
+files:
+- tmp6w-af5zj.pdf
+month: Jul
+primaryclass: math-ph
+ref: 1207.6840v1
+tags: nonlocal-space moyal-bracket penrose-lattice math differential-geometry emergent-geometry
+  fundamental-physics lattice
+time-added: 2021-04-22-12:13:50
+title: Generation of Nonlocal Spaces from Moyal Brackets and Penrose Lattices   by
+  way of example
+type: article
+url: http://arxiv.org/abs/1207.6840v1
+year: '2012'

@@ -1,0 +1,100 @@
+author: Vallès-Català, Toni and Massucci, Francesco A. and Guimerà, Roger and Sales-Pardo,
+  Marta
+author_list:
+- affiliation: []
+  family: Vallès-Català
+  given: Toni
+- affiliation: []
+  family: Massucci
+  given: Francesco A.
+- affiliation: []
+  family: Guimerà
+  given: Roger
+- affiliation: []
+  family: Sales-Pardo
+  given: Marta
+citations:
+- doi: 10.1038/nrg1272
+- doi: 10.1038/nrn2575
+- doi: 10.1038/nrg2918
+- doi: 10.1016/j.pharmthera.2013.01.016
+- doi: 10.1016/j.tree.2012.08.005
+- doi: 10.1126/science.1253497
+- doi: 10.1126/science.1173644
+- doi: 10.1126/science.1165821
+- doi: 10.1038/nphys2162
+- doi: 10.1038/nature03288
+- doi: 10.1103/PhysRevLett.96.114102
+- doi: 10.1038/nphys489
+- doi: 10.1038/nature09182
+- doi: 10.1016/j.physrep.2009.11.002
+- doi: 10.1086/226141
+- doi: 10.1016/0378-8733(83)90021-7
+- doi: 10.1198/016214501753208735
+- doi: 10.1103/PhysRevE.83.016107
+- doi: 10.1103/PhysRevLett.107.065701
+- doi: 10.1109/MSP.2012.2235191
+- doi: 10.1103/PhysRevLett.110.148701
+- doi: 10.1103/PhysRevX.4.011047
+- doi: 10.1103/PhysRevE.89.012804
+- doi: 10.1103/PhysRevE.90.012805
+- doi: 10.1093/comnet/cnu026
+- doi: 10.1088/1742-5468/2014/05/P05007
+- doi: 10.1073/pnas.0908366106
+- doi: 10.1371/journal.pone.0027188
+- doi: 10.1371/journal.pone.0044620
+- doi: 10.1038/srep01999
+- doi: 10.1371/journal.pcbi.1003374
+- doi: 10.1093/comnet/cnu016
+- doi: 10.1103/PhysRevLett.109.128703
+- doi: 10.1038/nphys2761
+- doi: 10.1103/PhysRevLett.110.028701
+- doi: 10.1103/PhysRevX.3.041022
+- doi: 10.1073/pnas.1318469111
+- doi: 10.1103/PhysRevX.4.041005
+- doi: 10.1126/science.1184819
+- author: K. Miller
+  volume-title: Advances in Neural Information Processing Systems 22
+  year: '2009'
+- author: K. Palla
+  volume-title: Proceedings of the 29th International Conference on Machine Learning
+    (ICML-12)
+  year: '2012'
+- author: M. Kim
+  volume-title: Advances in Neural Information Processing Systems 26
+  year: '2013'
+- doi: 10.1038/srep02522
+- doi: 10.1038/nature06830
+- doi: 10.1093/nar/gkj109
+- doi: 10.1073/pnas.0407994102
+- doi: 10.1098/rstb.1986.0056
+- doi: 10.1103/PhysRevE.68.065103
+- doi: 10.1126/science.298.5594.824
+- doi: 10.1142/S0219525903001067
+- doi: 10.1073/pnas.122653799
+- author: E. T. Jaynes
+  doi: 10.1017/CBO9780511790423
+  volume-title: 'Probability Theory: The Logic of Science'
+  year: '2003'
+- doi: 10.1080/01621459.1995.10476572
+- doi: 10.1073/pnas.0703740104
+doc_url: http://harvest.aps.org/v2/journals/articles/10.1103/PhysRevX.6.011036/fulltext
+doi: 10.1103/physrevx.6.011036
+files:
+- multilayer-stochastic-block-models.pdf
+- tmp73-scn4f-a.pdf
+issue: '1'
+journal: Physical Review X
+language: en
+month: 3
+publisher: American Physical Society (APS)
+ref: MultilayerStocValles2016
+tags: network graph-theory math multilayer-network stochastic-network block-model
+  complex-system
+time-added: 2021-04-22-11:39:39
+title: Multilayer Stochastic Block Models Reveal the Multilayer Structure of Complex
+  Networks
+type: article
+url: http://dx.doi.org/10.1103/physrevx.6.011036
+volume: '6'
+year: 2016

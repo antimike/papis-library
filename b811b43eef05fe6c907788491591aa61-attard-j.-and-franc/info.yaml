@@ -1,0 +1,35 @@
+abstract: Gauge symmetries are a cornerstone of modern physics but they come with
+  technical difficulties when it comes to quantization, to accurately describe particles
+  phenomenology or to extract observables in general. These shortcomings must be met
+  by essentially finding a way to effectively reduce gauge symmetries. We propose
+  a review of a way to do so which we call the dressing field method. We show how
+  the BRST algebra satisfied by gauge fields, encoding their gauge transformations,
+  is modified. We outline noticeable applications of the method, such as the electroweak
+  sector of the Standard Model and the local twistors of Penrose.
+archiveprefix: arXiv
+author: Attard, J. and François, J. and Lazzarini, S. and Masson, T.
+author_list:
+- family: Attard
+  given: J.
+- family: François
+  given: J.
+- family: Lazzarini
+  given: S.
+- family: Masson
+  given: T.
+doi: 10.1007/978-3-319-64813-2_13
+eprint: 1702.02753v1
+file: 1702.02753v1.pdf
+files:
+- tmp6f3dva-2.pdf
+month: Feb
+note: Chapter in Foundations of Mathematics and Physics One Century   After Hilbert,
+  pp 377-415, 2018
+primaryclass: math-ph
+ref: 1702.02753v1
+tags: dressing-field gauge-theory symmetry review theory gr cosmology hep
+time-added: 2021-04-22-12:32:32
+title: The dressing field method of gauge symmetry reduction, a review with   examples
+type: article
+url: http://arxiv.org/abs/1702.02753v1
+year: '2017'

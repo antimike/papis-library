@@ -1,0 +1,46 @@
+abstract: We study the transient dynamics of an $A+B \rightarrow 0$ process on a pair
+  of randomly coupled networks, where reactants are initially separated. We find that,
+  for sufficiently small fractions $q$ of cross-couplings, the concentration of $A$
+  (or $B$) particles decays linearly in a first stage and crosses over to a second
+  linear decrease at a mixing time $t_x$. By numerical and analytical arguments, we
+  show that for symmetric and homogeneous structures $t_x\propto(\nicefrac{\langle
+  k \rangle}{q})\log(\nicefrac{\langle k \rangle}{q})$ where $\langle k \rangle$ is
+  the mean degree of both networks. Being this behavior in marked contrast with a
+  purely diffusive process---where the mixing time would go simply like $\langle k\rangle/q$---we
+  identify the logarithmic slowing down in $t_x$ to be the result of a novel spontaneous
+  mechanism of {\em repulsion} between the reactants $A$ and $B$ due to the interactions
+  taking place at the networks' interface. We show numerically how this spontaneous
+  repulsion effect depends on the topology of the underlying networks.
+archiveprefix: arXiv
+author: Lazaridis, Filippos and Gross, Bnaya and Maragakis, Michael and Argyrakis,
+  Panos and Bonamassa, Ivan and Havlin, Shlomo and Cohen, Reuven
+author_list:
+- family: Lazaridis
+  given: Filippos
+- family: Gross
+  given: Bnaya
+- family: Maragakis
+  given: Michael
+- family: Argyrakis
+  given: Panos
+- family: Bonamassa
+  given: Ivan
+- family: Havlin
+  given: Shlomo
+- family: Cohen
+  given: Reuven
+doi: 10.1103/PhysRevE.97.040301
+eprint: 1804.05337v1
+file: 1804.05337v1.pdf
+files:
+- tmp3ggg90ub.pdf
+month: Apr
+note: Phys. Rev. E, Rapid Communication 97, 040301 (2018)
+primaryclass: cond-mat.stat-mech
+ref: 1804.05337v1
+tags: network graph-theory math spontaneous network-repulsion coupled-network reaction
+time-added: 2021-04-22-10:48:33
+title: Spontaneous repulsion in the $A+B\to0$ reaction on coupled networks
+type: article
+url: http://arxiv.org/abs/1804.05337v1
+year: '2018'

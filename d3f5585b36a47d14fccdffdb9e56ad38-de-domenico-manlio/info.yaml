@@ -1,0 +1,327 @@
+author: De Domenico, Manlio and Nicosia, Vincenzo and Arenas, Alexandre and Latora,
+  Vito
+author_list:
+- affiliation: []
+  family: De Domenico
+  given: Manlio
+- affiliation: []
+  family: Nicosia
+  given: Vincenzo
+- affiliation: []
+  family: Arenas
+  given: Alexandre
+- affiliation: []
+  family: Latora
+  given: Vito
+citations:
+- author: R Albert
+  doi: 10.1103/RevModPhys.74.47
+  first-page: '47'
+  journal-title: Rev. Mod. Phys.
+  unstructured: Albert, R. & Barabási, A.-L. Statistical mechanics of complex networks.
+    Rev. Mod. Phys. 74, 47 (2002).
+  volume: '74'
+  year: '2002'
+- author: ME Newman
+  doi: 10.1137/S003614450342480
+  first-page: '167'
+  journal-title: SIAM Rev.
+  unstructured: Newman, M. E. The structure and function of complex networks. SIAM
+    Rev. 45, 167–256 (2003).
+  volume: '45'
+  year: '2003'
+- author: S Boccaletti
+  doi: 10.1016/j.physrep.2005.10.009
+  first-page: '175'
+  journal-title: Phys. Rep.
+  unstructured: 'Boccaletti, S., Latora, V., Moreno, Y., Chavez, M. & Hwang, D.-U.
+    Complex networks: structure and dynamics. Phys. Rep. 424, 175–308 (2006).'
+  volume: '424'
+  year: '2006'
+- doi: 10.1086/230190
+  unstructured: Padgett, J. F. & Ansell, C. K. Robust action and the rise of the Medici,
+    1400-1434. Am. J. Sociol. 1259–1319 (1993).
+- author: D Krackhardt
+  doi: 10.1016/0378-8733(87)90009-8
+  first-page: '109'
+  journal-title: Soc. Networks
+  unstructured: Krackhardt, D. Cognitive social structures. Soc. Networks 9, 109–134
+    (1987).
+  volume: '9'
+  year: '1987'
+- doi: 10.1017/CBO9780511815478
+  unstructured: 'Wasserman, S. & Faust, K. Social Network Analysis: Methods and Applications.
+    Structural Analysis in the Social Sciences Cambridge University Press (1994).'
+- author: A Cardillo
+  doi: 10.1038/srep01344
+  first-page: '1344'
+  journal-title: Sci. Rep.
+  unstructured: Cardillo, A. et al. Emergence of network features from multiplexity.
+    Sci. Rep. 3, 1344 (2013).
+  volume: '3'
+  year: '2013'
+- author: SV Buldyrev
+  doi: 10.1038/nature08932
+  first-page: '1025'
+  journal-title: Nature
+  unstructured: Buldyrev, S. V., Parshani, R., Paul, G., Stanley, H. E. & Havlin,
+    S. Catastrophic cascade of failures in interdependent networks. Nature 464, 1025–1028
+    (2010).
+  volume: '464'
+  year: '2010'
+- author: PJ Mucha
+  doi: 10.1126/science.1184819
+  first-page: '876'
+  journal-title: Science
+  unstructured: Mucha, P. J., Richardson, T., Macon, K., Porter, M. A. & Onnela, J.-P.
+    Community structure in time-dependent, multiscale, and multiplex networks. Science
+    328, 876–878 (2010).
+  volume: '328'
+  year: '2010'
+- author: M De Domenico
+  first-page: '041022'
+  journal-title: Phys. Rev. X
+  unstructured: De Domenico, M. et al. Mathematical formulation of multilayer networks.
+    Phys. Rev. X 3, 041022 (2013).
+  volume: '3'
+  year: '2013'
+- author: V Nicosia
+  doi: 10.1103/PhysRevLett.111.058701
+  first-page: 058701
+  journal-title: Phys. Rev. Lett.
+  unstructured: Nicosia, V., Bianconi, G., Latora, V. & Barthelemy, M. Growing multiplex
+    networks. Phys. Rev. Lett. 111, 058701 (2013).
+  volume: '111'
+  year: '2013'
+- author: M Kivelä
+  doi: 10.1093/comnet/cnu016
+  first-page: '203'
+  journal-title: J. Complex Networks
+  unstructured: Kivelä, M. et al. Multilayer networks. J. Complex Networks 2, 203–271
+    (2014).
+  volume: '2'
+  year: '2014'
+- author: M Kurant
+  doi: 10.1103/PhysRevLett.96.138701
+  first-page: '138701'
+  journal-title: Phys. Rev. Lett.
+  unstructured: Kurant, M. & Thiran, P. Layered complex networks. Phys. Rev. Lett.
+    96, 138701 (2006).
+  volume: '96'
+  year: '2006'
+- author: M Szell
+  doi: 10.1073/pnas.1004008107
+  first-page: '13636'
+  journal-title: Proc. Natl Acad. Sci. USA
+  unstructured: Szell, M., Lambiotte, R. & Thurner, S. Multirelational organization
+    of large-scale social networks in an online world. Proc. Natl Acad. Sci. USA 107,
+    13636–13641 (2010).
+  volume: '107'
+  year: '2010'
+- author: L Solá
+  doi: 10.1063/1.4818544
+  first-page: '033131'
+  journal-title: Chaos
+  unstructured: Solá, L. et al. Eigenvector centrality of nodes in multiplex networks.
+    Chaos 23, 033131 (2013).
+  volume: '23'
+  year: '2013'
+- author: G Bianconi
+  doi: 10.1103/PhysRevE.87.062806
+  first-page: 062806
+  journal-title: Phys. Rev. E
+  unstructured: 'Bianconi, G. Statistical mechanics of multiplex networks: Entropy
+    and overlap. Phys. Rev. E 87, 062806 (2013).'
+  volume: '87'
+  year: '2013'
+- author: F Battiston
+  doi: 10.1103/PhysRevE.89.032804
+  first-page: 032804
+  journal-title: Phys. Rev. E
+  unstructured: Battiston, F., Nicosia, V. & Latora, V. Structural measures for multiplex
+    networks. Phys. Rev. E 89, 032804 (2014).
+  volume: '89'
+  year: '2014'
+- author: RJ Sanchez-Garcia
+  doi: 10.1103/PhysRevE.89.052815
+  first-page: 052815
+  journal-title: Phys. Rev. E
+  unstructured: Sanchez-Garcia, R. J., Cozzo, E. & Moreno, Y. Dimensionality reduction
+    and spectral properties of multilayer networks. Phys. Rev. E 89, 052815 (2014).
+  volume: '89'
+  year: '2014'
+- doi: 10.1038/ncomms7868
+  unstructured: De Domenico, M., Solé-Ribalta, A., Omodei, E., Gómez, S. & Arenas,
+    A. Ranking nodes in interconnected multilayer networks reveals their versatility.
+    Nat. Commun. doi:10.1038/ncomms7868 (2015).
+- unstructured: "Nicosia, V. & Latora, V. Measuring and modelling correlations in\
+    \ multiplex networks. Preprint at\n                    http://arxiv.org/abs/1403.1546\n\
+    \                    \n                   (2014)."
+- author: S Gómez
+  doi: 10.1103/PhysRevLett.110.028701
+  first-page: 028701
+  journal-title: Phys. Rev. Lett.
+  unstructured: Gómez, S. et al. Diffusion dynamics on multiplex networks. Phys. Rev.
+    Lett. 110, 028701 (2013).
+  volume: '110'
+  year: '2013'
+- author: D Cellai
+  doi: 10.1103/PhysRevE.88.052811
+  first-page: 052811
+  journal-title: Phys. Rev. E
+  unstructured: Cellai, D., López, E., Zhou, J., Gleeson, J. P. & Bianconi, G. Percolation
+    in multiplex networks with overlap. Phys. Rev. E 88, 052811 (2013).
+  volume: '88'
+  year: '2013'
+- author: E Estrada
+  doi: 10.1103/PhysRevE.89.042819
+  first-page: 042819
+  journal-title: Phys. Rev. E
+  unstructured: Estrada, E. & Gómez-Gardeñes, J. Communicability reveals a transition
+    to coordinated behavior in multiplex networks. Phys. Rev. E 89, 042819 (2014).
+  volume: '89'
+  year: '2014'
+- author: M De Domenico
+  doi: 10.1073/pnas.1318469111
+  first-page: '8351'
+  journal-title: Proc. Natl Acad. Sci. USA
+  unstructured: De Domenico, M., Solé-Ribalta, A., Gómez, S. & Arenas, A. Navigability
+    of interconnected networks under random failures. Proc. Natl Acad. Sci. USA 111,
+    8351–8356 (2014).
+  volume: '111'
+  year: '2014'
+- author: C Granell
+  doi: 10.1103/PhysRevLett.111.128701
+  first-page: '128701'
+  journal-title: Phys. Rev. Lett.
+  unstructured: Granell, C., Gómez, S. & Arenas, A. Dynamical interplay between awareness
+    and epidemic spreading in multiplex networks. Phys. Rev. Lett. 111, 128701 (2013).
+  volume: '111'
+  year: '2013'
+- author: F Radicchi
+  doi: 10.1038/nphys2761
+  first-page: '717'
+  journal-title: Nat. Phys.
+  unstructured: Radicchi, F. & Arenas, A. Abrupt transition in the structural formation
+    of interconnected networks. Nat. Phys. 9, 717–720 (2013).
+  volume: '9'
+  year: '2013'
+- author: V Nicosia
+  doi: 10.1103/PhysRevE.90.042807
+  first-page: 042807
+  journal-title: Phys. Rev. E
+  unstructured: Nicosia, V., Bianconi, G., Latora, V. & Barthelemy, M. Non-linear
+    growth and condensation in multiplex networks. Phys. Rev. E 90, 042807 (2014).
+  volume: '90'
+  year: '2014'
+- author: A Majtey
+  doi: 10.1103/PhysRevA.72.052310
+  first-page: '052310'
+  journal-title: Phys. Rev. A
+  unstructured: Majtey, A., Lamberti, P. & Prato, D. Jensen-Shannon divergence as
+    a measure of distinguishability between mixed quantum states. Phys. Rev. A 72,
+    052310 (2005).
+  volume: '72'
+  year: '2005'
+- unstructured: Dirac, P. A. M. The Principles of Quantum Mechanics 27, Oxford University
+    Press (1981).
+- author: R Rossignoli
+  doi: 10.1103/PhysRevA.82.052342
+  first-page: '052342'
+  journal-title: Phys. Rev. A
+  unstructured: Rossignoli, R., Canosa, N. & Ciliberti, L. Generalized entropic measures
+    of quantum correlations. Phys. Rev. A 82, 052342 (2010).
+  volume: '82'
+  year: '2010'
+- author: SL Braunstein
+  doi: 10.1007/s00026-006-0289-3
+  first-page: '291'
+  journal-title: Ann. Combinatorics
+  unstructured: 'Braunstein, S. L., Ghosh, S. & Severini, S. The Laplacian of a graph
+    as a density matrix: a basic combinatorial approach to separability of mixed states.
+    Ann. Combinatorics 10, 291–317 (2006).'
+  volume: '10'
+  year: '2006'
+- doi: 10.4018/978-1-60960-171-3.ch005
+  unstructured: 'Passerini, F. & Severini, S. in Developments in Intelligent Agent
+    Technologies and Multi-Agent Systems: Concepts and Applications 66–76 (2011).'
+- unstructured: "De Beaudrap, N., Giovannetti, V., Severini, S. & Wilson, R. Interpreting\
+    \ the Von Neumann entropy of graph laplacians, and coentropic graphs. Preprint\
+    \ at\n                    http://arxiv.org/abs/1304.7946\n                   \
+    \ \n                   (2013)."
+- doi: 10.1002/9780470316801
+  unstructured: 'Kaufman, L. & Rousseeuw, P. J. Finding Groups in Data: An Introduction
+    to Cluster Analysis John Wiley and Sons: New York, (1990).'
+- author: C Stark
+  doi: 10.1093/nar/gkj109
+  first-page: D535
+  journal-title: Nucleic Acids Res.
+  unstructured: 'Stark, C. et al. Biogrid: a general repository for interaction datasets.
+    Nucleic Acids Res. 34, D535–D539 (2006).'
+  volume: '34'
+  year: '2006'
+- author: M De Domenico
+  first-page: '011027'
+  journal-title: Phys. Rev. X.
+  unstructured: De Domenico, M., Lancichinetti, A., Arenas, A. & Rosvall, M. Identifying
+    modular flows on multilayer networks reveals highly overlapping organization in
+    interconnected systems. Phys. Rev. X. 5, 011027 (2015).
+  volume: '5'
+  year: '2015'
+- author: A Solé-Ribalta
+  doi: 10.1103/PhysRevE.88.032807
+  first-page: 032807
+  journal-title: Phys. Rev. E
+  unstructured: Solé-Ribalta, A. et al. Spectral properties of the Laplacian of multiplex
+    networks. Phys. Rev. E 88, 032807 (2013).
+  volume: '88'
+  year: '2013'
+- author: E Cozzo
+  doi: 10.1103/PhysRevE.88.050801
+  first-page: 050801
+  journal-title: Phys. Rev. E
+  unstructured: Cozzo, E., Banos, R. A., Meloni, S. & Moreno, Y. Contact-based social
+    contagion in multiplex networks. Phys. Rev. E 88, 050801 (2013).
+  volume: '88'
+  year: '2013'
+- author: K-M Lee
+  doi: 10.1103/PhysRevE.90.062816
+  first-page: 062816
+  journal-title: Phys. Rev. E
+  unstructured: Lee, K.-M., Brummitt, C. D. & Goh, K.-I. Threshold cascades with response
+    heterogeneity in multiplex networks. Phys. Rev. E 90, 062816 (2014).
+  volume: '90'
+  year: '2014'
+- author: J Briët
+  doi: 10.1103/PhysRevA.79.052311
+  first-page: '052311'
+  journal-title: Phys. Rev. A
+  unstructured: Briët, J. & Harremoës, P. Properties of classical and quantum Jensen-Shannon
+    divergence. Phys. Rev. A 79, 052311 (2009).
+  volume: '79'
+  year: '2009'
+- author: P Lamberti
+  doi: 10.1103/PhysRevA.77.052311
+  first-page: '052311'
+  journal-title: Phys. Rev. A
+  unstructured: Lamberti, P., Majtey, A., Borras, A., Casas, M. & Plastino, A. Metric
+    character of the quantum Jensen-Shannon divergence. Phys. Rev. A 77, 052311 (2008).
+  volume: '77'
+  year: '2008'
+doc_url: http://www.nature.com/articles/ncomms7864
+doi: 10.1038/ncomms7864
+files:
+- multilayer-network-reducibility.pdf
+issue: '1'
+journal: Nature Communications
+language: en
+month: 11
+publisher: Springer Science and Business Media LLC
+ref: StructuralReduDeDom2015
+time-added: 2021-04-22-10:52:51
+title: Structural reducibility of multilayer networks
+type: article
+url: http://dx.doi.org/10.1038/ncomms7864
+volume: '6'
+year: 2015
+tags: network math multilayer-network network-reducibility complex-system

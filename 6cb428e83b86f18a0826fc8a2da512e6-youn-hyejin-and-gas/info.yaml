@@ -1,0 +1,35 @@
+abstract: Uncoordinated individuals in human society pursuing their personally optimal
+  strategies do not always achieve the social optimum, the most beneficial state to
+  the society as a whole. Instead, strategies form Nash equilibria which are often
+  socially suboptimal. Society, therefore, has to pay a price of anarchy for the lack
+  of coordination among its members. Here we assess this price of anarchy by analyzing
+  the travel times in road networks of several major cities. Our simulation shows
+  that uncoordinated drivers possibly waste a considerable amount of their travel
+  time. Counterintuitively,simply blocking certain streets can partially improve the
+  traffic conditions. We analyze various complex networks and discuss the possibility
+  of similar paradoxes in physics.
+archiveprefix: arXiv
+author: Youn, Hyejin and Gastner, Michael T. and Jeong, Hawoong
+author_list:
+- family: Youn
+  given: Hyejin
+- family: Gastner
+  given: Michael T.
+- family: Jeong
+  given: Hawoong
+doi: 10.1103/PhysRevLett.101.128701
+eprint: 0712.1598v4
+file: 0712.1598v4.pdf
+files:
+- tmpp4sefs7j.pdf
+month: Dec
+note: Phys. Rev. Lett. 101(12):128701 (2008)
+primaryclass: physics.soc-ph
+ref: 0712.1598v4
+tags: network graph-theory math anarchy braess-paradox
+time-added: 2021-04-22-16:09:00
+title: 'The Price of Anarchy in Transportation Networks: Efficiency and   Optimality
+  Control'
+type: article
+url: http://arxiv.org/abs/0712.1598v4
+year: '2007'

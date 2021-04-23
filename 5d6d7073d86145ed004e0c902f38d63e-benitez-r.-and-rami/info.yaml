@@ -1,0 +1,34 @@
+abstract: We present a derivation of the sharp-interface limit of a generic fluctuating
+  phase-field model for solidification. As a main result, we obtain a sharp-interface
+  projection which presents noise terms in both the diffusion equation and in the
+  moving boundary conditions. The presented procedure does not rely on the fluctuation-dissipation
+  theorem, and can therefore be applied to account for both internal and external
+  fluctuations in either variational or non-variational phase-field formulations.
+  In particular, it can be used to introduce thermodynamical fluctuations in non-variational
+  formulations of the phase-field model, which permit to reach better computational
+  efficiency and provide more flexibility for describing some features of specific
+  physical situations. This opens the possibility of performing quantitative phase-field
+  simulations in crystal growth while accounting for the proper fluctuations of the
+  system.
+archiveprefix: arXiv
+author: Benítez, R. and Ramírez-Piscina, L.
+author_list:
+- family: Benítez
+  given: R.
+- family: Ramírez-Piscina
+  given: L.
+doi: 10.1103/PhysRevE.71.061603
+eprint: cond-mat/0409707v2
+file: cond-mat/0409707v2.pdf
+files:
+- tmphwj7we5h.pdf
+month: Sep
+primaryclass: cond-mat.mtrl-sci
+ref: cond-mat/0409707v2
+tags: cmt midterm-paper phase-field fluctuation sharp-interface-limit diffusion fluctuation-dissipation-theorem
+  statistical-physics
+time-added: 2021-04-22-17:29:44
+title: Sharp-Interface Limit of a Fluctuating Phase-Field Model
+type: article
+url: http://arxiv.org/abs/cond-mat/0409707v2
+year: '2004'

@@ -1,0 +1,46 @@
+abstract: Knowing which individuals can be more efficient in spreading a pathogen
+  throughout a determinate environment is a fundamental question in disease control.
+  Indeed, over the last years the spread of epidemic diseases and its relationship
+  with the topology of the involved system have been a recurrent topic in complex
+  network theory, taking into account both network models and real-world data. In
+  this paper we explore possible correlations between the heterogeneous spread of
+  an epidemic disease governed by the susceptible-infected-recovered (SIR) model,
+  and several attributes of the originating vertices, considering Erd\"os-R\'enyi
+  (ER), Barab\'asi-Albert (BA) and random geometric graphs (RGG), as well as a real
+  case of study, the US Air Transportation Network that comprises the US 500 busiest
+  airports along with inter-connections. Initially, the heterogeneity of the spreading
+  is achieved considering the RGG networks, in which we analytically derive an expression
+  for the distribution of the spreading rates among the established contacts, by assuming
+  that such rates decay exponentially with the distance that separates the individuals.
+  Such distribution is also considered for the ER and BA models, where we observe
+  topological effects on the correlations. In the case of the airport network, the
+  spreading rates are empirically defined, assumed to be directly proportional to
+  the seat availability. Among both the theoretical and the real networks considered,
+  we observe a high correlation between the total epidemic prevalence and the degree,
+  as well as the strength and the accessibility of the epidemic sources. For attributes
+  such as the betweenness centrality and the $k$-shell index, however, the correlation
+  depends on the topology considered.
+archiveprefix: arXiv
+author: da Silva, Renato Aparecido Pimentel and Viana, Matheus Palhares and da Fontoura
+  Costa, Luciano
+author_list:
+- family: da Silva
+  given: Renato Aparecido Pimentel
+- family: Viana
+  given: Matheus Palhares
+- family: da Fontoura Costa
+  given: Luciano
+doi: 10.1088/1742-5468/2012/07/P07005
+eprint: 1202.0024v2
+file: 1202.0024v2.pdf
+files:
+- tmpwvqtzgzk.pdf
+month: Jan
+primaryclass: physics.soc-ph
+ref: 1202.0024v2
+tags: network graph-theory math epidemic centrality node-influence-metric graph-theory
+time-added: 2021-04-22-15:33:17
+title: Predicting epidemic outbreak from individual features of the spreaders
+type: article
+url: http://arxiv.org/abs/1202.0024v2
+year: '2012'

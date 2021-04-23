@@ -1,0 +1,31 @@
+abstract: The quantification of the complexity of networks is, today, a fundamental
+  problem in the physics of complex systems. A possible roadmap to solve the problem
+  is via extending key concepts of information theory to networks. In this paper we
+  propose how to define the Shannon entropy of a network ensemble and how it relates
+  to the Gibbs and von Neumann entropies of network ensembles. The quantities we introduce
+  here will play a crucial role for the formulation of null models of networks through
+  maximum-entropy arguments and will contribute to inference problems emerging in
+  the field of complex networks.
+archiveprefix: arXiv
+author: Anand, Kartik and Bianconi, Ginestra
+author_list:
+- family: Anand
+  given: Kartik
+- family: Bianconi
+  given: Ginestra
+doi: 10.1103/PhysRevE.80.045102
+eprint: 0907.1514v2
+file: 0907.1514v2.pdf
+files:
+- tmpjhwwjl-8.pdf
+month: Jul
+note: Phys. Rev. E 80, 045102(R) (2009)
+primaryclass: cond-mat.dis-nn
+ref: 0907.1514v2
+tags: network graph-theory math entropy topology information-theory
+time-added: 2021-04-22-10:14:17
+title: 'Entropy measures for complex networks: Toward an information theory of   complex
+  topologies'
+type: article
+url: http://arxiv.org/abs/0907.1514v2
+year: '2009'

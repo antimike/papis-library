@@ -1,0 +1,39 @@
+abstract: We study the time scales associated to diffusion processes that take place
+  on multiplex networks, i.e. on a set of networks linked through interconnected layers.
+  To this end, we propose the construction of a supra-Laplacian matrix, which consists
+  of a dimensional lifting of the Laplacian matrix of each layer of the multiplex
+  network. We use perturbative analysis to reveal analytically the structure of eigenvectors
+  and eigenvalues of the complete network in terms of the spectral properties of the
+  individual layers. The spectrum of the supra-Laplacian allows us to understand the
+  physics of diffusion-like processes on top of multiplex networks.
+archiveprefix: arXiv
+author: Gomez, Sergio and Diaz-Guilera, Albert and Gomez-Gardeñes, Jesus and Perez-Vicente,
+  Conrad J. and Moreno, Yamir and Arenas, Alex
+author_list:
+- family: Gomez
+  given: Sergio
+- family: Diaz-Guilera
+  given: Albert
+- family: Gomez-Gardeñes
+  given: Jesus
+- family: Perez-Vicente
+  given: Conrad J.
+- family: Moreno
+  given: Yamir
+- family: Arenas
+  given: Alex
+doi: 10.1103/PhysRevLett.110.028701
+eprint: 1207.2788v2
+file: 1207.2788v2.pdf
+files:
+- tmpmk8wwf59.pdf
+month: Jul
+note: Physical Review Letters 110 (2013) 028701
+primaryclass: physics.soc-ph
+ref: 1207.2788v2
+tags: network graph-theory math diffusion dynamic-network multiplex physics
+time-added: 2021-04-22-10:47:12
+title: Diffusion dynamics on multiplex networks
+type: article
+url: http://arxiv.org/abs/1207.2788v2
+year: '2012'

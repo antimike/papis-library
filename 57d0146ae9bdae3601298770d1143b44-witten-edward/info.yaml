@@ -1,0 +1,28 @@
+abstract: Perturbative scattering amplitudes in Yang-Mills theory have many unexpected
+  properties, such as holomorphy of the maximally helicity violating amplitudes. To
+  interpret these results, we Fourier transform the scattering amplitudes from momentum
+  space to twistor space, and argue that the transformed amplitudes are supported
+  on certain holomorphic curves. This in turn is apparently a consequence of an equivalence
+  between the perturbative expansion of ${\cal N}=4$ super Yang-Mills theory and the
+  $D$-instanton expansion of a certain string theory, namely the topological $B$ model
+  whose target space is the Calabi-Yau supermanifold $\Bbb{CP}^{3|4}$.
+archiveprefix: arXiv
+author: Witten, Edward
+author_list:
+- family: Witten
+  given: Edward
+doi: 10.1007/s00220-004-1187-3
+eprint: hep-th/0312171v2
+file: hep-th/0312171v2.pdf
+files:
+- tmp3hdiroj8.pdf
+month: Dec
+note: Commun.Math.Phys.252:189-258,2004
+primaryclass: hep-th
+ref: hep-th/0312171v2
+tags: gauge-theory string-theory twistor perturbation-theory witten math theory
+time-added: 2021-04-22-13:48:05
+title: Perturbative Gauge Theory As A String Theory In Twistor Space
+type: article
+url: http://arxiv.org/abs/hep-th/0312171v2
+year: '2003'

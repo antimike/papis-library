@@ -1,0 +1,37 @@
+abstract: Huygens triviality-a concept invented by Jacques Hadamard-describes an equivalence
+  class connecting those 2nd order partial differential equations which are transformable
+  into the wave equation. In this work it is demonstrated, that the Schr\"odinger
+  equation with the time-independent Hamiltonian belongs to such an equivalence class.
+  The wave equation is the equation for which Huygens' principle (HP) holds. The HP
+  was a subject of confusion in both physics and mathematics literature for a long
+  time. Not surprisingly, the role of this principle was obscured from the beginnings
+  of quantum mechanics causing some theoretical and experimental misunderstandings.
+  The purpose of this work is to bring the full clarity into this topic. By doing
+  so, we obtained a large amount of new results related to uses of Lie sphere geometry,
+  of twistors, of Dupin cyclides, of null electromagnetic fields, of AdS-CFT correspondence,
+  of Penrose limits, of geometric algebra, etc. in physical problems ranging from
+  the atomic to high energy physics and cosmology.
+archiveprefix: arXiv
+author: Kholodenko, Arkady L. and Kauffman, Louis H.
+author_list:
+- family: Kholodenko
+  given: Arkady L.
+- family: Kauffman
+  given: Louis H.
+doi: 10.1016/j.aop.2018.01.003
+eprint: 1706.07045v2
+file: 1706.07045v2.pdf
+files:
+- tmpdvho4wna.pdf
+month: Jun
+note: Annals of Physics 390 (2018) 1-59
+primaryclass: physics.gen-ph
+ref: 1706.07045v2
+tags: huygens-principle pde wave-equation schroedinger hamiltonian theory twistor
+  lie-theory dupin-cyclide em ads-cft penrose-limit geometric-algebra
+time-added: 2021-04-22-12:31:47
+title: Huygens triviality of the time-independent Schrödinger equation.   Applications
+  to atomic and high energy physics
+type: article
+url: http://arxiv.org/abs/1706.07045v2
+year: '2017'

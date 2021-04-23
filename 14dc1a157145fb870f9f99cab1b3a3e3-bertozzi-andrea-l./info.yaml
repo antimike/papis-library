@@ -1,0 +1,108 @@
+author: Bertozzi, Andrea L. and Flenner, Arjuna
+author_list:
+- affiliation: []
+  family: Bertozzi
+  given: Andrea L.
+- affiliation: []
+  family: Flenner
+  given: Arjuna
+citations:
+- author: Ambrosio L.
+  first-page: '105'
+  journal-title: Boll. Un. Mat. Ital. B (7)
+  volume: '6'
+  year: '1992'
+- author: Amghibech S.
+  first-page: '283'
+  journal-title: Ars Combin.
+  volume: '67'
+  year: '2003'
+- doi: 10.1137/060660631
+- doi: 10.1109/TIP.2006.887728
+- author: Bertozzi A. L.
+  doi: 10.3934/dcds.2011.29.1367
+  first-page: '1367'
+  journal-title: Discrete Contin. Dyn. Syst.
+  volume: '29'
+  year: '2011'
+- doi: 10.1137/040616024
+- doi: 10.4171/IFB/64
+- doi: 10.1109/83.902291
+- doi: 10.1073/pnas.0500334102
+- author: Darbon J.
+  first-page: '351'
+  journal-title: Berlin
+  year: '2005'
+- doi: 10.1109/TIP.2008.919367
+- doi: 10.4171/IFB/243
+- author: Drineas P.
+  first-page: '2153'
+  journal-title: J. Mach. Learn. Res.
+  volume: '6'
+  year: '2005'
+- doi: 10.1088/0266-5611/20/1/007
+- doi: 10.1023/A:1021837026373
+- doi: 10.1017/S0956792502004904
+- doi: 10.1016/j.jcp.2005.05.027
+- doi: 10.1109/TPAMI.2004.1262185
+- doi: 10.1137/060669358
+- doi: 10.1137/070698592
+- doi: 10.1145/1217299.1217303
+- doi: 10.1137/080725891
+- doi: 10.1137/S0895479896312262
+- author: Hein H.
+  first-page: '847'
+  journal-title: MA
+  year: '2010'
+- doi: 10.1016/j.jcp.2005.07.004
+- doi: 10.1016/j.jcp.2003.07.035
+- doi: 10.1017/S0308210500025026
+- first-page: '715'
+  journal-title: MA
+  year: '2006'
+- doi: 10.1006/jcph.1994.1105
+- doi: 10.1109/34.868688
+- doi: 10.1145/263867.263872
+- author: Szlam A.
+  first-page: '1039'
+  journal-title: Omnipress
+  year: '2010'
+- author: Szlam A. D.
+  first-page: '1711'
+  journal-title: J. Mach. Learn. Res.
+  volume: '9'
+  year: '2008'
+- author: van de Weijer J.
+  first-page: '334'
+  journal-title: Heidelberg
+  year: '2006'
+- doi: 10.1007/s11263-005-4635-4
+- doi: 10.1103/PhysRevE.68.066703
+- doi: 10.1214/009053607000000640
+- author: Wagner D.
+  first-page: '744'
+  journal-title: Berlin
+  year: '1993'
+- doi: 10.1162/08997660360581958
+- author: Zelnik-Manor L.
+  first-page: '1601'
+  journal-title: MA
+  year: '2004'
+doi: 10.1137/11083109x
+files:
+- diffuse-interface-models-data-classification.pdf
+issue: '3'
+journal: Multiscale Modeling & Simulation
+language: en
+month: 1
+pages: 1090--1118
+publisher: Society for Industrial & Applied Mathematics (SIAM)
+ref: DiffuseInterfaBertoz2012
+tags: discrete-ginzburg-landau phase-field diffusion graph-theory computation algorithm
+  classification high-dimensional
+time-added: 2021-04-22-16:57:42
+title: Diffuse Interface Models on Graphs for Classification of High Dimensional Data
+type: article
+url: http://dx.doi.org/10.1137/11083109x
+volume: '10'
+year: 2012

@@ -1,0 +1,26 @@
+abstract: Mason and Skinner recently constructed a chiral infinite tension limit of
+  the Ramond-Neveu-Schwarz superstring which was shown to compute the Cachazo-He-Yuan
+  formulae for tree-level d=10 Yang-Mills amplitudes and the NS-NS sector of tree-level
+  d=10 supergravity amplitudes. In this letter, their chiral infinite tension limit
+  is generalized to the pure spinor superstring which computes a d=10 superspace version
+  of the Cachazo-He-Yuan formulae for tree-level d=10 super-Yang-Mills and supergravity
+  amplitudes.
+archiveprefix: arXiv
+author: Berkovits, Nathan
+author_list:
+- family: Berkovits
+  given: Nathan
+doi: 10.1007/JHEP03(2014)017
+eprint: 1311.4156v2
+file: 1311.4156v2.pdf
+files:
+- tmp4gijwn45.pdf
+month: Nov
+primaryclass: hep-th
+ref: 1311.4156v2
+tags: tension-limit superstring string-theory spinor hep theory
+time-added: 2021-04-22-13:38:17
+title: Infinite Tension Limit of the Pure Spinor Superstring
+type: article
+url: http://arxiv.org/abs/1311.4156v2
+year: '2013'

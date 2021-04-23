@@ -1,0 +1,46 @@
+abstract: The study of networks plays a crucial role in investigating the structure,
+  dynamics, and function of a wide variety of complex systems in myriad disciplines.
+  Despite the success of traditional network analysis, standard networks provide a
+  limited representation of complex systems, which often include different types of
+  relationships (i.e., "multiplexity") among their constituent components and/or multiple
+  interacting subsystems. Such structural complexity has a significant effect on both
+  dynamics and function. Throwing away or aggregating available structural information
+  can generate misleading results and be a major obstacle towards attempts to understand
+  complex systems.   The recent "multilayer" approach for modeling networked systems
+  explicitly allows the incorporation of multiplexity and other features of realistic
+  systems. On one hand, it allows one to couple different structural relationships
+  by encoding them in a convenient mathematical object. On the other hand, it also
+  allows one to couple different dynamical processes on top of such interconnected
+  structures. The resulting framework plays a crucial role in helping achieve a thorough,
+  accurate understanding of complex systems. The study of multilayer networks has
+  also revealed new physical phenomena that remain hidden when using ordinary graphs,
+  the traditional network representation. Here we survey progress towards attaining
+  a deeper understanding of spreading processes on multilayer networks, and we highlight
+  some of the physical phenomena related to spreading processes that emerge from multilayer
+  structure.
+archiveprefix: arXiv
+author: Domenico, Manlio De and Granell, Clara and Porter, Mason A. and Arenas, Alex
+author_list:
+- family: Domenico
+  given: Manlio De
+- family: Granell
+  given: Clara
+- family: Porter
+  given: Mason A.
+- family: Arenas
+  given: Alex
+doi: 10.1038/nphys3865
+eprint: 1604.02021v2
+file: 1604.02021v2.pdf
+files:
+- tmp5tvn2ztd.pdf
+month: Apr
+note: Nature Physics 12, 901 906 (2016)
+primaryclass: physics.soc-ph
+ref: 1604.02021v2
+tags: network graph-theory math spreading multilayer-network physics
+time-added: 2021-04-22-10:31:18
+title: The physics of spreading processes in multilayer networks
+type: article
+url: http://arxiv.org/abs/1604.02021v2
+year: '2016'

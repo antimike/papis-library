@@ -1,0 +1,96 @@
+author: Atiyah, M. F. and Ward, R. S.
+author_list:
+- affiliation: []
+  family: Atiyah
+  given: M. F.
+- affiliation: []
+  family: Ward
+  given: R. S.
+citations:
+- doi: 10.1073/pnas.74.7.2662
+  unstructured: 'Atiyah, M.F., Hitchin, N.J., Singer, I.M.: Proc. Nat. Acad. Sci.
+    U.S.74 (1977)'
+- author: W. Barth
+  doi: 10.1007/BF01360864
+  first-page: '125'
+  journal-title: Math. Ann.
+  unstructured: 'Barth, W.: Math. Ann.226, 125–150 (1977)'
+  volume: '226'
+  year: '1977'
+- author: H. Grauert
+  doi: 10.1007/BF01169064
+  first-page: '75'
+  journal-title: manuscripta math.
+  unstructured: 'Grauert, H., Mülich, G.: manuscripta math.16, 75–100 (1975)'
+  volume: '16'
+  year: '1975'
+- author: R. Jackiw
+  doi: 10.1103/PhysRevD.15.1642
+  first-page: '1642'
+  journal-title: Phys. Rev. D
+  unstructured: 'Jackiw, R., Nohl, C., Rebbi, C.: Phys. Rev. D15, 1642–1646 (1977)'
+  volume: '15'
+  year: '1977'
+- author: R. Jackiw
+  doi: 10.1016/0370-2693(77)90100-9
+  first-page: '189'
+  journal-title: Phys. Letters
+  unstructured: 'Jackiw, R., Rebbi, C.: Phys. Letters67B, 189–192 (1977)'
+  volume: 67B
+  year: '1977'
+- author: M. Maruyama
+  doi: 10.1017/S0027763000016688
+  first-page: '25'
+  journal-title: Nagoya Math. J.
+  unstructured: 'Maruyama, M.: Nagoya Math. J.58, 25–68 (1975)'
+  volume: '58'
+  year: '1975'
+- author: A. Newlander
+  doi: 10.2307/1970051
+  first-page: '391'
+  journal-title: Ann. Math.
+  unstructured: 'Newlander, A., Nirenberg, L.: Ann. Math.65, 391–404 (1957)'
+  volume: '65'
+  year: '1957'
+- unstructured: 'Penrose, R.: The twistor programme. Rept. Math., Phys., to appear'
+- author: A.S. Schwarz
+  doi: 10.1016/0370-2693(77)90095-8
+  first-page: '172'
+  journal-title: Phys. Letters
+  unstructured: 'Schwarz, A.S.: Phys. Letters67B, 172–174 (1977)'
+  volume: 67B
+  year: '1977'
+- author: J.P. Serre
+  doi: 10.5802/aif.59
+  first-page: '1'
+  journal-title: Ann. Inst. Fourier
+  unstructured: 'Serre, J.P.: Ann. Inst. FourierVI, 1–42 (1956)'
+  volume: VI
+  year: '1956'
+- author: R.S. Ward
+  doi: 10.1016/0375-9601(77)90842-8
+  first-page: '81'
+  journal-title: Phys. Letters
+  unstructured: 'Ward, R.S.: Phys. Letters61A, 81–82 (1977)'
+  volume: 61A
+  year: '1977'
+- unstructured: 'Witten, E.: Some exact multi-instanton solutions of classical Yang-Mills
+    theory (Preprint, 1976)'
+doc_url: http://link.springer.com/article/10.1007/BF01626514/fulltext.html
+doi: 10.1007/bf01626514
+files:
+- atiyah-ward1977-article-instantonsandalgebraicgeometry.pdf
+issue: '2'
+journal: Communications in Mathematical Physics
+language: en
+month: 6
+pages: 117--124
+publisher: Springer Science and Business Media LLC
+ref: InstantonsAndAtiyah1977
+tags: yang-mills instanton projective twistor atiyah anti-self-dual
+time-added: 2021-04-22-12:49:38
+title: Instantons and algebraic geometry
+type: article
+url: http://dx.doi.org/10.1007/bf01626514
+volume: '55'
+year: 1977

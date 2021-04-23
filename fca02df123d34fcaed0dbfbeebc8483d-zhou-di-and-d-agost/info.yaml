@@ -1,0 +1,37 @@
+abstract: It was recently recognized that interdependencies among different networks
+  can play a crucial role in triggering cascading failures and hence system-wide disasters.
+  A recent model shows how pairs of interdependent networks can exhibit an abrupt
+  percolation transition as failures accumulate. We report on the effects of topology
+  on failure propagation for a model system consisting of two interdependent networks.
+  We find that the internal node correlations in each of the two interdependent networks
+  significantly changes the critical density of failures that triggers the total disruption
+  of the two-network system. Specifically, we find that the assortativity (i.e. the
+  likelihood of nodes with similar degree to be connected) within a single network
+  decreases the robustness of the entire system. The results of this study on the
+  influence of assortativity may provide insights into ways of improving the robustness
+  of network architecture, and thus enhances the level of protection of critical infrastructures.
+archiveprefix: arXiv
+author: Zhou, Di and D'Agostino, Gregorio and Scala, Antonio and Stanley, H. Eugene
+author_list:
+- family: Zhou
+  given: Di
+- family: D'Agostino
+  given: Gregorio
+- family: Scala
+  given: Antonio
+- family: Stanley
+  given: H. Eugene
+doi: 10.1103/PhysRevE.86.066103
+eprint: 1203.0029v2
+file: 1203.0029v2.pdf
+files:
+- tmpu1e1itgv.pdf
+month: Feb
+primaryclass: physics.soc-ph
+ref: 1203.0029v2
+tags: network graph-theory math assortativity robustness interdependent-network multilayer-network
+time-added: 2021-04-22-10:39:07
+title: Assortativity Decreases the Robustness of Interdependent Networks
+type: article
+url: http://arxiv.org/abs/1203.0029v2
+year: '2012'

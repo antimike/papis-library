@@ -1,0 +1,47 @@
+abstract: 'Unveiling the community structure of networks is a powerful methodology
+  to comprehend interconnected systems across the social and natural sciences. To
+  identify different types of functional modules in interaction data aggregated in
+  a single network layer, researchers have developed many powerful methods. For example,
+  flow-based methods have proven useful for identifying modular dynamics in weighted
+  and directed networks that capture constraints on flow in the systems they represent.
+  However, many networked systems consist of agents or components that exhibit multiple
+  layers of interactions. Inevitably, representing this intricate network of networks
+  as a single aggregated network leads to information loss and may obscure the actual
+  organization. Here we propose a method based on compression of network flows that
+  can identify modular flows in non-aggregated multilayer networks. Our numerical
+  experiments on synthetic networks show that the method can accurately identify modules
+  that cannot be identified in aggregated networks or by analyzing the layers separately.
+  We capitalize on our findings and reveal the community structure of two multilayer
+  collaboration networks: scientists affiliated to the Pierre Auger Observatory and
+  scientists publishing works on networks on the arXiv. Compared to conventional aggregated
+  methods, the multilayer method reveals smaller modules with more overlap that better
+  capture the actual organization.'
+archiveprefix: arXiv
+author: Domenico, Manlio De and Lancichinetti, Andrea and Arenas, Alex and Rosvall,
+  Martin
+author_list:
+- family: Domenico
+  given: Manlio De
+- family: Lancichinetti
+  given: Andrea
+- family: Arenas
+  given: Alex
+- family: Rosvall
+  given: Martin
+doi: 10.1103/PhysRevX.5.011027
+eprint: 1408.2925v1
+file: 1408.2925v1.pdf
+files:
+- tmpz-f0cs3f.pdf
+month: Aug
+note: Phys. Rev. X 5, 011027 (2015)
+primaryclass: physics.soc-ph
+ref: 1408.2925v1
+tags: network graph-theory math multiscale-network modular-flow
+  community-structure
+time-added: 2021-04-22-10:22:45
+title: Identifying modular flows on multilayer networks reveals highly   overlapping
+  organization in social systems
+type: article
+url: http://arxiv.org/abs/1408.2925v1
+year: '2014'

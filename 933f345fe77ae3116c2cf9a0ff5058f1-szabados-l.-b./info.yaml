@@ -1,0 +1,35 @@
+abstract: The two dimensional version of the Sen connection for spinors and tensors
+  on spacelike 2-surfaces is constructed. A complex metric $\gamma_{AB}$ on the spin
+  spaces is found which characterizes both the algebraic and extrinsic geometrical
+  properties of the 2-surface $\$ $. The curvature of the two dimensional Sen operator
+  $\Delta_e$ is the pull back to $\$ $ of the anti-self-dual part of the spacetime
+  curvature while its `torsion' is a boost gauge invariant expression of the extrinsic
+  curvatures of $\$ $. The difference of the 2 dimensional Sen and the induced spin
+  connections is the anti-self-dual part of the `torsion'. The irreducible parts of
+  $\Delta_e$ are shown to be the familiar 2-surface twistor and the Weyl--Sen--Witten
+  operators. Two Sen--Witten type identities are derived, the first is an identity
+  between the 2 dimensional twistor and the Weyl--Sen--Witten operators and the integrand
+  of Penrose's charge integral, while the second contains the `torsion' as well. For
+  spinor fields satisfying the 2-surface twistor equation the first reduces to Tod's
+  formula for the kinematical twistor.
+archiveprefix: arXiv
+author: Szabados, L. B.
+author_list:
+- family: Szabados
+  given: L. B.
+doi: 10.1088/0264-9381/11/7/019
+eprint: gr-qc/9402001v1
+file: gr-qc/9402001v1.pdf
+files:
+- tmptqvo-2ug.pdf
+month: Feb
+note: Class.Quant.Grav.11:1833-1846,1994
+primaryclass: gr-qc
+ref: gr-qc/9402001v1
+tags: sen-connection gr 2D spinor spacelike-surface complex-metric torsion anti-self-dual
+  weyl-sen-witten-operator sen-witten-identity penrose-charge-integral tods-formula
+time-added: 2021-04-22-12:44:47
+title: Two dimensional Sen connections in general relativity
+type: article
+url: http://arxiv.org/abs/gr-qc/9402001v1
+year: '1994'

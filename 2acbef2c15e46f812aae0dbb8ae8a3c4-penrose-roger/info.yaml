@@ -1,0 +1,40 @@
+author: Penrose, Roger
+author_list:
+- affiliation: []
+  family: Penrose
+  given: Roger
+citations:
+- doi: 10.1063/1.1705200
+- doi: 10.1098/rspa.1936.0111
+- doi: 10.1098/rspa.1939.0140
+- doi: 10.1098/rspa.1939.0140
+- doi: 10.1103/PhysRev.112.674
+- doi: 10.1098/rspa.1965.0058
+- doi: 10.1098/rspa.1965.0058
+- doi: 10.1098/rspa.1962.0036
+- author: Goldberg J. N.
+  first-page: '13'
+  issn: http://id.crossref.org/issn/0001-673X
+  issn-type: print
+  journal-title: Acta Phys. Polon.
+  volume: '22'
+  year: '1962'
+- doi: 10.1063/1.1703712
+- doi: 10.1007/BF00668831
+doi: 10.1063/1.1664756
+files:
+- zero-rest-mass-solutions-penrose.pdf
+issue: '1'
+journal: Journal of Mathematical Physics
+language: en
+month: 1
+pages: 38--39
+publisher: AIP Publishing
+ref: SolutionsOfThPenros1969
+tags: penrose field-equation sr minkowski spinor contour-integral twistor
+time-added: 2021-04-22-13:00:34
+title: Solutions of the Zero‐Rest‐Mass Equations
+type: article
+url: http://dx.doi.org/10.1063/1.1664756
+volume: '10'
+year: 1969

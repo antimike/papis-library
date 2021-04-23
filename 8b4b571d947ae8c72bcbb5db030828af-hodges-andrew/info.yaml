@@ -1,0 +1,29 @@
+abstract: This note addresses the problem of spurious poles in gauge-theoretic scattering
+  amplitudes. New twistor coordinates for the momenta are introduced, based on the
+  concept of dual conformal invariance. The cancellation of spurious poles for a class
+  of NMHV amplitudes is greatly simplified in these coordinates. The poles are eliminated
+  altogether by defining a new type of twistor integral, dual to twistor diagrams
+  as previously studied, and considerably simpler. The geometric features indicate
+  a supersymmetric extension of the formalism at least to all NMHV amplitudes, allowing
+  the dihedral symmetry of the super-amplitude to be made manifest. More generally,
+  the definition of `momentum-twistor' coordinates suggests a powerful new approach
+  to the study of scattering amplitudes.
+archiveprefix: arXiv
+author: Hodges, Andrew
+author_list:
+- family: Hodges
+  given: Andrew
+eprint: 0905.1473v1
+file: 0905.1473v1.pdf
+files:
+- tmp8p9um1bm.pdf
+month: May
+primaryclass: hep-th
+ref: 0905.1473v1
+tags: renormalization gauge-theory scattering-amplitude spurious complex-analysis
+  hep qft
+time-added: 2021-04-22-13:40:39
+title: Eliminating spurious poles from gauge-theoretic amplitudes
+type: article
+url: http://arxiv.org/abs/0905.1473v1
+year: '2009'

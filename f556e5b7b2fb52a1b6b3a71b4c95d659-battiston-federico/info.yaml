@@ -1,0 +1,46 @@
+abstract: Efficient techniques to navigate networks with local information are fundamental
+  to sample large-scale online social systems and to retrieve resources in peer-to-peer
+  systems. Biased random walks, i.e. walks whose motion is biased on properties of
+  neighbouring nodes, have been largely exploited to design smart local strategies
+  to explore a network, for instance by constructing maximally mixing trajectories
+  or by allowing an almost uniform sampling of the nodes. Here we introduce and study
+  biased random walks on multiplex networks, graphs where the nodes are related through
+  different types of links organised in distinct and interacting layers, and we provide
+  analytical solutions for their long-time properties, including the stationary occupation
+  probability distribution and the entropy rate. We focus on degree-biased random
+  walks and distinguish between two classes of walks, namely those whose transition
+  probability depends on a number of parameters which is extensive in the number of
+  layers, and those whose motion depends on intrinsically multiplex properties of
+  the neighbouring nodes. We analyse the effect of the structure of the multiplex
+  network on the steady-state behaviour of the walkers, and we find that heterogeneous
+  degree distributions as well as the presence of inter-layer degree correlations
+  and edge overlap determine the extent to which a multiplex can be efficiently explored
+  by a biased walk. Finally we show that, in real-world multiplex transportation networks,
+  the trade-off between efficient navigation and resilience to link failure has resulted
+  into systems whose diffusion properties are qualitatively different from those of
+  appropriately randomised multiplex graphs. This fact suggests that multiplexity
+  is an important ingredient to include in the modelling of real-world systems.
+archiveprefix: arXiv
+author: Battiston, Federico and Nicosia, Vincenzo and Latora, Vito
+author_list:
+- family: Battiston
+  given: Federico
+- family: Nicosia
+  given: Vincenzo
+- family: Latora
+  given: Vito
+doi: 10.1088/1367-2630/18/4/043035
+eprint: 1505.01378v2
+file: 1505.01378v2.pdf
+files:
+- tmpohevzuxf.pdf
+month: May
+note: New J. Phys. 18(4), 043035 (2016)
+primaryclass: physics.soc-ph
+ref: 1505.01378v2
+tags: network graph-theory math multiplex network-exploration physics
+time-added: 2021-04-22-10:33:19
+title: Efficient exploration of multiplex networks
+type: article
+url: http://arxiv.org/abs/1505.01378v2
+year: '2015'

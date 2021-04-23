@@ -1,0 +1,259 @@
+
+%%%%%%%%%%%%%%%%%%%%%%% file typeinst.tex %%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% This is the LaTeX source for the instructions to authors using
+% the LaTeX document class 'llncs.cls' for contributions to
+% the Lecture Notes in Computer Sciences series.
+% http://www.springer.com/lncs       Springer Heidelberg 2006/05/04
+%
+% It may be used as a template for your own input - copy it
+% to a new file with a new name and use it as the basis
+% for your article.
+%
+% NB: the document class 'llncs' has its own and detailed documentation, see
+% ftp://ftp.springer.de/data/pubftp/pub/tex/latex/llncs/latex2e/llncsdoc.pdf
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\documentclass[runningheads,a4paper]{llncs}
+
+\usepackage{graphicx}
+\usepackage[space]{grffile}
+\usepackage{latexsym}
+\usepackage{textcomp}
+\usepackage{longtable}
+\usepackage{tabulary}
+\usepackage{booktabs,array,multirow}
+\usepackage{amsfonts,amsmath,amssymb}
+\providecommand\citet{\cite}
+\providecommand\citep{\cite}
+\providecommand\citealt{\cite}
+\usepackage{url}
+\usepackage{hyperref}
+\hypersetup{colorlinks=false,pdfborder={0 0 0}}
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\@combinedblfloats{\box\@outputbox}{\unvbox\@outputbox}{}{%
+  \errmessage{\noexpand\@combinedblfloats could not be patched}%
+}%
+\makeatother
+% You can conditionalize code for latexml or normal latex using this.
+\newif\iflatexml\latexmlfalse
+\AtBeginDocument{\DeclareGraphicsExtensions{.pdf,.PDF,.eps,.EPS,.png,.PNG,.tif,.TIF,.jpg,.JPG,.jpeg,.JPEG}}
+
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+
+
+\usepackage{amssymb}
+\setcounter{tocdepth}{3}
+%\usepackage{graphicx}
+
+\urldef{\mailsa}\path|{alfred.hofmann, ursula.barth, ingrid.haas, frank.holzwarth,|
+\urldef{\mailsb}\path|anna.kramer, leonie.kunz, christine.reiss, nicole.sator,|
+\urldef{\mailsc}\path|erika.siebert-cole, peter.strasser, lncs}@springer.com|
+\newcommand{\keywords}[1]{\par\addvspace\baselineskip
+\noindent\keywordname\enspace\ignorespaces#1}
+
+
+
+
+\begin{document}
+
+\mainmatter  % start of an individual contribution
+
+% first the title is needed
+\title{What is a Knowledge Graph?}
+
+% a short form should be given in case it is too long for the running head
+\titlerunning{What is a Knowledge Graph?}
+
+% the name(s) of the author(s) follow(s) next
+%
+% NB: Chinese authors should write their first names(s) in front of
+% their surnames. This ensures that the names appear correctly in
+% the running heads and the author index.
+%
+
+\author{James P. McCusker%
+\and Deborah L. McGuinness\and John S. Erickson\and Katherine Chastain}
+
+% the affiliations are given next; don't give your e-mail address
+% unless you accept that it will be published
+\institute{Rensselaer Polytechnic Institute}
+
+%
+% NB: a more complex sample for affiliations and the mapping to the
+% corresponding authors can be found in the file "llncs.dem"
+% (search for the string "\mainmatter" where a contribution starts).
+% "llncs.dem" accompanies the document class "llncs.cls".
+%
+
+\toctitle{Lecture Notes in Computer Science}
+\tocauthor{What is a Knowledge Graph?}
+\maketitle
+
+
+%% Add back in before submission.
+%\begin{abstract}
+Google introduced its Knowledge Graph project in 2012, and has used it to improve query result relevancy and their overall search experience.
+They have leveraged existing knowledge graphs, such as DBpedia and Freebase, and also have opened up the process of contributing to the graph by ingesting RDFa and microdata formats from the Web pages they index, based on the vocabularies published by schema.org.
+The success of the Google Knowledge Graph, and its use of semantic technologies, has led to a resurgence in the use of the term in semantic research to describe similar projects.
+However, the term ``knowledge graph'' remains underspecified, and in many cases, simply refers to any directed labeled graph.
+We surveyed and synthesized current literature on knowledge graphs and the historical use of the term.  
+The pre-Semantic Web conceptualization of knowledge graphs provides us with guidance as to what might currently ``count'' as a knowledge graph and also describes capabilities that do not yet exist in current knowledge graphs.
+From this synthesis, we propose an updated definition along with a set of knowledge graph requirements  We include an implicit requirement: that knowledge graphs represent knowledge, as opposed to bare assertions with no justification or provenance.
+We discuss how knowledge graphs as defined are a crucial component of the future of the Web and have great potential for transformational change in data science and domain sciences.
+%\end{abstract}
+
+
+
+
+\section{Introduction}
+
+
+% Classic intro vs abstract issues here.
+Knowledge graphs provide an opportunity to expand our understanding of how knowledge can be managed on the Web and how that knowledge can be distinguished from more conventional Web-based data publication schemes such as Linked Data \cite{bizer2009linked}.
+In recent years knowledge graphs have grown increasingly prominent through commercial and research applications on the Web.
+Google was one of the first to promote a semantic metadata organizational model described as a ``knowledge graph,'' \cite{singhal2012introducing} and many other organizations have since used the term in the literature and in less formal communication.
+Our purpose with this paper is to provide an explicit description of the evolving notion of a knowledge graph, and further to lay out a potential impact spectrum.  
+We review recent formal definition of knowledge graphs, knowledge graph analysis and construction algorithms, and popular commercial and research knowledge graphs in the literature.
+These new knowledge graphs do not strictly adhere to original knowledge graph theory \cite{van1992knowledge}, but instead have followed a looser, more flexible definition.
+We present a more descriptive view of current, practical knowledge graphs, and discuss their potential for evolution and impact.
+
+\section{Knowledge Graphs in Practice}
+Rospocher, \textit{et al.} present knowledge graphs as collections of facts about entities, typically derived from structured data sources such as Freebase and \cite{Rospocher2016}. They cite a dearth of event representations in current knowledge graphs as a shortcoming - limiting knowledge graphs to encyclopedic items such as birth and death dates - primarily due to the difficulty of obtaining temporal data about entities in a structured manner. Recent surveys such as those by Hogenboom, \textit{et al.} \cite{Hogenboom2016} and Deng, \textit{et al.} \cite{Deng2015} provide overviews of numerous methods for event extraction from a variety of sources including social media, news, academic publications, and even images and video, indicating that there is a great interest in finding ways to interpret and include such temporal data in a more structured format.
+Another review by Nickel \emph{et al.} explores machine learning methods for knowledge graphs, but limits their definition to directed labeled graphs, with the ability to optionally pre-define the schema.
+They also review but do not take a position on the use of the closed versus open world assumptions.
+
+van de Riet and Meersman \cite{van1992knowledge}, Stokman and de Vries \cite{Stokman_1988}, and Zhang \cite{zhang2002knowledge}, present a formal theory of knowledge graphs as a specialization of semantic networks where meaning is expressed as structure, statements are unambiguous, and a limited set of relation types are used.
+These requirements also minimize redundancy within the knowledge graph, which simplifies analytical operations (including reasoning and queries).
+Popping explores the use of knowledge graphs and their challenges at the time in their use in network text analysis \cite{Popping_2003}. 
+Following Zhang, Popping defines the knowledge graph as a type of semantic network that uses only a few types of relations, but also asserts that additional knowledge may be added to the graph.
+
+More papers to consider: \cite{Dieng_1992} \cite{Juel_Vang_2013}
+
+\subsection{Knowledge Graph Methods}
+Corby and Zucker present an abstract knowledge graph querying machine they call KGRAM \cite{Corby_2010}, but do not define knowledge graphs beyond being labeled directed graphs.
+This seems to be an abstraction of graph query methods and discusses how KGRAM is a generalization and extension of the RDF graph query language SPARQL \cite{harris2013sparql}.
+Wang \emph{et al.} \cite{Wang_knowledgegraph} discuss projecting generalized knowledge graphs into hyperplanes, but also only focuses on the labeled directed graph requirement of knowledge graphs.
+Pujara \emph{et al.} use probabilistic soft logic (PSL) to manage uncertainty in knowledge graphs that have been extracted from uncertain sources \cite{Pujara_2013}. 
+They argue that many current knowledge graphs do not always clearly identify entities, relying instead on labels that can be different due to spelling variations.
+Their task of ``knowledge graph identification'' has a goal of identifying a set of true assertions from noisy extractions.
+They do not claim to manage the provenance of the resulting knowledge graph assertions, however.
+Lin \emph{et al.} attempt link prediction for automated knowledge graph construction but only rely on a directed labeled graph model of knowledge graphs \cite{lin2015learning}.
+Hakkani-Tur \emph{et al.} use statistical language understanding to pose structured questions against the Freebase knowledge graph, focusing on improving the extraction of relation detection in the queries \cite{Hakkani_Tur_2013}.
+Benedek \emph{et al.} have presendted a collaborative knowledge graph construction tool called  ``Conceptipedia'', building off of their ``WikiNizer'' project \cire{benedek}.
+This project uses visual mind mapping techniques and concept similarity analysis to suggest cross-knowledge graph mappings between collaborators.
+Weiderman and Kritzinger \cite{} refer to knowledge graphs as a synonym for concept maps, but do not expand further on the topic, nor do they cite any work in knowledge graphs.
+ 
+
+\subsection{Academic Knowledge Graphs}
+The Gene Ontology (GO) may be considered more of a knowledge graph than an ontology \cite{Ashburner_2000}.
+It embodies a hierarchy of biological processes, cellular locations, and molecular functions into which a number of genes and proteins have been classified or annotated.
+These annotations have been curated by domain experts, and the provenance of each is recorded using a GO-specific provenance encoding.
+YAGO (Yet Another Great Ontology) \cite{Suchanek_2007} and YAGO 2 \cite{Hoffart_2013} are considered by some researchers to be knowledge graphs, although each originated as a large, general-purpose ontology.
+While they aggregate knowledge from many sources, there are no published descriptions of whether or how provenance is tracked in YAGO and YAGO2. 
+
+The XLore system claims to be a fully bilingual (Chinese and English) knowledge graph that focuses on extracting \emph{subClassOf} and \emph{instanceOf} relations from free text \cite{wang2013xlore}.
+SEKI@home is a crowd-sourced knowledge graph that aggregates from multiple sources \cite{steiner2012seki}, maintaining entity-level provenance using the PROV Ontology \cite{Moreau_2015}.
+This project also incorporates real-time matching against news articles \cite{steiner_iswc_2012}.
+The Knowledge Vault handles knowledge graph uncertainty as a result of automated fact extraction from Web pages \cite{Dong_2014}.
+DBPedia is a large-scale transformation of Wikipedia into a knowledge graph \cite{Bizer_2009}.
+It uses a mostly fixed schema and provides provenance of which Wikipedia pages each entity was derived from.
+A number of biomedical knowledge graphs have been constructed from public databases, including Bio2RDF\cite{Callahan_2013}, Neurocommons \cite{Ruttenberg_2009}, and LinkedLifeData \cite{momtchev2009expanding}.
+All three knowledge graphs provide dataset-level provenance.
+
+\subsection{Commercial Knowledge Graphs}
+Freebase is a knowledge graph of over 3B facts and 58M topics \footnote{Freebase.com web site, April 2016} that is open to public access and curation \cite{Bollacker_2008} and formed the basis for the Google Knowledge Graph, which augmented Freebase with knowledge gleaned from Google's regular search engine crawls of the Web \cite{singhal2012introducing}.
+Monteiro and Moura \cite{10110943220141101} present a thoughtful analysis of the role of the Google Knowledge Graph as a realization of the Semantic Web vision \cite{bernerslee2000semantic} as Web 4.0, and show how it merges rule-oriented semantic analysis with statistical predictive approaches.
+Microsoft has also introduced a knowledge graph called ``Satori'' to enhance Bing search results \cite{qian2013understand}.
+
+
+\section{A Definition of ``Knowledge Graph''}
+
+One thing to note is that the knowledge graph platforms that have been reviewed in this paper do not strictly adhere to the definition of knowledge graph that was set out in Stokman and de Vries \cite{Stokman_1988}, and Zhang \cite{zhang2002knowledge}.
+Since usage has evolved it is appropriate to develop a definition that follows how the term is currently used.
+Implicit in the name ``knowledge graph'' is, of course, that a knowledge graph represent \emph{knowledge}, and do so using a \emph{graph} structure.
+Stokman,  de Vries \cite{Stokman_1988}, and Zhang \cite{zhang2002knowledge} posit useful definitions and requirements for knowledge graphs as a starting point:
+
+\begin {itemize}
+\item Knowledge graph meaning is expressed as structure.
+\item Knowledge graph statements are unambiguous.
+\item Knowledge graphs use a limited set of relation types.
+\end {itemize}
+
+In order for knowledge graphs statements to be unambiguous, they need to be composed of unambiguous units. 
+\begin {itemize}
+\item All identified entities in a knowledge graph, including types and relations, must be identified using global identifiers with unambiguous denotation.
+\end {itemize}
+One example of this kind of identifier is the Uniform Resource Identifier (URI) as used in the Resource Description Framework (RDF) \cite{cyganiak2014rdf}.
+While the use of ``limited set of relation types'' addressed a specific set of non-decomposable relations above, in the context of an open world knowledge system this should be taken to mean a core set of relations and classes that subsume or can be used to compose any other key relations and classes.   
+%deborah modified slightly above
+This seems to be the case generally, as the reviewed knowledge graphs all attempt to build from a common vocabulary.
+
+In practice, the knowledge graph literature and the practical knowledge graphs we reviewed either aggregate knowledge from many secondary sources and use Natural Language Processing (NLP) extraction when the sources are unstructured text, or use a semantic Extraction Transformation, and Load (ETL) process from structured databases \cite{McCusker_2009}.
+Some knowledge graphs rely on crowdsourcing of their information (including the Google Knowledge Graph), a form of distributed curation.
+At no point do we see a case where the knowledge does not have a theoretical, citeable source or some other recorded justification.
+Since knowledge graphs nominally represent knowledge, we argue that some criteria for inclusion of content and its provenance should be encoded in the graph.
+This is especially true for knowledge graphs gathered from other sources, as the sources themselves must have some justification for publishing their assertions.
+\begin {itemize}
+\item Knowledge graphs must include explicit provenance.
+\end {itemize}
+In many cases, the justification for inclusion of assertions appeals to authority, through the citation of the resource the knowledge was extracted from.
+Authority, at least in scientific research, is only a short cut for validating knowledge, and good knowledge graphs should encode as much justification for their assertions as they can.
+We consider graphs without provenance concerning attribution or justification to be {\em bare statement graphs}. Bare statement graphs are not true knowledge graphs, since they do not provide a way to confirm that assertions are justified or are even believed by their originators; this is a minimal (but not sufficient \cite{Gettier_1963}) criteria for ``knowledge'' in a knowledge graph.
+
+\begin {itemize}
+\item Knowledge graphs may include uncertainty assessments.
+\end {itemize}
+
+Some knowledge graphs go further in modeling knowledge by providing uncertainty assessments of the knowledge asserted \cite{Dong_2014}.
+This can be useful when dealing with scientific knowledge graphs, where competing hypotheses and theories are known to be true to certain degrees, which may change as new evidence comes to light.
+%\begin {itemize}
+%\item Knowledge graphs embody knowledge that remains true.
+%\end {itemize}
+
+%This final requirement is rooted in the notion that knowledge should be ``timeless''.
+%Rospocher, \textit{et al.} define knowledge graphs as collections of time-invariant facts about entities \cite{Rospocher2016}.
+%More generally, a knowledge graph should focus on knowledge that remains true.
+%How best to represent this is up to the knowledge graph.
+
+\section{Future Potential}
+
+In the literature knowledge graphs are not (usually) distinguished from bare statement graphs, in that they do not encode or publish the epistemology \footnote{Epistemology defines why something is known} of knowledge asserted in the graph.
+We see this as troubling because it does not {\em privilege} knowledge: in most existing knowledge graphs supported and unsupported assertions are given equal weight.
+Moving forward, there is an opportunity to leverage existing vocabularies, including the Provenance Ontology (PROV-O) \cite{Moreau_2015}, and the Nanopublications Framework \cite{groth2010anatomy}, to improve the clarity and utility of knowledge graphs.
+A nanopublication is a set of RDF graphs: an {\em assertion graph} (the knowledge), a {\em provenance graph} (the justification), and an {\em attribution graph} (the believer).
+While justified true belief is not sufficient for knowledge, most other proposals, including a causal linkage between the justification, assertion, and believer, are well-supported within provenance vocabularies.
+Added to a knowledge graph, the provenance graph can expand to provide room for whatever epistemic criteria is desired.
+
+There is an interesting overlap between what is considered a ``knowledge graph'' and what is an ontology.
+The most commonly accepted definition of an ontology is a ``an explicit specification of a conceptualization'' \cite{Gruber_1993}.
+To a large degree, knowledge graphs conform to this definition, but generally ontologies tend to talk about generalities (classes, properties, and roles) with less focus on inclusion of content about specific instances.
+For example, most ontologies that include content related to descriptions of world landmarks would have descriptions of the landmark class and its related properties but would typically not include a mention of the Eiffel Tower, but a knowledge graph that covers the domain of Parisian landmarks would.
+Conversely, knowledge graph approaches can be used to improve the credibility of ontologies by encoding the epistemology of the statements in the ontology.
+
+
+Ontology vs Knowledge Graph vs Data Graph?
+
+\section{Conclusions}
+
+Knowledge graphs are a critical component of the Semantic Web and serve as information hubs for general use as well as for domain-specific applications.
+Most knowledge graphs seek to aggregate knowledge from third party sources, whether from external databases, from data aggregated though crawling the Web, or through the application of entity and relationship extraction methods.
+Knowledge graphs are not simply aggregations of RDF or linked data, but critically provide time-invariant information about entities of general interest.
+Their structures tend to be focused on a limited set of relations adhering to a coherent knowledge model, setting them apart from the linked data cloud in general, which usually has relied on the open framework of the Semantic Web to accommodate a completely free-form use of vocabularies and ontologies.
+Although some knowledge graphs track the provenance of their content, rigorous provenance is by no means a universal characteristic.
+We argue that knowledge graphs should prioritize the epistemology of the knowledge it contains -- how we know what we know -- and that Nanopublications are a suitable framework in which to do so.
+Semantic publishing that does not provide a level of statement epistemology can be considered ``Bare Statement'' graphs.
+Since so many knowledge graphs are curated from third parties, and because of the nature of publishing on the Web (\textit{Anyone} can say \textit{Anything} about \textit{Any} subject), as knowledge graphs increase in popularity it will become critical to avoid use of such ``Bare Statement'' graphs.
+
+\selectlanguage{english}
+\FloatBarrier
+\bibliographystyle{splncs03}
+\bibliography{bibliography/converted_to_latex.bib%
+}
+
+\end{document}
+

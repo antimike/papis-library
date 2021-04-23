@@ -1,0 +1,34 @@
+abstract: We describe new ambitwistor string theories that give rise to the recent
+  amplitude formulae for Einstein-Yang-Mills, (Dirac)-Born-Infeld, Galileons and others
+  introduced by Cachazo, He and Yuan. In the case of the Einstein-Yang-Mills amplitudes,
+  an important role is played by a novel worldsheet conformal field theory that provides
+  the appropriate colour factors precisely without the spurious multitrace terms of
+  earlier models that had to be ignored by hand. This is needed to obtain the correct
+  multitrace terms that arise when Yang-Mills is coupled to gravity.
+archiveprefix: arXiv
+author: Casali, Eduardo and Geyer, Yvonne and Mason, Lionel and Monteiro, Ricardo
+  and Roehrig, Kai A.
+author_list:
+- family: Casali
+  given: Eduardo
+- family: Geyer
+  given: Yvonne
+- family: Mason
+  given: Lionel
+- family: Monteiro
+  given: Ricardo
+- family: Roehrig
+  given: Kai A.
+eprint: 1506.08771v2
+file: 1506.08771v2.pdf
+files:
+- tmpujax1ch2.pdf
+month: Jun
+primaryclass: hep-th
+ref: 1506.08771v2
+tags: ambitwistor twistor string-theory hep
+time-added: 2021-04-22-13:34:40
+title: New Ambitwistor String Theories
+type: article
+url: http://arxiv.org/abs/1506.08771v2
+year: '2015'

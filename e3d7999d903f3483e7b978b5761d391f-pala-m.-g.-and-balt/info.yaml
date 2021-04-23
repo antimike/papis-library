@@ -1,0 +1,48 @@
+abstract: We present evidence for a counter-intuitive behavior of semiconductor mesoscopic
+  networks that is the analog of the Braess paradox encountered in classical networks.
+  A numerical simulation of quantum transport in a two-branch mesoscopic network reveals
+  that adding a third branch can paradoxically induce transport inefficiency that
+  manifests itself in a sizable conductance drop of the network. A scanning-probe
+  experiment using a biased tip to modulate the transmission of one branch in the
+  network reveals the occurrence of this paradox by mapping the conductance variation
+  as a function of the tip voltage and position.
+archiveprefix: arXiv
+author: Pala, M. G. and Baltazar, S. and Liu, P. and Sellier, H. and Hackens, B. and
+  Martins, F. and Bayot, V. and Wallart, X. and Desplanque, L. and Huant, S.
+author_list:
+- family: Pala
+  given: M. G.
+- family: Baltazar
+  given: S.
+- family: Liu
+  given: P.
+- family: Sellier
+  given: H.
+- family: Hackens
+  given: B.
+- family: Martins
+  given: F.
+- family: Bayot
+  given: V.
+- family: Wallart
+  given: X.
+- family: Desplanque
+  given: L.
+- family: Huant
+  given: S.
+doi: 10.1103/PhysRevLett.108.076802
+eprint: 1112.1170v2
+file: 1112.1170v2.pdf
+files:
+- tmp2rqqqiqz.pdf
+month: Dec
+note: Phys. Rev. Lett. 108, 076802 (2012)
+primaryclass: cond-mat.mes-hall
+ref: 1112.1170v2
+tags: network graph-theory math transportation-network braess-paradox
+time-added: 2021-04-22-16:08:14
+title: 'Transport inefficiency in branched-out mesoscopic networks: An analog of   the
+  Braess paradox'
+type: article
+url: http://arxiv.org/abs/1112.1170v2
+year: '2011'

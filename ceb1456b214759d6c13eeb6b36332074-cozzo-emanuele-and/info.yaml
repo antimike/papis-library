@@ -1,0 +1,56 @@
+abstract: Recent advances in the study of networked systems have highlighted that
+  our interconnected world is composed of networks that are coupled to each other
+  through different "layers" that each represent one of many possible subsystems or
+  types of interactions. Nevertheless, it is traditional to aggregate multilayer networks
+  into a single weighted network in order to take advantage of existing tools. This
+  is admittedly convenient, but it is also extremely problematic, as important information
+  can be lost as a result. It is therefore important to develop multilayer generalizations
+  of network concepts. In this paper, we analyze triadic relations and generalize
+  the idea of transitivity to multiplex networks. By focusing on triadic relations,
+  which yield the simplest type of transitivity, we generalize the concept and computation
+  of clustering coefficients to multiplex networks. We show how the layered structure
+  of such networks introduces a new degree of freedom that has a fundamental effect
+  on transitivity. We compute multiplex clustering coefficients for several real multiplex
+  networks and illustrate why one must take great care when generalizing standard
+  network concepts to multiplex networks. We also derive analytical expressions for
+  our clustering coefficients for ensemble averages of networks in a family of random
+  multiplex networks. Our analysis illustrates that social networks have a strong
+  tendency to promote redundancy by closing triads at every layer and that they thereby
+  have a different type of multiplex transitivity from transportation networks, which
+  do not exhibit such a tendency. These insights are invisible if one only studies
+  aggregated networks.
+archiveprefix: arXiv
+author: Cozzo, Emanuele and Kivelä, Mikko and Domenico, Manlio De and Solé, Albert
+  and Arenas, Alex and Gómez, Sergio and Porter, Mason A. and Moreno, Yamir
+author_list:
+- family: Cozzo
+  given: Emanuele
+- family: Kivelä
+  given: Mikko
+- family: Domenico
+  given: Manlio De
+- family: Solé
+  given: Albert
+- family: Arenas
+  given: Alex
+- family: Gómez
+  given: Sergio
+- family: Porter
+  given: Mason A.
+- family: Moreno
+  given: Yamir
+doi: 10.1088/1367-2630/17/7/073029
+eprint: 1307.6780v3
+file: 1307.6780v3.pdf
+files:
+- tmpat78rx5m.pdf
+month: Jul
+note: 'New Journal of Physics, Vol. 17, No. 7: 073029, 2015'
+primaryclass: physics.soc-ph
+ref: 1307.6780v3
+tags: network graph-theory math triadic-relation multiplex
+time-added: 2021-04-22-10:34:10
+title: Structure of Triadic Relations in Multiplex Networks
+type: article
+url: http://arxiv.org/abs/1307.6780v3
+year: '2013'

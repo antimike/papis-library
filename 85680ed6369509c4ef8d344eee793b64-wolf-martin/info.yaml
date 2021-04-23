@@ -1,0 +1,25 @@
+abstract: With the help of the Penrose-Ward transform, which relates certain holomorphic
+  vector bundles over the supertwistor space to the equations of motion of self-dual
+  SYM theory in four dimensions, we construct hidden infinite-dimensional symmetries
+  of the theory. We also present a new and shorter proof (cf. hep-th/0412163) of the
+  relation between certain deformation algebras and hidden symmetry algebras. This
+  article is based on a talk given by the author at the Workshop on Supersymmetries
+  and Quantum Symmetries 2005 at the BLTP in Dubna, Russia.
+archiveprefix: arXiv
+author: Wolf, Martin
+author_list:
+- family: Wolf
+  given: Martin
+eprint: hep-th/0511230v1
+file: hep-th/0511230v1.pdf
+files:
+- tmpsk4sxm7d.pdf
+month: Nov
+primaryclass: hep-th
+ref: hep-th/0511230v1
+tags: twistor supertwistor penrose-ward sym-theory self-dual hidden-symmetry
+time-added: 2021-04-22-12:38:41
+title: Twistors and Aspects of Integrability of self-dual SYM Theory
+type: article
+url: http://arxiv.org/abs/hep-th/0511230v1
+year: '2005'

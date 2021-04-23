@@ -1,0 +1,30 @@
+abstract: Recently, by using the known structure of one-loop scattering amplitudes
+  for gluons in Yang-Mills theory, a recursion relation for tree-level scattering
+  amplitudes has been deduced. Here, we give a short and direct proof of this recursion
+  relation based on properties of tree-level amplitudes only.
+archiveprefix: arXiv
+author: Britto, Ruth and Cachazo, Freddy and Feng, Bo and Witten, Edward
+author_list:
+- family: Britto
+  given: Ruth
+- family: Cachazo
+  given: Freddy
+- family: Feng
+  given: Bo
+- family: Witten
+  given: Edward
+doi: 10.1103/PhysRevLett.94.181602
+eprint: hep-th/0501052v2
+file: hep-th/0501052v2.pdf
+files:
+- tmpxbn29xjq.pdf
+month: Jan
+note: Phys.Rev.Lett.94:181602,2005
+primaryclass: hep-th
+ref: hep-th/0501052v2
+tags: witten twistor scattering-amplitude recursion-relation yang-mills tree-level
+time-added: 2021-04-22-13:45:37
+title: Direct Proof Of Tree-Level Recursion Relation In Yang-Mills Theory
+type: article
+url: http://arxiv.org/abs/hep-th/0501052v2
+year: '2005'

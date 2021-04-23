@@ -1,0 +1,23 @@
+author: Sun, Xiaoping and Zhuge, Hai
+author_list:
+- affiliation: []
+  family: Sun
+  given: Xiaoping
+- affiliation: []
+  family: Zhuge
+  given: Hai
+doi: 10.1109/access.2018.2856530
+files:
+- summarization-scientific-paper-semantic-link-network.pdf
+journal: IEEE Access
+pages: 40611--40625
+publisher: Institute of Electrical and Electronics Engineers (IEEE)
+ref: SummarizationOSunX2018
+tags: network graph-theory math semantic-network reinforcement-ranking algorithm link-network
+time-added: 2021-04-22-15:07:36
+title: Summarization of Scientific Paper Through Reinforcement Ranking on Semantic
+  Link Network
+type: article
+url: http://dx.doi.org/10.1109/access.2018.2856530
+volume: '6'
+year: 2018

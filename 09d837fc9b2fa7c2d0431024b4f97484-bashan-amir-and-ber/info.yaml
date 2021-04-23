@@ -1,0 +1,40 @@
+abstract: Recent studies show that in interdependent networks a very small failure
+  in one network may lead to catastrophic consequences. Above a critical fraction
+  of interdependent nodes, even a single node failure can invoke cascading failures
+  that may abruptly fragment the system, while below this "critical dependency" (CD)
+  a failure of few nodes leads only to small damage to the system. So far, the research
+  has been focused on interdependent random networks without space limitations. However,
+  many real systems, such as power grids and the Internet, are not random but are
+  spatially embedded. Here we analytically and numerically analyze the stability of
+  systems consisting of interdependent spatially embedded networks modeled as lattice
+  networks. Surprisingly, we find that in lattice systems, in contrast to non-embedded
+  systems, there is no CD and \textit{any} small fraction of interdependent nodes
+  leads to an abrupt collapse. We show that this extreme vulnerability of very weakly
+  coupled lattices is a consequence of the critical exponent describing the percolation
+  transition of a single lattice. Our results are important for understanding the
+  vulnerabilities and for designing robust interdependent spatial embedded networks.
+archiveprefix: arXiv
+author: Bashan, Amir and Berezin, Yehiel and Buldyrev, Sergey V. and Havlin, Shlomo
+author_list:
+- family: Bashan
+  given: Amir
+- family: Berezin
+  given: Yehiel
+- family: Buldyrev
+  given: Sergey V.
+- family: Havlin
+  given: Shlomo
+doi: 10.1038/nphys2727
+eprint: 1206.2062v1
+file: 1206.2062v1.pdf
+files:
+- tmp99mnxsh2.pdf
+month: Jun
+primaryclass: physics.data-an
+ref: 1206.2062v1
+tags: network graph-theory math network-vulnerability spatial-network
+time-added: 2021-04-22-10:44:14
+title: The extreme vulnerability of interdependent spatially embedded networks
+type: article
+url: http://arxiv.org/abs/1206.2062v1
+year: '2012'

@@ -1,0 +1,29 @@
+abstract: The existence of a non-algorithmic side of the mind, conjectured by Penrose
+  on the basis of G\"odel's first incompleteness theorem, is investigated here in
+  terms of a quantum metalanguage. We suggest that, besides human ordinary thought,
+  which can be formalized in a computable, logical language, there is another important
+  kind of human thought, which is Turing-non-computable. This is methatought, the
+  process of thinking about ordinary thought. Metathought can be formalized as a metalanguage,
+  which speaks about and controls the logical language of ordinary thought. Ordinary
+  thought has two computational modes, the quantum mode and the classical mode, the
+  latter deriving from decoherence of the former. In order to control the logical
+  language of the quantum mode, one needs to introduce a quantum metalanguage, which
+  in turn requires a quantum version of Tarski Convention T.
+archiveprefix: arXiv
+author: Zizzi, Paola
+author_list:
+- family: Zizzi
+  given: Paola
+eprint: 1205.1820v1
+file: 1205.1820v1.pdf
+files:
+- tmp5e-5foh2.pdf
+month: Jan
+primaryclass: cs.AI
+ref: 1205.1820v1
+tags: metaphysics philosophy consciousness algorithm ai
+time-added: 2021-04-22-12:22:35
+title: The non-algorithmic side of the mind
+type: article
+url: http://arxiv.org/abs/1205.1820v1
+year: '2012'

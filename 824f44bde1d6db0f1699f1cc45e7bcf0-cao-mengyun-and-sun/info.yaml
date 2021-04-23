@@ -1,0 +1,342 @@
+author: Cao, Mengyun and Sun, Xiaoping and Zhuge, Hai
+author_list:
+- affiliation: []
+  family: Cao
+  given: Mengyun
+- affiliation: []
+  family: Sun
+  given: Xiaoping
+- affiliation: []
+  family: Zhuge
+  given: Hai
+citations:
+- article-title: Story Understanding as Problem-Solving
+  author: JB Black
+  doi: 10.1016/0304-422X(80)90021-2
+  first-page: '223'
+  issue: 1–3
+  journal-title: Poetics
+  volume: '9'
+  year: '1980'
+- article-title: 'Communities and Emerging Semantics in Semantic Link Network: Discovery
+    and Learning'
+  author: H Zhuge
+  doi: 10.1109/TKDE.2008.141
+  first-page: '785'
+  issue: '6'
+  journal-title: IEEE Transactions on Knowledge and Data Engineering
+  volume: '21'
+  year: '2009'
+- article-title: Interactive Semantics
+  author: H Zhuge
+  doi: 10.1016/j.artint.2009.11.014
+  first-page: '190'
+  issue: '2'
+  journal-title: Artificial Intelligence
+  volume: '174'
+  year: '2010'
+- author: H Zhuge
+  year: '2004'
+- doi: 10.1109/SKG.2015.41
+  unstructured: Tian J, Cao M, Liu J, Sun X, Zhuge H. Sentence Ranking with the Semantic
+    Link Network in Scientific Paper. Proceedings of the 11th International Conference
+    on Semantics, Knowledge and Grids (SKG)2015. pp. 73–80.
+- doi: 10.1016/B978-0-12-803455-2.00016-0
+  unstructured: Zhuge H. Multi-Dimensional Summarization in Cyber-Physical Society.
+    Morgan Kaufmann; 2016.
+- article-title: Incremental Cue Phrase Learning and Bootstrapping Method for Causality
+    Extraction Using Cue Phrase and Word Pair Probabilities
+  author: DS Chang
+  doi: 10.1016/j.ipm.2005.04.004
+  first-page: '662'
+  issue: '3'
+  journal-title: Information Processing & Management
+  volume: '42'
+  year: '2006'
+- doi: 10.1145/3018661.3018707
+  unstructured: 'Zhao S, Wang Q, Massung S, Qin B, Liu T, Wang B, et al. Constructing
+    and Embedding Abstract Event Causality Networks from Text Snippets. Proceedings
+    of the 10th ACM International Conference on Web Search and Data Mining (WSDM):
+    ACM; 2017. pp. 335–44.'
+- article-title: Inheritance Rules for Flexible Model Retrieval
+  author: H Zhuge
+  doi: 10.1016/S0167-9236(98)00026-8
+  first-page: '379'
+  issue: '4'
+  journal-title: Decision Support Systems
+  volume: '22'
+  year: '1998'
+- article-title: 'Active e-Document Framework ADF: Model and Tool'
+  author: H Zhuge
+  doi: 10.1016/S0378-7206(03)00029-6
+  first-page: '87'
+  issue: '1'
+  journal-title: Information & Management
+  volume: '41'
+  year: '2003'
+- doi: 10.1145/1013367.1013434
+  unstructured: 'Zhuge H, Zheng L, Zhang N, Li X, editors. An Automatic Semantic Relationships
+    Discovery Approach. Proceedings of the 13th International World Wide Web Conference;
+    2004: ACM.'
+- author: H Zhuge
+  year: '2008'
+- article-title: Query Routing in a P2P Semantic Link Network
+  author: H Zhuge
+  doi: 10.1111/j.0824-7935.2005.00271.x
+  first-page: '197'
+  issue: '2'
+  journal-title: Computational Intelligence
+  volume: '21'
+  year: '2005'
+- article-title: Discovery of Knowledge Flow in Science
+  author: H Zhuge
+  doi: 10.1145/1125944.1125948
+  first-page: '101'
+  issue: '5'
+  journal-title: Communications of the ACM
+  volume: '49'
+  year: '2006'
+- article-title: Peer-to-Peer in Metric Space and Semantic Space
+  author: H Zhuge
+  doi: 10.1109/TKDE.2007.190614
+  first-page: '759'
+  issue: '6'
+  journal-title: IEEE Transactions on Knowledge and Data Engineering
+  volume: '19'
+  year: '2007'
+- doi: 10.1109/AINA.2010.186
+  unstructured: 'Zhuge H. Socio-Natural Thought Semantic Link Network: A Method of
+    Semantic Networking in the Cyber Physical Society. Proceedings of 24th IEEE International
+    Conference on Advanced Information Networking and Applications (AINA): IEEE; 2010.
+    pp. 19–26.'
+- article-title: 'Semantic Linking Through Spaces for Cyber-Physical-Socio Intelligence:
+    A Methodology'
+  author: H Zhuge
+  doi: 10.1016/j.artint.2010.09.009
+  first-page: '988'
+  issue: '5'
+  journal-title: Artificial Intelligence
+  volume: '175'
+  year: '2011'
+- unstructured: 'Berners-Lee T. Linked Data. The World Wide Web Consortium (W3C);
+    July 27, 2006 [updated June 18, 2009; cited 2018 Mar. 1]. Available from: <ext-link
+    xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.w3.org/DesignIssues/LinkedData.html"
+    xlink:type="simple">https://www.w3.org/DesignIssues/LinkedData.html</ext-link>.'
+- unstructured: 'Singhal A. Introducing the Knowledge Graph: Things, Not Strings.
+    Official Blog of Google; May 16, 2012 [cited 2018 Mar. 1]. Available from: <ext-link
+    xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://googleblog.blogspot.co.uk/2012/05/introducing-knowledge-graph-things-not.html"
+    xlink:type="simple">https://googleblog.blogspot.co.uk/2012/05/introducing-knowledge-graph-things-not.html</ext-link>.'
+- article-title: Probabilistic Resource Space Model for Managing Resources in Cyber-Physical
+    Society
+  author: H Zhuge
+  doi: 10.1109/TSC.2011.12
+  first-page: '404'
+  issue: '3'
+  journal-title: IEEE Transactions on Services Computing
+  volume: '5'
+  year: '2012'
+- article-title: Physics
+  year: '1996'
+- author: D Hume
+  year: '1965'
+- article-title: 'Causal Knowledge: That Great Guide of Human Life'
+  author: CR Hitchcock
+  journal-title: Communication & Cognition
+  year: '1998'
+- article-title: The Psychology of Interpersonal Relations
+  author: F Heider
+  first-page: '170'
+  issue: '6'
+  journal-title: American Sociological Review
+  volume: '23'
+  year: '1958'
+- article-title: An Attributional Theory of Motivation and Emotion
+  author: B Weiner
+  first-page: '159'
+  year: '1986'
+- article-title: The Effects of Causal Cohesion on Comprehension and Memory
+  author: JM Keenan
+  doi: 10.1016/S0022-5371(84)90082-3
+  first-page: '115'
+  issue: '2'
+  journal-title: Journal of Verbal Learning and Verbal Behavior
+  volume: '23'
+  year: '1984'
+- article-title: Dimensions of Situation Model Construction in Narrative Comprehension
+  author: RA Zwaan
+  first-page: '386'
+  issue: '2'
+  journal-title: 'Journal of Experimental Psychology: Learning, Memory, and Cognition'
+  volume: '21'
+  year: '1995'
+- unstructured: Trabasso T. Causal Cohesion and Story Coherence. Paper presented at
+    the Annual Meeting of the American Educational Research Association; New York1982.
+    pp. 44.
+- article-title: Causal Thinking and the Representation of Narrative Events
+  author: T Trabasso
+  doi: 10.1016/0749-596X(85)90049-X
+  first-page: '612'
+  issue: '5'
+  journal-title: Journal of Memory and Language
+  volume: '24'
+  year: '1985'
+- article-title: Causal Reasoning in the Comprehension of Simple Narrative Texts
+  author: CR Fletcher
+  doi: 10.1016/0749-596X(88)90052-6
+  first-page: '235'
+  issue: '3'
+  journal-title: Journal of Memory & Language
+  volume: '27'
+  year: '1988'
+- article-title: The Relation Between Centrality and Story Category Variation
+  author: RC Omanson
+  doi: 10.1016/S0022-5371(82)90648-X
+  first-page: '326'
+  issue: '3'
+  journal-title: Journal of Verbal Learning and Verbal Behavior
+  volume: '21'
+  year: '1982'
+- article-title: Causal Networks Versus Goal Hierarchies in Summarizing Text
+  author: P Van den Broek
+  doi: 10.1080/01638538609544628
+  first-page: '1'
+  issue: '1'
+  journal-title: Discourse Processes
+  volume: '9'
+  year: '1986'
+- article-title: 'Automatic Extraction of Causal Relations from Natural Language Texts:
+    A Comprehensive Survey'
+  author: N Asghar
+  journal-title: arXiv preprint arXiv
+  year: '2016'
+- article-title: Knowledge-Based Acquisition of Causal Relationships in Text
+  author: RM Kaplan
+  doi: 10.1016/1042-8143(91)90009-C
+  first-page: '317'
+  issue: '3'
+  journal-title: Knowledge Acquisition
+  volume: '3'
+  year: '1991'
+- article-title: On the Acquisition of Causal Knowledge from Scientific Texts with
+    Attribute Grammars
+  author: J Kontos
+  first-page: '31'
+  issue: '1'
+  journal-title: International Journal of Applied Expert Systems
+  volume: '4'
+  year: '1991'
+- doi: 10.1007/BFb0026799
+  unstructured: 'Garcia D. COATIS, an NLP System to Locate Expressions of Actions
+    Connected by Causality Links. International Conference on Knowledge Engineering
+    and Knowledge Management: Springer; 1997. pp. 347–52.'
+- author: BT Low
+  year: '2001'
+- article-title: Multi Level Causal Relation Identification Using Extended Features
+  author: X Yang
+  doi: 10.1016/j.eswa.2014.05.044
+  first-page: '7171'
+  issue: '16'
+  journal-title: Expert Systems with Applications
+  volume: '41'
+  year: '2014'
+- article-title: Event Causality Extraction Based on Connectives Analysis
+  author: S Zhao
+  doi: 10.1016/j.neucom.2015.09.066
+  first-page: '1943'
+  journal-title: Neurocomputing
+  volume: '173'
+  year: '2016'
+- doi: 10.1145/3018661.3018737
+  unstructured: 'Oh J-H, Torisawa K, Kruengkrai C, Iida R, Kloetzer J. Multi-Column
+    Convolutional Neural Networks with Causality-Attention for Why-Question Answering.
+    Proceedings of the 10th ACM International Conference on Web Search and Data Mining
+    (WSDM): ACM; 2017. pp. 415–24.'
+- unstructured: Girju R, Moldovan D. Mining Answers for Causation Questions. AAAI
+    symposium on Mining Answers from Texts and Knowledge Bases2002. pp. 15–25.
+- doi: 10.3115/1119312.1119322
+  unstructured: Girju R. Automatic Detection of Causal Relations for Question Answering.
+    Proceedings in the 41st Meeting of the Association for Computational Linguistics
+    (ACL) on workshop2003.
+- unstructured: Oh JH, Torisawa K, Hashimoto C, Sano M, Saeger SD, Ohtake K. Why-Question
+    Answering Using Intra-and Inter-Sentential Causal Relations. Proceedings of the
+    51st Annual Meeting of the Association for Computational Linguistics (ACL)2013.
+    pp. 1443–50.
+- article-title: Creating Causal Embeddings for Question Answering with Minimal Supervision
+  author: R Sharp
+  journal-title: arXiv preprint arXiv
+  year: '2016'
+- doi: 10.1145/1242572.1242735
+  unstructured: 'Sun Y, Xie K, Liu N, Yan S, Zhang B, Chen Z. Causal Relation of Queries
+    from Temporal Logs. Proceedings of the 16th International Conference on World
+    Wide Web (WWW): ACM; 2007. pp. 1141–2.'
+- doi: 10.1145/2187836.2187958
+  unstructured: 'Radinsky K, Davidovich S, Markovitch S. Learning Causality for News
+    Events Prediction. Proceedings of the 21st International Conference on World Wide
+    Web (WWW): ACM; 2012. pp. 909–18.'
+- article-title: Towards a Causal Ontology Coping with the Temporal Constraints Between
+    Causes and Effects
+  author: P Terenziani
+  doi: 10.1006/ijhc.1995.1078
+  first-page: '847'
+  issue: 5–6
+  journal-title: International Journal of Human-Computer Studies
+  volume: '43'
+  year: '1995'
+- article-title: What Sort of Taxonomy of Causation Do We Need for Language Understanding?
+  author: Y Wilks
+  doi: 10.1207/s15516709cog0103_1
+  first-page: '235'
+  issue: '3'
+  journal-title: Cognitive Science
+  volume: '1'
+  year: '1977'
+- unstructured: Hashimoto C, Torisawa K, Kloetzer J, Oh J-H. Generating Event Causality
+    Hypotheses Through Semantic Relations. Proceedings of the 29th AAAI Conference2015.
+    pp. 2396–403.
+- doi: 10.1109/SKG.2016.013
+  unstructured: 'Cao M, Sun X, Zhuge H. The Role of Cause-Effect Link Within Scientific
+    Paper. Proceedings of the 12th International Conference on Semantics, Knowledge
+    and Grids (SKG); Beijing: IEEE; 2016. pp. 32–9.'
+- article-title: Automatic Extraction of Cause-Effect Information from Newspaper Text
+    Without Knowledge-Based Inferencing
+  author: CS Khoo
+  doi: 10.1093/llc/13.4.177
+  first-page: '177'
+  issue: '4'
+  journal-title: Literary and Linguistic Computing
+  volume: '13'
+  year: '1998'
+- unstructured: 'Lin C-Y. Rouge: A Package for Automatic Evaluation of Summaries.
+    Proceedings of the 42nd Annual Meeting of the Association for Computational Linguistics
+    (ACL) on workshop: Barcelona, Spain; 2004. pp. 10.'
+- unstructured: 'Cao M, Sun X. Experiments of Cause-effect Link Extraction and Automatic
+    Summarization on Expanded MY dataset and ACL2014 dataset. Github; 2018 [updated
+    Mar. 21, 2018; cited 2018 Mar. 21]. Available from: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+    ext-link-type="uri" xlink:href="https://github.com/Angela7126/CEsummary_Extend4PLoSOne"
+    xlink:type="simple">https://github.com/Angela7126/CEsummary_Extend4PLoSOne</ext-link>.'
+- article-title: Future Interconnection Environment
+  author: H Zhuge
+  doi: 10.1109/MC.2005.142
+  first-page: '27'
+  issue: '4'
+  journal-title: Computer
+  volume: '38'
+  year: '2005'
+doi: 10.1371/journal.pone.0199303
+files:
+- causality-semantic-link-network.pdf
+issue: '6'
+journal: PLOS ONE
+language: en
+month: 6
+pages: e0199303
+publisher: Public Library of Science (PLoS)
+ref: TheContributioCaoM2018
+tags: network graph-theory math semantic-network link-network causality
+time-added: 2021-04-22-15:09:47
+title: The contribution of cause-effect link to representing the core of scientific
+  paper—The role of Semantic Link Network
+type: article
+url: http://dx.doi.org/10.1371/journal.pone.0199303
+volume: '13'
+year: 2018

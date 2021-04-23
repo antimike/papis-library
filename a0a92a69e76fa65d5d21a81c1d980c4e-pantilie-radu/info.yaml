@@ -1,0 +1,23 @@
+abstract: We show that, in quaternionic geometry, the Ward transform is a manifestation
+  of the functoriality of the basic correspondence between the $\rho$-quaternionic
+  manifolds and their twistor spaces. We apply this fact, together with the Penrose
+  transform, to obtain existence results for hypercomplex manifolds and for harmonic
+  morphisms from hyper-Kaehler manifolds.
+archiveprefix: arXiv
+author: Pantilie, Radu
+author_list:
+- family: Pantilie
+  given: Radu
+eprint: 1502.06420v2
+file: 1502.06420v2.pdf
+files:
+- tmphwdc4vco.pdf
+month: Feb
+primaryclass: math.DG
+ref: 1502.06420v2
+tags: pluriharmonic morphism penrose-ward transform differential-geometry
+time-added: 2021-04-22-12:34:35
+title: (Pluri)harmonic morphisms and the Penrose-Ward transform
+type: article
+url: http://arxiv.org/abs/1502.06420v2
+year: '2015'

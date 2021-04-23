@@ -1,0 +1,46 @@
+abstract: Many biological and man-made networked systems are characterized by the
+  simultaneous presence of different sub-networks organized in separate layers, with
+  links and nodes of qualitatively different types. While during the past few years
+  theoretical studies have examined a variety of structural features of complex networks,
+  the outstanding question is whether such features are characterizing all single
+  layers, or rather emerge as a result of coarse-graining, i.e. when going from the
+  multilayered to the aggregate network representation. Here we address this issue
+  with the help of real data. We analyze the structural properties of an intrinsically
+  multilayered real network, the European Air Transportation Multiplex Network in
+  which each commercial airline defines a network layer. We examine how several structural
+  measures evolve as layers are progressively merged together. In particular, we discuss
+  how the topology of each layer affects the emergence of structural properties in
+  the aggregate network.
+archiveprefix: arXiv
+author: Cardillo, Alessio and Gómez-Gardeñes, Jesús and Zanin, Massimiliano and Romance,
+  Miguel and Papo, David and del Pozo, Francisco and Boccaletti, Stefano
+author_list:
+- family: Cardillo
+  given: Alessio
+- family: Gómez-Gardeñes
+  given: Jesús
+- family: Zanin
+  given: Massimiliano
+- family: Romance
+  given: Miguel
+- family: Papo
+  given: David
+- family: del Pozo
+  given: Francisco
+- family: Boccaletti
+  given: Stefano
+doi: 10.1038/srep01344
+eprint: 1212.2153v2
+file: 1212.2153v2.pdf
+files:
+- tmpicvc-id6.pdf
+month: Dec
+note: Scientific Reports 3, 1344 (2013)
+primaryclass: physics.soc-ph
+ref: 1212.2153v2
+tags: network graph-theory math multiplex emergent
+time-added: 2021-04-22-10:27:00
+title: Emergence of network features from multiplexity
+type: article
+url: http://arxiv.org/abs/1212.2153v2
+year: '2012'

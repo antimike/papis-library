@@ -1,0 +1,148 @@
+author: Ferber, Alan
+author_list:
+- affiliation: []
+  family: Ferber
+  given: Alan
+citations:
+- author: Penrose
+  first-page: '293'
+  series-title: Quantum gravity
+  year: '1975'
+- author: Salam
+  doi: 10.1016/0550-3213(74)90537-9
+  first-page: '477'
+  journal-title: Nucl. Phys.
+  volume: B76
+  year: '1974'
+- author: Daniel
+  first-page: '73'
+  journal-title: Phys. Lett.
+  volume: 65B
+  year: '1976'
+- author: Freund
+  doi: 10.1063/1.522885
+  first-page: '228'
+  journal-title: J. Math. Phys.
+  volume: '17'
+  year: '1976'
+- author: Kac
+  first-page: '91'
+  journal-title: Functional analysis and appl.
+  volume: '9'
+  year: '1975'
+- author: Nahm
+  doi: 10.1063/1.522999
+  first-page: '868'
+  journal-title: J. Math. Phys.
+  volume: '17'
+  year: '1976'
+- author: Wess
+  doi: 10.1016/0550-3213(74)90355-1
+  first-page: '39'
+  journal-title: Nucl. Phys.
+  volume: B70
+  year: '1974'
+- author: Pirani
+  first-page: '305'
+  series-title: Lectures on general relativity
+  year: '1964'
+- author: Penrose
+  first-page: '135'
+  series-title: Battelle Rencontres
+  year: '1968'
+- author: Berezin
+  doi: 10.1016/0003-4916(77)90335-9
+  first-page: '336'
+  journal-title: Ann. of Phys.
+  volume: '104'
+  year: '1977'
+- author: Salam
+  first-page: '1521'
+  journal-title: Phys. Rev.
+  volume: D11
+  year: '1975'
+- author: Brink
+  doi: 10.1016/0370-2693(76)90115-5
+  first-page: '435'
+  journal-title: Phys. Lett.
+  volume: 64B
+  year: '1976'
+- unstructured: This model was suggested by Dr. Peter G.O. Freund.
+- author: Woo
+  doi: 10.1007/BF02745918
+  first-page: '546'
+  journal-title: Nuovo Cim. Lett.
+  volume: '13'
+  year: '1975'
+- author: Ferber
+  doi: 10.1016/0550-3213(77)90430-8
+  first-page: '170'
+  journal-title: Nucl. Phys.
+  volume: 122B
+  year: '1977'
+- author: Golfand
+  first-page: '452'
+  journal-title: JETP Lett.
+  volume: '13'
+  year: '1971'
+- author: Volkov
+  doi: 10.1016/0370-2693(73)90490-5
+  first-page: '109'
+  journal-title: Phys. Lett.
+  volume: 46B
+  year: '1973'
+- author: Romão
+  doi: 10.1016/0550-3213(77)90288-7
+  first-page: '429'
+  journal-title: Nucl. Phys.
+  volume: B126
+  year: '1977'
+- author: Penrose
+  doi: 10.1016/0370-1573(73)90008-2
+  first-page: '241'
+  journal-title: Phys. Reports
+  volume: '6'
+  year: '1973'
+- author: Penrose
+  doi: 10.1063/1.1705200
+  first-page: '345'
+  journal-title: J. Math. Phys.
+  volume: '8'
+  year: '1967'
+- author: Penrose
+  doi: 10.1007/BF00668831
+  first-page: '61'
+  journal-title: Int. J. Th. Phys.
+  volume: '1'
+  year: '1968'
+- author: Penrose
+  doi: 10.1063/1.1664756
+  first-page: '38'
+  journal-title: J. Math. Phys.
+  volume: '10'
+  year: '1968'
+- author: Salam
+  doi: 10.1016/0550-3213(74)90500-8
+  first-page: '499'
+  journal-title: Nucl. Phys.
+  volume: B80
+  year: '1974'
+- unstructured: M. Gell-Mann and Y. Ne'eman, unpublished.
+doc_url: https://api.elsevier.com/content/article/PII:0550321378902572?httpAccept=text/plain
+doi: 10.1016/0550-3213(78)90257-2
+files:
+- supertwistor-conformal-supersymmetry.pdf
+issue: 1-2
+journal: Nuclear Physics B
+language: en
+month: 1
+pages: 55--64
+publisher: Elsevier BV
+ref: SupertwistorsAFerber1978
+tags: twistor conformal supersymmetry superalgebra lie-theory nonlinear superconformal
+time-added: 2021-04-22-13:30:51
+title: Supertwistors and conformal supersymmetry
+type: article
+url: http://dx.doi.org/10.1016/0550-3213(78)90257-2
+volume: '132'
+year: 1978

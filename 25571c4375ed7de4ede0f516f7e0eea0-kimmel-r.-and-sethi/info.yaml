@@ -1,0 +1,26 @@
+author: Kimmel, R. and Sethian, J. A.
+author_list:
+- affiliation: []
+  family: Kimmel
+  given: R.
+- affiliation: []
+  family: Sethian
+  given: J. A.
+doi: 10.1073/pnas.95.15.8431
+files:
+- geodesic-computation.pdf
+issue: '15'
+journal: Proceedings of the National Academy of Sciences
+language: en
+month: 7
+pages: 8431--8435
+publisher: Proceedings of the National Academy of Sciences
+ref: ComputingGeodeKimmel1998
+tags: geodesic differential-geometry computation algorithm fast-marching-method eikonal-equation
+  mesh
+time-added: 2021-04-22-14:05:18
+title: Computing geodesic paths on manifolds
+type: article
+url: http://dx.doi.org/10.1073/pnas.95.15.8431
+volume: '95'
+year: 1998

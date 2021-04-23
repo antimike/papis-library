@@ -1,0 +1,37 @@
+abstract: We study entanglement properties of mixed density matrices obtained from
+  combinatorial Laplacians. This is done by introducing the notion of the density
+  matrix of a graph. We characterize the graphs with pure density matrices and show
+  that the density matrix of a graph can be always written as a uniform mixture of
+  pure density matrices of graphs. We consider the von Neumann entropy of these matrices
+  and we characterize the graphs for which the minimum and maximum values are attained.
+  We then discuss the problem of separability by pointing out that separability of
+  density matrices of graphs does not always depend on the labelling of the vertices.
+  We consider graphs with a tensor product structure and simple cases for which combinatorial
+  properties are linked to the entanglement of the state. We calculate the concurrence
+  of all graph on four vertices representing entangled states. It turns out that for
+  some of these graphs the value of the concurrence is exactly fractional.
+archiveprefix: arXiv
+author: Braunstein, Samuel L. and Ghosh, Sibasish and Severini, Simone
+author_list:
+- family: Braunstein
+  given: Samuel L.
+- family: Ghosh
+  given: Sibasish
+- family: Severini
+  given: Simone
+doi: 10.1007/s00026-006-0289-3
+eprint: quant-ph/0406165v2
+file: quant-ph/0406165v2.pdf
+files:
+- tmpbv3xwcl.pdf
+month: Jun
+note: Annals of Combinatorics, Volume 10, No 3, 2006
+primaryclass: quant-ph
+ref: quant-ph/0406165v2
+tags: network graph-theory math laplacian density-matrix combinatorics information-theory
+time-added: 2021-04-22-10:12:43
+title: 'The laplacian of a graph as a density matrix: a basic combinatorial   approach
+  to separability of mixed states'
+type: article
+url: http://arxiv.org/abs/quant-ph/0406165v2
+year: '2004'

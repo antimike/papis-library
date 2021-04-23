@@ -1,0 +1,45 @@
+abstract: Systems that comprise many interacting dynamical networks, such as the human
+  body with its biological networks or the global economic network consisting of regional
+  clusters, often exhibit complicated collective dynamics. To understand the collective
+  behavior of such systems, we investigate a model of interacting networks exhibiting
+  the fundamental processes of failure, damage spread, and recovery. We find a very
+  rich phase diagram that becomes exponentially more complex as the number of networks
+  is increased. In the simplest example of $n=2$ interacting networks we find two
+  critical points, 4 triple points, 10 allowed transitions, and two "forbidden" transitions,
+  as well as complex hysteresis loops. Remarkably, we find that triple points play
+  the dominant role in constructing the optimal repairing strategy in damaged interacting
+  systems. To support our model, we analyze an example of real interacting financial
+  networks and find evidence of rapid dynamical transitions between well-defined states,
+  in agreement with the predictions of our model.
+archiveprefix: arXiv
+author: Majdandzic, Antonio and Braunstein, Lidia A. and Curme, Chester and Vodenska,
+  Irena and Levy-Carciente, Sary and Stanley, H. Eugene and Havlin, Shlomo
+author_list:
+- family: Majdandzic
+  given: Antonio
+- family: Braunstein
+  given: Lidia A.
+- family: Curme
+  given: Chester
+- family: Vodenska
+  given: Irena
+- family: Levy-Carciente
+  given: Sary
+- family: Stanley
+  given: H. Eugene
+- family: Havlin
+  given: Shlomo
+doi: 10.1038/ncomms10850
+eprint: 1502.00244v2
+file: 1502.00244v2.pdf
+files:
+- tmpkkld2qir.pdf
+month: Feb
+primaryclass: physics.soc-ph
+ref: 1502.00244v2
+tags: network graph-theory math tipping-point network-repair interacting-network
+time-added: 2021-04-22-10:43:12
+title: Multiple Tipping Points and Optimal Repairing in Interacting Networks
+type: article
+url: http://arxiv.org/abs/1502.00244v2
+year: '2015'

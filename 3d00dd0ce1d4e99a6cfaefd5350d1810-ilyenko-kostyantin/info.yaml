@@ -1,0 +1,27 @@
+abstract: We present a twistor description for null two-surfaces (null strings) in
+  4D Minkowski space-time. The Lagrangian density for a variational principle is taken
+  as a surface-forming null bivector. The proposed formulation is reparametrization
+  invariant and free of any algebraic and differential constraints. The spinor formalism
+  of Cartan-Penrose allows us to derive a non-linear evolution equation for the world-sheet
+  coordinate. An example of null two-surface given by the two-dimensional self-intersection
+  (caustic) of a null hypersurface is studied.
+archiveprefix: arXiv
+author: Ilyenko, Kostyantin
+author_list:
+- family: Ilyenko
+  given: Kostyantin
+doi: 10.1063/1.1501166
+eprint: hep-th/0109036v1
+file: hep-th/0109036v1.pdf
+files:
+- tmpo9ykeyz0.pdf
+month: Sep
+note: J.Math.Phys.43:4770-4789,2002
+primaryclass: hep-th
+ref: hep-th/0109036v1
+tags: twistor null-surface representation hep theory
+time-added: 2021-04-22-12:42:05
+title: Twistor representation of null two-surfaces
+type: article
+url: http://arxiv.org/abs/hep-th/0109036v1
+year: '2001'

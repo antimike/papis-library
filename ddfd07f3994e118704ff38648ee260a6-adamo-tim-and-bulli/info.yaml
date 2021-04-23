@@ -1,0 +1,41 @@
+abstract: 'This article reviews the recent progress in twistor approaches to Wilson
+  loops, amplitudes and their duality for N=4 super Yang-Mills. Wilson loops and amplitudes
+  are derived from first principles using the twistor action for maximally supersymmetric
+  Yang-Mills theory. We start by deriving the MHV rules for gauge theory amplitudes
+  from the twistor action in an axial gauge in twistor space, and show that this gives
+  rise to the original momentum space version given by Cachazo, Svrcek and Witten.
+  We then go on to obtain from these the construction of the momentum twistor space
+  loop integrand using (planar) MHV rules and show how it arises as the expectation
+  value of a holomorphic Wilson loop in twistor space. We explain the connection between
+  the holomorphic Wilson loop and certain light-cone limits of correlation functions.
+  We give a brief review of other ideas in connection with amplitudes in twistor space:
+  twistor-strings, recursion in twistor space, the Grassmannian residue formula for
+  leading singularities and amplitudes as polytopes. This article is an invited review
+  for a special issue of Journal of Physics A devoted to `Scattering Amplitudes in
+  Gauge Theories''.'
+archiveprefix: arXiv
+author: Adamo, Tim and Bullimore, Mathew and Mason, Lionel and Skinner, David
+author_list:
+- family: Adamo
+  given: Tim
+- family: Bullimore
+  given: Mathew
+- family: Mason
+  given: Lionel
+- family: Skinner
+  given: David
+doi: 10.1088/1751-8113/44/45/454008
+eprint: 1104.2890v2
+file: 1104.2890v2.pdf
+files:
+- tmpvczr6gzo.pdf
+month: Apr
+note: 'J.Phys.A: Math.Theor. 44: 454008, 2011'
+primaryclass: hep-th
+ref: 1104.2890v2
+tags: wilson-loop qft scattering-amplitude twistor theory
+time-added: 2021-04-22-13:46:28
+title: Scattering Amplitudes and Wilson Loops in Twistor Space
+type: article
+url: http://arxiv.org/abs/1104.2890v2
+year: '2011'

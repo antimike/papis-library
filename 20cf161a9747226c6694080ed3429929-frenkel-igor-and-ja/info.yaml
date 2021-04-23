@@ -1,0 +1,29 @@
+abstract: We introduce a quantum Minkowski space-time based on the quantum group SU(2)q
+  extended by a degree operator and formulate a quantum version of the anti-self-dual
+  Yang-Mills equation. We construct solutions of the quantum equations using the classical
+  ADHM linear data, and conjecture that, up to gauge transformations, our construction
+  yields all the solutions. We also find a deformation of Penrose's twistor diagram,
+  giving a correspondence between the quantum Minkowski space-time and the classical
+  projective twistor space.
+archiveprefix: arXiv
+author: Frenkel, Igor and Jardim, Marcos
+author_list:
+- family: Frenkel
+  given: Igor
+- family: Jardim
+  given: Marcos
+doi: 10.1007/s00220-003-0840-6
+eprint: math/0205118v2
+file: math/0205118v2.pdf
+files:
+- tmp8ghz5d3n.pdf
+month: May
+note: Commun.Math.Phys. 237 (2003) 471-505
+primaryclass: math.QA
+ref: math/0205118v2
+tags: quantum-instanton instanton moduli-space anti-self-dual yang-mills twistor projective-twistor
+time-added: 2021-04-22-12:41:11
+title: Quantum instantons with classical moduli spaces
+type: article
+url: http://arxiv.org/abs/math/0205118v2
+year: '2002'

@@ -1,0 +1,24 @@
+author: Langer, J. S.
+author_list:
+- affiliation:
+  - name: Institute for Theoretical Physics, University of California, Santa Barbara,
+      California 93106, USA
+  family: Langer
+  given: J. S.
+doi: 10.1142/9789814415309_0005
+files:
+- pattern-formation-phase-transitions.pdf
+isbn:
+- '9789971978426'
+- '9789814415309'
+journal: Series on Directions in Condensed Matter Physics
+month: 8
+pages: 165--186
+publisher: WORLD SCIENTIFIC
+ref: ModelsOfPatteLanger1986
+tags: phase-transition statistical-physics pattern-formation cmt phase-field theory
+time-added: 2021-04-22-17:18:33
+title: MODELS OF PATTERN FORMATION IN FIRST-ORDER PHASE TRANSITIONS
+type: inbook
+url: http://dx.doi.org/10.1142/9789814415309_0005
+year: 1986
