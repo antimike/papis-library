@@ -1,0 +1,147 @@
+author: Krasnov, Kirill
+author_list:
+- affiliation: []
+  family: Krasnov
+  given: Kirill
+citations:
+- article-title: Unified lepton–hadron symmetry and a gauge theory of the basic interactions
+  author: Pati
+  doi: 10.1103/PhysRevD.8.1240
+  first-page: '1240'
+  journal-title: Phys. Rev. D
+  volume: '8'
+  year: '1973'
+- article-title: The algebra of grand unified theories
+  author: Baez
+  doi: 10.1090/S0273-0979-10-01294-2
+  first-page: '483'
+  journal-title: Bull. Am. Math. Soc.
+  volume: '47'
+  year: '2010'
+- article-title: Chirality in unified theories of gravity
+  author: Nesti
+  doi: 10.1103/PhysRevD.81.025010
+  journal-title: Phys. Rev. D
+  volume: '81'
+  year: '2010'
+- article-title: 'Gravity and unification: a review'
+  author: Krasnov
+  doi: 10.1088/1361-6382/aac58d
+  issue: '14'
+  journal-title: Class. Quantum Gravity
+  volume: '35'
+  year: '2018'
+- article-title: Elementary particles and spin representations
+  author: Maraner
+  doi: 10.1142/S0217732304013258
+  first-page: '357'
+  journal-title: Mod. Phys. Lett. A
+  volume: '19'
+  year: '2004'
+- article-title: Generalized Calabi–Yau manifolds
+  author: Hitchin
+  doi: 10.1093/qmath/hag025
+  first-page: '281'
+  journal-title: Q. J. Math.
+  volume: '54'
+  year: '2003'
+- author: Hitchin
+- article-title: Double field theory
+  author: Hull
+  journal-title: J. High Energy Phys.
+  volume: 0909
+  year: '2009'
+- article-title: Two vierbein formalism for string inspired axionic gravity
+  author: Siegel
+  doi: 10.1103/PhysRevD.47.5453
+  first-page: '5453'
+  journal-title: Phys. Rev. D
+  volume: '47'
+  year: '1993'
+- article-title: Der innere Differentialkalkül
+  author: Kähler
+  first-page: '425'
+  journal-title: Rend. Mat.
+  volume: '21'
+  year: '1962'
+- article-title: Differential forms as spinors
+  author: Graf
+  first-page: '85'
+  journal-title: Ann. Inst. Henri Poincaré. Phys. Théor.
+  volume: '29'
+  year: '1978'
+- article-title: Fermions without spinors
+  author: Benn
+  doi: 10.1007/BF01214659
+  first-page: '341'
+  journal-title: Commun. Math. Phys.
+  volume: '89'
+  year: '1983'
+- article-title: Vector Fields on Manifolds
+  author: Atiyah
+  volume: Heft 200
+  year: '1970'
+- article-title: On the geometry of double field theory
+  author: Vaisman
+  doi: 10.1063/1.3694739
+  journal-title: J. Math. Phys.
+  volume: '53'
+  year: '2012'
+- article-title: Generalised kinematics for double field theory
+  author: Freidel
+  journal-title: J. High Energy Phys.
+  volume: '1711'
+  year: '2017'
+- author: Freed
+- article-title: A new algebraic structure in the standard model of particle physics
+  author: Boyle
+  journal-title: J. High Energy Phys.
+  volume: '1806'
+  year: '2018'
+- author: Gualtieri
+- author: Witt
+- article-title: Two-component spinor techniques and Feynman rules for quantum field
+    theory and supersymmetry
+  author: Dreiner
+  doi: 10.1016/j.physrep.2010.05.002
+  first-page: '1'
+  journal-title: Phys. Rep.
+  volume: '494'
+  year: '2010'
+- article-title: Finite gauge transformations and geometry in double field theory
+  author: Hull
+  journal-title: J. High Energy Phys.
+  volume: '1504'
+  year: '2015'
+- article-title: General relativity from three-forms in seven dimensions
+  author: Krasnov
+  doi: 10.1016/j.physletb.2017.06.025
+  first-page: '300'
+  journal-title: Phys. Lett. B
+  volume: '772'
+  year: '2017'
+- article-title: Dynamics of 3-forms in seven dimensions
+  author: Krasnov
+  doi: 10.1088/1361-6382/aa8b45
+  issue: '22'
+  journal-title: Class. Quantum Gravity
+  volume: '34'
+  year: '2017'
+doc_url: https://api.elsevier.com/content/article/PII:S0550321318302530?httpAccept=text/plain
+doi: 10.1016/j.nuclphysb.2018.09.006
+files:
+- paper.pdf
+journal: Nuclear Physics B
+language: en
+month: 11
+pages: 36--75
+publisher: Elsevier BV
+ref: FermionsDiffeKrasno2018
+tags: fermion differential-geometry exterior-calculus doubled-geometry pati-salam
+  standad-model hep differential-form lagrangian unification
+time-added: 2021-04-23-05:48:52
+title: Fermions, differential forms and doubled geometry
+type: article
+url: http://dx.doi.org/10.1016/j.nuclphysb.2018.09.006
+volume: '936'
+year: 2018

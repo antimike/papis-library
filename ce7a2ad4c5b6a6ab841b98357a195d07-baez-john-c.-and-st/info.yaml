@@ -1,0 +1,34 @@
+abstract: 'In physics, Feynman diagrams are used to reason about quantum processes.
+  In the 1980s, it became clear that underlying these diagrams is a powerful analogy
+  between quantum physics and topology: namely, a linear operator behaves very much
+  like a "cobordism". Similar diagrams can be used to reason about logic, where they
+  represent proofs, and computation, where they represent programs. With the rise
+  of interest in quantum cryptography and quantum computation, it became clear that
+  there is extensive network of analogies between physics, topology, logic and computation.
+  In this expository paper, we make some of these analogies precise using the concept
+  of "closed symmetric monoidal category". We assume no prior knowledge of category
+  theory, proof theory or computer science.'
+archiveprefix: arXiv
+author: Baez, John C. and Stay, Mike
+author_list:
+- family: Baez
+  given: John C.
+- family: Stay
+  given: Mike
+doi: 10.1007/978-3-642-12821-9_2
+eprint: 0903.0340v3
+file: 0903.0340v3.pdf
+files:
+- tmp17epjteg.pdf
+month: Mar
+note: Physics, topology, logic and compIn New Structures for Physics,   ed. Bob Coecke,
+  Lecture Notes in Physics vol. 813, Springer, Berlin, 2011,   pp. 95-174
+primaryclass: quant-ph
+ref: 0903.0340v3
+tags: physics topology logic computation john-baez network-theory feynman-diagram
+  cobordism closed-symmetric-monoidal-category fundamental-physics survey introduction
+time-added: 2021-04-23-06:13:17
+title: 'Physics, Topology, Logic and Computation: A Rosetta Stone'
+type: article
+url: http://arxiv.org/abs/0903.0340v3
+year: '2009'

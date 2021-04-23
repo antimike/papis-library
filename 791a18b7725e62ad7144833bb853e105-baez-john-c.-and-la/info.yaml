@@ -1,0 +1,30 @@
+abstract: This paper traces the growing role of categories and n-categories in physics,
+  starting with groups and their role in relativity, and leading up to more sophisticated
+  concepts which manifest themselves in Feynman diagrams, spin networks, string theory,
+  loop quantum gravity, and topological quantum field theory. Our chronology ends
+  around 2000, with just a taste of later developments such as open-closed topological
+  string theory, the categorification of quantum groups, Khovanov homology, and Lurie's
+  work on the classification of topological quantum field theories.
+archiveprefix: arXiv
+author: Baez, John C. and Lauda, Aaron
+author_list:
+- family: Baez
+  given: John C.
+- family: Lauda
+  given: Aaron
+doi: 10.1017/CBO9780511976971.003
+eprint: 0908.2469v1
+file: 0908.2469v1.pdf
+files:
+- tmp-0iy-d4.pdf
+month: Aug
+note: Deep beauty, 13-128, Cambridge Univ. Press, Cambridge, 2011
+primaryclass: hep-th
+ref: 0908.2469v1
+tags: n-category fundamental-physics group-theory relativity feynman-diagram spin-network
+  string-theory loop-quantum-gravity topological qft survey book unification john-baez
+time-added: 2021-04-23-06:15:01
+title: A Prehistory of n-Categorical Physics
+type: article
+url: http://arxiv.org/abs/0908.2469v1
+year: '2009'

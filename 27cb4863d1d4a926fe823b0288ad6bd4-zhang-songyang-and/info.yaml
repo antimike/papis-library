@@ -1,0 +1,39 @@
+abstract: Signal processing over graphs has recently attracted significant attentions
+  for dealing with structured data. Normal graphs, however, only model pairwise relationships
+  between nodes and are not effective in representing and capturing some high-order
+  relationships of data samples, which are common in many applications such as Internet
+  of Things (IoT). In this work, we propose a new framework of hypergraph signal processing
+  (HGSP) based on tensor representation to generalize the traditional graph signal
+  processing (GSP) to tackle high-order interactions. We introduce the core concepts
+  of HGSP and define the hypergraph Fourier space. We then study the spectrum properties
+  of hypergraph Fourier transform and explain its connection to mainstream digital
+  signal processing. We derive the novel hypergraph sampling theory and present the
+  fundamentals of hypergraph filter design based on the tensor framework. We present
+  HGSP-based methods for several signal processing and data analysis applications.
+  Our experimental results demonstrate significant performance improvement using our
+  HGSP framework over some traditional signal processing solutions.
+archiveprefix: arXiv
+author: Zhang, Songyang and Ding, Zhi and Cui, Shuguang
+author_list:
+- family: Zhang
+  given: Songyang
+- family: Ding
+  given: Zhi
+- family: Cui
+  given: Shuguang
+doi: 10.1109/JIOT.2019.2950213
+eprint: 1907.09203v5
+file: 1907.09203v5.pdf
+files:
+- tmph8l4wfeu.pdf
+month: Jul
+primaryclass: eess.SP
+ref: 1907.09203v5
+tags: hypergraph graph-theory signal-processing structured-data hypergraph-fourier-space
+  hypergraph-fourier-transform HGFT graph-tensor math network-theory
+time-added: 2021-04-23-04:56:41
+title: 'Introducing Hypergraph Signal Processing: Theoretical Foundation and   Practical
+  Applications'
+type: article
+url: http://arxiv.org/abs/1907.09203v5
+year: '2019'

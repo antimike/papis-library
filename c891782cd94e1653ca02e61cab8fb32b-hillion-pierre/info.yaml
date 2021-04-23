@@ -1,0 +1,21 @@
+author: Hillion, Pierre
+author_list:
+- affiliation: []
+  family: Hillion
+  given: Pierre
+doi: 10.2528/pierm10111501
+files:
+- hertz-differential-forms-em.pdf
+journal: Progress In Electromagnetics Research M
+language: en
+pages: 197--211
+publisher: The Electromagnetics Academy
+ref: SpinorAndHertHillio2011
+tags: spinor hertzian-differential-form exterior-calculus differential-geometry em
+  cartan proca-field hertz-potential
+time-added: 2021-04-23-05:00:21
+title: SPINOR AND HERTZIAN DIFFERENTIAL FORMS IN ELECTROMAGNETISM
+type: article
+url: http://dx.doi.org/10.2528/pierm10111501
+volume: '16'
+year: 2011

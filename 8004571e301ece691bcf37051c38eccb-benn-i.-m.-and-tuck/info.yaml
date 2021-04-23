@@ -1,0 +1,83 @@
+author: Benn, I. M. and Tucker, R. W.
+author_list:
+- affiliation: []
+  family: Benn
+  given: I. M.
+- affiliation: []
+  family: Tucker
+  given: R. W.
+citations:
+- author: E. K�hler
+  first-page: '425'
+  issue: 3?4
+  journal-title: Rend. Mat.
+  unstructured: 'K�hler, E.: Der innere Differentialkalk�l. Rend. Mat. (3?4)21, 425
+    (1962)'
+  volume: '21'
+  year: '1962'
+- author: W. Graf
+  first-page: '85'
+  journal-title: Ann. Inst. Henri Poincar�
+  unstructured: 'Graf, W.: Differential forms as spinors. Ann. Inst. Henri Poincar�XXIX,
+    85 (1978)'
+  volume: XXIX
+  year: '1978'
+- author: I.M. Benn
+  doi: 10.1007/BF01214659
+  first-page: '341'
+  journal-title: Commun. Math. Phys.
+  unstructured: 'Benn, I.M., Tucker, R.W.: Fermions without spinors. Commun. Math.
+    Phys.89, 341 (1983)'
+  volume: '89'
+  year: '1983'
+- unstructured: 'Albert, A.A.: Structure of algebras. American Mathematical Society
+    Colloquium Publications, Vol. XXIV, 1961'
+- author: I.M. Benn
+  doi: 10.1088/0305-4470/16/17/029
+  first-page: '4147'
+  journal-title: J. Phys. A
+  unstructured: 'Benn, I.M., Tucker, R.W.: Clifford analysis of exterior forms and
+    Fermi-Bose symmetry. J. Phys. A16, 4147 (1983)'
+  volume: '16'
+  year: '1983'
+- author: P. Lounesto
+  doi: 10.1007/BF00726946
+  first-page: '721'
+  journal-title: Found. Phys.
+  unstructured: 'Lounesto, P.: Scalar products of spinors and an extension of Brauer-Wall
+    groups. Found. Phys.11, 721 (1981)'
+  volume: '11'
+  year: '1981'
+- author: I.R. Porteus
+  doi: 10.1017/CBO9780511623943
+  unstructured: 'Porteus, I.R.: Topological geometry. Cambridge: Cambridge University
+    Press 1981'
+  volume-title: Topological geometry
+  year: '1981'
+- author: I.M. Benn
+  doi: 10.1016/0370-2693(83)91037-7
+  first-page: '177'
+  journal-title: Phys. Lett. B
+  unstructured: 'Benn, I.M., Tucker, R.W.: A local right-spin covariant K�hler equation.
+    Phys. Lett. B130, 177 (1983)'
+  volume: '130'
+  year: '1983'
+doc_url: http://link.springer.com/article/10.1007/BF01211043/fulltext.html
+doi: 10.1007/bf01211043
+files:
+- the-dirac-equation-in-exterior-form.pdf
+- tmphi8ta-h5-a.data
+issue: '1'
+journal: Communications in Mathematical Physics
+language: en
+month: 3
+pages: 53--63
+publisher: Springer Science and Business Media LLC
+ref: TheDiracEquatBenn1985
+tags: differential-geometry
+time-added: 2021-04-23-05:59:03
+title: The Dirac equation in exterior form
+type: article
+url: http://dx.doi.org/10.1007/bf01211043
+volume: '98'
+year: 1985
