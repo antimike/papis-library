@@ -32,9 +32,9 @@ month: Dec
 note: 'Physica D: Nonlinear Phenomena, Volume 310, Pages 37-71, 2015'
 primaryclass: math.NA
 ref: 1412.2011v3
+tags: variational pde numerics algorithm lagrangian multisymplectic symmetry noether
 time-added: 2021-04-13-00:23:59
 title: Variational Integrators for Nonvariational Partial Differential   Equations
 type: article
 url: http://arxiv.org/abs/1412.2011v3
 year: '2014'
-tags: 'variational pde numerics algorithm lagrangian multisymplectic symmetry noether'
