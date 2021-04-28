@@ -1,0 +1,30 @@
+abstract: 'We classify up to isomorphism all finite-dimensional Lie algebras that
+  can be realised as Lie subalgebras of the complex Weyl algebra $A_1$. The list we
+  obtain turns out to be discrete and for example, the only non-solvable Lie algebras
+  with this property are:   $sl(2)$, $sl(2)\times\mathbb C$ and $sl(2)\ltimes{\cal
+  H}_3$.   We then give several different characterisations, normal forms and isotropy
+  groups for the action of $Aut (A_1)\times Aut (sl(2))$ on a particular class of
+  realisations of $sl(2)$ in $A_1$.'
+archiveprefix: arXiv
+author: de Traubenberg, M. Rausch and Slupinski, M. J. and Tanasa, A.
+author_list:
+- family: de Traubenberg
+  given: M. Rausch
+- family: Slupinski
+  given: M. J.
+- family: Tanasa
+  given: A.
+eprint: math/0504224v2
+file: math/0504224v2.pdf
+files:
+- tmpmhru4v26.pdf
+month: Apr
+note: J. Lie Theory 16 (2006) 427-454
+primaryclass: math.RT
+ref: math/0504224v2
+tags: lie-algebra
+time-added: 2021-04-24-16:46:09
+title: Finite-dimensional Lie subalgebras of the Weyl algebra
+type: article
+url: http://arxiv.org/abs/math/0504224v2
+year: '2005'
