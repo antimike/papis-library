@@ -1,0 +1,115 @@
+author: Witten, Edward
+author_list:
+- affiliation: []
+  family: Witten
+  given: Edward
+citations:
+- author: Ward
+  doi: 10.1016/0375-9601(77)90842-8
+  first-page: '81'
+  journal-title: Phys. Lett.
+  volume: 61A
+  year: '1977'
+- author: Penrose
+  doi: 10.1007/BF00762011
+  first-page: '31'
+  journal-title: Gen. Rel. Grav.
+  volume: '7'
+  year: '1976'
+- unstructured: G.A.J. Sparling, unpublished.
+- author: Belavin
+  doi: 10.1016/0370-2693(75)90163-X
+  first-page: '85'
+  journal-title: Phys. Lett.
+  volume: 59B
+  year: '1975'
+- author: Atiyah
+  doi: 10.1007/BF01626514
+  first-page: '117'
+  journal-title: Commun. Math. Phys.
+  volume: '55'
+  year: '1977'
+- author: Atiyah
+  doi: 10.1016/0375-9601(78)90141-X
+  first-page: '185'
+  journal-title: Phys. Lett.
+  volume: 65A
+  year: '1978'
+- unstructured: Yu.I. Manin, private communication.
+- author: Yang
+  doi: 10.1103/PhysRevLett.38.1377
+  first-page: '1377'
+  journal-title: Phys. Rev. Lett.
+  volume: '38'
+  year: '1977'
+- author: Belavin
+  doi: 10.1016/0370-2693(78)90170-3
+  first-page: '53'
+  journal-title: Phys. Lett.
+  volume: 73B
+  year: '1978'
+- author: Ferrara
+  first-page: '413'
+  journal-title: Nucl. Phys.
+  volume: B79
+  year: '1974'
+- author: Salam
+  doi: 10.1016/0370-2693(74)90226-3
+  first-page: '353'
+  journal-title: Phys. Lett.
+  volume: 51B
+  year: '1974'
+- author: Gliozzi
+  doi: 10.1016/0550-3213(77)90206-1
+  first-page: '253'
+  journal-title: Nucl. Phys.
+  volume: B122
+  year: '1977'
+- author: Brink
+  doi: 10.1016/0550-3213(77)90328-5
+  first-page: '77'
+  journal-title: Nucl. Phys.
+  volume: B121
+  year: '1977'
+- author: Grimm
+  doi: 10.1016/0550-3213(78)90303-6
+  first-page: '275'
+  journal-title: Nucl. Phys.
+  volume: B133
+  year: '1978'
+- author: Salam
+  doi: 10.1016/0550-3213(74)90537-9
+  first-page: '477'
+  journal-title: Nucl. Phys.
+  volume: B76
+  year: '1974'
+- author: Ferber
+  doi: 10.1016/0550-3213(78)90257-2
+  first-page: '55'
+  journal-title: Nucl. Phys.
+  volume: B132
+  year: '1978'
+- author: Penrose
+  series-title: Battelles Rencontres
+  year: '1968'
+- author: Sohnius
+  series-title: Bianchi identities for supersymmetric gauge theories
+  year: '1978'
+doc_url: https://api.elsevier.com/content/article/PII:0370269378905853?httpAccept=text/plain
+doi: 10.1016/0370-2693(78)90585-3
+files:
+- yang-mills-interpretation-twistors-witten.pdf
+issue: 4-5
+journal: Physics Letters B
+language: en
+month: 8
+pages: 394--398
+publisher: Elsevier BV
+ref: AnInterpretatiWitten1978
+tags: witten yang-mills twistor field-equation
+time-added: 2021-04-22-13:50:11
+title: An interpretation of classical Yang-Mills theory
+type: article
+url: http://dx.doi.org/10.1016/0370-2693(78)90585-3
+volume: '77'
+year: 1978

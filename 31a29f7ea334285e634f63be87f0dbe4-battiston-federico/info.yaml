@@ -1,0 +1,43 @@
+abstract: Community structures in collaboration networks reflect the natural tendency
+  of individuals to organize their work in groups in order to better achieve common
+  goals. In most of the cases, individuals exploit their connections to introduce
+  themselves to new areas of interests, giving rise to multifaceted collaborations
+  which span different fields. In this paper, we analyse collaborations in science
+  and among movie actors as multiplex networks, where the layers represent respectively
+  research topics and movie genres, and we show that communities indeed coexist and
+  overlap at the different layers of such systems. We then propose a model to grow
+  multiplex networks based on two mechanisms of intra and inter-layer triadic closure
+  which mimic the real processes by which collaborations evolve. We show that our
+  model is able to explain the multiplex community structure observed empirically,
+  and we infer the strength of the two underlying social mechanisms from real-world
+  systems. Being also able to correctly reproduce the values of intra-layer and inter-layer
+  assortativity correlations, the model contributes to a better understanding of the
+  principles driving the evolution of social networks.
+archiveprefix: arXiv
+author: Battiston, Federico and Iacovacci, Jacopo and Nicosia, Vincenzo and Bianconi,
+  Ginestra and Latora, Vito
+author_list:
+- family: Battiston
+  given: Federico
+- family: Iacovacci
+  given: Jacopo
+- family: Nicosia
+  given: Vincenzo
+- family: Bianconi
+  given: Ginestra
+- family: Latora
+  given: Vito
+doi: 10.1371/journal.pone.0147451
+eprint: 1506.01280v2
+file: 1506.01280v2.pdf
+files:
+- tmp1c0cn82o.pdf
+month: Jun
+primaryclass: physics.soc-ph
+ref: 1506.01280v2
+tags: network graph-theory math collaboration-network multiplex
+time-added: 2021-04-22-10:25:51
+title: Emergence of multiplex communities in collaboration networks
+type: article
+url: http://arxiv.org/abs/1506.01280v2
+year: '2015'

@@ -1,0 +1,25 @@
+abstract: Using elementary geometric tools, we apply essentially the same methods
+  to derive expressions for the rotation angle of the swing plane of Foucault's pendulum
+  and the rotation angle of the spin of a relativistic particle moving in a circular
+  orbit (Thomas precession effect).
+archiveprefix: arXiv
+author: Krivoruchenko, M. I.
+author_list:
+- family: Krivoruchenko
+  given: M. I.
+doi: 10.3367/UFNe.0179.200908e.0873
+eprint: 0805.1136v2
+file: 0805.1136v2.pdf
+files:
+- tmplv1zdeb1.pdf
+month: May
+note: Phys.Usp.52:821-829,2009; Usp.Fiz.Nauk 179:873-882,2009
+primaryclass: nucl-th
+ref: 0805.1136v2
+tags: thomas-precession sr differential-geometry focault-pendulum em
+time-added: 2021-04-17-04:12:16
+title: 'Rotation of the swing plane of Foucault''s pendulum and Thomas spin   precession:
+  Two faces of one coin'
+type: article
+url: http://arxiv.org/abs/0805.1136v2
+year: '2008'

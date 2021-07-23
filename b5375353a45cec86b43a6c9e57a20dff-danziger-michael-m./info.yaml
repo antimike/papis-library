@@ -1,0 +1,40 @@
+abstract: From critical infrastructure, to physiology and the human brain, complex
+  systems rarely occur in isolation. Instead, the functioning of nodes in one system
+  often promotes or suppresses the functioning of nodes in another. Despite advances
+  in structural interdependence, modeling interdependence and other interactions between
+  dynamic systems has proven elusive. Here we define a broadly applicable dynamic
+  dependency link and develop a general framework for interdependent and competitive
+  interactions between general dynamic systems. We apply our framework to studying
+  interdependent and competitive synchronization in multi-layer oscillator networks
+  and cooperative/competitive contagions in an epidemic model. Using a mean-field
+  theory which we verify numerically, we find explosive transitions and rich behavior
+  which is absent in percolation models including hysteresis, multi-stability and
+  chaos. The framework presented here provides a powerful new way to model and understand
+  many of the interacting complex systems which surround us.
+archiveprefix: arXiv
+author: Danziger, Michael M. and Bonamassa, Ivan and Boccaletti, Stefano and Havlin,
+  Shlomo
+author_list:
+- family: Danziger
+  given: Michael M.
+- family: Bonamassa
+  given: Ivan
+- family: Boccaletti
+  given: Stefano
+- family: Havlin
+  given: Shlomo
+doi: 10.1038/s41567-018-0343-1
+eprint: 1705.00241v1
+file: 1705.00241v1.pdf
+files:
+- tmpd8rvsdvt.pdf
+month: Apr
+primaryclass: cond-mat.stat-mech
+ref: 1705.00241v1
+tags: network graph-theory math dynamic interdependent-network multilayer-network
+  competitive-network
+time-added: 2021-04-22-10:40:50
+title: Dynamic interdependence and competition in multilayer networks
+type: article
+url: http://arxiv.org/abs/1705.00241v1
+year: '2017'

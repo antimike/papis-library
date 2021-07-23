@@ -1,0 +1,29 @@
+abstract: We establish a Penrose-Ward transform yielding a bijection between holomorphic
+  principal 2-bundles over a twistor space and non-Abelian self-dual tensor fields
+  on six-dimensional flat space-time. Extending the twistor space to supertwistor
+  space, we derive sets of manifestly N=(1,0) and N=(2,0) supersymmetric non-Abelian
+  constraint equations containing the tensor multiplet. We also demonstrate how this
+  construction leads to constraint equations for non-Abelian supersymmetric self-dual
+  strings.
+archiveprefix: arXiv
+author: Saemann, Christian and Wolf, Martin
+author_list:
+- family: Saemann
+  given: Christian
+- family: Wolf
+  given: Martin
+doi: 10.1007/s00220-014-2022-0
+eprint: 1205.3108v3
+file: 1205.3108v3.pdf
+files:
+- tmpgwbybh3b.pdf
+month: May
+note: Commun. Math. Phys. 328:527-544, 2014
+primaryclass: hep-th
+ref: 1205.3108v3
+tags: nonabelian tensor-network tensor-multiplet twistor
+time-added: 2021-04-22-12:21:51
+title: Non-Abelian Tensor Multiplet Equations from Twistor Space
+type: article
+url: http://arxiv.org/abs/1205.3108v3
+year: '2012'

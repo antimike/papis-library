@@ -1,0 +1,94 @@
+abstract: '<jats:title>Abstract</jats:title><jats:p>We sketch the history of <jats:italic>spectral
+  ranking</jats:italic>—a general umbrella name for techniques that apply the theory
+  of linear maps (in particular, eigenvalues and eigenvectors) to matrices that do
+  not represent geometric transformations, but rather some kind of <jats:italic>relationship
+  between entities</jats:italic>. Albeit recently made famous by the ample press coverage
+  of Google''s PageRank algorithm, spectral ranking was devised more than 60 years
+  ago, almost exactly in the same terms, and has been studied in psychology, social
+  sciences, bibliometrics, economy, and choice theory. We describe the contribution
+  given by previous scholars in precise and modern mathematical terms: Along the way,
+  we show how to express in a general way <jats:italic>damped</jats:italic> rankings,
+  such as Katz''s index, as dominant eigenvectors of perturbed matrices, and then
+  use results on the Drazin inverse to go back to the dominant eigenvectors by a limit
+  process. The result suggests a regularized definition of spectral ranking that yields
+  for a general matrix a unique vector depending on a boundary condition.</jats:p>'
+author: VIGNA, SEBASTIANO
+author_list:
+- affiliation: []
+  family: VIGNA
+  given: SEBASTIANO
+citations:
+- doi: 10.1016/0306-4573(78)90066-3
+- doi: 10.1086/228631
+- doi: 10.1126/science.280.5360.95
+- doi: 10.1145/48511.48518
+- author: Leontief
+  volume-title: 'The structure of American economy, 1919-1929: An empirical application
+    of equilibrium analysis'
+  year: '1941'
+- doi: 10.1145/1953122.1953146
+- doi: 10.1080/0022250X.1972.9989806
+- doi: 10.1137/1023036
+- doi: 10.1215/S0012-7094-52-01910-8
+- article-title: Rasprostranenie zakona bolshih chisel na velichiny, zavisyaschie
+    drug ot druga
+  author: Markov
+  first-page: '135'
+  journal-title: Izvestiya Fiziko-matematicheskogo obschestva pri Kazanskom universitete
+  volume: '2'
+  year: '1906'
+- doi: 10.1007/BF02289026
+- doi: 10.1145/775152.775191
+  unstructured: 'Jeh G. , & Widom J. (2003). Scaling personalized web search. In Proceedings
+    of the 12th International World Wide Web Conference. New York, NY: ACM Press.'
+- author: Page
+  volume-title: 'The PageRank citation ranking: Bringing order to the web'
+  year: '1998'
+- doi: 10.1137/1035004
+- author: Saaty
+  volume-title: The analytical hierarchy process
+  year: '1980'
+- doi: 10.1016/S0169-7552(97)00036-6
+- doi: 10.1523/JNEUROSCI.0003-08.2008
+- doi: 10.2307/2689340
+- doi: 10.1007/BF02289146
+- doi: 10.2307/621372
+- doi: 10.1016/S0378-8733(01)00038-7
+- doi: 10.1037/h0084096
+- unstructured: Wei T.-H. (1952). The algebraic foundations of ranking theory. Ph.D.
+    thesis, University of Cambridge.
+- doi: 10.1016/0378-8733(91)90018-O
+- doi: 10.1016/0306-4573(76)90048-0
+- doi: 10.1145/324133.324140
+- author: Hoede
+  volume-title: A new status score for actors in a social network
+  year: '1978'
+- doi: 10.1145/1629096.1629097
+- doi: 10.1137/140976649
+- author: Berge
+  volume-title: Théorie des graphes et ses applications
+  year: '1958'
+- doi: 10.1086/229694
+- doi: 10.2307/2785990
+- doi: 10.2307/2308576
+- doi: 10.1037/h0046123
+- doi: 10.2307/3001479
+- doi: 10.1177/001872674900200205
+- doi: 10.1137/0126044
+doi: 10.1017/nws.2016.21
+files:
+- spectral-ranking.pdf
+issue: '4'
+journal: Network Science
+language: en
+month: 12
+pages: 433--445
+publisher: Cambridge University Press (CUP)
+ref: SpectralRankinVigna2016
+tags: network graph-theory math spectral network-ranking
+time-added: 2021-04-22-11:46:01
+title: Spectral ranking
+type: article
+url: http://dx.doi.org/10.1017/nws.2016.21
+volume: '4'
+year: 2016

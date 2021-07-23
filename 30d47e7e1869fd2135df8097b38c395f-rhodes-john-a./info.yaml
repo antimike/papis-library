@@ -1,0 +1,23 @@
+abstract: A theorem of J. Kruskal from 1977, motivated by a latent-class statistical
+  model, established that under certain explicit conditions the expression of a 3-dimensional
+  tensor as the sum of rank-1 tensors is essentially unique. We give a new proof of
+  this fundamental result, which is substantially shorter than both the original one
+  and recent versions along the original lines.
+archiveprefix: arXiv
+author: Rhodes, John A.
+author_list:
+- family: Rhodes
+  given: John A.
+eprint: 0901.1796v1
+file: 0901.1796v1.pdf
+files:
+- tmptwbezp27.pdf
+month: Jan
+primaryclass: math.RA
+ref: 0901.1796v1
+tags: network kruskal graph-theory math tensor-decomposition
+time-added: 2021-04-22-09:28:44
+title: A concise proof of Kruskal's theorem on tensor decomposition
+type: article
+url: http://arxiv.org/abs/0901.1796v1
+year: '2009'

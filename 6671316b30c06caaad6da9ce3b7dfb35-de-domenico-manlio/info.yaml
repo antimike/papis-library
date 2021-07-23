@@ -1,0 +1,241 @@
+author: De Domenico, Manlio and Solé-Ribalta, Albert and Omodei, Elisa and Gómez,
+  Sergio and Arenas, Alex
+author_list:
+- affiliation: []
+  family: De Domenico
+  given: Manlio
+- affiliation: []
+  family: Solé-Ribalta
+  given: Albert
+- affiliation: []
+  family: Omodei
+  given: Elisa
+- affiliation: []
+  family: Gómez
+  given: Sergio
+- affiliation: []
+  family: Arenas
+  given: Alex
+citations:
+- author: L Katz
+  doi: 10.1007/BF02289026
+  first-page: '39'
+  journal-title: Psychometrika
+  unstructured: Katz, L. A new status index derived from sociometric analysis. Psychometrika
+    18, 39–43 (1953).
+  volume: '18'
+  year: '1953'
+- author: P Bonacich
+  doi: 10.1080/0022250X.1972.9989806
+  first-page: '113'
+  journal-title: J. Math. Sociol.
+  unstructured: Bonacich, P. Factoring and weighting approaches to status scores and
+    clique identification. J. Math. Sociol. 2, 113–120 (1972).
+  volume: '2'
+  year: '1972'
+- author: LC Freeman
+  doi: 10.2307/3033543
+  first-page: '35'
+  journal-title: Sociometry
+  unstructured: Freeman, L. C. A set of measures of centrality based on betweenness.
+    Sociometry 40, 35–41 (1977).
+  volume: '40'
+  year: '1977'
+- author: LC Freeman
+  doi: 10.1016/0378-8733(78)90021-7
+  first-page: '215'
+  journal-title: Soc. Networks
+  unstructured: Freeman, L. C. Centrality in social networks conceptual clarification.
+    Soc. Networks 1, 215–239 (1979).
+  volume: '1'
+  year: '1979'
+- author: H Jeong
+  doi: 10.1038/35075138
+  first-page: '41'
+  journal-title: Nature
+  unstructured: Jeong, H., Mason, S. P., Barabási, A. -L. & Oltvai, Z. N. Lethality
+    and centrality in protein networks. Nature 411, 41–42 (2001).
+  volume: '411'
+  year: '2001'
+- author: R Guimerà
+  doi: 10.1103/PhysRevLett.89.248701
+  first-page: '248701'
+  journal-title: Phys. Rev. Lett.
+  unstructured: Guimerà, R., Díaz-Guilera, A., Vega-Redondo, F., Cabrales, A. & Arenas,
+    A. Optimal network topologies for local search with congestion. Phys. Rev. Lett.
+    89, 248701 (2002).
+  volume: '89'
+  year: '2002'
+- author: R Guimerà
+  doi: 10.1073/pnas.0407994102
+  first-page: '7794'
+  journal-title: Proc. Natl. Acad. Sci.
+  unstructured: 'Guimerà, R., Mossa, S., Turtschi, A. & Amaral, L. N. The worldwide
+    air transportation network: anomalous centrality, community structure, and cities''
+    global roles. Proc. Natl. Acad. Sci. 102, 7794–7799 (2005).'
+  volume: '102'
+  year: '2005'
+- author: M Kitsak
+  doi: 10.1038/nphys1746
+  first-page: '888'
+  journal-title: Nat. Phys.
+  unstructured: Kitsak, M. et al. Identification of influential spreaders in complex
+    networks. Nat. Phys. 6, 888–893 (2010).
+  volume: '6'
+  year: '2010'
+- author: Y-Y Liu
+  doi: 10.1038/nature10011
+  first-page: '167'
+  journal-title: Nature
+  unstructured: Liu, Y. -Y., Slotine, J. -J. & Barabási, A. -L. Controllability of
+    complex networks. Nature 473, 167–173 (2011).
+  volume: '473'
+  year: '2011'
+- author: I Simonsen
+  doi: 10.1103/PhysRevLett.100.218701
+  first-page: '218701'
+  journal-title: Phys. Rev. Lett.
+  unstructured: Simonsen, I., Buzna, L., Peters, K., Bornholdt, S. & Helbing, D. Transient
+    dynamics increasing network vulnerability to cascading failures. Phys. Rev. Lett.
+    100, 218701 (2008).
+  volume: '100'
+  year: '2008'
+- author: SP Cornelius
+  doi: 10.1038/ncomms2939
+  first-page: '1942'
+  journal-title: Nat. Commun.
+  unstructured: Cornelius, S. P., Kath, W. L. & Motter, A. E. Realistic control of
+    network dynamics. Nat. Commun. 4, 1942 (2013).
+  volume: '4'
+  year: '2013'
+- unstructured: Brin, S. & Page, L. In Proceedings of the Seventh International Conference
+    on World Wide Web 7, 107–117Elsevier Science Publishers B. V. (1998).
+- author: SV Buldyrev
+  doi: 10.1038/nature08932
+  first-page: '1025'
+  journal-title: Nature
+  unstructured: Buldyrev, S. V., Parshani, R., Paul, G., Stanley, H. E. & Havlin,
+    S. Catastrophic cascade of failures in interdependent networks. Nature 464, 1025–1028
+    (2010).
+  volume: '464'
+  year: '2010'
+- author: M De Domenico
+  first-page: '041022'
+  journal-title: Phys. Rev. X
+  unstructured: De Domenico, M. et al. Mathematical formulation of multi-layer networks.
+    Phys. Rev. X 3, 041022 (2013).
+  volume: '3'
+  year: '2013'
+- author: M De Domenico
+  doi: 10.1073/pnas.1318469111
+  first-page: '8351'
+  journal-title: Proc. Natl. Acad. Sci.
+  unstructured: De Domenico, M., Solé-Ribalta, A., Gómez, S. & Arenas, A. Navigability
+    of interconnected networks under random failures. Proc. Natl. Acad. Sci. 111,
+    8351–8356 (2014).
+  volume: '111'
+  year: '2014'
+- author: M Kivelä
+  doi: 10.1093/comnet/cnu016
+  first-page: '203'
+  journal-title: J. Complex Networks
+  unstructured: Kivelä, M. et al. Multilayer networks. J. Complex Networks 2, 203–271
+    (2014).
+  volume: '2'
+  year: '2014'
+- author: S Boccaletti
+  doi: 10.1016/j.physrep.2014.07.001
+  first-page: '1'
+  journal-title: Phys. Rep.
+  unstructured: Boccaletti, S. et al. The structure and dynamics of multilayer networks.
+    Phys. Rep. 544, 1–122 (2014).
+  volume: '544'
+  year: '2014'
+- author: PJ Mucha
+  doi: 10.1126/science.1184819
+  first-page: '876'
+  journal-title: Science
+  unstructured: Mucha, P. J., Richardson, T., Macon, K., Porter, M. A. & Onnela, J.
+    -P. Community structure in time-dependent, multiscale, and multiplex networks.
+    Science 328, 876–878 (2010).
+  volume: '328'
+  year: '2010'
+- author: S Gómez
+  doi: 10.1103/PhysRevLett.110.028701
+  first-page: 028701
+  journal-title: Phys. Rev. Lett.
+  unstructured: Gómez, S. et al. Diffusion dynamics on multiplex networks. Phys. Rev.
+    Lett. 110, 028701 (2013).
+  volume: '110'
+  year: '2013'
+- author: F Radicchi
+  doi: 10.1038/nphys2761
+  first-page: '717'
+  journal-title: Nat. Phys.
+  unstructured: Radicchi, F. & Arenas, A. Abrupt transition in the structural formation
+    of interconnected networks. Nat. Phys. 9, 717–720 (2013).
+  volume: '9'
+  year: '2013'
+- unstructured: Kolda, T. G., Bader, B. W. & Kenny, J. P. In 2013 IEEE 13th International
+    Conference on Data Mining 242–249IEEE Computer Society (2005).
+- author: L Solá
+  doi: 10.1063/1.4818544
+  first-page: '033131'
+  journal-title: Chaos
+  unstructured: Solá, L. et al. Eigenvector centrality of nodes in multiplex networks.
+    Chaos 3, 033131 (2013).
+  volume: '3'
+  year: '2013'
+- author: A Halu
+  doi: 10.1371/journal.pone.0078293
+  first-page: e78293
+  journal-title: PLoS ONE
+  unstructured: Halu, A., Mondragon, R. J., Panzarasa, P. & Bianconi, G. Multiplex
+    pagerank. PLoS ONE 8, e78293 (2013).
+  volume: '8'
+  year: '2013'
+- unstructured: Solé-Ribalta, A., De Domenico, M., Gómez, S. & Arenas, A. In Proceedings
+    of the 2014 ACM Conference on Web Science 149–155ACM (2014).
+- author: F Battiston
+  doi: 10.1103/PhysRevE.89.032804
+  first-page: 032804
+  journal-title: Phy. Rev. E
+  unstructured: Battiston, F., Nicosia, V. & Latora, V. Structural measures for multiplex
+    networks. Phy. Rev. E 89, 032804 (2014).
+  volume: '89'
+  year: '2014'
+- author: A Cardillo
+  doi: 10.1038/srep01344
+  first-page: '1344'
+  journal-title: Sci. Rep.
+  unstructured: Cardillo, A. et al. Emergence of network features from multiplexity.
+    Sci. Rep. 3, 1344 (2013).
+  volume: '3'
+  year: '2013'
+- author: P Fleurquin
+  doi: 10.1038/srep01159
+  first-page: '1159'
+  journal-title: Sci. Rep.
+  unstructured: Fleurquin, P., Ramasco, J. J. & Eguiluz, V. M. Systemic delay propagation
+    in the US airport network. Sci. Rep. 3, 1159 (2013).
+  volume: '3'
+  year: '2013'
+- unstructured: Maki, D. P. & Thompson, M. Mathematical models and applications Prentice-Hall
+    (1973).
+doc_url: http://www.nature.com/articles/ncomms7868
+doi: 10.1038/ncomms7868
+files:
+- ranking-multilayer-networks.pdf
+issue: '1'
+journal: Nature Communications
+language: en
+month: 11
+publisher: Springer Science and Business Media LLC
+ref: RankingInInteDeDom2015
+tags: network graph-theory math multilayer-network node network-ranking
+time-added: 2021-04-22-11:43:03
+title: Ranking in interconnected multilayer networks reveals versatile nodes
+type: article
+url: http://dx.doi.org/10.1038/ncomms7868
+volume: '6'
+year: 2015

@@ -1,0 +1,27 @@
+abstract: We introduce spinors, at a level appropriate for an undergraduate or first
+  year graduate course on relativity, astrophysics or particle physics. The treatment
+  assumes very little mathematical knowledge (mainly just vector analysis and some
+  idea of what a group is). The SU(2)--SO(3) homomorphism is presented in detail.
+  Lorentz transformation, chirality, and the spinor Minkowski metric are introduced.
+  Applications to electromagnetism, parity violation, and to Dirac spinors are presented.
+  A classical form of the Dirac equation is obtained, and the (quantum) prediction
+  that $g=2$ for Dirac particles is presented.
+archiveprefix: arXiv
+author: Steane, Andrew M.
+author_list:
+- family: Steane
+  given: Andrew M.
+eprint: 1312.3824v1
+file: 1312.3824v1.pdf
+files:
+- an-introduction-to-spinors.pdf
+- tmpsc-dm48b-a.pdf
+month: Dec
+primaryclass: math-ph
+ref: 1312.3824v1
+tags: spinor differential-geometry math intro
+time-added: 2021-04-22-09:07:43
+title: An introduction to spinors
+type: article
+url: http://arxiv.org/abs/1312.3824v1
+year: '2013'

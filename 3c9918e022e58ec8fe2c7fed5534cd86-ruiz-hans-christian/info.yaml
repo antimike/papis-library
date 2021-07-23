@@ -1,0 +1,36 @@
+abstract: The objective of this work is twofold. On one hand, it is intended as a
+  short introduction to spin networks and invariants of 3-manifolds. It covers the
+  main areas needed to have a first understanding of the topics involved in the development
+  of spin networks, which are described in a detailed but not exhaustive manner and
+  in order of their conceptual development such that the reader is able to use this
+  work as a first reading. A motivation due to R. Penrose for considering spin networks
+  as a way of constructing a 3-D Euclidean space is presented, as well as their relation
+  to Ponzano-Regge theory. Furthermore, the basic mathematical framework for the algebraic
+  description of spin networks via quantum groups is described and the notion of a
+  spherical category and its correspondence to the diagrammatic representation given
+  by the Temperley-Lieb recoupling theory are presented. In order to give an example
+  of topological invariants and their relation to TQFT the construction of the Turaev-Viro
+  invariant is depicted and related to the Kauffman-Lins invariant. On the other hand,
+  some results aiming at a decomposition theorem for non-planar spin networks are
+  presented. For this, Moussouris' algorithm and some basic concepts of topological
+  graph theory are explained and used, especially Kuratowski's theorem and the Rotation
+  Scheme theorem.
+archiveprefix: arXiv
+author: Ruiz, Hans-Christian
+author_list:
+- family: Ruiz
+  given: Hans-Christian
+eprint: 1206.3457v1
+file: 1206.3457v1.pdf
+files:
+- tmpipgaw3m7.pdf
+month: Jun
+primaryclass: hep-th
+ref: 1206.3457v1
+tags: spin-network spinor decomposition-theorem differential-geometry hep theory fundamental-physics
+time-added: 2021-04-22-12:17:13
+title: Introduction to Spin Networks and Towards a Generalization of the   Decomposition
+  Theorem
+type: article
+url: http://arxiv.org/abs/1206.3457v1
+year: '2012'

@@ -1,0 +1,32 @@
+abstract: In the first part of this thesis, Kerr-Schild metrics and extended Kerr-Schild
+  metrics are analyzed in the context of higher dimensional general relativity. Employing
+  the higher dimensional generalizations of the Newman-Penrose formalism and the algebraic
+  classification of spacetimes based on the existence and multiplicity of Weyl aligned
+  null directions, we establish various geometrical properties of the Kerr-Schild
+  congruences, determine compatible Weyl types and in the expanding case discuss the
+  presence of curvature singularities. We also present known exact solutions admitting
+  these Kerr-Schild forms and construct some new ones using the Brinkmann warp product.
+  In the second part, the influence of quantum corrections consisting of quadratic
+  curvature invariants on the Einstein-Hilbert action is considered and exact vacuum
+  solutions of these quadratic gravities are studied in arbitrary dimension. We investigate
+  classes of Einstein spacetimes and spacetimes with a null radiation term in the
+  Ricci tensor satisfying the vacuum field equations of quadratic gravity and provide
+  examples of these metrics.
+archiveprefix: arXiv
+author: Málek, Tomáš
+author_list:
+- family: Málek
+  given: Tomáš
+eprint: 1204.0291v1
+file: 1204.0291v1.pdf
+files:
+- tmpfbg7l7lt.pdf
+month: Apr
+primaryclass: gr-qc
+ref: 1204.0291v1
+tags: differential-geometry gr gravitation newman-penrose schwarzschild exact-solution thesis dissertation
+time-added: 2021-04-22-12:25:33
+title: Exact Solutions of General Relativity and Quadratic Gravity in Arbitrary   Dimension
+type: article
+url: http://arxiv.org/abs/1204.0291v1
+year: '2012'

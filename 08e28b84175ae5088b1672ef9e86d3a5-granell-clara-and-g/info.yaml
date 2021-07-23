@@ -1,0 +1,38 @@
+abstract: We present the analysis of the interrelation between two processes accounting
+  for the spreading of an epidemics, and the information awareness to prevent its
+  infection, on top of multiplex networks. This scenario is representative of an epidemic
+  process spreading on a network of persistent real contacts, and a cyclic information
+  awareness process diffusing in the network of virtual social contacts between the
+  same individuals. The topology corresponds to a multiplex network where two diffusive
+  processes are interacting affecting each other. The analysis using a Microscopic
+  Markov Chain Approach (MMCA) reveals the phase diagram of the incidence of the epidemics
+  and allows to capture the evolution of the epidemic threshold depending on the topological
+  structure of the multiplex and the interrelation with the awareness process. Interestingly,
+  the critical point for the onset of the epidemics has a critical value (meta-critical
+  point) defined by the awareness dynamics and the topology of the virtual network,
+  from which the onset increases and the epidemics incidence decreases.
+archiveprefix: arXiv
+author: Granell, Clara and Gomez, Sergio and Arenas, Alex
+author_list:
+- family: Granell
+  given: Clara
+- family: Gomez
+  given: Sergio
+- family: Arenas
+  given: Alex
+doi: 10.1103/PhysRevLett.111.128701
+eprint: 1306.4136v2
+file: 1306.4136v2.pdf
+files:
+- tmpxg5u06z6.pdf
+month: Jun
+note: Phys. Rev. Lett. 111 (2013) 128701
+primaryclass: physics.soc-ph
+ref: 1306.4136v2
+tags: network graph-theory math dynamic-network epidemic multiplex network-awareness
+time-added: 2021-04-22-10:46:32
+title: Dynamical interplay between awareness and epidemic spreading in   multiplex
+  networks
+type: article
+url: http://arxiv.org/abs/1306.4136v2
+year: '2013'

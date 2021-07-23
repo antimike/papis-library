@@ -31,10 +31,11 @@ files:
 month: Jun
 primaryclass: math.NA
 ref: 1306.1886v3
+tags: math differential-geometry fem exterior-calculus discrete-exterior-calculus
+  DEC DDG
 time-added: 2021-04-12-22:47:38
 title: Convergence and Optimality of Adaptive Methods for Poisson's Equation in   the
   FEEC Framework
 type: article
 url: http://arxiv.org/abs/1306.1886v3
 year: '2013'
-tags: 'math differential-geometry fem exterior-calculus discrete-exterior-calculus DEC DDG'

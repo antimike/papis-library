@@ -1,0 +1,1901 @@
+author: Hohenberg, P. C. and Halperin, B. I.
+author_list:
+- affiliation: []
+  family: Hohenberg
+  given: P. C.
+- affiliation: []
+  family: Halperin
+  given: B. I.
+citations:
+- author: Abe, R.
+  doi: 10.1016/0375-9601(74)90194-7
+  first-page: '341'
+  journal-title: Phys. Lett. A
+  volume: '47'
+  year: '1974'
+- author: Abrahams, E.
+  first-page: '153'
+  journal-title: Communications in Physics
+  volume: '1'
+  year: '1976'
+- author: Abrahams, E.
+  doi: 10.1103/PhysRevB.11.4498
+  first-page: '4498'
+  journal-title: Phys. Rev. B
+  volume: '11'
+  year: '1975'
+- author: Ahlers, G.
+  doi: 10.1103/PhysRevLett.21.1159
+  first-page: '1159'
+  journal-title: Phys. Rev. Lett.
+  volume: '21'
+  year: '1968'
+- author: Ahlers, G.
+  volume-title: Proceedings of the Twelfth International Conference on Low Temperature
+    Physics
+  year: '1971'
+- author: Ahlers, G.
+  volume-title: The Physics of Liquid and Solid Helium
+  year: '1976'
+- author: Alder, B. J.
+  doi: 10.1103/PhysRevA.1.18
+  first-page: '18'
+  journal-title: Phys. Rev. A
+  volume: '1'
+  year: '1970'
+- author: Alexander, S.
+  doi: 10.1103/PhysRevB.13.304
+  first-page: '304'
+  journal-title: Phys. Rev. B
+  volume: '13'
+  year: '1976'
+- author: Als-Nielsen, J.
+  volume-title: Phase Transitions and Critical Phenomena
+  year: '1976'
+- author: Als-Nielsen, J.
+  journal-title: Phys. Rev. Letters
+  year: '1977'
+- author: Amit, D. J.
+  doi: 10.1088/0022-3719/6/17/010
+  first-page: '2685'
+  journal-title: J. Phys. C
+  volume: '6'
+  year: '1973'
+- author: Anderson, P. W.
+  doi: 10.1103/RevModPhys.38.298
+  first-page: '298'
+  journal-title: Rev. Mod. Phys.
+  volume: '38'
+  year: '1966'
+- author: Archibald, M.
+  doi: 10.1103/PhysRevLett.21.1156
+  first-page: '1156'
+  journal-title: Phys. Rev. Lett.
+  volume: '21'
+  year: '1968'
+- author: Arcovito, G.
+  doi: 10.1103/PhysRevLett.22.1040
+  first-page: '1040'
+  journal-title: Phys. Rev. Lett.
+  volume: '22'
+  year: '1969'
+- author: Aslamazov, L. G.
+  first-page: '1104'
+  journal-title: Fiz. Tverd. Tela
+  volume: '10'
+  year: '1968'
+- author: Bagnuls, C.
+  doi: 10.1103/PhysRevB.11.1986
+  first-page: '1968'
+  journal-title: Phys. Rev. B
+  volume: '11'
+  year: '1975'
+- author: Barber, M. N.
+  first-page: '1'
+  journal-title: Phys. Rep.
+  volume: 29C
+  year: '1977'
+- author: Bausch, R.
+  volume-title: Renormalization group analysis of the critical dynamics for a Hamiltonian
+    model with a scalar displacive transition
+  year: '1977'
+- author: Bausch, R.
+  doi: 10.1007/BF01420890
+  first-page: '275'
+  journal-title: Z. Phys. B
+  volume: '25'
+  year: '1976'
+- author: Bausch, R.
+  doi: 10.1007/BF01312880
+  first-page: '113'
+  journal-title: Z. Phys. B
+  volume: '24'
+  year: '1976'
+- author: Béal-Monod, M. T.
+  doi: 10.1007/BF00655065
+  first-page: '467'
+  journal-title: J. Low Temp. Phys.
+  volume: '17'
+  year: '1974'
+- author: Béal-Monod, M. T.
+  doi: 10.1103/PhysRevLett.34.1461
+  first-page: '1461'
+  journal-title: Phys. Rev. Lett.
+  volume: '34'
+  year: '1975'
+- author: Bennett, H. S.
+  doi: 10.1103/PhysRev.138.A608
+  first-page: 608A
+  journal-title: Phys. Rev.
+  volume: '138'
+  year: '1965'
+- author: Bervillier, C.
+  doi: 10.1103/PhysRevB.14.4964
+  first-page: '4964'
+  journal-title: Phys. Rev. B
+  volume: '14'
+  year: '1976'
+- author: Betts, D. D.
+  doi: 10.1088/0022-3719/4/14/015
+  first-page: '1994'
+  journal-title: J. Phys. C
+  volume: '4'
+  year: '1971'
+- author: Binder, K.
+  volume-title: Phase Transitions and Critical Phenomena
+  year: '1976'
+- author: Binder, K.
+  doi: 10.1103/PhysRevB.13.4890
+  first-page: '4890'
+  journal-title: Phys. Rev. B
+  volume: '13'
+  year: '1976'
+- author: Binder, K.
+  doi: 10.1080/00018737600101402
+  first-page: '343'
+  journal-title: Adv. Phys.
+  volume: '25'
+  year: '1976'
+- author: Binder, K.
+  doi: 10.1103/PhysRevB.12.5261
+  first-page: '5261'
+  journal-title: Phys. Rev. B
+  volume: '12'
+  year: '1975'
+- author: Blank, A. Ya.
+  doi: 10.1007/BF00658874
+  first-page: '459'
+  journal-title: J. Low Temp. Phys.
+  volume: '14'
+  year: '1974'
+- author: Brézin, E.
+  doi: 10.1103/PhysRevB.12.4954
+  first-page: '4954'
+  journal-title: Phys. Rev. B
+  volume: '12'
+  year: '1975'
+- author: Brézin, E.
+  volume-title: Phase Transitions and Critical Phenomena
+  year: '1976'
+- author: Brézin, E.
+  doi: 10.1103/PhysRevB.7.232
+  first-page: '232'
+  journal-title: Phys. Rev. B
+  volume: '7'
+  year: '1973'
+- author: Brochard, F.
+  first-page: '28'
+  journal-title: J. Phys. (Paris)
+  volume: '34'
+  year: '1973'
+- author: Brochard, F.
+  doi: 10.1051/jphyslet:019760037010300
+  first-page: '3'
+  journal-title: J. Phys. (Paris)
+  volume: '37'
+  year: '1976'
+- author: Chu, K. C.
+  doi: 10.1103/PhysRevA.11.1059
+  first-page: '1059'
+  journal-title: Phys. Rev. A
+  volume: '11'
+  year: '1975'
+- author: Clark, N. A.
+  doi: 10.1103/PhysRevA.14.1551
+  first-page: '1551'
+  journal-title: Phys. Rev. A
+  volume: '14'
+  year: '1976'
+- author: des Cloiseaux, J.
+  doi: 10.1051/jphys:01975003604028100
+  first-page: '281'
+  journal-title: J. Phys. (Paris)
+  volume: '36'
+  year: '1975'
+- author: Cohen, M. H.
+  doi: 10.1021/j100593a020
+  first-page: '2900'
+  journal-title: J. Phys. Chem.
+  volume: '79'
+  year: '1975'
+- author: Collins, M. F.
+  doi: 10.1103/PhysRevLett.30.781
+  first-page: '781'
+  journal-title: Phys. Rev. Lett.
+  volume: '30'
+  year: '1973'
+- author: Courtens, E.
+  doi: 10.1103/PhysRevLett.37.1584
+  first-page: '1584'
+  journal-title: Phys. Rev. Lett.
+  volume: '37'
+  year: '1976'
+- author: Currat, R.
+  volume-title: Neutron scattering study of SrTiO3 under [111] uniaxial stress
+  year: '1977'
+- author: Daoud, M.
+  doi: 10.1021/ma60048a024
+  first-page: '804'
+  journal-title: Macromolecules
+  volume: '8'
+  year: '1975'
+- author: Darlington, C. N. W.
+  doi: 10.1088/0022-3719/9/19/010
+  first-page: '3561'
+  journal-title: J. Phys. C
+  volume: '9'
+  year: '1976'
+- author: De Dominicis, C.
+  doi: 10.1007/BF02785928
+  first-page: '567'
+  journal-title: Nuovo Cimento Lett.
+  volume: '12'
+  year: '1975'
+- author: De Dominicis, C.
+  doi: 10.1103/PhysRevB.12.4945
+  first-page: '4945'
+  journal-title: Phys. Rev. B
+  volume: '12'
+  year: '1975'
+- author: De Dominicis, C.
+  doi: 10.1103/PhysRevB.15.4313
+  first-page: '4313'
+  journal-title: Phys. Rev. B
+  volume: '15'
+  year: '1977'
+- author: De Dominicis, C.
+  doi: 10.1103/PhysRevLett.38.505
+  first-page: '505'
+  journal-title: Phys. Rev. Lett.
+  volume: '38'
+  year: '1977'
+- author: de Gennes, P. G.
+  doi: 10.1016/0375-9601(72)90149-1
+  first-page: '339'
+  journal-title: Phys. Lett. A
+  volume: '38'
+  year: '1972'
+- author: de Gennes, P. G.
+  volume-title: The Physics of Liquid Crystals
+  year: '1974'
+- author: de Gennes, P. G.
+  doi: 10.1021/ma60052a011
+  first-page: '587'
+  journal-title: Macromolecules
+  volume: '9'
+  year: '1976'
+- author: de Gennes, P. G.
+  doi: 10.1021/ma60052a012
+  first-page: '594'
+  journal-title: Macromolecules
+  volume: '9'
+  year: '1976'
+- author: de Gennes, P. G.
+  doi: 10.1016/0022-3697(58)90196-3
+  first-page: '71'
+  journal-title: J. Phys. Chem. Solids
+  volume: '4'
+  year: '1958'
+- author: de Gennes, P. G.
+  first-page: '1401'
+  journal-title: J. Phys. (Paris)
+  volume: '37'
+  year: '1976'
+- author: Dietrich, O. W.
+  doi: 10.1103/PhysRevB.14.4923
+  first-page: '4923'
+  journal-title: Phys. Rev. B
+  volume: '14'
+  year: '1976'
+- author: Dohm, V.
+  doi: 10.1016/0038-1098(76)90740-7
+  first-page: '657'
+  journal-title: Solid State Commun.
+  volume: '20'
+  year: '1976'
+- author: Dohm, V.
+  volume-title: Phase Transitions and Critical Phenomena
+  year: '1976'
+- author: Durrasula, L. N.
+  doi: 10.1103/PhysRevLett.38.1081
+  first-page: '1081'
+  journal-title: Phys. Rev. Lett.
+  volume: '38'
+  year: '1977'
+- author: Efetov, K. B.
+  first-page: '764'
+  journal-title: Zh. Eksp. Teor. Fiz.
+  volume: '69'
+  year: '1975'
+- author: Entin-Wohlman, O.
+  doi: 10.1103/PhysRevB.11.219
+  first-page: '219'
+  journal-title: Phys. Rev. B
+  volume: '11'
+  year: '1975'
+- author: Entin-Wohlman, O.
+  doi: 10.1103/PhysRevB.14.4015
+  first-page: '4015'
+  journal-title: Phys. Rev. B
+  volume: '14'
+  year: '1976'
+- author: Ferrell, R.
+  doi: 10.1103/PhysRevLett.24.1169
+  first-page: '1169'
+  journal-title: Phys. Rev. Lett.
+  volume: '24'
+  year: '1970'
+- author: Ferrell, R. A.
+  doi: 10.1103/PhysRevLett.18.891
+  first-page: '891'
+  journal-title: Phys. Rev. Lett.
+  volume: '18'
+  year: '1967'
+- author: Ferrell, R. A.
+  doi: 10.1016/0003-4916(68)90214-5
+  first-page: '565'
+  journal-title: Ann. Phys. (N.Y.)
+  volume: '47'
+  year: '1968'
+- author: Finger, W.
+  doi: 10.1016/0375-9601(77)90801-5
+  first-page: '165'
+  journal-title: Phys. Lett.
+  volume: 60A
+  year: '1977'
+- author: Fisher, D. S.
+  journal-title: Phys. Rev. B
+  year: '1977'
+- author: Fisher, M. E.
+  doi: 10.1103/PhysRevLett.16.11
+  first-page: '11'
+  journal-title: Phys. Rev. Lett.
+  volume: '16'
+  year: '1966'
+- author: Fisher, M. E.
+  doi: 10.1088/0034-4885/30/2/306
+  first-page: '731'
+  journal-title: Rep. Prog. Phys.
+  volume: '30'
+  year: '1967'
+- author: Fisher, M. E.
+  doi: 10.1103/RevModPhys.46.597
+  first-page: '597'
+  journal-title: Rev. Mod. Phys.
+  volume: '46'
+  year: '1974'
+- author: Fisher, M. E.
+  doi: 10.1103/PhysRevLett.20.665
+  first-page: '665'
+  journal-title: Phys. Rev. Lett.
+  volume: '20'
+  year: '1968'
+- author: Fisher, M. E.
+  doi: 10.1103/PhysRevLett.32.1350
+  first-page: '1350'
+  journal-title: Phys. Rev. Lett.
+  volume: '32'
+  year: '1974'
+- author: Fisher, M. E.
+  doi: 10.1103/PhysRevB.13.5039
+  first-page: '5039'
+  journal-title: Phys. Rev. B
+  volume: '13'
+  year: '1976'
+- author: Fixman, M.
+  doi: 10.1063/1.1732502
+  first-page: '310'
+  journal-title: J. Chem. Phys.
+  volume: '36'
+  year: '1962'
+- author: Fleury, P. A.
+  doi: 10.1103/PhysRevLett.37.1088
+  first-page: '1088'
+  journal-title: Phys. Rev. Lett.
+  volume: '37'
+  year: '1976'
+- author: Folk, R.
+  doi: 10.1016/0038-1098(74)90698-X
+  first-page: '937'
+  journal-title: Solid State Commun.
+  volume: '15'
+  year: '1974'
+- author: Folk, R.
+  journal-title: Solid State Communications
+  year: '1977'
+- author: Folk, R.
+  doi: 10.1007/BF01313606
+  first-page: '169'
+  journal-title: Z. Phys. B
+  volume: '27'
+  year: '1977'
+- author: Forster, D.
+  volume-title: Hydrodynamic Fluctuations, Broken Symmetry, and Correlation Functions
+  year: '1975'
+- author: Forster, D.
+  doi: 10.1103/PhysRevLett.36.867
+  first-page: '867'
+  journal-title: Phys. Rev. Lett.
+  volume: '36'
+  year: '1976'
+- author: Freedman, R.
+  doi: 10.1103/PhysRevLett.34.1575
+  first-page: '1575'
+  journal-title: Phys. Rev. Lett.
+  volume: '34'
+  year: '1975'
+- author: Freedman, R.
+  doi: 10.1103/PhysRevB.13.4967
+  first-page: '4967'
+  journal-title: Phys. Rev. B
+  volume: '13'
+  year: '1976'
+- author: Garland, C. W.
+  volume-title: Physical Acoustics
+  year: '1970'
+- author: Garisto, F.
+  doi: 10.1063/1.432700
+  first-page: '3826'
+  journal-title: J. Chem. Phys.
+  volume: '64'
+  year: '1975'
+- author: Garisto, F.
+  doi: 10.1103/PhysRevA.14.884
+  first-page: '884'
+  journal-title: Phys. Rev. A
+  volume: '14'
+  year: '1976'
+- author: Ginzburg, V. L.
+  first-page: '2031'
+  journal-title: Fiz. Tverd. Tela
+  volume: '2'
+  year: '1960'
+- author: Ginzburg, V. L.
+  doi: 10.3367/UFNr.0120.197610a.0153
+  first-page: '153'
+  journal-title: Usp. Fiz. Nauk
+  volume: '120'
+  year: '1976'
+- author: Giterman, M. S.
+  first-page: '637'
+  journal-title: Zh. Eksp. Teor. Fiz.
+  volume: '57'
+  year: '1969'
+- author: Glauber, R.
+  doi: 10.1063/1.1703954
+  first-page: '294'
+  journal-title: J. Math. Phys.
+  volume: '4'
+  year: '1963'
+- author: Gottlieb, A. M.
+  doi: 10.1103/PhysRevB.3.3615
+  first-page: '3615'
+  journal-title: Phys. Rev. B
+  volume: '3'
+  year: '1971'
+- author: Gottlieb, A. M.
+  doi: 10.1103/PhysRevLett.31.1222
+  first-page: '1222'
+  journal-title: Phys. Rev. Lett.
+  volume: '31'
+  year: '1973'
+- author: Grest, G. S.
+  doi: 10.1103/PhysRevB.15.2753
+  first-page: '2753'
+  journal-title: Phys. Rev. B
+  volume: '15'
+  year: '1977'
+- author: Greywall, D. S.
+  doi: 10.1103/PhysRevA.7.2145
+  first-page: '2145'
+  journal-title: Phys. Rev. A
+  volume: '7'
+  year: '1973'
+- author: Griffiths, R. B.
+  doi: 10.1103/PhysRevLett.24.1479
+  first-page: '1479'
+  journal-title: Phys. Rev. Lett.
+  volume: '24'
+  year: '1970'
+- author: Grinstein, G.
+  doi: 10.1103/PhysRevB.15.258
+  first-page: '258'
+  journal-title: Phys. Rev. B
+  volume: '15'
+  year: '1977'
+- author: Grover, M. K.
+  doi: 10.1007/BF00654456
+  first-page: '751'
+  journal-title: J. Low Temp. Phys.
+  volume: '11'
+  year: '1973'
+- author: Gunton, J. D.
+  doi: 10.1088/0305-4470/8/1/003
+  first-page: L9
+  journal-title: J. Phys. A
+  volume: '8'
+  year: '1975'
+- author: Haken, H.
+  doi: 10.1103/RevModPhys.47.67
+  first-page: '67'
+  journal-title: Rev. Mod. Phys.
+  volume: '47'
+  year: '1975'
+- author: Halperin, B. I.
+  volume-title: Collective Properties of Physical Systems
+  year: '1973'
+- author: Halperin, B. I.
+  doi: 10.1103/PhysRevB.8.4437
+  first-page: '4437'
+  journal-title: Phys. Rev. B
+  volume: '8'
+  year: '1973'
+- author: Halperin, B. I.
+  doi: 10.1103/PhysRevB.11.178
+  first-page: '178'
+  journal-title: Phys. Rev. B
+  volume: '11'
+  year: '1975'
+- author: Halperin, B. I.
+  volume-title: Statistical Physics—Proceedings of the International Conference, Budapest,
+    1975
+  year: '1976'
+- author: Halperin, B. I.
+  doi: 10.1103/PhysRevLett.19.700
+  first-page: '700'
+  journal-title: Phys. Rev. Lett.
+  volume: '19'
+  year: '1967'
+- author: Halperin, B. I.
+  doi: 10.1103/PhysRev.177.952
+  first-page: '952'
+  journal-title: Phys. Rev.
+  volume: '177'
+  year: '1969'
+- author: Halperin, B. I.
+  doi: 10.1103/PhysRev.188.898
+  first-page: '898'
+  journal-title: Phys. Rev.
+  volume: '188'
+  year: '1969'
+- author: Halperin, B. I.
+  doi: 10.1103/PhysRevLett.29.1548
+  first-page: '1548'
+  journal-title: Phys. Rev. Lett.
+  volume: '29'
+  year: '1972'
+- author: Halperin, B. I.
+  doi: 10.1103/PhysRevB.10.139
+  first-page: '139'
+  journal-title: Phys. Rev. B
+  volume: '10'
+  year: '1974'
+- author: Halperin, B. I.
+  doi: 10.1103/PhysRevB.13.4119
+  first-page: '4119'
+  journal-title: Phys. Rev. B
+  volume: '13'
+  year: '1976'
+- author: Halperin, B. I.
+  doi: 10.1103/PhysRevLett.32.1289
+  first-page: '1289'
+  journal-title: Phys. Rev. Lett.
+  volume: '32'
+  year: '1974'
+- author: Halperin, B. I.
+  doi: 10.1103/PhysRevB.13.1299
+  first-page: '1299'
+  journal-title: Phys. Rev. B
+  volume: '13'
+  year: '1976'
+- author: Halperin, B. I.
+  doi: 10.1016/0038-1098(74)90411-6
+  first-page: '997'
+  journal-title: Solid State Commun.
+  volume: '14'
+  year: '1974'
+- author: Halperin, B. I.
+  doi: 10.1103/PhysRevLett.32.292
+  first-page: '292'
+  journal-title: Phys. Rev. Lett.
+  volume: '32'
+  year: '1974'
+- author: Halperin, B. I.
+  doi: 10.1103/PhysRevB.14.4030
+  first-page: '4030'
+  journal-title: Phys. Rev. B
+  volume: '14'
+  year: '1976'
+- author: Harris, A. B.
+  journal-title: Phys. Rev. B
+  year: '1977'
+- author: Heller, P.
+  first-page: '58'
+  journal-title: National Bureau of Standards (U.S.) Misc. Publ.
+  volume: '273'
+  year: '1966'
+- author: Hertz, J.
+  doi: 10.1103/PhysRevB.14.1165
+  first-page: '1165'
+  journal-title: Phys. Rev. B
+  volume: '14'
+  year: '1976'
+- author: Hohenberg, P. C.
+  doi: 10.1103/PhysRev.158.383
+  first-page: '383'
+  journal-title: Phys. Rev.
+  volume: '158'
+  year: '1967'
+- author: Hohenberg, P. C.
+  volume-title: Proceedings of the Conference on Fluctuations in Superconductors,
+    Asilomar, California
+  year: '1968'
+- author: Hohenberg, P. C.
+  volume-title: Critical Phenomena, Proceedings of the International School of Physics
+    Enrico Fermi, Course L1
+  year: '1971'
+- author: Hohenberg, P. C.
+  volume-title: Proceedings of the Twelfth International Conference on Low Temperature
+    Physics
+  year: '1971'
+- author: Hohenberg, P. C.
+  doi: 10.1103/PhysRevB.13.2986
+  first-page: '2986'
+  journal-title: Phys. Rev. B
+  volume: '13'
+  year: '1976'
+- author: Hohenberg, P. C.
+  doi: 10.1016/0031-8914(73)90063-3
+  first-page: '505'
+  journal-title: Physica
+  volume: '65'
+  year: '1973'
+- author: Hohenberg, P. C.
+  doi: 10.1103/PhysRevB.14.2865
+  first-page: '2865'
+  journal-title: Phys. Rev. B
+  volume: '14'
+  year: '1976'
+- author: Hohenberg, P. C.
+  doi: 10.1016/0003-4916(65)90280-0
+  first-page: '291'
+  journal-title: Ann. Phys. (N.Y.)
+  volume: '34'
+  year: '1965'
+- author: Hornreich, R. M.
+  doi: 10.1103/PhysRevLett.35.1678
+  first-page: '1678'
+  journal-title: Phys. Rev. Lett.
+  volume: '35'
+  year: '1975'
+- author: Huber, D. L.
+  doi: 10.1016/0375-9601(71)90671-2
+  first-page: '283'
+  journal-title: Phys. Lett. A
+  volume: '37'
+  year: '1971'
+- author: Huber, D. L.
+  doi: 10.1103/PhysRevB.10.3992
+  first-page: '3992'
+  journal-title: Phys. Rev. B
+  volume: '10'
+  year: '1974'
+- author: Huber, D. L.
+  doi: 10.1016/0375-9601(74)90841-X
+  first-page: '345'
+  journal-title: Phys. Lett. A
+  volume: '49'
+  year: '1974'
+- author: Huber, D. L.
+  doi: 10.1016/0375-9601(76)90703-9
+  first-page: '359'
+  journal-title: Phys. Lett.
+  volume: 55A
+  year: '1976'
+- author: Huber, D. L.
+  doi: 10.1103/PhysRevB.14.4068
+  first-page: '4068'
+  journal-title: Phys. Rev. B
+  volume: '14'
+  year: '1976'
+- author: Ikeda, H.
+  doi: 10.1143/PTP.55.1298
+  first-page: '1298'
+  journal-title: Prog. Theor. Phys. (Kyoto)
+  volume: '55'
+  year: '1976'
+- author: Jähnig, F.
+  doi: 10.1051/jphys:01974003503030100
+  first-page: '301'
+  journal-title: J. Phys. (Paris)
+  volume: '35'
+  year: '1974'
+- author: Janssen, H. K.
+  first-page: '187'
+  journal-title: Z. Phys.
+  volume: B26
+  year: '1976'
+- author: Jasnow, D.
+  doi: 10.1103/PhysRev.176.739
+  first-page: '739'
+  journal-title: Phys. Rev.
+  volume: '176'
+  year: '1968'
+- author: Josephson, B. D.
+  doi: 10.1016/0031-9163(66)90088-6
+  first-page: '608'
+  journal-title: Phys. Lett.
+  volume: '21'
+  year: '1966'
+- author: Kac, M.
+  volume-title: Probability and Related Topics in Physical Sciences
+  year: '1959'
+- author: Kac, M.
+  volume-title: Statistical Physics, Phase Transitions, and Superfluidity
+  year: '1968'
+- author: Kadanoff, L. P.
+  volume-title: Critical Phenomena, Proceedings of the International School of Physics
+    Enrico Fermi, Course L1
+  year: '1971'
+- author: Kadanoff, L. P.
+  doi: 10.1103/PhysRevLett.34.1005
+  first-page: '1005'
+  journal-title: Phys. Rev. Lett.
+  volume: '34'
+  year: '1975'
+- author: Kadanoff, L. P.
+  doi: 10.1016/0003-4916(63)90078-2
+  first-page: '419'
+  journal-title: Ann. Phys. (N.Y.)
+  volume: '24'
+  year: '1963'
+- author: Kadanoff, L. P.
+  doi: 10.1103/PhysRev.166.89
+  first-page: '89'
+  journal-title: Phys. Rev.
+  volume: '166'
+  year: '1968'
+- author: Kadanoff, L. P.
+  doi: 10.1103/PhysRev.165.310
+  first-page: '310'
+  journal-title: Phys. Rev.
+  volume: '165'
+  year: '1968'
+- author: Kasuya, T.
+  doi: 10.1016/0038-1098(74)90845-X
+  first-page: '249'
+  journal-title: Solid State Commun.
+  volume: '14'
+  year: '1974'
+- author: Kasuya, T.
+  doi: 10.1016/0038-1098(74)90846-1
+  first-page: '253'
+  journal-title: Solid State Commun.
+  volume: '14'
+  year: '1974'
+- author: Kawasaki, K.
+  doi: 10.1103/PhysRev.145.224
+  first-page: '224'
+  journal-title: Phys. Rev.
+  volume: '165'
+  year: '1966'
+- author: Kawasaki, K.
+  doi: 10.1103/PhysRev.148.375
+  first-page: '375'
+  journal-title: Phys. Rev.
+  volume: '148'
+  year: '1966'
+- author: Kawasaki, K.
+  doi: 10.1016/0022-3697(67)90071-6
+  first-page: '1277'
+  journal-title: J. Phys. Chem. Solids
+  volume: '28'
+  year: '1967'
+- author: Kawasaki, K.
+  doi: 10.1143/PTP.39.285
+  first-page: '285'
+  journal-title: Prog. Theor. Phys. (Kyoto)
+  volume: '39'
+  year: '1968'
+- author: Kawasaki, K.
+  doi: 10.1143/PTP.40.11
+  first-page: '11'
+  journal-title: Prog. Theor. Phys. (Kyoto)
+  volume: '40'
+  year: '1968'
+- author: Kawasaki, K.
+  doi: 10.1016/0375-9601(69)90828-7
+  first-page: 325A
+  journal-title: Phys. Lett.
+  volume: '30'
+  year: '1969'
+- author: Kawasaki, K.
+  doi: 10.1016/0003-4916(70)90375-1
+  first-page: '1'
+  journal-title: Ann. Phys. (N.Y.)
+  volume: '61'
+  year: '1970'
+- author: Kawasaki, K.
+  volume-title: Critical Phenomena, Proceedings of the International School of Physics
+    Enrico Fermi, Course L1
+  year: '1971'
+- author: Kawasaki, K.
+  volume-title: Phase Transitions and Critical Phenomena
+  year: '1972'
+- author: Kawasaki, K.
+  doi: 10.1143/PTP.52.359
+  first-page: '359'
+  journal-title: Prog. Theor. Phys. (Kyoto)
+  volume: '52'
+  year: '1974'
+- author: Kawasaki, K.
+  doi: 10.1143/PTP.54.1665
+  first-page: '1665'
+  journal-title: Prog. Theor. Phys. (Kyoto)
+  volume: '54'
+  year: '1975'
+- author: Kawasaki, K.
+  volume-title: Phase Transitions and Critical Phenomena
+  year: '1976'
+- author: Kawasaki, K.
+  doi: 10.1103/PhysRevLett.29.1661
+  first-page: '1661'
+  journal-title: Phys. Rev. Lett.
+  volume: '29'
+  year: '1972'
+- author: Kawasaki, K.
+  volume-title: Progress in Liquid Physics
+  year: '1976'
+- author: Kawasaki, K.
+  doi: 10.1103/PhysRevB.13.4658
+  first-page: '4658'
+  journal-title: Phys. Rev. B
+  volume: '13'
+  year: '1976'
+- author: Kawasaki, K.
+  doi: 10.1143/PTP.56.808
+  first-page: '808'
+  journal-title: Prog. Theor. Phys. (Kyoto)
+  volume: '56'
+  year: '1976'
+- author: Kawasaki, K.
+  doi: 10.1103/PhysRevLett.29.48
+  first-page: '48'
+  journal-title: Phys. Rev. Lett.
+  volume: '29'
+  year: '1972'
+- author: Khalatnikov, I. M.
+  volume-title: Introduction to the Theory of Superfluidity
+  year: '1965'
+- author: Khalatnikov, I. M.
+  first-page: '489'
+  journal-title: Zh. Eksp. Teor. Fiz.
+  volume: '57'
+  year: '1969'
+- author: Kondor, I.
+  doi: 10.1016/0375-9601(74)90143-1
+  first-page: '393'
+  journal-title: Phys. Lett. A
+  volume: '47'
+  year: '1974'
+- author: Kosterlitz, J. M.
+  journal-title: Prog. in Low Temp. Physics
+  year: '1977'
+- author: Kretschmer, R.
+  doi: 10.1007/BF01023054
+  first-page: '267'
+  journal-title: J. Stat. Phys.
+  volume: '15'
+  year: '1976'
+- author: Krey, U.
+  doi: 10.1016/0375-9601(76)90040-2
+  first-page: '215'
+  journal-title: Phys. Lett. A
+  volume: '57'
+  year: '1976'
+- author: Krey, U.
+  first-page: '615'
+  journal-title: Physica
+  volume: 86-88B
+  year: '1977'
+- author: Krey, U.
+  doi: 10.1007/BF01570746
+  first-page: '355'
+  journal-title: Z. Physik
+  volume: B26
+  year: '1977'
+- author: Krueger, D. A.
+  doi: 10.1016/0375-9601(70)90701-2
+  first-page: '149'
+  journal-title: Phys. Lett. A
+  volume: '33'
+  year: '1970'
+- author: Kuramoto, Y.
+  doi: 10.1143/PTP.52.871
+  first-page: '871'
+  journal-title: Prog. Theor. Phys. (Kyoto)
+  volume: '52'
+  year: '1974'
+- author: Kwok, P. C.
+  doi: 10.1103/PhysRev.142.495
+  first-page: '495'
+  journal-title: Phys. Rev.
+  volume: '142'
+  year: '1966'
+- author: Landau, L. D.
+  first-page: '469'
+  journal-title: Dokl. Akad. Nauk SSSR
+  volume: '96'
+  year: '1954'
+- author: Landau, L. D.
+  volume-title: Collected Papers of L. D. Landau
+  year: '1965'
+- author: Landau, L. D.
+  volume-title: Fluid Mechanics
+  year: '1959'
+- author: Landau, L. D.
+  volume-title: Statistical Physics
+  year: '1969'
+- author: Langer, J. S.
+  volume-title: Proceedings of the Eleventh International Conference on Low Temperature
+    Physics
+  year: '1968'
+- author: Larkin, A. I.
+  first-page: '2087'
+  journal-title: Zh. Eksp. Teor. Fiz.
+  volume: '56'
+  year: '1969'
+- author: Lax, M.
+  doi: 10.1103/RevModPhys.32.25
+  first-page: '25'
+  journal-title: Rev. Mod. Phys.
+  volume: '32'
+  year: '1960'
+- author: Lo, S. M.
+  doi: 10.1103/PhysRevA.5.421
+  first-page: '421'
+  journal-title: Phys. Rev. A
+  volume: '5'
+  year: '1972'
+- author: Lockwood, D. J.
+  doi: 10.1016/0038-1098(76)90751-1
+  first-page: '703'
+  journal-title: Solid State Commun.
+  volume: '20'
+  year: '1976'
+- author: Lubensky, T. C.
+  doi: 10.1103/PhysRevB.15.311
+  first-page: '311'
+  journal-title: Phys. Rev. B
+  volume: '15'
+  year: '1977'
+- author: Lurie, N. A.
+  doi: 10.1103/PhysRevB.9.2171
+  first-page: '2171'
+  journal-title: Phys. Rev. B
+  volume: '9'
+  year: '1974'
+- author: Luther, A.
+  doi: 10.1103/PhysRevB.12.3908
+  first-page: '3908'
+  journal-title: Phys. Rev. B
+  volume: '12'
+  year: '1975'
+- author: Luther, A.
+  doi: 10.1103/PhysRevB.16.1153
+  volume-title: Critical Properties of a Two-Dimensional Planar Model
+  year: '1977'
+- author: Lüthi, B.
+  doi: 10.1016/0022-3697(70)90164-2
+  first-page: '1741'
+  journal-title: J. Phys. Chem. Solids
+  volume: '31'
+  year: '1970'
+- author: Lyons, K. B.
+  journal-title: Solid State Commun.
+  year: '1977'
+- author: Ma, S.
+  doi: 10.1103/RevModPhys.45.589
+  first-page: '589'
+  journal-title: Rev. Mod. Phys.
+  volume: '45'
+  year: '1973'
+- author: Ma, S.
+  volume-title: Modern Theory of Critical Phenomena
+  year: '1976'
+- author: Ma, S.
+  doi: 10.1103/PhysRevLett.37.461
+  first-page: '461'
+  journal-title: Phys. Rev. Lett.
+  volume: '37'
+  year: '1976'
+- author: Ma, S.
+  doi: 10.1103/PhysRevB.11.4077
+  first-page: '4077'
+  journal-title: Phys. Rev. B
+  volume: '11'
+  year: '1975'
+- author: Ma, S.
+  doi: 10.1103/PhysRevA.10.2401
+  first-page: '2401'
+  journal-title: Phys. Rev. A
+  volume: '10'
+  year: '1974'
+- author: Maleev, S. V.
+  first-page: '1809'
+  journal-title: Zh. Eksp. Teor. Fiz.
+  volume: '66'
+  year: '1974'
+- author: Maleev, S. V.
+  first-page: '1398'
+  journal-title: Zh. Eksp. Teor. Fiz.
+  volume: '69'
+  year: '1975'
+- author: Mannari, I.
+  first-page: '733'
+  journal-title: Solid State Commun.
+  volume: '15'
+  year: '1968'
+- author: Martin, P. C.
+  volume-title: Many Body Physics
+  year: '1968'
+- author: Martin, P. C.
+  doi: 10.1103/PhysRevA.8.423
+  first-page: '423'
+  journal-title: Phys. Rev. A
+  volume: '8'
+  year: '1973'
+- author: Matsubara, T.
+  doi: 10.1143/PTP.16.569
+  first-page: '569'
+  journal-title: Prog. Theor. Phys. (Kyoto)
+  volume: '16'
+  year: '1956'
+- author: Mazenko, G. F.
+  volume-title: Breakdown of Hydrodynamics for Antiferromagnets for T<TN
+  year: '1977'
+- author: Mazenko, G. F.
+  doi: 10.1103/PhysRevB.14.3933
+  first-page: '3933'
+  journal-title: Phys. Rev. B
+  volume: '14'
+  year: '1976'
+- author: McMillan, W. L.
+  doi: 10.1103/PhysRevA.9.1720
+  first-page: '1720'
+  journal-title: Phys. Rev. A
+  volume: '9'
+  year: '1974'
+- author: Mermelstein, M. D.
+  journal-title: Phys. Rev. B
+  year: '1977'
+- author: Michel, K. H.
+  doi: 10.1007/BF01395589
+  first-page: '354'
+  journal-title: Z. Physik
+  volume: '240'
+  year: '1970'
+- author: Mistura, L.
+  doi: 10.1063/1.430371
+  first-page: '4571'
+  journal-title: J. Chem. Phys.
+  volume: '62'
+  year: '1975'
+- author: Mori, H.
+  doi: 10.1143/PTP.33.423
+  first-page: '423'
+  journal-title: Prog. Theor. Phys. (Kyoto)
+  volume: '33'
+  year: '1965'
+- author: Müller, K. A.
+  doi: 10.1103/PhysRevLett.32.160
+  first-page: '160'
+  journal-title: Phys. Rev. Lett.
+  volume: '32'
+  year: '1974'
+- author: Müller, K. A.
+  volume-title: Ferroelectrics
+  year: '1976'
+- author: Müller, K. A.
+  first-page: '555'
+  journal-title: Ferroelectrics
+  volume: '13'
+- author: Müller, K. A.
+  volume-title: Local Properties at Phase Transitions, Proceedings of the International
+    School of Physics Enrico Fermi, Course LIX
+  year: '1976'
+- author: Murata, K. K.
+  doi: 10.1103/PhysRevB.13.2028
+  first-page: '2028'
+  journal-title: Phys. Rev. B
+  volume: '13'
+  year: '1976'
+- author: Murata, K. K.
+  doi: 10.1103/PhysRevB.13.4015
+  first-page: '4015'
+  journal-title: Phys. Rev. B
+  volume: '13'
+  year: '1976'
+- author: Nabutovskii, V. M.
+  first-page: '3121'
+  journal-title: Fiz. Tverd. Tela
+  volume: '10'
+  year: '1968'
+- author: Nelson, D. R.
+  journal-title: Phys. Rev. B
+  year: '1977'
+- author: Niemeijer, T.
+  doi: 10.1016/0031-8914(74)90044-5
+  first-page: '17'
+  journal-title: Physica
+  volume: '71'
+  year: '1974'
+- author: Niemeijer, T.
+  volume-title: Phase Transitions and Critical Phenomena
+  year: '1976'
+- author: Nolan, M. J.
+  doi: 10.1103/PhysRevB.15.4471
+  first-page: '4471'
+  journal-title: Phys. Rev. B
+  volume: '15'
+  year: '1977'
+- author: O'Connor, J. T.
+  doi: 10.1088/0022-3719/8/2/003
+  first-page: '101'
+  journal-title: J. Phys. C
+  volume: '8'
+  year: '1975'
+- author: Ohta, T.
+  doi: 10.1088/0022-3719/10/6/010
+  first-page: '791'
+  journal-title: J. Phys. C
+  volume: '10'
+  year: '1977'
+- author: Ohta, T.
+  doi: 10.1143/PTP.55.1384
+  first-page: '1384'
+  journal-title: Prog. Theor. Phys. (Kyoto)
+  volume: '55'
+  year: '1976'
+- author: Okwamoto, Y.
+  doi: 10.1143/PTP.56.1351
+  first-page: '1371'
+  journal-title: Prog. Theor. Phys. (Kyoto)
+  volume: '56'
+  year: '1976'
+- author: Oppermann, R.
+  doi: 10.1016/0375-9601(76)90778-7
+  first-page: '165'
+  journal-title: Phys. Lett. A
+  volume: '59'
+  year: '1976'
+- author: Osterwalder, K.
+  doi: 10.1007/BF01645738
+  first-page: '83'
+  journal-title: Commun. Math. Phys.
+  volume: '31'
+  year: '1973'
+- author: Oxtoby, D. W.
+  doi: 10.1063/1.1682439
+  first-page: '2957'
+  journal-title: J. Chem. Phys.
+  volume: '61'
+  year: '1974'
+- author: Papoular, M.
+  doi: 10.1063/1.1680810
+  first-page: '86'
+  journal-title: J. Chem. Phys.
+  volume: '60'
+  year: '1975'
+- author: Parette, C.
+  doi: 10.1051/jphys:01971003205-6044700
+  first-page: '447'
+  journal-title: J. Phys. (Paris)
+  volume: '32'
+  year: '1971'
+- author: Parks, R. D.
+  volume-title: Proceedings of the Twelfth International Conference on Low Temperature
+    Physics
+  year: '1971'
+- author: Parks, R. D.
+  volume-title: AIP Conference Proc.
+  year: '1972'
+- author: Patashinskii, A. Z.
+  doi: 10.3367/UFNr.0121.197701b.0055
+  first-page: '55'
+  journal-title: Usp. Fiz. Nauk.
+  volume: '121'
+  year: '1977'
+- author: Perl, R.
+  doi: 10.1103/PhysRevLett.29.51
+  first-page: '51'
+  journal-title: Phys. Rev. Lett.
+  volume: '29'
+  year: '1972'
+- author: Perl, R.
+  doi: 10.1103/PhysRevA.6.2358
+  first-page: '2358'
+  journal-title: Phys. Rev. A
+  volume: '6'
+  year: '1972'
+- author: Petschek, R.
+  journal-title: Phys. Rev. B
+  year: '1977'
+- author: Pfeuty, P.
+  doi: 10.1088/0022-3719/4/15/024
+  first-page: '2370'
+  journal-title: J. Phys. C
+  volume: '4'
+  year: '1971'
+- author: Pfeuty, P.
+  doi: 10.1103/PhysRevB.10.2088
+  first-page: '2088'
+  journal-title: Phys. Rev. B
+  volume: '10'
+  year: '1974'
+- author: Pitaevskii, L. P.
+  first-page: '408'
+  journal-title: Zh. Eksp. Teor. Fiz.
+  volume: '35'
+  year: '1958'
+- author: Polyakov, A. A. M.
+  first-page: '2144'
+  journal-title: JETP
+  volume: '52'
+  year: '1969'
+- author: Pomeau, Y.
+  first-page: '64'
+  journal-title: Phys. Rep.
+  volume: 19C
+  year: '1975'
+- author: Prodnikov, V. V.
+  first-page: '296'
+  journal-title: JETP Lett.
+  volume: '23'
+  year: '1976'
+- author: Rácz, Z.
+  doi: 10.1016/0375-9601(75)90656-8
+  first-page: '433'
+  journal-title: Phys. Lett. A
+  volume: '53'
+  year: '1975'
+- author: Rácz, Z.
+  doi: 10.1103/PhysRevB.11.2564
+  first-page: '2564'
+  journal-title: Phys. Rev. B
+  volume: '11'
+  year: '1976'
+- author: Rácz, Z.
+  doi: 10.1103/PhysRevB.11.2564
+  first-page: '2564'
+  journal-title: Phys. Rev. B
+  volume: '11'
+  year: '1975'
+- author: Rácz, Z.
+  doi: 10.1103/PhysRevB.13.3074
+  first-page: '3074'
+  journal-title: Phys. Rev. B
+  volume: '13'
+  year: '1976'
+- author: Rácz, Z.
+  doi: 10.1016/0375-9601(77)90298-5
+  first-page: '3'
+  journal-title: Phys. Lett.
+  volume: 60A
+  year: '1977'
+- author: Raghavan, R.
+  doi: 10.1103/PhysRevB.14.1185
+  first-page: '1185'
+  journal-title: Phys. Rev. B
+  volume: '14'
+  year: '1976'
+- author: Rechester, A. B.
+  first-page: '782'
+  journal-title: Zh. Eksp. Teor. Fiz.
+  volume: '60'
+  year: '1971'
+- author: Rehwald, W.
+  doi: 10.1016/0038-1098(70)90159-6
+  first-page: '607'
+  journal-title: Solid State Commun.
+  volume: '8'
+  year: '1970'
+- author: Reiter, G.
+  volume-title: Exact results for the dynamics of the classical nearest-neighbor Heisenberg
+    chain near T=0
+  year: '1977'
+- author: Résibois, P.
+  doi: 10.1103/PhysRev.178.806
+  first-page: '806'
+  journal-title: Phys. Rev.
+  volume: '178'
+  year: '1969'
+- author: Résibois, P.
+  doi: 10.1103/PhysRevLett.24.514
+  first-page: '514'
+  journal-title: Phys. Rev. Lett.
+  volume: '24'
+  year: '1970'
+- author: Riste, T.
+  doi: 10.1007/978-94-010-2317-7
+  volume-title: Anharmonic Lattices, Structural Transitions and Melting
+  year: '1974'
+- author: Riste, T.
+  doi: 10.1007/978-1-4615-8912-9
+  volume-title: Fluctuations, Instabilities and Phase Transitions
+  year: '1975'
+- author: Roe, D. B.
+  doi: 10.1007/BF00655706
+  first-page: '747'
+  journal-title: J. Low Temp. Phys.
+  volume: '27'
+  year: '1977'
+- author: Saito, Y.
+  doi: 10.1007/BF01012879
+  first-page: '233'
+  journal-title: J. Stat. Phys.
+  volume: '15'
+  year: '1976'
+- author: Sak, J.
+  doi: 10.1103/PhysRevB.14.2932
+  first-page: '2932'
+  journal-title: Phys. Rev. B
+  volume: '14'
+  year: '1976'
+- author: Sasvári, L.
+  doi: 10.1016/0378-4371(75)90039-4
+  first-page: '108'
+  journal-title: Physica
+  volume: 81A
+  year: '1975'
+- author: Sasvári, L.
+  doi: 10.1016/0378-4371(77)90166-2
+  first-page: '1'
+  journal-title: Physica
+  volume: 87A
+  year: '1977'
+- author: Sasvári, L.
+  journal-title: Physica
+  volume: A
+  year: '1977'
+- author: Schmidt, H.
+  journal-title: Phys. Lett
+  year: '1977'
+- author: Schneider, T.
+  doi: 10.1103/PhysRevB.13.1123
+  first-page: '1123'
+  journal-title: Phys. Rev. B
+  volume: '13'
+  year: '1976'
+- author: Schneider, T.
+  doi: 10.1103/PhysRevLett.31.1254
+  first-page: '1254'
+  journal-title: Phys. Rev. Lett.
+  volume: '31'
+  year: '1973'
+- author: Schneider, T.
+  doi: 10.1103/PhysRevB.13.1216
+  first-page: '1216'
+  journal-title: Phys. Rev. B
+  volume: '13'
+  year: '1976'
+- author: Schneider, T.
+  doi: 10.1103/PhysRevLett.29.1080
+  first-page: '1080'
+  journal-title: Phys. Rev. Lett.
+  volume: '29'
+  year: '1972'
+- author: Schulhof, M. P.
+  doi: 10.1103/PhysRevLett.24.1184
+  first-page: '1184'
+  journal-title: Phys. Rev. Lett.
+  volume: '24'
+  year: '1970'
+- author: Sengers, J. V.
+  volume-title: Critical Phenomena, Proceedings of the International School of Physics
+    Enrico Fermi, Course L1
+  year: '1971'
+- author: Shacklette, L. W.
+  doi: 10.1103/PhysRevB.9.3789
+  first-page: '3789'
+  journal-title: Phys. Rev. B
+  volume: '9'
+  year: '1974'
+- author: Shaw, C. H.
+  doi: 10.1063/1.432966
+  first-page: '4906'
+  journal-title: J. Chem. Phys.
+  volume: '65'
+  year: '1976'
+- author: Shiwa, Y.
+  journal-title: Prog. Theor. Phys.
+  year: '1976'
+- author: Siggia, E. D.
+  doi: 10.1103/PhysRevB.11.4736
+  first-page: '4736'
+  journal-title: Phys. Rev. B
+  volume: '11'
+  year: '1975'
+- author: Siggia, E. D.
+  doi: 10.1103/PhysRevB.13.3218
+  first-page: '3218'
+  journal-title: Phys. Rev. B
+  volume: '13'
+  year: '1976'
+- author: Siggia, E. D.
+  doi: 10.1103/PhysRevB.15.2830
+  first-page: '2830'
+  journal-title: Phys. Rev. B
+  volume: '15'
+  year: '1977'
+- author: Siggia, E. D.
+  doi: 10.1103/PhysRevB.13.2110
+  first-page: '2110'
+  journal-title: Phys. Rev. B
+  volume: '13'
+  year: '1976'
+- author: Siggia, E. D.
+  doi: 10.1103/PhysRevB.15.1427
+  first-page: '1427'
+  journal-title: Phys. Rev. B
+  volume: '15'
+  year: '1977'
+- author: Simons, D. S.
+  doi: 10.1103/PhysRevLett.26.750
+  first-page: '750'
+  journal-title: Phys. Rev. Lett.
+  volume: '26'
+  year: '1971'
+- author: Skocpol, W. J.
+  doi: 10.1088/0034-4885/38/9/001
+  first-page: '1049'
+  journal-title: Rep. Prog. Phys.
+  volume: '38'
+  year: '1975'
+- author: Stanley, H. E.
+  volume-title: Introduction to phase Transitions and Critical Phenomena
+  year: '1971'
+- author: Stanley, H. E.
+  volume-title: Critical Phenomena, Proceedings of the International School of Physics
+    Enrico Fermi, Course L1
+  year: '1971'
+- author: Stauffer, D.
+  doi: 10.1007/BF01322360
+  first-page: '161'
+  journal-title: Z. Phys. B
+  volume: '22'
+  year: '1975'
+- author: Stauffer, D.
+  doi: 10.1103/PhysRevLett.35.394
+  first-page: '394'
+  journal-title: Phys. Rev. Lett.
+  volume: '35'
+  year: '1975'
+- author: Stauffer, D.
+  volume-title: Proceedings of the Troy Conference on Amorphous Magnetism, August
+    1976
+  year: '1976'
+- author: Stauffer, D.
+  journal-title: Ferroelectrics
+  year: '1977'
+- author: Stauffer, D.
+  doi: 10.1103/PhysRevLett.29.345
+  first-page: '345'
+  journal-title: Phys. Rev. Lett.
+  volume: '29'
+  year: '1972'
+- author: Stauffer, D.
+  doi: 10.1007/BF00628277
+  first-page: '599'
+  journal-title: J. Low Temp. Phys.
+  volume: '2'
+  year: '1970'
+- author: Steiner, M.
+  doi: 10.1080/00018737600101372
+  first-page: '87'
+  journal-title: Adv. in Physics
+  volume: '25'
+  year: '1976'
+- author: Stephen, M. J.
+  doi: 10.1103/RevModPhys.46.617
+  first-page: '617'
+  journal-title: Rev. Mod. Phys.
+  volume: '46'
+  year: '1974'
+- author: Stoll, E.
+  doi: 10.1103/PhysRevB.8.3266
+  first-page: '3266'
+  journal-title: Phys. Rev. B
+  volume: '9'
+  year: '1973'
+- author: Suezaki, Y.
+  doi: 10.1016/0375-9601(68)90607-5
+  first-page: '70'
+  journal-title: Phys. Lett. A
+  volume: '28'
+  year: '1968'
+- author: Suezaki, Y.
+  doi: 10.1143/PTP.41.1177
+  first-page: '1177'
+  journal-title: Prog. Theor. Phys. (Kyoto)
+  volume: '41'
+  year: '1969'
+- author: Suzuki, M.
+  doi: 10.1143/PTP.43.882
+  first-page: '882'
+  journal-title: Prog. Theor. Phys. (Kyoto)
+  volume: '43'
+  year: '1970'
+- author: Suzuki, M.
+  first-page: '123'
+  journal-title: Int. J. Magn.
+  volume: '1'
+  year: '1971'
+- author: Suzuki, M.
+  doi: 10.1143/PTP.50.1767
+  first-page: '1767'
+  journal-title: Prog. Theor. Phys. (Kyoto)
+  volume: '50'
+  year: '1973'
+- author: Suzuki, M.
+  doi: 10.1016/0375-9601(73)90290-9
+  first-page: '245'
+  journal-title: Phys. Lett. A
+  volume: '43'
+  year: '1973'
+- author: Suzuki, M.
+  doi: 10.1143/PTP.53.97
+  first-page: '97'
+  journal-title: Prog. Theor. Phys. (Kyoto)
+  volume: '53'
+  year: '1975'
+- author: Suzuki, M.
+  doi: 10.1016/0375-9601(76)90474-6
+  first-page: '435'
+  journal-title: Phys. Lett. A
+  volume: '58'
+  year: '1976'
+- author: Suzuki, M.
+  doi: 10.1143/PTP.56.1454
+  first-page: '1454'
+  journal-title: Prog. Theor. Phys. (Kyoto)
+  volume: '56'
+  year: '1976'
+- author: Suzuki, M.
+  doi: 10.1143/PTP.49.1070
+  first-page: '1070'
+  journal-title: Prog. Theor. Phys. (Kyoto)
+  volume: '49'
+  year: '1973'
+- author: Suzuki, M.
+  doi: 10.1016/0375-9601(74)90128-5
+  first-page: '361'
+  journal-title: Phys. Lett. A
+  volume: '47'
+  year: '1974'
+- author: Suzuki, M.
+  doi: 10.1143/PTP.55.2041
+  first-page: '2041'
+  journal-title: Prog. Theor. Phys. (Kyoto)
+  volume: '55'
+  year: '1976'
+- author: Suzuki, M.
+  doi: 10.1143/PTP.52.344
+  first-page: '344'
+  journal-title: Prog. Theor. Phys. (Kyoto)
+  volume: '52'
+  year: '1974'
+- author: Suzuki, M.
+  doi: 10.1143/PTP.52.722
+  first-page: '722'
+  journal-title: Prog. Theor. Phys. (Kyoto)
+  volume: '52'
+  year: '1974'
+- author: Swift, J.
+  doi: 10.1103/PhysRev.173.257
+  first-page: '257'
+  journal-title: Phys. Rev.
+  volume: '173'
+  year: '1968'
+- author: Swift, J.
+  doi: 10.1103/PhysRevA.15.319
+  first-page: '319'
+  journal-title: Phys. Rev. A
+  volume: '15'
+  year: '1977'
+- author: Swinney, H. L.
+  doi: 10.1103/PhysRevA.8.2586
+  first-page: '2586'
+  journal-title: Phys. Rev. A
+  volume: '8'
+  year: '1973'
+- author: Symanzik, H.
+  volume-title: Local Quantum Field Theory
+  year: '1969'
+- author: Szépfalusy, P.
+  volume-title: 'Lecture Notes in Physics 54: Critical Phenomena'
+  year: '1976'
+- author: Takada, S.
+  doi: 10.1143/PTP.46.15
+  first-page: '15'
+  journal-title: Prog. Theor. Phys. (Kyoto)
+  volume: '46'
+  year: '1971'
+- author: Tanaka, F.
+  doi: 10.1143/PTP.54.289
+  first-page: '289'
+  journal-title: Prog. Theor. Phys. (Kyoto)
+  volume: '54'
+  year: '1975'
+- author: Tanaka, M.
+  doi: 10.1016/0375-9601(77)90856-8
+  first-page: '119'
+  journal-title: Phys. Lett. A
+  volume: '61'
+  year: '1977'
+- author: Tarvin, J. A.
+  doi: 10.1103/PhysRevB.15.4193
+  first-page: '4193'
+  journal-title: Phys. Rev. B
+  volume: '15'
+  year: '1977'
+- author: Teitelbaum, G. B.
+  first-page: '154'
+  journal-title: Sov. Phys.—JETP Lett.
+  volume: '21'
+  year: '1975'
+- author: Thomas, H.
+  volume-title: Structural Phase Transitions and Soft Modes
+  year: '1971'
+- author: Thomas, G. A.
+  doi: 10.1103/PhysRevLett.29.1321
+  first-page: '1321'
+  journal-title: Phys. Rev. Lett.
+  volume: '29'
+  year: '1972'
+- author: Töpler, J.
+  doi: 10.1016/0375-9601(75)90456-9
+  first-page: '297'
+  journal-title: Phys. Lett. A
+  volume: '51'
+  year: '1975'
+- author: Tozaki, K.
+  doi: 10.1016/0375-9601(77)90655-7
+  first-page: '458'
+  journal-title: Phys. Lett. A
+  volume: '59'
+  year: '1977'
+- author: Trimper, S.
+  doi: 10.1016/0375-9601(76)90240-1
+  first-page: '290'
+  journal-title: Phys. Lett. A
+  volume: '58'
+  year: '1976'
+- author: Tucciarone, A.
+  doi: 10.1103/PhysRevB.4.3206
+  first-page: '3206'
+  journal-title: Phys. Rev. B
+  volume: '4'
+  year: '1971'
+- author: Tucker, J. R.
+  doi: 10.1103/PhysRevB.3.3768
+  first-page: '3768'
+  journal-title: Phys. Rev. B
+  volume: '3'
+  year: '1971'
+- author: Tyson, J. A.
+  doi: 10.1103/PhysRevLett.21.1235
+  first-page: '1235'
+  journal-title: Phys. Rev. Lett.
+  volume: '21'
+  year: '1968'
+- author: Van Hove, L.
+  doi: 10.1103/PhysRev.95.1374
+  first-page: '1374'
+  journal-title: Phys. Rev.
+  volume: '93'
+  year: '1954'
+- author: Van Kampen, N. G.
+  volume-title: Fluctuation Phenomena in Solids
+  year: '1965'
+- author: Van Kampen, N. G.
+  doi: 10.1016/0370-1573(76)90029-6
+  first-page: '171'
+  journal-title: Phys. Rep.
+  volume: 24C
+  year: '1976'
+- author: Villain, J.
+  doi: 10.1051/jphys:01968002904032100
+  first-page: '321'
+  journal-title: J. Phys. (Paris)
+  volume: '29'
+  year: '1968'
+- author: Villain, J.
+  doi: 10.1016/0038-1098(70)90108-0
+  first-page: '31'
+  journal-title: Solid State Commun.
+  volume: '8'
+  year: '1970'
+- author: Villain, J.
+  volume-title: Critical Phenomena in Alloys, Magnets, and Superconductors
+  year: '1971'
+- author: Villain, J.
+  doi: 10.1051/jphys:019710032010100
+  first-page: C1
+  journal-title: J. Phys. (Paris) Colloque
+  volume: '32'
+  year: '1971'
+- author: Villain, J.
+  doi: 10.1088/0022-3719/6/5/005
+  first-page: '1181'
+  journal-title: J. Phys. C
+  volume: '6'
+  year: '1973'
+- author: Vinen, W. F.
+  volume-title: Low Temperature Physics LT-14
+  year: '1975'
+- author: Wagner, H.
+  doi: 10.1016/0375-9601(70)90648-1
+  first-page: '58'
+  journal-title: Phys. Lett. A
+  volume: '33'
+  year: '1970'
+- author: Watson, P. G.
+  doi: 10.1088/0022-3719/2/10/124
+  first-page: '1883'
+  journal-title: J. Phys. C
+  volume: '2'
+  year: '1969'
+- author: Wegner, F.
+  doi: 10.1007/BF01458407
+  first-page: '260'
+  journal-title: Z. Phys.
+  volume: '218'
+  year: '1969'
+- author: Wegner, F.
+  doi: 10.1103/PhysRevB.5.4529
+  first-page: '6529'
+  journal-title: Phys. Rev. B
+  volume: '5'
+  year: '1972'
+- author: Wegner, F.
+  doi: 10.1103/PhysRevB.7.248
+  first-page: '248'
+  journal-title: Phys. Rev. B
+  volume: '7'
+  year: '1973'
+- author: Wilson, K. G.
+  doi: 10.1103/PhysRevLett.28.548
+  first-page: '548'
+  journal-title: Phys. Rev. Lett.
+  volume: '28'
+  year: '1972'
+- author: Wilson, K. G.
+  doi: 10.1103/RevModPhys.47.773
+  first-page: '773'
+  journal-title: Rev. Mod. Phys.
+  volume: '47'
+  year: '1975'
+- author: Wilson, K. G.
+  doi: 10.1103/PhysRevLett.28.240
+  first-page: '240'
+  journal-title: Phys. Rev. Lett.
+  volume: '28'
+  year: '1972'
+- author: Wilson, K. G.
+  doi: 10.1016/0370-1573(74)90023-4
+  first-page: '75'
+  journal-title: Phys. Rep.
+  volume: 12C
+  year: '1974'
+- author: Williams, R. D.
+  doi: 10.1103/PhysRevLett.25.276
+  first-page: '276'
+  journal-title: Phys. Rev. Lett.
+  volume: '25'
+  year: '1970'
+- author: Winterling, G.
+  doi: 10.1103/PhysRevLett.30.427
+  first-page: '427'
+  journal-title: Phys. Rev. Lett.
+  volume: '30'
+  year: '1973'
+- author: Winterling, G.
+  doi: 10.1016/0375-9601(74)90458-7
+  first-page: '343'
+  journal-title: Phys. Lett. A
+  volume: '48'
+  year: '1974'
+- author: Yahata, H.
+  doi: 10.1143/JPSJ.30.657
+  first-page: '657'
+  journal-title: J. Phys. Soc. Jpn.
+  volume: '30'
+  year: '1971'
+- author: Yahata, H.
+  doi: 10.1143/JPSJ.27.1421
+  first-page: '1421'
+  journal-title: J. Phys. Soc. Jpn.
+  volume: '27'
+  year: '1969'
+- author: Yamada, T.
+  doi: 10.1143/PTP.38.1031
+  first-page: '1031'
+  journal-title: Prog. Theor. Phys. (Kyoto)
+  volume: '38'
+  year: '1967'
+- author: Yamashita, Y.
+  doi: 10.1143/PTP.51.949
+  first-page: '949'
+  journal-title: Prog. Theor. Phys. (Kyoto)
+  volume: '51'
+  year: '1974'
+- author: Yamazaki, Y.
+  doi: 10.1143/PTP.55.1733
+  first-page: '1733'
+  journal-title: Prog. Theor. Phys. (Kyoto)
+  volume: '55'
+  year: '1976'
+- author: Yamazaki, Y.
+  volume-title: Critical behaviors in random spin systems with long-range interactions
+  year: '1976'
+- author: Yamazaki, Y.
+  volume-title: Critical behaviors in random spin systems with short-range interactions
+  year: '1976'
+- author: Young, A. P.
+  doi: 10.1088/0022-3719/8/15/001
+  first-page: L309
+  journal-title: J. Phys. C
+  volume: '8'
+  year: '1975'
+- author: Ziman, J. M.
+  volume-title: Electrons and Phonons
+  year: '1960'
+- author: Zorić, I.
+  doi: 10.1103/PhysRevLett.30.22
+  first-page: '22'
+  journal-title: Phys. Rev. Lett.
+  volume: '30'
+  year: '1973'
+- author: Zwanzig, R.
+  volume-title: Statistical Mechanics
+  year: '1972'
+doc_url: http://harvest.aps.org/v2/journals/articles/10.1103/RevModPhys.49.435/fulltext
+doi: 10.1103/revmodphys.49.435
+files:
+- paper.pdf
+- tmpb0t80hdz-a.pdf
+issue: '3'
+journal: Reviews of Modern Physics
+language: en
+month: 7
+pages: 435--479
+publisher: American Physical Society (APS)
+ref: TheoryOfDynamHohenb1977
+tags: critical-phenomena cmt statistical-physics phase-field theory text book review
+time-added: 2021-04-22-17:27:31
+title: Theory of dynamic critical phenomena
+type: article
+url: http://dx.doi.org/10.1103/revmodphys.49.435
+volume: '49'
+year: 1977

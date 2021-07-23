@@ -1,0 +1,21 @@
+author: Symth, M. R.F.
+author_list:
+- affiliation: []
+  family: Symth
+  given: M. R.F.
+doi: 10.3318/pria.2002.102.1.29
+files:
+- spectral-perron-frobenius-proof.pdf
+issue: '1'
+journal: Mathematical Proceedings of the Royal Irish Academy
+month: 1
+pages: 29--35
+publisher: Royal Irish Academy
+ref: ASpectralTheoSymth2002
+tags: spectral perron-frobenius math PageRank linear-algebra algorithm proof
+time-added: 2021-04-22-14:30:44
+title: A Spectral Theoretic Proof of Perron–Frobenius
+type: article
+url: http://dx.doi.org/10.3318/pria.2002.102.1.29
+volume: '102'
+year: 2002

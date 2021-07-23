@@ -1,0 +1,61 @@
+author: Penrose, R.
+author_list:
+- affiliation: []
+  family: Penrose
+  given: R.
+citations:
+- doi: 10.1073/pnas.34.5.211
+- doi: 10.1073/pnas.34.5.211
+- author: van der Waerden B. L.
+  first-page: '1'
+  journal-title: Nachr. Ges. Wiss. Gottingen
+  volume: '100'
+  year: '1929'
+- doi: 10.2307/2371218
+- doi: 10.1143/PTP.11.441
+- doi: 10.1143/PTP.11.441
+- doi: 10.1143/PTP.11.441
+- doi: 10.1143/PTP.11.441
+- doi: 10.1143/PTP.11.441
+- doi: 10.1007/BF02726519
+- doi: 10.1007/BF02726519
+- doi: 10.1007/BF02726519
+- doi: 10.1007/BF02726519
+- doi: 10.1007/BF02726519
+- doi: 10.1098/rspa.1965.0058
+- doi: 10.1103/RevModPhys.34.442
+- doi: 10.1103/RevModPhys.34.442
+- doi: 10.1103/RevModPhys.34.442
+- doi: 10.1103/RevModPhys.34.442
+- author: Infeld L.
+  first-page: '380'
+  journal-title: S. B. Preuss. Akad.
+  volume: '9'
+  year: '1933'
+- doi: 10.1063/1.1703712
+- doi: 10.1103/RevModPhys.25.714
+- doi: 10.1098/rspa.1937.0003
+- doi: 10.1098/rspa.1937.0003
+- doi: 10.2307/1969587
+- doi: 10.2307/1969587
+- doi: 10.1063/1.1724257
+- doi: 10.1098/rspa.1962.0036
+- doi: 10.1103/PhysRevLett.11.237
+doi: 10.1063/1.1705200
+files:
+- twistor-algebra-penrose.pdf
+issue: '2'
+journal: Journal of Mathematical Physics
+language: en
+month: 2
+pages: 345--366
+publisher: AIP Publishing
+ref: TwistorAlgebraPenros1967
+tags: twistor penrose stem-paper theory fundamental-physics gr sr minkowski conformal
+  poincare-group
+time-added: 2021-04-22-12:53:13
+title: Twistor Algebra
+type: article
+url: http://dx.doi.org/10.1063/1.1705200
+volume: '8'
+year: 1967

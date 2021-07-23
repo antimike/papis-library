@@ -1,0 +1,23 @@
+abstract: The origin of the Thomas factor 1/2 in the spin-orbit hamiltonian can be
+  understood by considering the case of a classical electron moving in crossed electric
+  and magnetic fields chosen such that the electric Coulomb force is balanced by the
+  magnetic Lorentz force.
+archiveprefix: arXiv
+author: Kroemer, Herbert
+author_list:
+- family: Kroemer
+  given: Herbert
+doi: 10.1119/1.1615526
+eprint: physics/0310016v1
+file: physics/0310016v1.pdf
+files:
+- tmpw-n7w68t.pdf
+month: Oct
+primaryclass: physics.ed-ph
+ref: physics/0310016v1
+tags: thomas-precession sr differential-geometry lorentz-group em
+time-added: 2021-04-17-04:11:19
+title: The Thomas Precession Factor in Spin-Orbit Interaction
+type: article
+url: http://arxiv.org/abs/physics/0310016v1
+year: '2003'

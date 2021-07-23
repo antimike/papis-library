@@ -1,0 +1,37 @@
+abstract: The disorder parameter of confinement-deconfinement phase transition based
+  on the monopole action determined previously in $SU(2)$ QCD are investigated. We
+  construct an operator which corresponds to the order parameter defined in the abelian
+  Higgs model. The operator shows proper behaviors as the disorder parameter in the
+  numerical simulations of finite temperature QCD.
+archiveprefix: arXiv
+author: Nakamura, Naoki and Bornyakov, Vitaly and Ejiri, Shinji and Kitahara, Shun-ichi
+  and Matsubara, Yoshimi and Suzuki, Tsuneo
+author_list:
+- family: Nakamura
+  given: Naoki
+- family: Bornyakov
+  given: Vitaly
+- family: Ejiri
+  given: Shinji
+- family: Kitahara
+  given: Shun-ichi
+- family: Matsubara
+  given: Yoshimi
+- family: Suzuki
+  given: Tsuneo
+doi: 10.1016/S0920-5632(96)00703-7
+eprint: hep-lat/9608004v1
+file: hep-lat/9608004v1.pdf
+files:
+- tmpfm33jw8r.pdf
+month: Aug
+note: Nucl.Phys.Proc.Suppl. 53 (1997) 512-514
+primaryclass: hep-lat
+ref: hep-lat/9608004v1
+tags: qcd higgs order-parameter disorder-parameter confinement-deconfinement phase-transition
+  quark-confinement monopole-action
+time-added: 2021-04-22-17:45:43
+title: Disorder Parameter of Confinement
+type: article
+url: http://arxiv.org/abs/hep-lat/9608004v1
+year: '1996'

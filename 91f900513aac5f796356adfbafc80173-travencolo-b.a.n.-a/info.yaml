@@ -1,0 +1,181 @@
+author: Travençolo, B.A.N. and da F. Costa, L.
+author_list:
+- affiliation: []
+  family: Travençolo
+  given: B.A.N.
+- affiliation: []
+  family: da F. Costa
+  given: L.
+citations:
+- author: Albert
+  doi: 10.1103/RevModPhys.74.47
+  first-page: '47'
+  journal-title: Rev. Mod. Phys.
+  volume: '74'
+  year: '2002'
+- author: Newman
+  doi: 10.1137/S003614450342480
+  first-page: '167'
+  journal-title: SIAM Rev.
+  volume: '45'
+  year: '2003'
+- author: da F. Costa
+  doi: 10.1080/00018730601170527
+  first-page: '167'
+  journal-title: Adv. Phys.
+  volume: '56'
+  year: '2007'
+- author: Boccaletti
+  doi: 10.1016/j.physrep.2005.10.009
+  first-page: '175'
+  journal-title: Phys. Rep.
+  volume: '424'
+  year: '2006'
+- author: da F. Costa
+- author: da F. Costa
+  doi: 10.1063/1.2766683
+  first-page: '054107'
+  journal-title: Appl. Phys. Lett.
+  volume: '91'
+  year: '2007'
+- author: Buzsáki
+  doi: 10.1016/j.tins.2004.02.007
+  first-page: '186'
+  journal-title: Trends Neurosci.
+  volume: '27'
+  year: '2004'
+- author: Prill
+  doi: 10.1371/journal.pbio.0030343
+  first-page: e343
+  journal-title: PLoS Biol.
+  volume: '3'
+  year: '2005'
+- author: da F. Costa
+  doi: 10.1016/j.physa.2003.08.010
+  first-page: '37'
+  journal-title: Physica A
+  volume: '330'
+  year: '2003'
+- author: da F. Costa
+  doi: 10.1142/S0218127407018464
+  first-page: '2387'
+  journal-title: Int. J. Bifur. Chaos
+  volume: '17'
+  year: '2007'
+- author: Gomez-Gardenes
+- article-title: Random Walks and Electrical Networks
+  author: Doyle
+  volume: vol. 22
+  year: '1984'
+- author: Sethna
+  series-title: 'Statistical Mechanics: Entropy, Order Parameters, and Complexity'
+  year: '2006'
+- author: Zhou
+  doi: 10.1103/PhysRevE.67.061901
+  first-page: 061901
+  journal-title: Phys. Rev. E
+  volume: '67'
+  year: '2003'
+- author: Noh
+  doi: 10.1103/PhysRevLett.92.118701
+  first-page: '118701'
+  journal-title: Phys. Rev. Lett.
+  volume: '92'
+  year: '2004'
+- author: Masuda
+  doi: 10.1103/PhysRevE.69.066113
+  first-page: '066113'
+  journal-title: Phys. Rev. E
+  volume: '69'
+  year: '2004'
+- author: Pons
+- author: Eisler
+  doi: 10.1103/PhysRevE.71.057104
+  first-page: '057104'
+  journal-title: Phys. Rev. E
+  volume: '71'
+  year: '2005'
+- author: Kinouchi
+  doi: 10.1016/S0378-4371(02)00972-X
+  first-page: '665'
+  journal-title: Physica A
+  volume: '315'
+  year: '2002'
+- author: Yang
+  doi: 10.1103/PhysRevE.71.016107
+  first-page: '016107'
+  journal-title: Phys. Rev. E
+  volume: '71'
+  year: '2005'
+- author: da F. Costa
+  doi: 10.1103/PhysRevE.74.026103
+  first-page: '026103'
+  journal-title: Phys. Rev. E
+  volume: '74'
+  year: '2006'
+- author: Herrero
+  doi: 10.1103/PhysRevE.68.026106
+  first-page: '026106'
+  journal-title: Phys. Rev. E
+  volume: '68'
+  year: '2003'
+- author: Herrero
+  doi: 10.1103/PhysRevE.71.016103
+  first-page: '016103'
+  journal-title: Phys. Rev. E
+  volume: '71'
+  year: '2005'
+- author: Dorogovtsev
+  doi: 10.1080/00018730110112519
+  first-page: '1079'
+  journal-title: Adv. Phys.
+  volume: '51'
+  year: '2002'
+- author: Rosvall
+  doi: 10.1103/PhysRevLett.94.028701
+  first-page: 028701
+  journal-title: Phys. Rev. Lett.
+  volume: '94'
+  year: '2005'
+- author: Crucitti
+  doi: 10.1063/1.2150162
+  first-page: '015113'
+  journal-title: Chaos
+  volume: '16'
+  year: '2006'
+- author: Cardillo
+  doi: 10.1103/PhysRevE.73.066107
+  first-page: '66107'
+  journal-title: Phys. Rev. E
+  volume: '73'
+  year: '2006'
+- author: Lämmer
+  doi: 10.1016/j.physa.2006.01.051
+  first-page: '89'
+  journal-title: Physica A
+  volume: '363'
+  year: '2006'
+- author: Porta
+  doi: 10.1016/j.physa.2005.12.063
+  first-page: '853'
+  journal-title: Physica A
+  volume: '369'
+  year: '2006'
+doc_url: https://api.elsevier.com/content/article/PII:S0375960108015867?httpAccept=text/plain
+doi: 10.1016/j.physleta.2008.10.069
+files:
+- complex-network-accessibility.pdf
+issue: '1'
+journal: Physics Letters A
+language: en
+month: 12
+pages: 89--95
+publisher: Elsevier BV
+ref: AccessibilityITraven2008
+tags: network graph-theory math centrality node-influence accessibility complex-system
+time-added: 2021-04-22-15:39:08
+title: Accessibility in complex networks
+type: article
+url: http://dx.doi.org/10.1016/j.physleta.2008.10.069
+volume: '373'
+year: 2008

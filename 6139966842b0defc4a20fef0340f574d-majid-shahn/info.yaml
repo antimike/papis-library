@@ -1,0 +1,92 @@
+author: Majid, Shahn
+author_list:
+- affiliation:
+  - name: Department of Applied Mathematics and Theoretical Physics, University of
+      Cambridge, Cambridge CB3 9EW, UK
+  family: Majid
+  given: Shahn
+citations:
+- unstructured: Baxter R. J. 1982 Exactly solvable models in statistical mechanics.
+    Academic.
+- doi: 10.1007/978-3-662-02313-6
+  unstructured: Bratteli O. & Robinson D. W. 1979 Operator algebras and quantum statistical
+    mechanics vol. II. Springer.
+- doi: 10.1007/BF02096884
+  unstructured: Brzezi nski T. & Majid S. 1993 Quantum group gauge theory on quantum
+    spaces. Commun. Math. Phys. 157 591{638. (Erratum 1995 167 235.)
+- unstructured: Connes A. 1994 Noncommutative geometry. Academic.
+- article-title: Hamiltonian structures on Lie groups, Lie bialgebras and the geometric
+    meaning of the classical Yang{Baxter equations
+  author: Drinfeld V. G.
+  first-page: '68'
+  journal-title: Sov. Math. Dokl.
+  volume: '27'
+  year: '1983'
+- unstructured: 'Drinfeld V. G. 1987 Quantum groups. In Proc. ICM (ed. A. Gleason)
+    pp. 798{820. Providence RI: AMS.'
+- doi: 10.1007/978-3-540-69969-9
+  unstructured: Faddeev L. D. & Takhtajan L. A. 1987 Hamiltonian methods in the theory
+    of solitons. Springer.
+- article-title: On q-functions and a certain di® erence operator
+  author: Jackson F. H.
+  journal-title: Trans. R. Soc. Edinb.
+  volume: '46'
+  year: '1908'
+- doi: 10.1007/BF00704588
+- doi: 10.1090/S0273-0979-1985-15304-2
+  unstructured: Jones V. F. R. 1985 Polynomial invariants of knots via von Neumann
+    algebras. Bull. Am. Math. Soc. 12 103{111.
+- unstructured: Lusztig G. 1993 Introduction to quantum groups. Birkhauser.
+- article-title: Hopf algebras for physics at the Planck scale
+  author: Majid S.
+  journal-title: J. Classical Quant. Grav.
+  volume: '5'
+  year: '1988'
+- doi: 10.1007/BF00403542
+- doi: 10.4006/1.3028923
+  unstructured: Majid S. 1991b Principle of representation-theoretic self-duality.
+    Phys. Essays 4 395{405.
+- doi: 10.1017/CBO9780511613104
+  unstructured: Majid S. 1995 Foundations of quantum group theory. Cambridge Univeristy
+    Press.
+- doi: 10.1017/S0305004198002576
+  unstructured: Majid S. 1999a Double bosonisation and the construction of U q (g).
+    Math. Proc. Camb. Phil. Soc. 125 151{192.
+- doi: 10.1016/S0393-0440(98)00051-5
+- doi: 10.1007/BF02096491
+- doi: 10.1007/BF01219077
+  unstructured: Woronowicz S. L. 1987 Compact matrix pseudogroups. Commun. Math. Phys.
+    111 613{665.
+- unstructured: Born in Patna India but moving to the UK at the age of 5 Shahn Majid
+    completed
+- unstructured: his BA in 1982 with a - rst class degree in mathematics at Cambridge
+    followed in
+- unstructured: 1983 by a distinction in Part III. He pursued a PhD at Harvard with
+    the help of an
+- unstructured: Emmanuel{Harvard Herchel Smith scholarship completing it in 1988.
+    After a year at
+- unstructured: Swansea he returned to Cambridge in 1989 as Drapers Fellow of Pembroke
+    College
+- unstructured: where he has been based since aside from a two-year leave back at
+    Harvard in 1995
+- unstructured: and 1996. In 1993 he was awarded the Bleuler Medal. He has many research
+    papers
+- unstructured: and one textbook in the area of quantum groups. Aged 38 he is an associate
+    editor
+- unstructured: of two research journals and a Royal Society University Research Fellow.
+doi: 10.1098/rsta.2000.0521
+issue: '1765'
+journal: 'Philosophical Transactions of the Royal Society of London. Series A: Mathematical,
+  Physical and Engineering Sciences'
+language: en
+month: 1
+pages: 89--109
+publisher: The Royal Society
+ref: NonCommutativeMajid2000
+tags: /tmp/paper/Non-commutative geometry and quantum groups.pdf
+time-added: 2021-04-24-17:11:23
+title: Non-commutative geometry and quantum groups
+type: article
+url: http://dx.doi.org/10.1098/rsta.2000.0521
+volume: '358'
+year: 2000

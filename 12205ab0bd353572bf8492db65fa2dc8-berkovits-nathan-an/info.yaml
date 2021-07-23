@@ -1,0 +1,31 @@
+abstract: Conformal supergravity arises in presently known formulations of twistor-string
+  theory either via closed strings or via gauge-singlet open strings. We explore this
+  sector of twistor-string theory, relating the relevant string modes to the particles
+  and fields of conformal supergravity. We also use the twistor-string theory to compute
+  some tree level scattering amplitudes with supergravitons, and compare to expectations
+  from conformal supergravity. Since the supergravitons interact with the same coupling
+  constant as the Yang-Mills fields, conformal supergravity states will contribute
+  to loop amplitudes of Yang-Mills gluons in these theories. Those loop amplitudes
+  will therefore not coincide with the loop amplitudes of pure super Yang-Mills theory.
+archiveprefix: arXiv
+author: Berkovits, Nathan and Witten, Edward
+author_list:
+- family: Berkovits
+  given: Nathan
+- family: Witten
+  given: Edward
+doi: 10.1088/1126-6708/2004/08/009
+eprint: hep-th/0406051v2
+file: hep-th/0406051v2.pdf
+files:
+- tmp45bzg-ho.pdf
+month: Jun
+note: JHEP 0408:009,2004
+primaryclass: hep-th
+ref: hep-th/0406051v2
+tags: conformal supergravity twistor string-theory witten theory math hep
+time-added: 2021-04-22-13:47:15
+title: Conformal Supergravity in Twistor-String Theory
+type: article
+url: http://arxiv.org/abs/hep-th/0406051v2
+year: '2004'

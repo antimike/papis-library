@@ -1,0 +1,27 @@
+abstract: To resolve some unphysical interpretations related to velocity measurements
+  by static observers, we discuss the use of generalized observer sets, give a prescription
+  for defining the speed of test particles relative to those observers and show that,
+  for any locally inertial frame, the speed of a freely falling material particle
+  is always less than the speed of light at the Schwarzschild black hole surface.
+archiveprefix: arXiv
+author: Crawford, P. and Tereno, I.
+author_list:
+- family: Crawford
+  given: P.
+- family: Tereno
+  given: I.
+doi: 10.1023/A:1021131401034
+eprint: gr-qc/0111073v1
+file: gr-qc/0111073v1.pdf
+files:
+- schwarzschild-paper.pdf
+- tmpd4bt3bsn-a.pdf
+month: Nov
+note: Gen.Rel.Grav. 34 (2002) 2075
+primaryclass: gr-qc
+ref: gr-qc/0111073v1
+time-added: 2021-04-17-03:57:12
+title: Generalized observers and velocity measurements in General Relativity
+type: article
+url: http://arxiv.org/abs/gr-qc/0111073v1
+year: '2001'

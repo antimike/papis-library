@@ -1,0 +1,29 @@
+abstract: Recent work has examined how undecidable problems can arise in quantum information
+  science. We augment this by introducing three new undecidable problems stated in
+  terms of tensor networks. These relate to ideas of Penrose about the physicality
+  of a spin-network representing a physical process, closed timelike curves, and Boolean
+  relation theory. Seemingly slight modifications of the constraints on the topology
+  or the tensor families generating the networks leads to problems that transition
+  from decidable, to undecidable to even always satisfiable.
+archiveprefix: arXiv
+author: Morton, Jason and Biamonte, Jacob
+author_list:
+- family: Morton
+  given: Jason
+- family: Biamonte
+  given: Jacob
+doi: 10.1103/PhysRevA.86.030301
+eprint: 1205.3315v1
+file: 1205.3315v1.pdf
+files:
+- tmpzbbnqzbr.pdf
+month: May
+note: Physical Review A Rapid Communications 86, 030301(R) (2012)
+primaryclass: quant-ph
+ref: 1205.3315v1
+tags: math network tensor-network undecidability
+time-added: 2021-04-22-12:20:45
+title: Undecidability in Tensor Network States
+type: article
+url: http://arxiv.org/abs/1205.3315v1
+year: '2012'

@@ -1,0 +1,30 @@
+author: RODRIGUES, W. A. and VAZ, J.
+author_list:
+- affiliation:
+  - name: Department of Applied Mathematics - IMECC, State University at Campinas
+      (UNICAMP), CP 6065 – 13081-970 Campinas, SP, Brazil
+  family: RODRIGUES
+  given: W. A.
+- affiliation:
+  - name: Department of Applied Mathematics - IMECC, State University at Campinas
+      (UNICAMP), CP 6065 – 13081-970 Campinas, SP, Brazil
+  family: VAZ
+  given: J.
+doi: 10.1142/9789812830180_0016
+files:
+- spinors-as-differential-forms-and-applications-to-electromagnetism-and-quantum-mechanics.pdf
+isbn:
+- '9789810226688'
+- '9789812830180'
+journal: Gravity, Particles and Space-Time
+month: 4
+pages: 307--344
+publisher: WORLD SCIENTIFIC
+ref: SpinorsAsDiffRodrig1996
+tags: spinor
+time-added: 2021-04-23-06:44:59
+title: SPINORS AS DIFFERENTIAL FORMS, AND APPLICATIONS TO ELECTROMAGNETISM AND QUANTUM
+  MECHANICS
+type: inbook
+url: http://dx.doi.org/10.1142/9789812830180_0016
+year: 1996

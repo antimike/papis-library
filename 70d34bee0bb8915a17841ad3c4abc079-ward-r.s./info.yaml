@@ -1,0 +1,50 @@
+author: Ward, R.S.
+author_list:
+- affiliation: []
+  family: Ward
+  given: R.S.
+citations:
+- author: Belavin
+  doi: 10.1016/0370-2693(75)90163-X
+  first-page: '85'
+  journal-title: Phys. Lett.
+  volume: 59B
+  year: '1975'
+- author: Cho
+  doi: 10.1063/1.522434
+  first-page: '2029'
+  journal-title: J. Math. Phys.
+  volume: '16'
+  year: '1975'
+- author: Penrose
+  first-page: '268'
+  series-title: Quantum gravity
+  year: '1975'
+- author: Penrose
+  doi: 10.1007/BF00762011
+  first-page: '31'
+  journal-title: Gen. Rel. Grav.
+  volume: '7'
+  year: '1976'
+- author: Pirani
+  volume: vol. 1
+  year: '1965'
+doc_url: https://api.elsevier.com/content/article/PII:0375960177908428?httpAccept=text/plain
+doi: 10.1016/0375-9601(77)90842-8
+files:
+- self-dual-gauge-fields-ward.pdf
+- tmp4zki28tg-a.data
+issue: '2'
+journal: Physics Letters A
+language: en
+month: 4
+pages: 81--82
+publisher: Elsevier BV
+ref: OnSelfDualGaWard1977
+tags: self-dual gauge-theory ward twistor yang-mills gravitation gr vector-bundle
+time-added: 2021-04-22-13:17:50
+title: On self-dual gauge fields
+type: article
+url: http://dx.doi.org/10.1016/0375-9601(77)90842-8
+volume: '61'
+year: 1977

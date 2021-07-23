@@ -1,0 +1,51 @@
+abstract: The formation of agents' opinions in a social system is the result of an
+  intricate equilibrium among several driving forces. On the one hand, the social
+  pressure exerted by peers favours the emergence of local consensus. On the other
+  hand, the concurrent participation of agents to discussions on different topics
+  induces each agent to develop a coherent set of opinions across all the topics in
+  which he is active. Moreover, the pervasive action of external stimuli, such as
+  mass media, pulls the entire population towards a specific configuration of opinions
+  on different topics. Here we propose a model in which agents with interrelated opinions,
+  interacting on several layers representing different topics, tend to spread their
+  own ideas to their neighbourhood, strive to maintain internal coherence, due to
+  the fact that each agent identifies meaningful relationships among its opinions
+  on the different topics, and are at the same time subject to external fields, resembling
+  the pressure of mass media. We show that the presence of heterogeneity in the internal
+  coupling assigned by agents to their different opinions allows to obtain states
+  with mixed levels of consensus, still ensuring that all the agents attain a coherent
+  set of opinions. Furthermore, we show that all the observed features of the model
+  are preserved in the presence of thermal noise up to a critical temperature, after
+  which global consensus is no longer attainable. This suggests the relevance of our
+  results for real social systems, where noise is inevitably present in the form of
+  information uncertainty and misunderstandings. The model also demonstrates how mass
+  media can be effectively used to favour the propagation of a chosen set of opinions,
+  thus polarising the consensus of an entire population.
+archiveprefix: arXiv
+author: Battiston, Federico and Cairoli, Andrea and Nicosia, Vincenzo and Baule, Adrian
+  and Latora, Vito
+author_list:
+- family: Battiston
+  given: Federico
+- family: Cairoli
+  given: Andrea
+- family: Nicosia
+  given: Vincenzo
+- family: Baule
+  given: Adrian
+- family: Latora
+  given: Vito
+doi: 10.1016/j.physd.2015.10.013
+eprint: 1506.04544v2
+file: 1506.04544v2.pdf
+files:
+- tmpohuhrtvq.pdf
+month: Jun
+note: Physica D 323-324, 12 (2016)
+primaryclass: physics.soc-ph
+ref: 1506.04544v2
+tags: network graph-theory math consensus coherence opinion-network interacting-network
+time-added: 2021-04-22-10:45:27
+title: Interplay between consensus and coherence in a model of interacting   opinions
+type: article
+url: http://arxiv.org/abs/1506.04544v2
+year: '2015'

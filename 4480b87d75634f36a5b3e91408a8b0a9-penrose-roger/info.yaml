@@ -1,0 +1,167 @@
+author: Penrose, Roger
+author_list:
+- affiliation: []
+  family: Penrose
+  given: Roger
+citations:
+- author: R. Brauer
+  doi: 10.2307/2371218
+  first-page: '425'
+  journal-title: American Journal of Mathematics
+  unstructured: Brauer, R. and Weyl, H. (1935).American Journal of Mathematics,57,
+    425.
+  volume: '57'
+  year: '1935'
+- author: W. H. Brinkmann
+  doi: 10.1073/pnas.9.1.1
+  first-page: '1'
+  journal-title: Proceedings of the National Academy of Sciences of the United States
+    of America
+  unstructured: Brinkmann, W. H. (1923).Proceedings of the National Academy of Sciences
+    of the United States of America,9, 1.
+  volume: '9'
+  year: '1923'
+- author: J. Bhlers
+  unstructured: 'For further references and details, see Bhlers, J. and Kundt, W.
+    (1962). In:Gravitation: an Introduction to Current Research, ed. Witten, L. John
+    Wiley and Sons, New York and London.'
+  volume-title: 'Gravitation: an Introduction to Current Research'
+  year: '1962'
+- author: W. H. Brinkmann
+  doi: 10.1007/BF01208647
+  first-page: '119'
+  journal-title: Mathematische Annalen
+  unstructured: Brinkmann, W. H. (1925).Mathematische Annalen,94, 119.
+  volume: '94'
+  year: '1925'
+- author: Y. Bruhat
+  first-page: '1782'
+  journal-title: Comptes Rendus de l'Académie des Sciences
+  unstructured: Bruhat, Y. (1959).Comptes Rendus de l'Académie des Sciences,248, 1782.
+  volume: '248'
+  year: '1959'
+- author: E. Cartan
+  doi: 10.24033/asens.676
+  first-page: '263'
+  journal-title: Annales de l'École Normale Supérieúre
+  unstructured: Cartan, E. (1914).Annales de l'École Normale Supérieúre,31, 263.
+  volume: '31'
+  year: '1914'
+- author: P. A. M. Dirac
+  doi: 10.1098/rspa.1936.0111
+  first-page: '447'
+  journal-title: Proceedings of the Royal Society
+  unstructured: Dirac, P. A. M. (1936).Proceedings of the Royal Society,A155, 447.
+  volume: A155
+  year: '1936'
+- author: P. A. M. Dirac
+  edition: 4th ed.
+  unstructured: Dirac, P. A. M. (1958).The Principles of Quantum Mechanics, 4th ed.
+    Clarendon Press, Oxford.
+  volume-title: The Principles of Quantum Mechanics
+  year: '1958'
+- author: M. Fierz
+  first-page: '45'
+  journal-title: Helvetica physica acta
+  unstructured: Fierz, M. (1940).Helvetica physica acta,13, 45.
+  volume: '13'
+  year: '1940'
+- unstructured: Grgin, E. (1966). Ph.D. Thesis, Syracuse University.
+- author: W. A. Hepner
+  doi: 10.1007/BF02787046
+  first-page: '351'
+  journal-title: Nuovo cimenta
+  unstructured: Hepner, W. A. (1962).Nuovo cimenta,26, 351.
+  volume: '26'
+  year: '1962'
+- author: H. A. Kastrupp
+  first-page: '78'
+  journal-title: Physics Letters (Amsterdam)
+  unstructured: Kastrupp, H. A. (1962).Physics Letters (Amsterdam),3, 78.
+  volume: '3'
+  year: '1962'
+- author: H. A. Kastrupp
+  doi: 10.1103/PhysRev.142.1060
+  first-page: '1060'
+  journal-title: Physical Review
+  unstructured: Kastrupp, H. A. (1966).Physical Review,142, 1060.
+  volume: '142'
+  year: '1966'
+- unstructured: Kerr, R. P. (unpublished); see Penrose (1967a).
+- author: Y. Murai
+  doi: 10.1143/ptp/9.2.147
+  first-page: '147'
+  journal-title: Progress of Theoretical Physics (Kyoto)
+  unstructured: Murai, Y. (1953).Progress of Theoretical Physics (Kyoto),9, 147.
+  volume: '9'
+  year: '1953'
+- author: Y. Murai
+  doi: 10.1143/PTP.11.441
+  first-page: '441'
+  journal-title: Progress of Theoretical Physics (Kyoto)
+  unstructured: Murai, Y. (1954).Progress of Theoretical Physics (Kyoto),11, 441.
+  volume: '11'
+  year: '1954'
+- author: Y. Murai
+  doi: 10.1016/0029-5582(58)90199-8
+  first-page: '489'
+  journal-title: Nuclear Physics
+  unstructured: Murai, Y. (1958).Nuclear Physics,6, 489.
+  volume: '6'
+  year: '1958'
+- unstructured: Penrose, R. (1963). Null Hypersurface Initial Data for Classical Fields
+    of Arbitrary Spin and for General Relativity. In:A.R.L. Tech. Documentary Rep.
+    63?56, ed. Bergmann, P. G.
+- author: R. Penrose
+  doi: 10.1098/rspa.1965.0058
+  first-page: '159'
+  journal-title: Proceedings of the Royal Society
+  unstructured: Penrose, R. (1965).Proceedings of the Royal Society,A284, 159.
+  volume: A284
+  year: '1965'
+- author: R. Penrose
+  doi: 10.1063/1.1705200
+  first-page: '345'
+  journal-title: Journal of Mathematics and Physics
+  unstructured: Penrose, R. (1967a).Journal of Mathematics and Physics,8, 345.
+  volume: '8'
+  year: '1967'
+- unstructured: Penrose, R. (1967b).An Analysis of the Structure of Space-Time. (Adams
+    prize essay; Princeton.)
+- unstructured: Penrose, R. (1968). (To be published).
+- unstructured: Robinson, I. (1958).Report to the Eddington Group. Cambridge.
+- author: I. E. Segal
+  doi: 10.1073/pnas.57.2.194
+  first-page: '194'
+  journal-title: Proceedings of the National Academy of Sciences of the United States
+    of America
+  unstructured: Segal, I. E. (1967).Proceedings of the National Academy of Sciences
+    of the United States of America,57, 194.
+  volume: '57'
+  year: '1967'
+- author: B. L. Waerden van der
+  first-page: '1'
+  journal-title: Nachrichten von der Gesellschaft der Wissenschaften Göttingen
+  unstructured: van der Waerden, B. L. (1929).Nachrichten von der Gesellschaft der
+    Wissenschaften Göttingen,100, 1.
+  volume: '100'
+  year: '1929'
+doc_url: http://link.springer.com/article/10.1007/BF00668831/fulltext.html
+doi: 10.1007/bf00668831
+files:
+- twistor-quantization-penrose.pdf
+issue: '1'
+journal: International Journal of Theoretical Physics
+language: en
+month: 5
+pages: 61--99
+publisher: Springer Science and Business Media LLC
+ref: TwistorQuantisPenros1968
+tags: penrose stem-paper twistor field-equation minkowski gr conformal symplectic
+  hamiltonian poisson-bracket quantization hilbert-space
+time-added: 2021-04-22-12:57:30
+title: Twistor quantisation and curved space-time
+type: article
+url: http://dx.doi.org/10.1007/bf00668831
+volume: '1'
+year: 1968

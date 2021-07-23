@@ -1,0 +1,28 @@
+abstract: I analyze the lattice simulation data of the Domain Wall Fermion in quaternion
+  basis. As pointed out by Atiyah and Ward, the minimum action solution for SU(2)
+  Yang-Mills fields in Euclidean 4-space correspond, via Penrose twistor transform,
+  to algebraic bundles on the complex projective 3-space. Assuming dominance of correlation
+  between the fermions on the domain walls via exchange of instantons, I extract parameters
+  necessary for defining gauge fields of Atiyah-Ward ansatz. The QCD effective coupling
+  in the infrared and the relation between the number of flavors and the infrared
+  fixed point is investigated.   Consequence of this lepton flavor assignment to phenomenology
+  of baryons is also discussed.
+archiveprefix: arXiv
+author: Furui, Sadataka
+author_list:
+- family: Furui
+  given: Sadataka
+doi: 10.1007/s00601-2011-274-1
+eprint: 1104.1225v2
+file: 1104.1225v2.pdf
+files:
+- tmpqioo19tp.pdf
+month: Apr
+primaryclass: hep-ph
+ref: 1104.1225v2
+tags: quaternion qcd infrared fermion flavor hep theory lattice-qcd
+time-added: 2021-04-22-12:35:56
+title: Fermion flavors in quaternion basis and infrared QCD
+type: article
+url: http://arxiv.org/abs/1104.1225v2
+year: '2011'

@@ -1,0 +1,28 @@
+abstract: We develop a relativistic velocity space called \emph{rapidity space} from
+  the single assumption of Lorentz invariance, and use it to visualize and calculate
+  effects resulting from the successive application of non-colinear Lorentz boosts.
+  In particular, we show how rapidity space provides a geometric approach to Wigner
+  rotation and Thomas precession in the same way that spacetime provides a geometrical
+  approach to kinematic effects in special relativity.
+archiveprefix: arXiv
+author: Rhodes, John A. and Semon, Mark D.
+author_list:
+- family: Rhodes
+  given: John A.
+- family: Semon
+  given: Mark D.
+doi: 10.1119/1.1652040
+eprint: gr-qc/0501070v1
+file: gr-qc/0501070v1.pdf
+files:
+- tmp4of2wmbh.pdf
+month: Jan
+note: Am.J.Phys. 72 (2004) 943
+primaryclass: gr-qc
+ref: gr-qc/0501070v1
+tags: thomas-precession sr relativity differential-geometry wigner-rotation math
+time-added: 2021-04-17-04:24:49
+title: Relativistic velocity space, Wigner rotation and Thomas precession
+type: article
+url: http://arxiv.org/abs/gr-qc/0501070v1
+year: '2005'

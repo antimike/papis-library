@@ -1,0 +1,38 @@
+abstract: In this paper we show how to describe the general theory of a linear metric
+  compatible connection with the theory of Clifford valued differential forms. This
+  is done by realizing that for each spacetime point the algebra of Clifford bivectors
+  is isomorphic to the Lie algebra of Sl(2,C). In that way the pullback of the linear
+  connection under a trivialization of the bundle is represented by a Clifford valued
+  1-form. That observation makes it possible to realize Einstein's gravitational theory
+  can be formulated in a way which is similar to a Sl(2,C) gauge theory. Some aspects
+  of such approach is discussed. Also, the theory of the covariant spinor derivative
+  of spinor fields is introduced in a novel way, allowing for a physical interpretation
+  of some rules postulated for that covariant spinor derivative in the standard theory
+  of these objects. We use our methods to investigate some polemical issues in gravitational
+  theories and in particular we scrutinize a supposedly "unified" field theory of
+  gravitation and electromagnetism proposed by M. Sachs and recently used in a series
+  of papers. Our results show that Sachs did not attain his objective and that recent
+  papers based on that theory are ill conceived and completely invalid both as Mathematics
+  and Physics.
+archiveprefix: arXiv
+author: de Oliveira, E. Capelas and Jr, W. A. Rodrigues
+author_list:
+- family: de Oliveira
+  given: E. Capelas
+- family: Jr
+  given: W. A. Rodrigues
+eprint: math-ph/0311001v5
+file: math-ph/0311001v5.pdf
+files:
+- tmpzes57ngc.pdf
+month: Nov
+primaryclass: math-ph
+ref: math-ph/0311001v5
+tags: spinor differential-form exterior-calculus differential-geometry cartan clifford-algebra
+  lie-algebra gr relativity unified-theories
+time-added: 2021-04-17-22:51:19
+title: Clifford Valued Differential Forms, Algebraic Spinor Fields,   Gravitation,
+  Electromagnetism and "Unified" Theories
+type: article
+url: http://arxiv.org/abs/math-ph/0311001v5
+year: '2003'

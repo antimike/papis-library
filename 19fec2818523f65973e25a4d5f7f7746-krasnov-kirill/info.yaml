@@ -1,0 +1,29 @@
+abstract: 'According to one of many equivalent definitions of twistors a (null) twistor
+  is a null geodesic in Minkowski spacetime. Null geodesics can intersect at points
+  (events). The idea of Penrose was to think of a spacetime point as a derived concept:
+  points are obtained by considering the incidence of twistors. One needs two twistors
+  to obtain a point. Twistor is thus a ``square root'''' of a point. In the present
+  paper we entertain the idea of quantizing the space of twistors. Twistors, and thus
+  also spacetime points become operators acting in a certain Hilbert space. The algebra
+  of functions on spacetime becomes an operator algebra. We are therefore led to the
+  realm of non-commutative geometry. This non-commutative geometry turns out to be
+  related to conformal field theory and holography. Our construction sheds an interesting
+  new light on bulk/boundary dualities.'
+archiveprefix: arXiv
+author: Krasnov, Kirill
+author_list:
+- family: Krasnov
+  given: Kirill
+eprint: hep-th/0311162v1
+file: hep-th/0311162v1.pdf
+files:
+- tmpfa63e65j.pdf
+month: Nov
+primaryclass: hep-th
+ref: hep-th/0311162v1
+tags: twistor cft ads-cft holographic theory hep
+time-added: 2021-04-22-12:40:00
+title: Twistors, CFT and Holography
+type: article
+url: http://arxiv.org/abs/hep-th/0311162v1
+year: '2003'

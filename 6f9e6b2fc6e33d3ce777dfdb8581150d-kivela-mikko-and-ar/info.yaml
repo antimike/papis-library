@@ -1,0 +1,53 @@
+abstract: In most natural and engineered systems, a set of entities interact with
+  each other in complicated patterns that can encompass multiple types of relationships,
+  change in time, and include other types of complications. Such systems include multiple
+  subsystems and layers of connectivity, and it is important to take such "multilayer"
+  features into account to try to improve our understanding of complex systems. Consequently,
+  it is necessary to generalize "traditional" network theory by developing (and validating)
+  a framework and associated tools to study multilayer systems in a comprehensive
+  fashion. The origins of such efforts date back several decades and arose in multiple
+  disciplines, and now the study of multilayer networks has become one of the most
+  important directions in network science. In this paper, we discuss the history of
+  multilayer networks (and related concepts) and review the exploding body of work
+  on such networks. To unify the disparate terminology in the large body of recent
+  work, we discuss a general framework for multilayer networks, construct a dictionary
+  of terminology to relate the numerous existing concepts to each other, and provide
+  a thorough discussion that compares, contrasts, and translates between related notions
+  such as multilayer networks, multiplex networks, interdependent networks, networks
+  of networks, and many others. We also survey and discuss existing data sets that
+  can be represented as multilayer networks. We review attempts to generalize single-layer-network
+  diagnostics to multilayer networks. We also discuss the rapidly expanding research
+  on multilayer-network models and notions like community structure, connected components,
+  tensor decompositions, and various types of dynamical processes on multilayer networks.
+  We conclude with a summary and an outlook.
+archiveprefix: arXiv
+author: Kivelä, Mikko and Arenas, Alexandre and Barthelemy, Marc and Gleeson, James
+  P. and Moreno, Yamir and Porter, Mason A.
+author_list:
+- family: Kivelä
+  given: Mikko
+- family: Arenas
+  given: Alexandre
+- family: Barthelemy
+  given: Marc
+- family: Gleeson
+  given: James P.
+- family: Moreno
+  given: Yamir
+- family: Porter
+  given: Mason A.
+doi: 10.1093/comnet/cnu016
+eprint: 1309.7233v4
+file: 1309.7233v4.pdf
+files:
+- tmp6ol3axsp.pdf
+month: Sep
+note: 'J. Complex Netw. 2(3): 203-271 (2014)'
+primaryclass: physics.soc-ph
+ref: 1309.7233v4
+tags: network graph-theory math multilayer-network
+time-added: 2021-04-22-10:17:08
+title: Multilayer Networks
+type: article
+url: http://arxiv.org/abs/1309.7233v4
+year: '2013'

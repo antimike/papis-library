@@ -1,0 +1,30 @@
+abstract: Boson clouds around black holes exhibit interesting physical phenomena through
+  the Penrose process of superradiance, leading to black hole spin-down. Axionic clouds
+  are of particular interest, since the axion Compton wavelength could be comparable
+  to the Schwarzschild radius, leading to the formation of "gravitational atoms" with
+  a black hole nucleus. These clouds collapse under certain conditions, leading to
+  a "Bosenova". We model the dynamics of such unstable boson clouds by a simple cellular
+  automaton and show that it exhibits self-organized criticality. Our results suggest
+  that the evolution through the black hole Regge plane is due to self-organized criticality.
+archiveprefix: arXiv
+author: Mocanu, Gabriela-Raluca and Grumiller, Daniel
+author_list:
+- family: Mocanu
+  given: Gabriela-Raluca
+- family: Grumiller
+  given: Daniel
+doi: 10.1103/PhysRevD.85.105022
+eprint: 1203.4681v1
+file: 1203.4681v1.pdf
+files:
+- tmp3o56802m.pdf
+month: Mar
+note: Phys.Rev. D85 (2012) 105022
+primaryclass: astro-ph.CO
+ref: 1203.4681v1
+tags: criticality bosonova axion black-hole self-organization boson
+time-added: 2021-04-22-12:27:04
+title: Self-organized criticality in boson clouds around black holes
+type: article
+url: http://arxiv.org/abs/1203.4681v1
+year: '2012'

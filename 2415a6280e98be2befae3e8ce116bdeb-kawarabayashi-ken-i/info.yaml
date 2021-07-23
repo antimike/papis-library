@@ -1,0 +1,474 @@
+author: Kawarabayashi, Ken-ichi and Mohar, Bojan
+author_list:
+- affiliation: []
+  family: Kawarabayashi
+  given: Ken-ichi
+- affiliation: []
+  family: Mohar
+  given: Bojan
+citations:
+- unstructured: 'Alon, N., Seymour, P.D., Thomas, R.: A separator theorem for non-planar
+    graphs, J. Amer. Math. Soc. 3, 801–809 (1990)'
+- unstructured: 'Appel, K., Haken, W.: Every planar map is four colorable, Part I.
+    Discharging, Illinois J. Math. 21, 429–490 (1977)'
+- unstructured: 'Appel, K., Haken, W., Koch, J.: Every planar map is four colorable,
+    Part II. Reducibility, Illinois J. Math. 21, 491–567 (1977)'
+- doi: 10.1002/jgt.3190050305
+  unstructured: 'Archdeacon, D.: A Kuratowski theorem for the projective plane, J.
+    Graph Theory 5, 243–246 (1981)'
+- unstructured: 'Archdeacon, D., Huneke, P.: A Kuratowski theorem for nonorientable
+    surfaces, J. Combin. Theory, Ser. B 46, 173–231 (1989)'
+- unstructured: 'Arnborg, S., Proskurowski, A.: Linear time algorithms for NP-hard
+    problems restricted to partial k-trees, Discrete Appl. Math. 23, 11–24 (1989)'
+- unstructured: 'Baker, B.S.: Approximation algorithms for NP-complete problems on
+    planar graphs, J. Assoc. Comput. Mach. 41, 153–180 (1994)'
+- unstructured: 'Blum, A., Karger, D.: An O(n3/14)-coloring algorithm for 3-colorable
+    graphs, Inform. Proc. Lett. 61, 49–53 (1997)'
+- unstructured: 'Bodlaender, H.L.: A linear-time algorithm for finding tree-decomposition
+    of small treewidth, SIAM J. Comput. 25, 1305–1317 (1996)'
+- unstructured: 'Böhme, T., Kawarabayashi, K., Maharry, J., Mohar, B.: Linear connectivity
+    forces large complete bipartite minors, to appear.'
+- unstructured: 'Böhme, T., Kawarabayashi, K., Maharry, J., Mohar, B.: K3,k-minors
+    in large 7-connected graphs, submitted.'
+- doi: 10.1016/j.ejc.2003.12.017
+  unstructured: 'Böhme, T., Kostochka, A.: Disjoint Kr-minors in large graphs with
+    given average degree, Europ. J. Combinatorics 26, 289–292 (2005)'
+- unstructured: 'Böhme, T., Maharry, J., Mohar, B.: Ka,k minors in graphs of bounded
+    tree-width, J. Combin. Theory, Ser. B 86, 133–147 (2002)'
+- unstructured: 'Böhme, T., Mohar, B., Reed, B.: Forced minors in tough graphs, submitted.'
+- unstructured: 'Bollobás, B., Thomason, A.: Highly linked graphs, Combinatorica 16,
+    313–320 (1996)'
+- doi: 10.1006/eujc.1997.0188
+  unstructured: 'Bollobás, B., Thomason, A.: Proof of a conjecture of Mader, Erdős
+    and Hajnal on topological complete subgraphs, European J. Combin. 19, 883–887
+    (1998)'
+- unstructured: 'Brunet, R., Mohar, B., Richter, R.B.: Separating and nonseparating
+    disjoint homotopic cycles in graph embeddings, J. Comb. Theory, Ser. B 66, 201–231
+    (1996)'
+- unstructured: 'Chartrand, G., Kronk, H.V.: The point-arboricity of planar graphs,
+    J. London Math. Soc. 44, 612–616 (1969)'
+- unstructured: 'Chartrand, G., Geller, D.P., Hedetniemi, T.: Graphs with forbidden
+    subgraphs, J. Combin. Theory 10, 12–41 (1971)'
+- unstructured: 'Chen, Z.-Z.: NC algorithms for partitioning sparse graphs into induced
+    forests with an application, in: Proc. 6th Internat. Symp. on Algorithms and Computation,
+    Lecture Notes in Computer Science Vol. 1004, Springer, Berlin, 1995, pp. 428–437.'
+- unstructured: 'Chen, Z.-Z., He, X.: Parallel complexity of partitioning a planar
+    graph into vertex-induced forests, Discrete Appl. Math. 69, 183–198 (1996)'
+- unstructured: 'Chen, Z.-Z.: Efficient algorithms for acyclic coloring graphs, Theor.
+    Comp. Sci. 230, 79–95 (2000)'
+- doi: 10.1002/jgt.20067
+  unstructured: 'Chen, G., Gould, R., Kawarabayashi, K., Pfender, F., Wei, B.: Graph
+    minors and linkage problem I, J. Graph Theory 49, 75–91 (2005)'
+- unstructured: 'Colin de Verdière, Y.: Sur un nouvel invariant des graphes et un
+    critère de planarité, J. Comb. Theory, Ser. B 50, 11–21 (1990)'
+- unstructured: 'Colin de Verdière, Y.: Multiplicities of eigenvalues and tree-width
+    of graphs, J. Comb. Theory, Ser. B 74, 121–146 (1998)'
+- doi: 10.1090/conm/147/01168
+  unstructured: 'Colin de Verdière, Y.: On a new graph invariant and a criterion of
+    planarity, in Graph Structure Theory, N. Robertson and P. Seymour, editors, Contemp.
+    Math. 147, pp. 137–147, Amer. Math. Soc., Providence, RI, 1993.'
+- doi: 10.1002/jgt.3190070410
+  unstructured: 'Conway, J., Gordon, C.: Knots and links in spatial graphs, J. Graph
+    Theory 7, 445–453 (1983)'
+- doi: 10.1145/1101821.1101823
+  unstructured: 'Demaine, E.D., Fomin, F., Hajiaghayi, M., Thilikos, D.: Subexponential
+    parameterized algorithms on bounded-genus graphs and H-minor-free graphs, J. ACM
+    52, 1–29 (2005)'
+- doi: 10.1007/978-3-540-31843-9_57
+  unstructured: 'Demaine, E.D., Hajiaghayi, M.: Fast algorithms for hard graph problems:
+    Bidimensionality, minors and local tree-width, Proc. 12th Internat. Symp. on Graph
+    Drawing, Lecture Notes in Computer Science 3383, Springer, 2004, pp. 517–533.'
+- unstructured: 'Demaine, E.D., Hajiaghayi, M., Kawarabayashi, K.: Algorithmic graph
+    minor theory: Decomposition, approximation and coloring, Proc. 46th Ann. IEEE
+    Symp. Found. Comp. Sci., Pittsburgh, PA, 2005, pp. 637–646.'
+- unstructured: 'Demaine, E.D., Hajiaghayi, M., Mohar, B.: Approximation algorithms
+    via contraction decomposition, preprint, 2006.'
+- unstructured: 'DeVos, M., Ding, G., Oporowski, B., Sanders, D., Reed, B., Seymour,
+    P., Vertigan, D.: Excluding any graph as a minor allows a low tree-width 2-coloring.
+    J. Combin. Theory Ser. B 91, 25–41 (2004)'
+- unstructured: 'DeVos, M., Goddyn, L., Mohar, B., Vertigan, D., Zhu, X.: Coloring-flow
+    duality of embedded graphs, Trans. Amer. Math. Soc. 357, 3993–4016 (2005)'
+- unstructured: 'DeVos, M., Hedge, R., Kawarabayashi, K., Norine, S., Thomas, R.,
+    Wollan, P.: Large 6-connected graphs without K6-minors, preprint.'
+- unstructured: 'DeVos, M., Kawarabayashi, K.-I., Mohar, B.: 5-choosability of locally
+    planar graphs, preprint, 2006.'
+- unstructured: 'Diestel, R.: Graph Decompositions – A Study in Infinite Graph Theory,
+    Oxford University Press, Oxford, 1990.'
+- doi: 10.1007/978-3-642-14279-6_7
+  unstructured: 'Diestel, R.: Graph Theory, 3rd Edition, Springer, 2005.'
+- unstructured: 'Diestel, R.: The depth-first search tree structure of T-free graphs,
+    J. Combin. Theory Ser. B 61, 260–262 (1994)'
+- unstructured: 'Diestel, R., Rempel, C.: Dense minors in graphs of large girth, Combinatorica
+    25, 111–116 (2005)'
+- unstructured: 'Diestel, R., Yu. Gorbunov, K., Jensen, T.R., Thomassen, C.: Highly
+    connected sets and the excluded grid theorem, J. Combin. Theory Ser. B 75, 61–73
+    (1999)'
+- unstructured: 'Diestel, R., Thomas, R.: Excluding a countable clique, J. Combin.
+    Theory Ser. B 76, 41–67 (1999)'
+- unstructured: Ding, G.:private communication.
+- unstructured: 'Ding, G., Oporowski, B., Sanders, D.P., Vertigan, D.: Surface, tree-width,
+    clique-minors, and partitions, J. Combin. Theory Ser. B 79, 221–246 (2000)'
+- unstructured: 'Dirac, G.A.: A property of 4-chromatic graphs and some remarks on
+    critical graphs, J. London Math. Soc. 27, 85–92 (1952)'
+- unstructured: 'Dirac, G.A.: Trennende Knotenpunktmengen und Reduzibilität abstrakter
+    Graphen mit Anwendung auf das Vierfarbenproblem, J. reine angew. Math. 204, 116–131
+    (1960)'
+- doi: 10.1515/crll.1964.214-215.43
+  unstructured: 'Dirac, G.A.: On the structure of 5- and 6-chromatic abstract graphs,
+    J. reine angew. Math. 214/215, 43–52 (1964)'
+- doi: 10.1007/s00373-002-0491-y
+  unstructured: 'Ellingham, M.N., Zha, X.: Separating cycles in doubly toroidal embeddings,
+    Graphs Combin. 19, 161–175 (2003)'
+- unstructured: 'Eppstein, D.: Diameter and treewidth in minor-closed graph families,
+    Algorithmica 27, 275–291 (2000)'
+- unstructured: 'Erdős, P., Pósa, L.: On independet circuits contained in a graph,
+    Canad. J. Math. 17, 347–352 (1965)'
+- unstructured: 'Erdős, P., Szekeres, G.: A combinatorial problem in geometry, Compositio
+    Math. 2 , 463–470 (1935)'
+- unstructured: 'Erdős, P., Rubin, A., Taylor, H.: Choosability in graphs, in Proc.
+    West-Coast Conference on Combinatorics, Graph Theory and Computing, Congr. Numer.
+    XXVI, 125–157 (1979)'
+- doi: 10.1006/jcss.1998.1587
+  unstructured: 'Feige, U., Kilian, J.: Zero-knowledge and the chromatic number, J.
+    Comput. System Sci. 57, 187–199 (1998)'
+- doi: 10.1002/jgt.10114
+  unstructured: 'Foisy, J.: A newly recognized intrinsically knotted graph, J. Graph
+    Theory 43, 199–209 (2003)'
+- unstructured: 'Fortune, S., Hopcroft, J.E., Wylie, J.: The directed subgraph homeomorphism
+    problem, Theor. Comput. Sci. 10, 111–121 (1980)'
+- unstructured: 'Geelen, J.F., Gerards, A.M.H., Whittle, G.: Branch-width and well-quasi-ordering
+    in matroids and graphs, J. Combin. Theory Ser. B 84, 270–290 (2002)'
+- unstructured: 'Geelen, J.F., Whittle, G.: Branch-width and Rota''s conjecture, J.
+    Combin. Theory Ser. B 86, 315–330 (2002)'
+- unstructured: 'Geelen, J.F., Gerards, A.M.H., Whittle, G.: Disjoint cocircuits in
+    matroids with large rank, J. Combin. Theory Ser. B 87, 270–279 (2003)'
+- unstructured: 'Geelen, J.F., Whittle, G.: Cliques in dense GF(q)-representable matroids,
+    J. Combin. Theory Ser. B 87, 264–269 (2003)'
+- unstructured: 'Geelen, J.F., Gerards, A.M.H., Robertson, N., Whittle, G.: On the
+    excluded minors for the matroids of branch-width k, J. Combin. Theory Ser. B 88,
+    261–265 (2003)'
+- unstructured: 'Geelen, J.F., Gerards, A.M.H., Robertson, N., Whittle, G.: Obstructions
+    to branch-decomposition of matroids, to appear in J. Combin. Theory Ser. B.'
+- unstructured: 'Geelen, J.F., Gerards, A.M.H., Whittle, G.: Excluding a planar graph
+    from GF(q)-representable matroids, preprint.'
+- unstructured: 'Geelen, J.F., Gerards, A.M.H., Whittle, G.: On Rota''s Conjecture
+    and excluded minors containing large projective geometries, to appear in J. Combin.
+    Theory Ser. B.'
+- unstructured: 'Geelen, J.F., Gerards, A.M.H., Whittle, G.: Tangles, tree-decompositions,
+    and grids in matroids, preprint.'
+- unstructured: 'Geelen, J.F., Gerards, A.M.H., Whittle, G.: Towards a structure theory
+    for matrices and matroids, to appear in Proceedings of the International Congress
+    of Mathematicians, Madrid, Spain, 2006. European Mathematical Society, 2006.'
+- doi: 10.1093/acprof:oso/9780198571278.003.0005
+  unstructured: 'Geelen, J.F., Gerards, A.M.H., Whittle, G.: Towards a matroid-minor
+    structure theory, to appear in Combinatorics, Complexity and Chance. A tribute
+    to Dominic Welsh, G. Grimmett and C. McDiarmid, Eds., Oxford University Press,
+    2006.'
+- unstructured: 'Glover, H., Huneke, J.P., Wang, C.S.: 103 graphs that are irreducible
+    for the projective plane, J. Combin. Theory Ser. B 27, 332–370 (1979)'
+- unstructured: 'Goddard, W.: Acyclic coloring of planar graphs, Discrete Math. 91,
+    91–94 (1991)'
+- unstructured: 'Gutner, S.: The complexity of planar graph choosability, Discrete
+    Math. 159, 119–130 (1996)'
+- unstructured: 'Hadwiger, H.: Über eine Klassifikation der Streckenkomplexe, Vierteljahrsschr.
+    naturforsch. Ges. ZÜrich 88, 133–142 (1943)'
+- doi: 10.1007/BF01917434
+  unstructured: 'Halin, R.: S-function for graphs, J. Geometry 8, 171–186 (1976)'
+- unstructured: 'Håstad, J.: Clique is hard to approximate within n1-ε, Acta Math.
+    182, 105–142 (1999)'
+- doi: 10.1006/jagm.1999.1055
+  unstructured: 'Henzinger, M.R., Rao, S., Gabow, H.N.: Computing vertex connectivity:
+    New bounds from old techniques, J. Algorithms 34, 222–250 (2000)'
+- doi: 10.1002/9781118032497
+  unstructured: 'Jensen, T.R., Toft, B.: Graph Coloring Problems, Wiley-Interscience,
+    1995.'
+- unstructured: 'Johnson, T., Thomas, R.: Generating internally four-connected graphs,
+    J. Combin. Theory Ser. B 85, 21–58 (2002)'
+- doi: 10.1006/jctb.2000.2031
+  unstructured: 'Johnson, T., Robertson, N., Seymour, P., Thomas, R.: Diretcted tree-width,
+    J. Combin. Theory Ser. B 82 , 138–154 (2001)'
+- doi: 10.1002/jgt.3190180502
+  unstructured: 'Jørgensen, L.K.: Contractions to K8, J. Graph Theory 18, 431–448
+    (1994)'
+- unstructured: 'Jung, H.A.: Eine Verallgemeinerung des n-fachen Zusammenhangs für
+    Graphen, Math. Ann. 187, 95–103 (1970)'
+- unstructured: 'Juvan, M., Marinček, J., Mohar, B.: Elimination of local bridges,
+    Math. Slovaca 47, 85–92 (1997)'
+- unstructured: 'Karp, R.M.: On the computational complexity of combinatorial problems,
+    Networks 5, 45–48 (1975)'
+- doi: 10.1002/jgt.10150
+  unstructured: 'Kawarabayashi, K.: k-linked graphs with large girth, J. Graph Theory
+    45, 48–50 (2004)'
+- unstructured: 'Kawarabayashi, K.: Excluding a graph with K6--minor, submitted.'
+- unstructured: 'Kawarabayashi, K.: On the connectivity of minimal counterexamples
+    to Hadwiger''s conjecture, to appear in J. Combin. Theory Ser. B.'
+- unstructured: 'Kawarabayashi, K.: Unavoidable minors in large 5-connected graphs,
+    in preparation.'
+- unstructured: 'Kawarabayashi, K.: Minors in 7-chromatic graphs, submitted.'
+- unstructured: 'Kawarabayashi, K., Kostochka, A., Yu, G.: On sufficient degree conditions
+    for a graph to be k-linked, Combin. Probab. Comput. 15, 685–694 (2006)'
+- doi: 10.1016/j.ejc.2004.01.011
+  unstructured: 'Kawarabayashi, K., Luo, R., Niu, J., Zhang, C.Q.: On structure of
+    k-connected graphs without Kk-minors, Europ. J. Combinatorics 26, 293–308 (2005)'
+- unstructured: 'Kawarabayashi, K., Mohar, B.: K4,k-minors in large 9-connected graphs,
+    in preparation.'
+- unstructured: 'Kawarabayashi, K., Mohar, B.: Approximating chromatic number and
+    list-chromatic number of minor-closed and odd minor-closed classes of graphs,
+    38th ACM Symposium on Theory of Computing (STOC''06).'
+- unstructured: 'Kawarabayashi, K., Mohar, B.: Algorithmic aspects of Hadwiger''s
+    Conjecture, submitted, 2005.'
+- unstructured: 'Kawarabayashi, K., Mohar, B.: A relaxed Hadwiger''s Conjecture for
+    list colorings, to appear in J. Combin. Theory Ser. B.'
+- unstructured: 'Kawarabayashi, K., Mohar, B.: Improved connectivity bound on Kk-minors
+    in large graphs, preprint.'
+- unstructured: 'Kawarabayashi, K., Mohar, B.: The Erdős-Pósa property for K5-minors
+    and half-integral packing, in preparation.'
+- unstructured: 'Kawarabayashi, K., Toft, B.: Any 7-chromatic graph has K7 or K4,4
+    as a minor, Combinatorica 25, 327–353 (2005)'
+- unstructured: 'Klein, P.N.: A linear-time approximation scheme for TSP for planar
+    weighted graphs, in Proceedings of the 46th IEEE Symposium on Foundations of Computer
+    Science, pp. 146–155, 2005.'
+- doi: 10.1017/S096354830000184X
+  unstructured: 'Komlós, J., Szemerédi, E.: Topological cliques in graphs. II, Combin.
+    Probab. Comput. 5, 79–90 (1996)'
+- unstructured: 'Kostochka, A.: Lower bound of the Hadwiger number of graphs by their
+    average degree, Combinatorica 4, 307–316 (1984)'
+- unstructured: 'Kostochka, A.: The minimum Hadwiger number for graphs with a given
+    mean degree of vertices (in Russian), Metody Diskret. Analiz. 38 , 37–58 (1982)'
+- unstructured: 'Kostochka, A., Prince, N.: On Ks,t-minors in graphs with given average
+    degree, preprint.'
+- doi: 10.1016/j.ejc.2004.02.002
+  unstructured: 'Kühn, D., Osthus, D.: Forcing unbalanced complete bipartite minors,
+    Europ. J. Combinatorics. 26, 75–81 (2005)'
+- doi: 10.1002/rsa.10076
+  unstructured: 'Kühn, D., Osthus, D.: Minors in graphs of large girth, Random Structures
+    Algorithms 22, 213–225 (2003)'
+- unstructured: 'Kühn, D., Osthus, D.: Topological minors in graphs of large girth,
+    J. Combin. Theory Ser. B 86, 364–380 (2002)'
+- unstructured: 'Kühn, D., Osthus, D.: Complete minors in Ks,s-free graphs, Combinatorica
+    25, 49–64 (2005)'
+- unstructured: 'Larman, D.G., Mani, P.: On the existence of certain configurations
+    within graphs and the 1-skeletons of polytopes, Proc. London Math. Soc. 20, 144–160
+    (1974)'
+- unstructured: 'Lipton, R.J., Tarjan, R.E.: Applications of a planar separator theorem,
+    SIAM J. Comput. 9, 615–627 (1980)'
+- doi: 10.5802/aif.1703
+  unstructured: 'Lovász, L., Schrijver, A.: On the null space of a Colin de Verdière
+    matrix, Ann. Inst. Fourier (Grenoble) 49, 1017–1026 (1999)'
+- unstructured: 'Lovász, L., Schrijver, A.: A Borsuk theorem for antipodal links and
+    a spectral characterization of linklessly embeddable graphs, Proc. Amer. Math.
+    Soc. 126, 1275–1285 (1998)'
+- unstructured: 'Mader, W.: Homomorphiesätze für Graphen, Math. Ann. 178, 154–168
+    (1968)'
+- doi: 10.1007/BF02993903
+  unstructured: 'Mader, W.: Existenz n-fach zusammenhängender Teilgraphen in Graphen
+    genügend grosser Kantendichte, Abh. Math. Sem. Univ. Hamburg 37, 86–97 (1972)'
+- unstructured: 'Mader, W.: Topological subgraphs in graphs of large girth, Combinatorica
+    18, 405–412 (1998)'
+- unstructured: 'Mader, W.: private communication.'
+- unstructured: 'Mahadev, N.V.R., Roberts, F.S., Santhanakrinshnan, P.: 3-choosable
+    complete bipratite graphs, preprint.'
+- unstructured: 'Maharry, J.: A characterization of graphs with no cube minor, J.
+    Combin. Theory Ser. B 80, 179–201 (2000)'
+- doi: 10.1002/(SICI)1097-0118(199906)31:2<95::AID-JGT2>3.0.CO;2-N
+  unstructured: 'Maharry, J.: An excluded minor theorem for the octahedron, J. Graph
+    Theory 31, 95–100 (1999)'
+- unstructured: 'Maharry, J.: An excluded minor theorem for the octahedron plus an
+    edge, preprint.'
+- unstructured: 'Maharry, J.: Three excluded minor structure theorems, preprint, 2006.'
+- unstructured: 'Mohar, B.: Combinatorial local planarity and the width of graph embeddings,
+    Canad. J. Math. 44, 1272–1288 (1992)'
+- unstructured: 'Mohar, B.: Uniqueness and minimality of large face-width embeddings
+    of graphs, Combinatorica 15, 541–556 (1995)'
+- unstructured: 'Mohar, B.: A linear time algorithm for embedding graphs in an arbitrary
+    surface, Siam. J. Discrete math. 12, 6–26 (1999)'
+- doi: 10.1017/CBO9780511721328.008
+  unstructured: 'Mohar, B.: Graph minors and graphs on surfaces. in ``Surveys in Combinatorics,
+    2001 (Sussex)'''', London Math. Soc. Lecture Note Ser. 288, Cambridge Univ. Press,
+    Cambridge, 2001, pp. 145–163.'
+- unstructured: 'Mohar, B.: Problem of the month, Fall 2003, http://www.fmf.uni-lj.si/~mohar/.'
+- unstructured: 'Mohar, B., Seymour, P.D.: Coloring locally bipartite graphs on surfaces,
+    J. Combin. Theory, Ser. B 84, 301–310 (2002)'
+- unstructured: 'Mohar, B., Thomassen, C.: Graphs on Surfaces, Johns Hopkins University
+    Press, Baltimore, MD, 2001.'
+- unstructured: 'Myers, J.: The extremal function for unbalanced bipartite minors,
+    Discrete Math. 271, 209–221 (2003)'
+- unstructured: 'Myers, J., Thomason, A.: The extremal function for noncomplete graph
+    minors, to appear in Combinatorica.'
+- unstructured: 'Oporowski, B., Oxley, J., Thomas, R.: Typical subgraphs of 3- and
+    4-connected graphs, J. Combin. Theory Ser. B 57, 239–257 (1993)'
+- doi: 10.1017/CBO9780511662119.006
+  unstructured: 'Reed, B.: Tree width and tangles: a new connectivity measure and
+    some applications, in ``Surveys in Combinatorics, 1997 (London)'''', London Math.
+    Soc. Lecture Note Ser. 241, Cambridge Univ. Press, Cambridge, 1997, pp. 87–162.'
+- unstructured: 'Reed, B.: Mangoes and blueberries, Combinatorica 19, 267–296 (1999)'
+- unstructured: 'Reed, B., Seymour, P.D.: Fractional colouring and Hadwiger''s conjecture,
+    J. Combin. Theory Ser. B 74, 147–152 (1998)'
+- unstructured: 'Robertson, N.: private communication.'
+- unstructured: 'Robertson, N., Sanders, D.P., Seymour, P.D., Thomas, R.: The four-color
+    theorem, J. Combin. Theory Ser. B 70, 2–44 (1997)'
+- unstructured: '3 Robertson, N., Seymour, P.D.: Graph minors. I. Excluding a forest,
+    J. Combin. Theory Ser. B 36, 39–61 (1983)'
+- doi: 10.1016/0196-6774(86)90023-4
+  unstructured: 'Robertson, N., Seymour, P.D.: Graph minors. II. Algorithmic aspects
+    of tree-width, J. Algorithm 7, 309–322 (1986)'
+- unstructured: 'Robertson, N., Seymour, P.D.: Graph minors. III. Planar tree-width,
+    J. Combin. Theory Ser. B 36, 49–63 (1984)'
+- unstructured: 'Robertson, N., Seymour, P.D.: Graph minors. IV. Tree-width and well-quasi-ordering,
+    J. Combin. Theory Ser. B 48, 227–254 (1990)'
+- unstructured: 'Robertson, N., Seymour, P.D.: Graph minors. V. Excluding a planar
+    graph, J. Combin. Theory Ser. B 41, 92–114 (1986)'
+- unstructured: 'Robertson, N., Seymour, P.D.: Graph minors. VI. Disjoint paths across
+    a disc, J. Combin. Theory Ser. B 41, 115–138 (1986)'
+- unstructured: 'Robertson, N., Seymour, P.D.: Graph minors. VII. Disjoint paths on
+    a surface, J. Combin. Theory Ser. B 45, 212–254 (1988)'
+- unstructured: 'Robertson, N., Seymour, P.D.: Graph minors. VIII. A kuratowski theorem
+    for general surfaces, J. Combin. Theory Ser. B 45, 212–254 (1988)'
+- unstructured: 'Robertson, N., Seymour, P.D.: Graph minors. IX. Disjoint crossed
+    paths, J. Combin. Theory Ser. B 49, 40–77 (1990)'
+- unstructured: 'Robertson, N., Seymour, P.D.: Graph minors. X. Obstructions to tree-decomposition,
+    J. Combin. Theory Ser. B 52, 153–190 (1991)'
+- unstructured: 'Robertson, N., Seymour, P.D.: Graph minors. XI. Circuits on a surface,
+    J. Combin. Theory Ser. B 60, 72–106 (1994)'
+- unstructured: 'Robertson, N., Seymour, P.D.: Graph minors. XII. Distance on a surface,
+    J. Combin. Theory Ser. B 64, 240–272 (1995)'
+- unstructured: 'Robertson, N., Seymour, P.D.: Graph minors. XIII. The disjoint paths
+    problem, J. Combin. Theory Ser. B 63, 65–110 (1995)'
+- unstructured: 'Robertson, N., Seymour, P.D.: Graph minors. XIV. Extending an embedding,
+    J. Combin. Theory Ser. B 65, 23–50 (1995)'
+- unstructured: 'Robertson, N., Seymour, P.D.: Graph minors. XV. Giant Steps, J. Combin.
+    Theory Ser. B 68, 112–148 (1996)'
+- unstructured: 'Robertson, N., Seymour, P.D.: Graph minors. XVI. Excluding a non-planar
+    graph, J. Combin. Theory Ser. B 89, 43–76 (2003)'
+- unstructured: 'Robertson, N., Seymour, P.D.: Graph minors. XVII. Taming a vortex,
+    J. Combin. Theory Ser. B 77, 162–210 (1999)'
+- unstructured: 'Robertson, N., Seymour, P.D.: Graph minors. XVIII. Tree-decompositions
+    and well-quasi-ordering, J. Combin. Theory Ser. B 89, 77–108 (2003)'
+- unstructured: '3 Robertson, N., Seymour, P.D.: Graph minors. XIX, Well-quasi-ordering
+    on a surface, J. Combin. Theory Ser. B 90, 325–385 (2004)'
+- unstructured: 'Robertson, N., Seymour, P.D.: Graph minors. XX. Wagner''s conjecture,
+    J. Combin. Theory Ser. B 92, 325–357 (2004)'
+- unstructured: 'Robertson, N., Seymour, P.D.: Graph minors. XXI. Graphs with unique
+    linkages, preprint.'
+- unstructured: 'Robertson, N., Seymour, P.D.: Graph minors. XXII. Irrelevant vertices
+    in linkage problems, preprint.'
+- unstructured: 'Robertson, N., Seymour, P.D.: Graph minors. XXIII. Nash-Williams''
+    immersion conjecture, preprint.'
+- unstructured: 'Robertson, N., Seymour, P.D.: An outline of a disjoint paths algorithm,
+    in: ``Paths, Flows, and VLSI-Layout,'''' B. Korte, L. Lovász, H. J. Prömel, and
+    A. Schrijver (Eds.), Springer-Verlag, Berlin, 1990, pp. 267–292.'
+- unstructured: 'Robertson, N., Seymour, P.D.: Excluding a graph with one crossing,
+    Contemp. Math. 147, 669–675 (1993)'
+- unstructured: 'Robertson, N., Seymour, P.: private communication, unpublished.'
+- unstructured: 'Robertson, N., Seymour, P., Thomas, R.: Excluding infinite minors,
+    Discrete Math. 95, 303–319 (1991)'
+- unstructured: 'Robertson, N., Seymour, P., Thomas, R.: Excluding subdivision of
+    infinite cliques, Trans. Amer. Math. Soc. 332, 211–233 (1992)'
+- unstructured: 'Robertson, N., Seymour, P.D., Thomas, R.: Hadwiger''s conjecture
+    for K6-free graphs, Combinatorica 13, 279–361 (1993)'
+- unstructured: 'Robertson, N., Seymour, P.D., Thomas, R.: Quickly excluding a planar
+    graph, J. Combin. Theory Ser. B 62, 323–348 (1994)'
+- doi: 10.1090/memo/0566
+  unstructured: 'Robertson, N., Seymour, P., Thomas, R.: Excluding infinite clique
+    minors, Memoirs Amer. Math. Soc. 118, AMS, 1995.'
+- unstructured: 'Robertson, N., Seymour, P.D., Thomas, R.: Kuratowski chains, J. Combin.
+    Theory Ser. B 64, 127–154 (1995)'
+- doi: 10.1006/jctb.1995.1031
+  unstructured: 'Robertson, N., Seymour, P.D., Thomas, R.: Petersen family minors,
+    J. Combin. Theory Ser. B64, 155–184 (1995)'
+- unstructured: 'Robertson, N., Seymour, P.D., Thomas, R.: Sachs'' linkless embedding
+    conjecture, J. Combin. Theory Ser. B 64, 185–227 (1995)'
+- unstructured: 'Robertson, N., Vitray, R.P.: Representativity of surface embeddings,
+    in: ``Paths, Flows, and VLSI-Layout'''' (B. Korte, L. Lovász, H. J. Prömel, and
+    A. Schrijver Eds.), Springer-Verlag, Berlin, 1990, pp. 293–328.'
+- doi: 10.1007/3-540-60692-0_39
+  unstructured: 'Roychoudhury, A., Sur-Kolay, S.: Efficient algorithm for vertex arboricity
+    of planar graphs, in Proc. 15th Internat. Conf. on Foundations of Software Technology
+    and Theoretical Computer Science, Lecture Notes in Computer Science 1026, Springer,
+    1995, pp. 37–51.'
+- unstructured: 'Seese, D.G., Wessel, W.: Grids and their minors, J. Combin. Theory
+    Ser. B 47, 349–360 (1989)'
+- doi: 10.1016/0012-365X(80)90158-2
+  unstructured: 'Seymour, P.D.: Disjoint paths in graphs, Discrete Math. 29, 293–309
+    (1980)'
+- unstructured: 'Seymour, P.D.: A bound on the excluded minors for a surface, preprint.'
+- doi: 10.1002/(SICI)1097-0118(199612)23:4<337::AID-JGT2>3.0.CO;2-S
+  unstructured: 'Seymour, P.D., Thomas, R.: Uniqueness of highly representative surface
+    embeddings, J. Graph Theory 23, 337–349 (1996)'
+- unstructured: 'Shiloach, Y.: A polynomial solution to the undirected two paths problems,
+    J. Assoc. Comput. Mach. 27, 445–456 (1980)'
+- unstructured: 'Song, Z., Thomas, R.: The extremal function for K9-minors, J. Combin.
+    Theory Ser. B 96, 240–252 (2006)'
+- unstructured: 'Sulanke, T.: Irreducible triangulations of low genus surfaces, preprint,
+    2006.'
+- unstructured: 'Thomas, R.: A counterexample to ``Wagner''s conjecture'''' for infinite
+    graphs, Math. Proc. Cambridge Philos. Soc. 103, 55–57 (1988)'
+- unstructured: 'Thomas, R.: Well-quasi-ordering infinite graphs with forbidden finite
+    planar minor, Trans. Amer. Math. Soc. 312, 279–313 (1989)'
+- doi: 10.1017/CBO9780511721335.008
+  unstructured: 'Thomas, R.: Recent excluded minor theorems for graphs, in ``Surveys
+    in Combinatorics, 1999 (Canterbury)'''', Cambridge Univ. Press, Cambridge, 1999,
+    pp. 201–222.'
+- doi: 10.1016/j.ejc.2004.02.013
+  unstructured: 'Thomas, R., Wollan, P.: An improved linear edge bound for graph linkages,
+    Europ. J. Combinatorics 26, 309–324 (2005)'
+- unstructured: 'Thomas, R., Wollan, P.: The extremal function for 3-linked graphs,
+    preprint.'
+- unstructured: 'Thomason, A.: An extremal function for contractions of graphs, Math.
+    Proc. Cambridge Philos. Soc. 95, 261–265 (1984)'
+- unstructured: 'Thomason, A.: The extremal function for complete minors, J. Combin.
+    Theory Ser. B 81, 318–338 (2001)'
+- unstructured: 'Thomason, A.: Two minor problems, Combin. Probab. Comput. 13, 413–414
+    (2004)'
+- doi: 10.1016/S0195-6698(80)80039-4
+  unstructured: 'Thomassen, C.: 2-linked graphs, Europ. J. Combinatorics 1, 371–380
+    (1980)'
+- unstructured: 'Thomassen, C.: Girth in graphs, J. Combin. Theory, Ser. B 35, 129–141
+    (1983)'
+- doi: 10.1002/jgt.3190120111
+  unstructured: 'Thomassen, C.: On the presence of disjoint subgraphs of a specified
+    type, J. Graph Theory 12, 101–111 (1988)'
+- unstructured: 'Thomassen, C.: Embedding and minors, Handbook of Combinatorics, Vol.
+    1, Elsevier, Amsterdam, 1995, pp. 301–349.'
+- unstructured: 'Thomassen, C.: A simpler proof of the excluded minor theorem for
+    higher surfaces, J. Combin. Theory Ser. B 70, 306–311 (1997)'
+- unstructured: 'Thomassen, C.: Color-critical graphs on a fixed surface, J. Combin.
+    Theory Ser. B 70, 67–100 (1997)'
+- unstructured: 'Thomassen, C.: Every planar graph is 5-choosable, J. Combin. Theory
+    Ser. B 62, 180–181 (1994)'
+- unstructured: 'Toft, B.: A survey of Hadwiger''s conjecture, Congr. Numer. 115,
+    249–283 (1996)'
+- doi: 10.7151/dmgt.1049
+  unstructured: 'Tuza, Z.: Graph colorings with local constraints–-a survey, Discuss.
+    Math. Graph Theory 17, 161–228 (1997)'
+- unstructured: 'Vizing, Z.: Coloring the vertices of a graph in prescribed colors.
+    Metody Diskret. Anal. v Teorii Kodov i Schem 29, 3–10 (1976) (in Russian).'
+- unstructured: 'Voigt, M.: List colourings of planar graphs, Discrete Math. 120,
+    215–219 (1993)'
+- unstructured: 'Wagner, K.: Über eine Eigenschaft der ebenen Komplexe, Math. Ann.
+    114, 570–590 (1937)'
+- unstructured: 'Wagner, K.: Beweis einer Abschwächung der Hadwiger-Vermutung, Math.
+    Ann. 153, 139–141 (1964)'
+- unstructured: 'Woodall, D.R.: Improper colourings of graphs. in: Graph Colourings
+    (ed. R. Nelson and R. J. Wilson), Pitman Research Notes 218, Longman, 1990, pp.
+    45–63.'
+- unstructured: 'Zha, X., Zhao, Y.: On nonnull separating circuits in embedded graphs,
+    in: Graph structure theory (Seattle, WA, 1991), Contemp. Math. 147, 349–362 (1993)'
+doc_url: http://link.springer.com/article/10.1007/s00373-006-0684-x/fulltext.html
+doi: 10.1007/s00373-006-0684-x
+files:
+- kawarabayashi-mohar2007-article-somerecentprogressandapplicati.pdf
+issue: '1'
+journal: Graphs and Combinatorics
+language: en
+month: 2
+pages: 1--46
+publisher: Springer Science and Business Media LLC
+ref: SomeRecentProKawara2007
+tags: graph-theory math graph-minor graph-structure-theorem
+time-added: 2021-04-22-16:22:02
+title: Some Recent Progress and Applications in Graph Minor Theory
+type: article
+url: http://dx.doi.org/10.1007/s00373-006-0684-x
+volume: '23'
+year: 2007

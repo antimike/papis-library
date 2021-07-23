@@ -1,0 +1,44 @@
+abstract: What do societies, the Internet, and the human brain have in common? They
+  are all examples of complex relational systems, whose emerging behaviours are largely
+  determined by the non-trivial networks of interactions among their constituents,
+  namely individuals, computers, or neurons, rather than the properties of the units
+  themselves. In the last two decades, network scientists have proposed models of
+  increasing complexity to better understand real-world systems. Only recently we
+  have realised that multiplexity, i.e. the coexistence of several types of interactions
+  among the constituents of a complex system, is responsible for substantial qualitative
+  and quantitative differences in the type and variety of behaviours that a complex
+  system can exhibit. As a consequence, multilayer and multiplex networks have become
+  a hot topic in complexity science. Here we provide an overview of some of the measures
+  proposed so far to characterise the structure of multiplex networks, and a selection
+  of models aiming at reproducing those structural properties and quantifying their
+  statistical significance. Focusing on a subset of relevant topics, this brief review
+  is a quite comprehensive introduction to the most basic tools for the analysis of
+  multiplex networks observed in the real-world. The wide applicability of multiplex
+  networks as a framework to model complex systems in different fields, from biology
+  to social sciences, and the colloquial tone of the paper will make it an interesting
+  read for researchers working on both theoretical and experimental analysis of networked
+  systems.
+archiveprefix: arXiv
+author: Battiston, Federico and Nicosia, Vincenzo and Latora, Vito
+author_list:
+- family: Battiston
+  given: Federico
+- family: Nicosia
+  given: Vincenzo
+- family: Latora
+  given: Vito
+doi: 10.1140/epjst/e2016-60274-8
+eprint: 1606.09221v2
+file: 1606.09221v2.pdf
+files:
+- tmp7no43cjy.pdf
+month: Jun
+note: EPJ Special Topics 226(3), 401-416 (2017)
+primaryclass: physics.soc-ph
+ref: 1606.09221v2
+tags: network graph-theory math multilayer-network survey
+time-added: 2021-04-22-10:21:13
+title: 'The new challenges of multiplex networks: measures and models'
+type: article
+url: http://arxiv.org/abs/1606.09221v2
+year: '2016'

@@ -1,0 +1,35 @@
+abstract: Noncommutative or `quantum' differential geometry has emerged in recent
+  years as a process for quantizing not only a classical space into a noncommutative
+  algebra (as familiar in quantum mechanics) but also differential forms, bundles
+  and Riemannian structures at this level. The data for the algebra quantisation is
+  a classical Poisson bracket, the data for the quantum differential forms is a Poisson-compatible
+  connection it was recently shown that after this, classical data such as classical
+  bundles, metrics etc. all become quantised in a canonical `functorial' way at least
+  to 1st order in deformation theory. There are, however, fresh compatibility conditions
+  between the classical Riemannian and the Poisson structures as well as new physics
+  such as nonassociativity at 2nd order. We give an introduction to this theory and
+  some details for the case of CP${}^n$ where the commutation relations have the canonical
+  form $[w^i,\bar w^j]=\mathrm{i}\lambda\delta_{ij}$ similar to the proposal of Penrose
+  for quantum twistor space. Our work provides a canonical but ultimately nonassociative
+  differential calculus on this algebra and quantises the metric and Levi-Civita connection
+  at lowest order in $\lambda$.
+archiveprefix: arXiv
+author: Beggs, Edwin J. and Majid, Shahn
+author_list:
+- family: Beggs
+  given: Edwin J.
+- family: Majid
+  given: Shahn
+eprint: 1410.8191v1
+file: 1410.8191v1.pdf
+files:
+- tmp3e3pa98p.pdf
+month: Oct
+primaryclass: math.QA
+ref: 1410.8191v1
+tags: differential-geometry quantum phase-space nonassociative
+time-added: 2021-04-22-12:35:08
+title: Quantum Riemannian geometry of phase space and nonassociativity
+type: article
+url: http://arxiv.org/abs/1410.8191v1
+year: '2014'

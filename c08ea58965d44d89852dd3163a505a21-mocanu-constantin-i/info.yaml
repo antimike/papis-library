@@ -1,0 +1,228 @@
+author: Mocanu, Constantin I.
+author_list:
+- affiliation: []
+  family: Mocanu
+  given: Constantin I.
+citations:
+- author: L. H. Thomas
+  doi: 10.1038/117514a0
+  first-page: '514'
+  journal-title: Nature
+  unstructured: L. H. Thomas, ?The motion of the spinning electron,?Nature 117, 514
+    (1926).
+  volume: '117'
+  year: '1926'
+- author: L. H. Thomas
+  doi: 10.1080/14786440108564170
+  first-page: '1'
+  journal-title: Phil. Mag.
+  unstructured: L. H. Thomas, ?The kinematics of an electron with an axis,?Phil. Mag.
+    3, 1?22 (1927).
+  volume: '3'
+  year: '1927'
+- doi: 10.1063/1.33853
+  unstructured: L. H. Thomas, ?Recollections of the discovery of the Thomas precessional
+    frequency,?AIP Conference Proceedings, No. 95 (High Energy Spin Physics), G. M.
+    Bunce, ed. (Brookhaven National Laboratory, 1982), pp. 4-12.
+- author: A. A. Ungar
+  doi: 10.1007/BF00732759
+  first-page: '1385'
+  journal-title: Found. Phys.
+  unstructured: A. A. Ungar, ?The relativistic velocity composition paradox and the
+    Thomas rotation,?Found. Phys. 19, 1385?1396 (1989).
+  volume: '19'
+  year: '1989'
+- author: G. P. Sastry
+  doi: 10.1119/1.14911
+  first-page: '943'
+  journal-title: Am. J. Phys.
+  unstructured: G. P. Sastry, ?Is Length contraction really paradoxical?,?Am. J. Phys.
+    55, 943?945 (1987).
+  volume: '55'
+  year: '1987'
+- author: C. I. Mocanu
+  doi: 10.1007/BF01574845
+  first-page: '97'
+  journal-title: Arch. Elektrotech.
+  unstructured: C. I. Mocanu, ?Some difficulties within the framework of relativistic
+    electrodynamics,?Arch. Elektrotech. 69, 97?110 (1986).
+  volume: '69'
+  year: '1986'
+- author: A. A. Ungar
+  doi: 10.1007/BF00661317
+  first-page: '57'
+  journal-title: Found. Phys. Lett.
+  unstructured: A. A. Ungar, ?Thomas rotation and the parametrization of the Lorentz
+    transformation group,?Found. Phys. Lett. 1, 57?89 (1988).
+  volume: '1'
+  year: '1988'
+- author: A. A. Ungar
+  doi: 10.1016/0893-9659(88)90160-7
+  first-page: '403'
+  journal-title: Appl. Math. Lett.
+  unstructured: A. A. Ungar, ?The Thomas rotation formalism underlying a non-associative
+    group structure for relativistic velocities,?Appl. Math. Lett. 1, 403?405 (1988).
+  volume: '1'
+  year: '1988'
+- author: A. A. Ungar
+  doi: 10.1007/BF03322653
+  first-page: '168'
+  journal-title: Results in Mathematics
+  unstructured: A. A. Ungar, ?The relativistic non-commutative non-associative group
+    of velocities and the Thomas rotation,?Results in Mathematics 16, 168?179 (1989).
+  volume: '16'
+  year: '1989'
+- author: A. A. Ungar
+  doi: 10.1007/BF00696113
+  first-page: '199'
+  journal-title: Found Phys. Lett.
+  unstructured: A. A. Ungar, ?Axiomatic approach to the non-associative group of relativistic
+    velocities,?Found Phys. Lett. 2, 199?203 (1989).
+  volume: '2'
+  year: '1989'
+- author: A. A. Ungar
+  doi: 10.1007/BF03322638
+  first-page: '149'
+  journal-title: Results in Mathematics
+  unstructured: A. A. Ungar, ?Weakly associative groups,?Results in Mathematics 17,
+    149?168 (1990).
+  volume: '17'
+  year: '1990'
+- author: A. A. Ungar
+  doi: 10.1119/1.16730
+  first-page: '824'
+  journal-title: Am. J. Phys.
+  unstructured: A. A. Ungar, ?Thomas precession and its associated group - like structure,?Am.
+    J. Phys. 54, 824?834 (1991).
+  volume: '54'
+  year: '1991'
+- author: A. A. Ungar
+  doi: 10.1142/9789814350921_0066
+  first-page: '1378'
+  unstructured: 'A. A. Ungar, ?Quasidirect product groups and the Lorentz transformation
+    group,? in T. M. Rassias, ed.Constantin Caratheodory: An International Tribute
+    (World Scientific, Singapore, 1991), pp. 1378?1392.'
+  volume-title: 'Constantin Caratheodory: An International Tribute'
+  year: '1991'
+- author: A. A. Ungar
+  doi: 10.1007/BF00733259
+  first-page: '569'
+  journal-title: Found. Phys.
+  unstructured: A. A. Ungar, ?Successive Lorentz transformations of the electromagnetic
+    field,?Found. Phys. 21, 569?589 (1991).
+  volume: '21'
+  year: '1991'
+- unstructured: A. Einstein,Sidelights on relativity (Methuen, London, 1922).
+- author: R. P. Feynman
+  unstructured: R. P. Feynman, R. B. Leighton, M. Sands,The Feynman Lectures (Addison-Wesley,
+    Reading, Massachusetts, 1964), Vol. II, Sec. 17-4.
+  volume-title: The Feynman Lectures
+  year: '1964'
+- author: M. C. Møller
+  unstructured: M. C. Møller,The Theory of Relativity (Clarendon Press, Oxford, 1952).
+  volume-title: The Theory of Relativity
+  year: '1952'
+- author: W. Rindler
+  unstructured: W. Rindler,Special Relativity (Oliver & Boyd, London, 1986).
+  volume-title: Special Relativity
+  year: '1986'
+- author: S. Ben-Menahem
+  doi: 10.1063/1.527132
+  first-page: '1234'
+  journal-title: J. Math. Phys.
+  unstructured: S. Ben-Menahem, ?The Thomas precession and velocity space curvature,?J.
+    Math. Phys. 27, 1234?1296 (1986).
+  volume: '27'
+  year: '1986'
+- author: S. Ben-Menahem
+  doi: 10.1119/1.13953
+  first-page: '62'
+  journal-title: Am. J. Phys.
+  unstructured: S. Ben-Menahem, ?Wigner rotation revisited,?Am. J. Phys. 53, 62?66
+    (1985).
+  volume: '53'
+  year: '1985'
+- author: S. Dencoff
+  doi: 10.1103/PhysRev.50.784
+  first-page: '784'
+  journal-title: Phys. Rev.
+  unstructured: S. Dencoff and D. R. Inglis, ?On the Thomas precession of accelerated
+    axes,?Phys. Rev. 50, 784 (1936).
+  volume: '50'
+  year: '1936'
+- author: G. P. Fisher
+  doi: 10.1119/1.1987061
+  first-page: '1772'
+  journal-title: Am. J. Phys.
+  unstructured: G. P. Fisher, ?The Thomas precession,?Am. J. Phys. 40, 1772?1781 (1972).
+  volume: '40'
+  year: '1972'
+- author: W. H. Furry
+  doi: 10.1119/1.1934085
+  first-page: '517'
+  journal-title: Am. J. Phys.
+  unstructured: W. H. Furry, ?Lorentz transformation and the Thomas precession,?Am.
+    J. Phys. 23, 517?525 (1955).
+  volume: '23'
+  year: '1955'
+- author: A. C. Hirshfeld
+  doi: 10.1119/1.14561
+  first-page: '550'
+  journal-title: Am. J. Phys.
+  unstructured: A. C. Hirshfeld and Metzger, ?A simple formula for combining rotations
+    and Lorentz boosts,?Am. J. Phys. 54, 550?552 (1986).
+  volume: '54'
+  year: '1986'
+- author: E. G. P. Rowe
+  doi: 10.1088/0143-0807/5/1/009
+  first-page: '40'
+  journal-title: Eur. J. Phys.
+  unstructured: E. G. P. Rowe, ?The Thomas precession,?Eur. J. Phys. 5, 40?45 (1984).
+  volume: '5'
+  year: '1984'
+- author: N. Salingaros
+  doi: 10.1063/1.527357
+  first-page: '157'
+  journal-title: J. Math. Phys.
+  unstructured: 'N. Salingaros, ?The Lorentz group and the Thomas precession: Exact
+    results for the product of two boosts,?J. Math. Phys. 27, 157?162 (1986); also
+    ?Erratum: The Lorentz,J. Math. Phys. 29, 1265 (1988).'
+  volume: '27'
+  year: '1986'
+- author: David Shelupsky
+  doi: 10.1119/1.1974205
+  first-page: '650'
+  journal-title: Am. J. Phys.
+  unstructured: David Shelupsky, ?Derivation of the Thomas precession formula,?Am.
+    J. Phys. 35, 650?651 (1967).
+  volume: '35'
+  year: '1967'
+- author: Thomas Phipps
+  unstructured: 'Thomas Phipps,Heretical Verities: Mathematical Themes in Physical
+    Description (Classical Non-Fiction Library, Box 926 Urbana, Illinois 61801, 1986).'
+  volume-title: 'Heretical Verities: Mathematical Themes in Physical Description'
+  year: '1986'
+- author: M. E. Noz
+  doi: 10.1007/978-94-009-3051-3
+  unstructured: M. E. Noz and Y. S.Kim, Special Relativity and Quantum Theory (Kluwer
+    Academic, Dordrecht, 1988).
+  volume-title: Special Relativity and Quantum Theory
+  year: '1988'
+doc_url: http://link.springer.com/article/10.1007/BF00690425/fulltext.html
+doi: 10.1007/bf00690425
+files:
+- mocanu1992-article-ontherelativisticvelocitycompo.pdf
+issue: '5'
+journal: Foundations of Physics Letters
+language: en
+month: 10
+pages: 443--456
+publisher: Springer Science and Business Media LLC
+ref: OnTheRelativiMocanu1992
+time-added: 2021-04-17-04:19:07
+title: On the relativistic velocity composition paradox and the Thomas rotation
+type: article
+url: http://dx.doi.org/10.1007/bf00690425
+volume: '5'
+year: 1992
+tags: sr relativity differential-geometry thomas-precession

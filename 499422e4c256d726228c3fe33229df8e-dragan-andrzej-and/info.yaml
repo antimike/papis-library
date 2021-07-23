@@ -1,0 +1,22 @@
+abstract: Instantaneous derivation of the Thomas precession with only basic vector
+  calculus.
+archiveprefix: arXiv
+author: Dragan, Andrzej and Odrzygóźdź, Tomasz
+author_list:
+- family: Dragan
+  given: Andrzej
+- family: Odrzygóźdź
+  given: Tomasz
+eprint: 1211.1854v1
+file: 1211.1854v1.pdf
+files:
+- tmpig0096d6.pdf
+month: Nov
+primaryclass: physics.class-ph
+ref: 1211.1854v1
+tags: thomas-precession derivation math differential-geometry sr em
+time-added: 2021-04-17-04:39:14
+title: Half-page derivation of the Thomas precession
+type: article
+url: http://arxiv.org/abs/1211.1854v1
+year: '2012'

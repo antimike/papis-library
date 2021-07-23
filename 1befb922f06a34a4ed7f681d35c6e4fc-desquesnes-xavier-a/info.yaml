@@ -1,0 +1,426 @@
+author: Desquesnes, Xavier and Elmoataz, Abderrahim and Lézoray, Olivier
+author_list:
+- affiliation: []
+  family: Desquesnes
+  given: Xavier
+- affiliation: []
+  family: Elmoataz
+  given: Abderrahim
+- affiliation: []
+  family: Lézoray
+  given: Olivier
+citations:
+- author: P. Arbelaez
+  doi: 10.1007/s11263-006-6857-5
+  first-page: '119'
+  journal-title: Int. J. Comput. Vis.
+  unstructured: 'Arbelaez, P., Cohen, L.: A metric approach to vector-valued image
+    segmentation. Int. J. Comput. Vis. 69, 119–126 (2006)'
+  volume: '69'
+  year: '2006'
+- author: X. Bai
+  doi: 10.1007/s11263-008-0191-z
+  first-page: '113'
+  journal-title: Int. J. Comput. Vis.
+  unstructured: 'Bai, X., Sapiro, G.: Geodesic matting: a framework for fast interactive
+    image and video segmentation and matting. Int. J. Comput. Vis. 82, 113–132 (2009)'
+  volume: '82'
+  year: '2009'
+- author: A. Bensoussan
+  first-page: '13'
+  issue: '1'
+  journal-title: J. Convex Anal.
+  unstructured: 'Bensoussan, A., Menaldi, J.L.: Difference equations on weighted graphs.
+    J. Convex Anal. 12(1), 13–44 (2003)'
+  volume: '12'
+  year: '2003'
+- author: S. Bougleux
+  first-page: '128'
+  unstructured: 'Bougleux, S., Elmoataz, A., Melkemi, M.: Discrete regularization
+    on weighted graphs for image and mesh filtering. In: Proc. SSVM, pp. 128–139 (2007)'
+  volume-title: Proc. SSVM
+  year: '2007'
+- author: Y. Boykov
+  first-page: '105'
+  unstructured: 'Boykov, Y., Jolly, M.P.: Interactive graph cuts for optimal boundary
+    & region segmentation of objects in n-d images. In: Proc. ICCV, vol. 1, pp. 105–112
+    (2001)'
+  volume-title: Proc. ICCV
+  year: '2001'
+- author: Y. Boykov
+  first-page: '409'
+  unstructured: 'Boykov, Y., Kolmogorov, V., Cremers, D., Delong, A.: An integral
+    solution to surface evolution pdes via geo-cuts. In: Proc. ECCV, pp. 409–422 (2006)'
+  volume-title: Proc. ECCV
+  year: '2006'
+- author: R.W. Brockett
+  first-page: '125'
+  journal-title: Proc. ICASSP
+  unstructured: 'Brockett, R.W., Maragos, P.: Evolution equations for continuous-scale
+    morphology. Proc. ICASSP 3, 125–128 (1992)'
+  volume: '3'
+  year: '1992'
+- author: A. Buades
+  doi: 10.1007/s11263-007-0052-1
+  first-page: '123'
+  journal-title: Int. J. Comput. Vis.
+  unstructured: 'Buades, A., Coll, B., Morel, J.M.: Nonlocal image and movie denoising.
+    Int. J. Comput. Vis. 76, 123–139 (2008)'
+  volume: '76'
+  year: '2008'
+- author: E. Carlini
+  doi: 10.1137/06067403X
+  first-page: '2920'
+  journal-title: SIAM J. Numer. Anal.
+  unstructured: 'Carlini, E., Falcone, M., Forcadel, N., Monneau, R.: Convergence
+    of a generalized fast-marching method for an eikonal equation with a velocity-changing
+    sign. SIAM J. Numer. Anal. 46, 2920–2952 (2008)'
+  volume: '46'
+  year: '2008'
+- author: T.F. Chan
+  doi: 10.1109/83.902288
+  first-page: '231'
+  journal-title: IEEE Trans. Image Process.
+  unstructured: 'Chan, T.F., Osher, S., Shen, J.: The digital tv filter and nonlinear
+    denoising. IEEE Trans. Image Process. 10, 231–241 (2001)'
+  volume: '10'
+  year: '2001'
+- author: T.F. Chan
+  doi: 10.1109/83.902291
+  first-page: '266'
+  issue: '2'
+  journal-title: IEEE Trans. Image Process.
+  unstructured: 'Chan, T.F., Vese, L.A.: Active contours without edges. IEEE Trans.
+    Image Process. 10(2), 266–277 (2001)'
+  volume: '10'
+  year: '2001'
+- author: F. Chung
+  doi: 10.1090/cbms/092/01
+  first-page: '1'
+  journal-title: CBMS Reg. Conf. Ser. Math.
+  unstructured: 'Chung, F.: Spectral graph theory. CBMS Reg. Conf. Ser. Math. 92,
+    1–212 (1997)'
+  volume: '92'
+  year: '1997'
+- author: R.R. Coifman
+  doi: 10.1016/j.acha.2006.04.004
+  first-page: '53'
+  issue: '1'
+  journal-title: Appl. Comput. Harmon. Anal.
+  unstructured: 'Coifman, R.R., Maggioni, M.: Diffusion wavelets. Appl. Comput. Harmon.
+    Anal. 21(1), 53–94 (2006)'
+  volume: '21'
+  year: '2006'
+- author: C. Couprie
+  doi: 10.1109/TPAMI.2010.200
+  first-page: '1384'
+  issue: '33'
+  journal-title: IEEE Trans. Pattern Anal. Mach. Intell.
+  unstructured: 'Couprie, C., Grady, L., Najman, L., Talbot, H.: Power watersheds:
+    a unifying graph-based optimization framework. IEEE Trans. Pattern Anal. Mach.
+    Intell. 7(33), 1384–1399 (2011)'
+  volume: '7'
+  year: '2011'
+- author: R. Courant
+  doi: 10.1007/BF01448839
+  first-page: '32'
+  journal-title: Math. Ann.
+  unstructured: 'Courant, R., Friedrichs, K., Lewy, H.: On the partial difference
+    equations of mathematical physics. Math. Ann. 100, 32–74 (1928)'
+  volume: '100'
+  year: '1928'
+- author: N. El Zehiry
+  first-page: '182'
+  unstructured: 'El Zehiry, N., Xu, S., Sahoo, P., Elmaghraby, A.: Graph cut optimization
+    for the mumford-shah model. In: Proc. VIIP, pp. 182–187 (2007)'
+  volume-title: Proc. VIIP
+  year: '2007'
+- author: A. Elmoataz
+  doi: 10.1109/TIP.2008.924284
+  first-page: '1047'
+  issue: '7'
+  journal-title: IEEE Trans. Image Process.
+  unstructured: 'Elmoataz, A., Lézoray, O., Bougleux, S.: Nonlocal discrete regularization
+    on weighted graphs: a framework for image and manifold processing. IEEE Trans.
+    Image Process. 17(7), 1047–1060 (2008)'
+  volume: '17'
+  year: '2008'
+- author: A.X. Falcão
+  doi: 10.1109/TPAMI.2004.1261076
+  first-page: '19'
+  journal-title: IEEE Trans. Pattern Anal. Mach. Intell.
+  unstructured: 'Falcão, A.X., Stolfi, J., de Alencar Lotufo, R.: The image foresting
+    transform: theory, algorithms, and applications. IEEE Trans. Pattern Anal. Mach.
+    Intell. 26, 19–29 (2004)'
+  volume: '26'
+  year: '2004'
+- author: G. Gilboa
+  doi: 10.1137/070698592
+  first-page: '1005'
+  journal-title: Multiscale Model. Simul.
+  unstructured: 'Gilboa, G., Osher, S.: Nonlocal operators with applications to image
+    processing. Multiscale Model. Simul. 7, 1005–1028 (2008)'
+  volume: '7'
+  year: '2008'
+- author: L.J. Grady
+  doi: 10.1109/TPAMI.2006.233
+  first-page: '1768'
+  journal-title: IEEE Trans. Pattern Anal. Mach. Intell.
+  unstructured: 'Grady, L.J.: Random walks for image segmentation. IEEE Trans. Pattern
+    Anal. Mach. Intell. 28, 1768–1783 (2006)'
+  volume: '28'
+  year: '2006'
+- author: L.J. Grady
+  doi: 10.1109/TIP.2009.2028258
+  first-page: '2547'
+  journal-title: IEEE Trans. Image Process.
+  unstructured: 'Grady, L.J., Alvino, C.V.: The piecewise smooth mumford-shah functional
+    on an arbitrary graph. IEEE Trans. Image Process. 18, 2547–2561 (2009)'
+  volume: '18'
+  year: '2009'
+- author: L.J. Grady
+  series-title: Applied Anal. Graphs Comput. Sc
+  unstructured: 'Grady, L.J., Polimeni, J.R.: Discrete Calculus. Applied Anal. Graphs
+    Comput. Sc (1999)'
+  volume-title: Discrete Calculus
+  year: '1999'
+- author: D.K. Hammond
+  doi: 10.1016/j.acha.2010.04.005
+  first-page: '129'
+  issue: '2'
+  journal-title: Appl. Comput. Harmon. Anal.
+  unstructured: 'Hammond, D.K., Vandergheynst, P., Gribonval, R.: Wavelets on graphs
+    via spectral graph theory. Appl. Comput. Harmon. Anal. 30(2), 129–150 (2011)'
+  volume: '30'
+  year: '2011'
+- author: M. Hein
+  first-page: '561'
+  unstructured: 'Hein, M., Maier, M.: Manifold denoising. In: Proc. NIPS, pp. 561–568
+    (2006)'
+  volume-title: Proc. NIPS
+  year: '2006'
+- unstructured: 'Hirani, A.N.: Discrete exterior calculus. PhD thesis, California
+    Ins. Tech. (2003)'
+- author: R. Kimmel
+  first-page: '8431'
+  unstructured: 'Kimmel, R., Sethian, J.A.: Computing geodesic paths on manifolds.
+    In: Proc. Natl. Acad. Sci, pp. 8431–8435 (1998)'
+  volume-title: Proc. Natl. Acad. Sci
+  year: '1998'
+- author: M. Kurucz
+  doi: 10.1007/978-3-642-00528-2_1
+  first-page: '1'
+  unstructured: 'Kurucz, M., Benczúr, A., Csalogány, K., Lukács, L.: Spectral clustering
+    in social networks. In: Advances in Web Mining and Web Usage Analysis, vol. 5439,
+    pp. 1–20 (2009)'
+  volume-title: Advances in Web Mining and Web Usage Analysis
+  year: '2009'
+- author: R.J. Leveque
+  doi: 10.1017/CBO9780511791253
+  unstructured: 'Leveque, R.J.: Finite Volume Methods for Hyperbolic Problems. Cambridge
+    University Press, Cambridge (2002)'
+  volume-title: Finite Volume Methods for Hyperbolic Problems
+  year: '2002'
+- author: A. Levinshtein
+  doi: 10.1109/TPAMI.2009.96
+  first-page: '2290'
+  issue: '12'
+  journal-title: IEEE Trans. Pattern Anal. Mach. Intell.
+  unstructured: 'Levinshtein, A., Stere, A., Kutulakos, K., Fleet, D., Dickinson,
+    S., Siddiqi, K.: Turbopixels: fast superpixels using geometric flows. IEEE Trans.
+    Pattern Anal. Mach. Intell. 31(12), 2290–2297 (2009)'
+  volume: '31'
+  year: '2009'
+- author: U. Luxburg von
+  doi: 10.1007/s11222-007-9033-z
+  first-page: '395'
+  journal-title: J. Stat. Comput.
+  unstructured: 'von Luxburg, U.: A tutorial on spectral clustering. J. Stat. Comput.
+    17, 395–416 (2007)'
+  volume: '17'
+  year: '2007'
+- author: M.H. Jansen
+  unstructured: 'Jansen, M.H., Oonincx, P.: Second Generation Wavelets and Applications.
+    Springer, Berlin (2005)'
+  volume-title: Second Generation Wavelets and Applications
+  year: '2005'
+- author: J.M. Neuberger
+  doi: 10.1080/10586458.2006.10128944
+  first-page: '91'
+  issue: '1'
+  journal-title: Exp. Math.
+  unstructured: 'Neuberger, J.M.: Nonlinear elliptic partial difference equations
+    on graphs. Exp. Math. 15(1), 91–107 (2006)'
+  volume: '15'
+  year: '2006'
+- author: S. Osher
+  doi: 10.1016/0021-9991(88)90002-2
+  first-page: '12'
+  journal-title: J. Comput. Phys.
+  unstructured: 'Osher, S., Sethian, J.A.: Fronts propagating with curvature dependent
+    speed: algorithms based on Hamilton-Jacobi formulations. J. Comput. Phys. 79,
+    12–49 (1988)'
+  volume: '79'
+  year: '1988'
+- author: J.H. Park
+  doi: 10.1016/j.camwa.2010.10.026
+  first-page: '17'
+  journal-title: Comput. Math. Appl.
+  unstructured: 'Park, J.H., Chung, S.Y.: Positive solutions for discrete boundary
+    value problems involving the p-Laplacian with potential terms. Comput. Math. Appl.
+    61, 17–29 (2011)'
+  volume: '61'
+  year: '2011'
+- author: J. Qian
+  doi: 10.1137/050627083
+  first-page: '83'
+  journal-title: SIAM J. Numer. Anal.
+  unstructured: 'Qian, J., Zhang, Y.T., Zhao, H.K.: Fast sweeping methods for eikonal
+    equations on triangular meshes. SIAM J. Numer. Anal. 45, 83–107 (2007)'
+  volume: '45'
+  year: '2007'
+- author: X. Ren
+  first-page: '10'
+  unstructured: 'Ren, X., Malik, J.: Learning a classification model for segmentation.
+    In: Proc. ICCV, p. 10 (2003)'
+  volume-title: Proc. ICCV
+  year: '2003'
+- author: E. Rouy
+  doi: 10.1137/0729053
+  first-page: '867'
+  journal-title: SIAM J. Numer. Anal.
+  unstructured: 'Rouy, E., Tourin, A.: A viscosity solutions approach to shape-from-shading.
+    SIAM J. Numer. Anal. 3, 867–884 (1992)'
+  volume: '3'
+  year: '1992'
+- author: G. Sapiro
+  doi: 10.1016/0031-3203(93)90142-J
+  first-page: '1363'
+  issue: '9'
+  journal-title: Pattern Recognit.
+  unstructured: 'Sapiro, G., Kimmel, R., Shaked, D., Kimia, B.B., Bruckstein, A.M.:
+    Implementing continuous-scale morphology via curve evolution. Pattern Recognit.
+    26(9), 1363–1372 (1993)'
+  volume: '26'
+  year: '1993'
+- author: J.A. Sethian
+  first-page: '199'
+  issue: '2'
+  journal-title: Proc. Natl. Acad. Sci.
+  unstructured: 'Sethian, J.A.: A fast marching level set methods for monotonically
+    advancing fronts. Proc. Natl. Acad. Sci. 41(2), 199–235 (1999)'
+  volume: '41'
+  year: '1999'
+- author: J.A. Sethian
+  unstructured: 'Sethian, J.A.: Level set methods and fast marching methods: evolving
+    interfaces. In: Computational Geometry, Fluid Mechanics, Computer Vision and Materials
+    Science. Cambridge University Press, Cambridge (1999)'
+  volume-title: Computational Geometry, Fluid Mechanics, Computer Vision and Materials
+    Science
+  year: '1999'
+- author: A. Shamir
+  doi: 10.1111/j.1467-8659.2007.01103.x
+  first-page: '1539'
+  issue: '6'
+  journal-title: Comput. Graph. Forum
+  unstructured: 'Shamir, A.: A survey on mesh segmentation techniques. Comput. Graph.
+    Forum 27(6), 1539–1556 (2008)'
+  volume: '27'
+  year: '2008'
+- author: J. Shi
+  doi: 10.1109/34.868688
+  first-page: '888'
+  issue: '8'
+  journal-title: IEEE Trans. Pattern Anal. Mach. Intell.
+  unstructured: 'Shi, J., Malik, J.: Normalized cuts and image segmentation. IEEE
+    Trans. Pattern Anal. Mach. Intell. 22(8), 888–905 (2000)'
+  volume: '22'
+  year: '2000'
+- author: A.K. Sinop
+  first-page: '1'
+  unstructured: 'Sinop, A.K., Grady, L.: A seeded image segmentation framework unifying
+    graph cuts and random walker which yields a new algorithm. In: Proc. ICCV, pp.
+    1–8 (2007)'
+  volume-title: Proc. ICCV
+  year: '2007'
+- author: V.T. Ta
+  first-page: '801'
+  unstructured: 'Ta, V.T., Elmoataz, A., Lézoray, O.: Partial difference equations
+    on graphs for mathematical morphology operators overs images and manifolds. In:
+    Proc. ICIP, pp. 801–804 (2008)'
+  volume-title: Proc. ICIP
+  year: '2008'
+- author: V.T. Ta
+  doi: 10.1007/978-3-540-88690-7_50
+  first-page: '668'
+  journal-title: Lect. Notes Comput. Sci.
+  unstructured: 'Ta, V.T., Elmoataz, A., Lézoray, O.: Partial difference equations
+    over graphs: morphological processing of arbitrary discrete data. Lect. Notes
+    Comput. Sci. 5304, 668–680 (2008)'
+  volume: '5304'
+  year: '2008'
+- author: V.T. Ta
+  unstructured: 'Ta, V.T., Elmoataz, A., Lézoray, O.: Adaptation of eikonal equation
+    over weighted graphs. In: Proc. SSVM (2009)'
+  volume-title: Proc. SSVM
+  year: '2009'
+- author: V.T. Ta
+  doi: 10.1109/TIP.2010.2101610
+  first-page: '1504'
+  issue: '6'
+  journal-title: IEEE Trans. Image Process.
+  unstructured: 'Ta, V.T., Elmoataz, A., Lézoray, O.: Nonlocal pdes-based morphology
+    on weighted graphs for image and data processing. IEEE Trans. Image Process. 20(6),
+    1504–1516 (2011)'
+  volume: '20'
+  year: '2011'
+- author: J.N. Tsitsiklis
+  doi: 10.1109/9.412624
+  first-page: '1528'
+  issue: '9'
+  journal-title: IEEE Trans. Autom. Control
+  unstructured: 'Tsitsiklis, J.N.: Efficient algorithms for globally optimal trajectories.
+    IEEE Trans. Autom. Control 40(9), 1528–1538 (1995)'
+  volume: '40'
+  year: '1995'
+- author: J. Won-Ki
+  first-page: '2512'
+  issue: '5'
+  journal-title: J. Sci. Comput.
+  unstructured: 'Won-Ki, J., Ross, T.W.: A fast iterative method for eikonal equations.
+    J. Sci. Comput. 30(5), 2512–2534 (2008)'
+  volume: '30'
+  year: '2008'
+- author: H. Zhao
+  doi: 10.1090/S0025-5718-04-01678-3
+  first-page: '603'
+  journal-title: Math. Comput.
+  unstructured: 'Zhao, H.: Fast sweeping method for eikonal equations. Math. Comput.
+    74, 603–627 (2005)'
+  volume: '74'
+  year: '2005'
+- author: D. Zhou
+  first-page: '221'
+  unstructured: 'Zhou, D., Schölkopf, B.: Adaptive computation and machine learning.
+    In: Discrete Regularization, pp. 221–232 (2006)'
+  volume-title: Discrete Regularization
+  year: '2006'
+doc_url: http://link.springer.com/article/10.1007/s10851-012-0380-9/fulltext.html
+doi: 10.1007/s10851-012-0380-9
+files:
+- desquesnes2013-article-eikonalequationadaptationonwei.pdf
+issue: '2'
+journal: Journal of Mathematical Imaging and Vision
+language: en
+month: 6
+pages: 238--257
+publisher: Springer Science and Business Media LLC
+ref: EikonalEquatioDesque2013
+tags: eikonal-equation weighted-graph graph-theory diffusion algorithm math data-processing
+time-added: 2021-04-22-16:50:35
+title: 'Eikonal Equation Adaptation on Weighted Graphs: Fast Geometric Diffusion Process
+  for Local and Non-local Image and Data Processing'
+type: article
+url: http://dx.doi.org/10.1007/s10851-012-0380-9
+volume: '46'
+year: 2013

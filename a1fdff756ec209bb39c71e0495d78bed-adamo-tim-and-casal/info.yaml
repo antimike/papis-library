@@ -1,0 +1,31 @@
+abstract: We present a worldsheet theory that describes maps into a curved target
+  space equipped with a B-field and dilaton. The conditions for the theory to be consistent
+  at the quantum level can be computed exactly, and are that the target space fields
+  obey the nonlinear d=10 supergravity equations of motion, with no higher curvature
+  terms. The path integral is constrained to obey a generalization of the scattering
+  equations to curved space. Remarkably, the supergravity field equations emerge as
+  quantum corrections to these curved space scattering equations.
+archiveprefix: arXiv
+author: Adamo, Tim and Casali, Eduardo and Skinner, David
+author_list:
+- family: Adamo
+  given: Tim
+- family: Casali
+  given: Eduardo
+- family: Skinner
+  given: David
+doi: 10.1007/JHEP02(2015)116
+eprint: 1409.5656v2
+file: 1409.5656v2.pdf
+files:
+- tmp98-x1jyv.pdf
+month: Sep
+note: 'JHEP 1502: 116, 2015'
+primaryclass: hep-th
+ref: 1409.5656v2
+tags: worldsheet supergravity string-theory unification hep
+time-added: 2021-04-22-13:37:22
+title: A Worldsheet Theory for Supergravity
+type: article
+url: http://arxiv.org/abs/1409.5656v2
+year: '2014'

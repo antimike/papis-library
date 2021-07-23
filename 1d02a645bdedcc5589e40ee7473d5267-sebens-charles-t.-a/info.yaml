@@ -1,0 +1,40 @@
+abstract: 'A longstanding issue in attempts to understand the Everett (Many-Worlds)
+  approach to quantum mechanics is the origin of the Born rule: why is the probability
+  given by the square of the amplitude? Following Vaidman, we note that observers
+  are in a position of self-locating uncertainty during the period between the branches
+  of the wave function splitting via decoherence and the observer registering the
+  outcome of the measurement. In this period it is tempting to regard each branch
+  as equiprobable, but we argue that the temptation should be resisted. Applying lessons
+  from this analysis, we demonstrate (using methods similar to those of Zurek''s envariance-based
+  derivation) that the Born rule is the uniquely rational way of apportioning credence
+  in Everettian quantum mechanics. In doing so, we rely on a single key principle:
+  changes purely to the environment do not affect the probabilities one ought to assign
+  to measurement outcomes in a local subsystem. We arrive at a method for assigning
+  probabilities in cases that involve both classical and quantum self-locating uncertainty.
+  This method provides unique answers to quantum Sleeping Beauty problems, as well
+  as a well-defined procedure for calculating probabilities in quantum cosmological
+  multiverses with multiple similar observers.'
+archiveprefix: arXiv
+author: Sebens, Charles T. and Carroll, Sean M.
+author_list:
+- family: Sebens
+  given: Charles T.
+- family: Carroll
+  given: Sean M.
+doi: 10.1093/bjps/axw004
+eprint: 1405.7577v3
+file: 1405.7577v3.pdf
+files:
+- tmpc6dtkabb.pdf
+month: May
+note: The British Journal for the Philosophy of Science, Volume 69,   Issue 1, March
+  2018, Pages 25-74
+primaryclass: quant-ph
+ref: 1405.7577v3
+tags: sean-carroll everett-qm many-worlds self-locating-uncertainty metaphysics qm-interpretations
+time-added: 2021-04-22-18:30:30
+title: Self-Locating Uncertainty and the Origin of Probability in Everettian   Quantum
+  Mechanics
+type: article
+url: http://arxiv.org/abs/1405.7577v3
+year: '2014'

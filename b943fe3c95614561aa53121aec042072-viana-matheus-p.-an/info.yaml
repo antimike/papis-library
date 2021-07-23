@@ -1,0 +1,35 @@
+abstract: 'The measurement called accessibility has been proposed as a means to quantify
+  the efficiency of the communication between nodes in complex networks. This article
+  reports important results regarding the properties of the accessibility, including
+  its relationship with the average minimal time to visit all nodes reachable after
+  $h$ steps along a random walk starting from a source, as well as the number of nodes
+  that are visited after a finite period of time. We characterize the relationship
+  between accessibility and the average number of walks required in order to visit
+  all reachable nodes (the exploration time), conjecture that the maximum accessibility
+  implies the minimal exploration time, and confirm the relationship between the accessibility
+  values and the number of nodes visited after a basic time unit. The latter relationship
+  is investigated with respect to three types of dynamics, namely: traditional random
+  walks, self-avoiding random walks, and preferential random walks.'
+archiveprefix: arXiv
+author: Viana, Matheus P. and Batista, João L. B. and da F. Costa, Luciano
+author_list:
+- family: Viana
+  given: Matheus P.
+- family: Batista
+  given: João L. B.
+- family: da F. Costa
+  given: Luciano
+doi: 10.1103/PhysRevE.85.036105
+eprint: 1101.5379v3
+file: 1101.5379v3.pdf
+files:
+- tmpcyy5gmns.pdf
+month: Jan
+primaryclass: physics.soc-ph
+ref: 1101.5379v3
+tags: network graph-theory math centrality node-influence
+time-added: 2021-04-22-15:39:52
+title: How Many Nodes are Effectively Accessed in Complex Networks?
+type: article
+url: http://arxiv.org/abs/1101.5379v3
+year: '2011'

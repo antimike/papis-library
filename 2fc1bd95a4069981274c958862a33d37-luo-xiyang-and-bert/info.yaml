@@ -1,0 +1,297 @@
+author: Luo, Xiyang and Bertozzi, Andrea L.
+author_list:
+- affiliation: []
+  family: Luo
+  given: Xiyang
+- affiliation: []
+  family: Bertozzi
+  given: Andrea L.
+citations:
+- doi: 10.1007/3-540-47977-5_35
+  unstructured: 'Belongie, S., Fowlkes, C., Chung, F., Malik, J.: Spectral partitioning
+    with indefinite kernels using the Nyström extension. In: Computer Vision ECCV
+    2002, pp. 531–542. Springer, Berlin (2002)'
+- author: L Bertini
+  doi: 10.1007/BF02508476
+  first-page: '365'
+  issue: 1–2
+  journal-title: J. Stat. Phys.
+  unstructured: 'Bertini, L., Landim, C., Olla, S.: Derivation of Cahn–Hilliard equations
+    from Ginzburg–Landau models. J. Stat. Phys. 88(1–2), 365–381 (1997)'
+  volume: '88'
+  year: '1997'
+- author: AL Bertozzi
+  doi: 10.1137/11083109X
+  first-page: '1090'
+  issue: '3'
+  journal-title: Multiscale Model. Simul.
+  unstructured: 'Bertozzi, A.L., Flenner, A.: Diffuse interface models on graphs for
+    classification of high dimensional data. Multiscale Model. Simul. 10(3), 1090–1118
+    (2012)'
+  volume: '10'
+  year: '2012'
+- author: S Boyd
+  unstructured: 'Boyd, S., Vandenberghe, L.: Convex Optimization. Cambridge University
+    Press, New York (2009)'
+  volume-title: Convex Optimization
+  year: '2009'
+- unstructured: 'Boykov, Y., Veksler, O., Zabih, R.: Markov random fields with efficient
+    approximations. In: Proceedings of IEEE Conference on Computer Vision and Pattern
+    Recognition, pp. 648–655. IEEE, Washington (1998)'
+- author: Y Boykov
+  doi: 10.1109/34.969114
+  first-page: '1222'
+  issue: '11'
+  journal-title: IEEE Trans. Pattern Anal. Mach. Intell.
+  unstructured: 'Boykov, Y., Veksler, O., Zabih, R.: Fast approximate energy minimization
+    via graph cuts. IEEE Trans. Pattern Anal. Mach. Intell. 23(11), 1222–1239 (2001)'
+  volume: '23'
+  year: '2001'
+- doi: 10.1145/1553374.1553385
+  unstructured: 'Bühler, T., Hein, M.: Spectral clustering based on the graph p-Laplacian.
+    In: Proceedings of the 26th Annual International Conference on Machine Learning,
+    pp. 81–88. ACM, New York (2009)'
+- author: M Burger
+  doi: 10.1137/080728548
+  first-page: '1129'
+  issue: '4'
+  journal-title: SIAM J. Imaging Sci.
+  unstructured: 'Burger, M., He, L., Schönlieb, C.-B.: Cahn–Hilliard inpainting and
+    a generalization for grayvalue images. SIAM J. Imaging Sci. 2(4), 1129–1167 (2009)'
+  volume: '2'
+  year: '2009'
+- author: JW Cahn
+  doi: 10.1007/BF02188691
+  first-page: '877'
+  issue: 3–4
+  journal-title: J. Stat. Phys.
+  unstructured: 'Cahn, J.W., Novick-Cohen, A.: Evolution equations for phase separation
+    and ordering in binary alloys. J. Stat. Phys. 76(3–4), 877–909 (1994)'
+  volume: '76'
+  year: '1994'
+- author: PG Ciarlet
+  doi: 10.1007/BF01844166
+  first-page: '338'
+  issue: '3'
+  journal-title: Aequ. Math.
+  unstructured: 'Ciarlet, P.G.: Discrete maximum principle for finite-difference operators.
+    Aequ. Math. 4(3), 338–352 (1970)'
+  volume: '4'
+  year: '1970'
+- unstructured: "Eyre, D.J.: An unconditionally stable one-step scheme for gradient\
+    \ systems. Unpublished Article. \n                    https://www.math.utah.edu/~eyre/research/methods/stable.ps\n\
+    \                    \n                   (1998)"
+- unstructured: 'Fowlkes, C., Belongie, S., Malik, J.: Efficient spatiotemporal grouping
+    using the Nyström method. In: Proceedings of the 2001 IEEE Computer Society Conference
+    on Computer Vision and Pattern Recognition (CVPR 2001), vol. 1, pp. I–231. IEEE,
+    Washington (2001)'
+- author: C Fowlkes
+  doi: 10.1109/TPAMI.2004.1262185
+  first-page: '214'
+  issue: '2'
+  journal-title: IEEE Trans. Pattern Anal. Mach. Intell.
+  unstructured: 'Fowlkes, C., Belongie, S., Chung, F., Malik, J.: Spectral grouping
+    using the Nyström method. IEEE Trans. Pattern Anal. Mach. Intell. 26(2), 214–225
+    (2004)'
+  volume: '26'
+  year: '2004'
+- author: C Garcia-Cardona
+  doi: 10.1109/TPAMI.2014.2300478
+  first-page: '1600'
+  issue: '8'
+  journal-title: IEEE Trans. Pattern Anal. Mach. Intell.
+  unstructured: 'Garcia-Cardona, C., Merkurjev, E., Bertozzi, A.L., Flenner, A., Percus,
+    A.G.: Multiclass data segmentation using diffuse interface methods on graphs.
+    IEEE Trans. Pattern Anal. Mach. Intell. 36(8), 1600–1613 (2014)'
+  volume: '36'
+  year: '2014'
+- doi: 10.1007/978-3-319-12610-4_8
+  unstructured: 'Garcia-Cardona, C., Flenner, A., Percus, A.G.: Multiclass semi-supervised
+    learning on graphs using Ginzburg–Landau functional minimization. In: Pattern
+    Recognition Applications and Methods, pp. 119–135. Springer, Berlin (2015)'
+- author: BH Good
+  first-page: '046106'
+  issue: '4'
+  journal-title: Phys. Rev.
+  unstructured: 'Good, B.H., de Montjoye, Y.-A., Clauset, A.: Performance of modularity
+    maximization in practical contexts. Phys. Rev. 81(4), 046106 (2010)'
+  volume: '81'
+  year: '2010'
+- author: DM Greig
+  first-page: '271'
+  journal-title: J. R. Stat. Soc. Ser. B
+  unstructured: 'Greig, D.M., Porteous, B.T., Seheult, A.H.: Exact maximum a posteriori
+    estimation for binary images. J. R. Stat. Soc. Ser. B 51, 271–279 (1989)'
+  volume: '51'
+  year: '1989'
+- author: H Hu
+  doi: 10.1137/130917387
+  first-page: '2224'
+  issue: '6'
+  journal-title: SIAM J. Appl. Math.
+  unstructured: 'Hu, H., Laurent, T., Porter, M.A., Bertozzi, A.L.: A method based
+    on total variation for network modularity optimization using the MBO scheme. SIAM
+    J. Appl. Math. 73(6), 2224–2246 (2013)'
+  volume: '73'
+  year: '2013'
+- doi: 10.1007/978-3-319-14612-6_16
+  unstructured: 'Hu, H., Sunu, J., Bertozzi, A.L.: Multi-class graph Mumford–Shah
+    model for plume detection using the MBO scheme. In: Energy Minimization Methods
+    in Computer Vision and Pattern Recognition, pp. 209–222. Springer, Berlin (2015)'
+- author: RV Kohn
+  doi: 10.1017/S0308210500025026
+  first-page: '69'
+  issue: 1–2
+  journal-title: Proc. R. Soc. Edinb.
+  unstructured: 'Kohn, R.V., Sternberg, P.: Local minimisers and singular perturbations.
+    Proc. R. Soc. Edinb. 111(1–2), 69–84 (1989)'
+  volume: '111'
+  year: '1989'
+- author: A Lancichinetti
+  doi: 10.1103/PhysRevE.78.046110
+  first-page: '046110'
+  issue: '4'
+  journal-title: Phys. Rev. E
+  unstructured: 'Lancichinetti, A., Fortunato, S., Radicchi, F.: Benchmark graphs
+    for testing community detection algorithms. Phys. Rev. E 78(4), 046110 (2008)'
+  volume: '78'
+  year: '2008'
+- unstructured: "LeCun, Y., Cortes, C.: The MNIST database of handwritten digits.\
+    \ \n                    http://yann.lecun.com/exdb/mnist/\n                  \
+    \  \n                   (1998)"
+- author: E Merkurjev
+  doi: 10.1137/120886935
+  first-page: '1903'
+  issue: '4'
+  journal-title: SIAM J. Imaging Sci.
+  unstructured: 'Merkurjev, E., Kostic, T., Bertozzi, A.L.: An MBO scheme on graphs
+    for classification and image processing. SIAM J. Imaging Sci. 6(4), 1903–1930
+    (2013)'
+  volume: '6'
+  year: '2013'
+- author: M Newman
+  doi: 10.1063/1.3027989
+  first-page: '33'
+  issue: '11'
+  journal-title: Phys. Today
+  unstructured: 'Newman, M.: The physics of networks. Phys. Today 61(11), 33–38 (2008)'
+  volume: '61'
+  year: '2008'
+- author: MEJ Newman
+  doi: 10.1103/PhysRevE.69.026113
+  first-page: '026113'
+  issue: '2'
+  journal-title: Phys. Rev. E
+  unstructured: 'Newman, M.E.J., Girvan, M.: Finding and evaluating community structure
+    in networks. Phys. Rev. E 69(2), 026113 (2004)'
+  volume: '69'
+  year: '2004'
+- author: JE Taylor
+  doi: 10.1007/BF02186838
+  first-page: '183'
+  issue: 1–2
+  journal-title: J. Stat. Phys.
+  unstructured: 'Taylor, J.E., Cahn, J.W.: Linking anisotropic sharp and diffuse surface
+    motion laws via gradient flows. J. Stat. Phys. 77(1–2), 183–197 (1994)'
+  volume: '77'
+  year: '1994'
+- unstructured: "Trillos, N.G., Slepcev, D., von Brecht, J., Laurent, T., Bresson,\
+    \ X.: Consistency of Cheeger and Ratio graph cuts. arXiv preprint. \n        \
+    \            arXiv:1411.6590\n                    \n                   (2014)"
+- author: Y Van Gennip
+  first-page: '1115'
+  issue: 11/12
+  journal-title: Adv. Differ. Equ.
+  unstructured: 'Van Gennip, Y., Bertozzi, A.L., et al.: $$\Gamma $$-convergence of
+    graph Ginzburg–Landau functionals. Adv. Differ. Equ. 17(11/12), 1115–1180 (2012)'
+  volume: '17'
+  year: '2012'
+- author: Y Van Gennip
+  doi: 10.1007/s00032-014-0216-8
+  first-page: '3'
+  issue: '1'
+  journal-title: Milan J. Math.
+  unstructured: 'Van Gennip, Y., Guillen, N., Osting, B., Bertozzi, A.L.: Mean curvature,
+    threshold dynamics, and phase field theory on finite graphs. Milan J. Math. 82(1),
+    3–65 (2014)'
+  volume: '82'
+  year: '2014'
+- author: U Von Luxburg
+  doi: 10.1007/s11222-007-9033-z
+  first-page: '395'
+  issue: '4'
+  journal-title: Stat. Comput.
+  unstructured: 'Von Luxburg, U.: A tutorial on spectral clustering. Stat. Comput.
+    17(4), 395–416 (2007)'
+  volume: '17'
+  year: '2007'
+- author: U Von Luxburg
+  doi: 10.1214/009053607000000640
+  first-page: '555'
+  issue: '2'
+  journal-title: Ann. Stat.
+  unstructured: 'Von Luxburg, U., Belkin, M., Bousquet, O.: Consistency of spectral
+    clustering. Ann. Stat. 36(2), 555–586 (2008)'
+  volume: '36'
+  year: '2008'
+- author: JS Yedidia
+  doi: 10.1007/s10955-011-0384-7
+  first-page: '860'
+  issue: '4'
+  journal-title: J. Stat. Phys.
+  unstructured: 'Yedidia, J.S.: Message-passing algorithms for inference and optimization.
+    J. Stat. Phys. 145(4), 860–890 (2011)'
+  volume: '145'
+  year: '2011'
+- author: AL Yuille
+  first-page: '1033'
+  journal-title: Adv. Neural Inf. Process. Syst.
+  unstructured: 'Yuille, A.L., Rangarajan, A., Yuille, A.L.: The concave-convex procedure
+    (CCCP). Adv. Neural Inf. Process. Syst. 2, 1033–1040 (2002)'
+  volume: '2'
+  year: '2002'
+- author: L Zelnik-Manor
+  first-page: '1601'
+  journal-title: Adv. Neural Inf. Process. Syst.
+  unstructured: 'Zelnik-Manor, L., Perona, P.: Self-tuning spectral clustering. Adv.
+    Neural Inf. Process. Syst. 17, 1601–1608 (2004)'
+  volume: '17'
+  year: '2004'
+- author: P Zhang
+  doi: 10.1007/s10955-012-0547-1
+  first-page: '502'
+  issue: '3'
+  journal-title: J. Stat. Phys.
+  unstructured: 'Zhang, P.: Inference of kinetic Ising model on sparse graphs. J.
+    Stat. Phys. 148(3), 502–512 (2012)'
+  volume: '148'
+  year: '2012'
+- author: Y Zhang
+  doi: 10.1016/j.physa.2007.11.004
+  first-page: '1705'
+  issue: '7'
+  journal-title: Physica A
+  unstructured: 'Zhang, Y., Friend, A.J., Traud, A.L., Porter, M.A., Fowler, J.H.,
+    Mucha, P.J.: Community structure in congressional cosponsorship networks. Physica
+    A 387(7), 1705–1712 (2008)'
+  volume: '387'
+  year: '2008'
+doc_url: http://link.springer.com/article/10.1007/s10955-017-1772-4/fulltext.html
+doi: 10.1007/s10955-017-1772-4
+files:
+- luo-bertozzi2017-article-convergenceofthegraphallencahn.pdf
+issue: 3-4
+journal: Journal of Statistical Physics
+language: en
+month: 5
+pages: 934--958
+publisher: Springer Science and Business Media LLC
+ref: ConvergenceOfLuoX2017
+tags: graph-theory math machine-learning computation diffuse-interface graph-cut-problem
+  statistical-physics ginzburg-landau allen-cahn cahn-hilliard network-theory
+time-added: 2021-04-22-17:00:24
+title: Convergence of the Graph Allen–Cahn Scheme
+type: article
+url: http://dx.doi.org/10.1007/s10955-017-1772-4
+volume: '167'
+year: 2017

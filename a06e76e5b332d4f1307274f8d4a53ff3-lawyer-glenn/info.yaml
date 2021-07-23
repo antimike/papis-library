@@ -1,0 +1,607 @@
+DOI: 10.1038/srep08665
+ISSN:
+- 2045-2322
+URL: http://dx.doi.org/10.1038/srep08665
+abstract: Centrality measures such as the degree, k-shell, or eigenvalue centrality
+  can identify a network's most influential nodes, but are rarely usefully accurate
+  in quantifying the spreading power of the vast majority of nodes which are not highly
+  influential. The spreading power of all network nodes is better explained by considering,
+  from a continuous-time epidemiological perspective, the distribution of the force
+  of infection each node generates. The resulting metric, the \textit{expected force},
+  accurately quantifies node spreading power under all primary epidemiological models
+  across a wide range of archetypical human contact networks. When node power is low,
+  influence is a function of neighbor degree. As power increases, a node's own degree
+  becomes more important. The strength of this relationship is modulated by network
+  structure, being more pronounced in narrow, dense networks typical of social networking
+  and weakening in broader, looser association networks such as the Internet. The
+  expected force can be computed independently for individual nodes, making it applicable
+  for networks whose adjacency matrix is dynamic, not well specified, or overwhelmingly
+  large.
+alternative-id:
+- BFsrep08665
+archiveprefix: arXiv
+article-number: '8665'
+assertion:
+- group:
+    label: Article History
+    name: ArticleHistory
+  label: Received
+  name: received
+  order: 1
+  value: 9 October 2014
+- group:
+    label: Article History
+    name: ArticleHistory
+  label: Accepted
+  name: accepted
+  order: 2
+  value: 29 January 2015
+- group:
+    label: Article History
+    name: ArticleHistory
+  label: First Online
+  name: first_online
+  order: 3
+  value: 2 March 2015
+- group:
+    label: Competing interests
+    name: EthicsHeading
+  name: Ethics
+  order: 1
+  value: The author declares no competing financial interests.
+author:
+- affiliation: []
+  family: Lawyer
+  given: Glenn
+  sequence: first
+author_list:
+- family: Lawyer
+  given: Glenn
+container-title:
+- Scientific Reports
+created:
+  date-parts:
+  - - 2015
+    - 3
+    - 2
+  date-time: '2015-03-02T10:35:17Z'
+  timestamp: 1425292517000
+deposited:
+  date-parts:
+  - - 2020
+    - 8
+    - 30
+  date-time: '2020-08-30T11:48:35Z'
+  timestamp: 1598788115000
+doi: 10.1038/srep08665
+eprint: 1405.6707v2
+file: 1405.6707v2.pdf
+files:
+- tmppfvrmk-7.pdf
+indexed:
+  date-parts:
+  - - 2021
+    - 4
+    - 5
+  date-time: '2021-04-05T07:44:11Z'
+  timestamp: 1617608651621
+is-referenced-by-count: 79
+issn-type:
+- type: electronic
+  value: 2045-2322
+issue: '1'
+issued:
+  date-parts:
+  - - 2015
+    - 3
+    - 2
+journal-issue:
+  issue: '1'
+  published-print:
+    date-parts:
+    - - 2015
+      - 8
+language: en
+license:
+- URL: https://creativecommons.org/licenses/by/4.0
+  content-version: tdm
+  delay-in-days: 0
+  start:
+    date-parts:
+    - - 2015
+      - 3
+      - 2
+    date-time: '2015-03-02T00:00:00Z'
+    timestamp: 1425254400000
+link:
+- URL: http://www.nature.com/articles/srep08665
+  content-type: text/html
+  content-version: vor
+  intended-application: text-mining
+- URL: http://www.nature.com/articles/srep08665.pdf
+  content-type: application/pdf
+  content-version: vor
+  intended-application: text-mining
+- URL: http://www.nature.com/articles/srep08665.pdf
+  content-type: application/pdf
+  content-version: vor
+  intended-application: similarity-checking
+member: '297'
+month: May
+prefix: '10.1038'
+primaryclass: cs.SI
+published-online:
+  date-parts:
+  - - 2015
+    - 3
+    - 2
+published-print:
+  date-parts:
+  - - 2015
+    - 8
+publisher: Springer Science and Business Media LLC
+ref: 1405.6707v2
+reference:
+- DOI: 10.1155/2011/284909
+  author: L Danon
+  doi-asserted-by: publisher
+  first-page: '284909'
+  journal-title: Interdiscip Perspect Infect Dis
+  key: BFsrep08665_CR1
+  unstructured: Danon, L. et al. Networks and the epidemiology of infectious disease.
+    Interdiscip Perspect Infect Dis 2011, 284909 (2011).
+  volume: '2011'
+  year: '2011'
+- DOI: 10.1016/0378-8733(78)90021-7
+  author: LC Freeman
+  doi-asserted-by: publisher
+  first-page: '215'
+  journal-title: Soc Networks
+  key: BFsrep08665_CR2
+  unstructured: 'Freeman, L. C. Centrality in social networks: Conceptual clarification.
+    Soc Networks 1, 215–239 (1979).'
+  volume: '1'
+  year: '1979'
+- DOI: 10.1086/229694
+  author: N Friedkin
+  doi-asserted-by: publisher
+  first-page: '1478'
+  journal-title: Am J Sociol
+  key: BFsrep08665_CR3
+  unstructured: Friedkin, N. Theoretical foundations for centrality measures. Am J
+    Sociol 96, 1478–1504 (1991).
+  volume: '96'
+  year: '1991'
+- DOI: 10.1086/228631
+  author: P Bonacich
+  doi-asserted-by: publisher
+  first-page: '1170'
+  journal-title: Am J Sociol
+  key: BFsrep08665_CR4
+  unstructured: 'Bonacich, P. Power and centrality: A family of measures. Am J Sociol
+    92, 1170–1182 (1987).'
+  volume: '92'
+  year: '1987'
+- DOI: 10.1103/RevModPhys.74.47
+  author: R Albert
+  doi-asserted-by: publisher
+  first-page: '47'
+  journal-title: Rev Mod Phys
+  key: BFsrep08665_CR5
+  unstructured: Albert, R. & Barabási, A.-L. Statistical mechanics of complex networks.
+    Rev Mod Phys 74, 47–97 (2002).
+  volume: '74'
+  year: '2002'
+- DOI: 10.1038/nphys1746
+  author: M Kitsak
+  doi-asserted-by: publisher
+  first-page: '888'
+  journal-title: Nature Phys
+  key: BFsrep08665_CR6
+  unstructured: Kitsak, M. et al. Identification of influential spreaders in complex
+    networks. Nature Phys 6, 888–893 (2010).
+  volume: '6'
+  year: '2010'
+- DOI: 10.1103/PhysRevE.71.056103
+  author: E Estrada
+  doi-asserted-by: publisher
+  first-page: '056103'
+  journal-title: Phys Rev E Stat Nonlin Soft Matter Phys
+  key: BFsrep08665_CR7
+  unstructured: Estrada, E. & Rodríguez-Velázquez, J. A. Subgraph centrality in complex
+    networks. Phys Rev E Stat Nonlin Soft Matter Phys 71, 056103 (2005).
+  volume: '71'
+  year: '2005'
+- DOI: 10.1209/0295-5075/99/68007
+  author: F Bauer
+  doi-asserted-by: publisher
+  first-page: '68007'
+  journal-title: Europhys Lett
+  key: BFsrep08665_CR8
+  unstructured: 'Bauer, F. & Lizier, J. T. Identifying influential spreaders and efficiently
+    estimating infection numbers in epidemic models: A walk counting approach. Europhys
+    Lett 99, 68007 (2012).'
+  volume: '99'
+  year: '2012'
+- DOI: 10.1140/epjb/e2012-30793-6
+  author: M Sikic
+  doi-asserted-by: publisher
+  first-page: '1'
+  journal-title: EPJ B
+  key: BFsrep08665_CR9
+  unstructured: Sikic, M., Lancic, A., Antulov-Fantulin, N. & Stefancic, H. Epidemic
+    centrality – is there an underestimated epidemic impact of network peripheral
+    nodes? EPJ B 86, 1–13 (2013).
+  volume: '86'
+  year: '2013'
+- DOI: 10.1016/j.socnet.2004.11.008
+  author: SP Borgatti
+  doi-asserted-by: publisher
+  first-page: '55'
+  journal-title: Soc Networks
+  key: BFsrep08665_CR10
+  unstructured: Borgatti, S. P. Centrality and network flow. Soc Networks 27, 55–71
+    (2005).
+  volume: '27'
+  year: '2005'
+- DOI: 10.1038/srep00292
+  author: K Klemm
+  doi-asserted-by: publisher
+  first-page: '292'
+  journal-title: Sci Rep
+  key: BFsrep08665_CR11
+  unstructured: Klemm, K., Serrano, M., Eguluz, V. M. & Miguel, M. S. A measure of
+    individual role in collective dynamics. Sci Rep 2, 292 (2012).
+  volume: '2'
+  year: '2012'
+- DOI: 10.1098/rstb.2001.0888
+  author: LH Taylor
+  doi-asserted-by: publisher
+  first-page: '983'
+  journal-title: Philos Trans R Soc Lond B Biol Sci
+  key: BFsrep08665_CR12
+  unstructured: Taylor, L. H., Latham, S. M. & Woolhouse, M. E. Risk factors for human
+    disease emergence. Philos Trans R Soc Lond B Biol Sci 356, 983–989 (2001).
+  volume: '356'
+  year: '2001'
+- DOI: 10.1089/vbz.2008.0208
+  author: LA Reperant
+  doi-asserted-by: publisher
+  first-page: '105'
+  journal-title: Vector Borne Zoonotic Dis
+  key: BFsrep08665_CR13
+  unstructured: 'Reperant, L. A. Applying the theory of island biogeography to emerging
+    pathogens: toward predicting the sources of future emerging zoonotic and vector-borne
+    diseases. Vector Borne Zoonotic Dis 10, 105–110 (2010).'
+  volume: '10'
+  year: '2010'
+- key: BFsrep08665_CR14
+  unstructured: 'Christensen, C. M. The Innovator''s Dilemma: When New Technologies
+    Cause Great Firms to Fail (Harvard Business Review Press, Boston, 1997).'
+- key: BFsrep08665_CR15
+  unstructured: 'Cha, M., Haddadi, H., Benevenuto, F. & Gummadi, K. P. Measuring user
+    influence in Twitter: The million follower fallacy. In: Proc International AAAI
+    Conference on Weblogs and Social Media (2010).'
+- DOI: 10.1016/j.physleta.2008.10.069
+  author: B Travençolo
+  doi-asserted-by: publisher
+  first-page: '89'
+  journal-title: Phys Lett A
+  key: BFsrep08665_CR16
+  unstructured: Travençolo, B. & Costa, L. d. F. Accessibility in complex networks.
+    Phys Lett A 373, 89–95 (2008).
+  volume: '373'
+  year: '2008'
+- DOI: 10.1103/PhysRevE.85.036105
+  author: MP Viana
+  doi-asserted-by: publisher
+  first-page: '036105'
+  journal-title: Phys Rev E Stat Nonlin Soft Matter Phys
+  key: BFsrep08665_CR17
+  unstructured: Viana, M. P., Batista, J. L. B. & Costa, L. d. F. Effective number
+    of accessed nodes in complex networks. Phys Rev E Stat Nonlin Soft Matter Phys
+    85, 036105 (2012).
+  volume: '85'
+  year: '2012'
+- DOI: 10.1088/1742-5468/2012/07/P07005
+  author: RAP da Silva
+  doi-asserted-by: publisher
+  first-page: P07005
+  journal-title: J Stat Mech Theor Exp
+  key: BFsrep08665_CR18
+  unstructured: da Silva, R. A. P., Viana, M. P. & da Fontoura Costa, L. Predicting
+    epidemic outbreak from individual features of the spreaders. J Stat Mech Theor
+    Exp 2012, P07005 (2012).
+  volume: '2012'
+  year: '2012'
+- DOI: 10.1016/j.socnet.2005.11.005
+  author: SP Borgatti
+  doi-asserted-by: publisher
+  first-page: '466'
+  journal-title: Soc Networks
+  key: BFsrep08665_CR19
+  unstructured: Borgatti, S. P. & Everett, M. G. A graph-theoretic perspective on
+    centrality. Soc Networks 28, 466–484 (2006).
+  volume: '28'
+  year: '2006'
+- DOI: 10.1016/j.jtbi.2010.01.014
+  author: E Estrada
+  doi-asserted-by: publisher
+  first-page: '556'
+  journal-title: J Theor Biol
+  key: BFsrep08665_CR20
+  unstructured: Estrada, E. Generalized walks-based centrality measures for complex
+    biological networks. J Theor Biol 263, 556–565 (2010).
+  volume: '263'
+  year: '2010'
+- key: BFsrep08665_CR21
+  unstructured: Benzi, M. & Klymko, C. A matrix analysis of different centrality measures
+    (2013). URL arXiv:1312.6722[math.NA].
+- key: BFsrep08665_CR22
+  unstructured: 'Anderson, R. M. & May, R. M. Infectious Diseases of Humans: Dynamics
+    and Control (Oxford University Press, Oxford, 1992).'
+- DOI: 10.1137/1.9781611973099.130
+  doi-asserted-by: crossref
+  key: BFsrep08665_CR23
+  unstructured: 'Fountoulakis, N., Panagiotou, K. & Sauerwald, T. Ultra-fast rumor
+    spreading in social networks. In: Proc Twenty-Third Annual ACM-SIAM Symposium
+    on Discrete Algorithms, SODA ''12, 1642–1660 (SIAM, 2012).'
+- DOI: 10.1126/science.286.5439.509
+  author: AL Barabasi
+  doi-asserted-by: publisher
+  first-page: '509'
+  journal-title: Science
+  key: BFsrep08665_CR24
+  unstructured: Barabasi, A. L. & Albert, R. Emergence of scaling in random networks.
+    Science 286, 509–512 (1999).
+  volume: '286'
+  year: '1999'
+- DOI: 10.1038/nature02289
+  author: E Almaas
+  doi-asserted-by: publisher
+  first-page: '839'
+  journal-title: Nature
+  key: BFsrep08665_CR25
+  unstructured: Almaas, E., Kovcs, B., Vicsek, T., Oltvai, Z. N. & Barabsi, A.-L.
+    Global organization of metabolic fluxes in the bacterium escherichia coli. Nature
+    427, 839–843 (2004).
+  volume: '427'
+  year: '2004'
+- DOI: 10.1016/j.physrep.2009.05.002
+  author: H Touchette
+  doi-asserted-by: publisher
+  first-page: '1'
+  journal-title: Phys Rep
+  key: BFsrep08665_CR26
+  unstructured: Touchette, H. The large deviation approach to statistical mechanics.
+    Phys Rep 478, 1–69 (2009).
+  volume: '478'
+  year: '2009'
+- DOI: 10.1145/1217299.1217301
+  doi-asserted-by: crossref
+  key: BFsrep08665_CR27
+  unstructured: 'Leskovec, J., Kleinberg, J. M. & Faloutsos, C. Graph evolution: Densification
+    and shrinking diameters. ACM Trans. Knowl. Discov. Data 1 (2007).'
+- key: BFsrep08665_CR28
+  unstructured: 'Mersmann, O. Microbenchmark: Sub microsecond accurate timing functions.
+    (2013). R package version 1.3-0. URL http://CRAN.R-project.org/package=microbenchmark
+    . (Date of access: 14/02/2014.'
+- key: BFsrep08665_CR29
+  unstructured: 'R Core Team. R: A Language and Environment for Statistical Computing.
+    R Foundation for Statistical Computing, Vienna, Austria (2012). URL http://www.R-project.org/
+    ISBN 3-900051-07-0.'
+- key: BFsrep08665_CR30
+  unstructured: Csardi, G. & Nepusz, T. The igraph software package for complex network
+    research. Inter- Journal Complex Systems, 1695 (2006).
+- key: BFsrep08665_CR31
+  unstructured: 'Bates, D. & Maechler, M. Matrix: Sparse and Dense Matrix Classes
+    and Methods (2012).R package version 1.0-10. URL http://CRAN.R-project.org/package=Matrix
+    . Date of access: 12/11/2013.'
+- DOI: 10.1016/0378-8733(83)90028-X
+  author: SB Seidman
+  doi-asserted-by: publisher
+  first-page: '269'
+  journal-title: Soc Networks
+  key: BFsrep08665_CR32
+  unstructured: Seidman, S. B. Network structure and minimum degree. Soc Networks
+    5, 269–287 (1983).
+  volume: '5'
+  year: '1983'
+- DOI: 10.1016/S0378-8733(03)00012-1
+  author: E Costenbader
+  doi-asserted-by: publisher
+  first-page: '283'
+  journal-title: Soc Networks
+  key: BFsrep08665_CR33
+  unstructured: Costenbader, E. & Valente, T. W. The stability of centrality measures
+    when networks are sampled. Soc Networks 25, 283–307 (2003).
+  volume: '25'
+  year: '2003'
+- DOI: 10.1038/ncomms1396
+  author: G Ghoshal
+  doi-asserted-by: publisher
+  first-page: '394'
+  journal-title: Nat Commun
+  key: BFsrep08665_CR34
+  unstructured: Ghoshal, G. & Barabsi, A. L. Ranking stability and super-stable nodes
+    in complex networks. Nat Commun 2, 394 (2011).
+  volume: '2'
+  year: '2011'
+- key: BFsrep08665_CR35
+  unstructured: Adiga, A., Kumar, A. & Vullikanti, S. How robust is the core of a
+    network? In [Blockeel, H., Kersting, K. Nijssen, S. and Zelezný, F. (ed.)] [541–556]
+    ECML/PKDD, Springer (2013).
+- DOI: 10.1126/science.1061076
+  author: AL Lloyd
+  doi-asserted-by: publisher
+  first-page: '1316'
+  journal-title: Science
+  key: BFsrep08665_CR36
+  unstructured: Lloyd, A. L. & May, R. M. Epidemiology. How viruses spread among computers
+    and people. Science 292, 1316–1317 (2001).
+  volume: '292'
+  year: '2001'
+- DOI: 10.1103/PhysRevE.66.016128
+  author: MEJ Newman
+  doi-asserted-by: publisher
+  first-page: 016128
+  journal-title: Phys Rev E Stat Nonlin Soft Matter Phys
+  key: BFsrep08665_CR37
+  unstructured: Newman, M. E. J. Spread of epidemic disease on networks. Phys Rev
+    E Stat Nonlin Soft Matter Phys 66, 016128 (2002).
+  volume: '66'
+  year: '2002'
+- DOI: 10.1371/journal.pone.0069028
+  author: RR Wilkinson
+  doi-asserted-by: publisher
+  first-page: e69028
+  journal-title: PLoS One
+  key: BFsrep08665_CR38
+  unstructured: Wilkinson, R. R. & Sharkey, K. J. An exact relationship between invasion
+    probability and endemic prevalence for Markovian SIS dynamics on networks. PLoS
+    One 8, e69028 (2013).
+  volume: '8'
+  year: '2013'
+- DOI: 10.1007/s00285-007-0116-4
+  author: E Volz
+  doi-asserted-by: crossref
+  first-page: '293'
+  journal-title: J Math Biol
+  key: BFsrep08665_CR39
+  unstructured: Volz, E. SIR dynamics in random networks with heterogeneous connectivity.
+    J Math Biol 5, 293–310 (2008).
+  volume: '5'
+  year: '2008'
+- author: M Bressan
+  first-page: '199'
+  journal-title: JDA
+  key: BFsrep08665_CR40
+  unstructured: Bressan, M. & Peserico, E. Choose the damping, choose the ranking?
+    JDA 8, 199–213 (2010).
+  volume: '8'
+  year: '2010'
+- DOI: 10.1103/PhysRevE.86.066104
+  author: S-W Son
+  doi-asserted-by: publisher
+  first-page: '066104'
+  journal-title: Phys Rev E Stat Nonlin Soft Matter Phys
+  key: BFsrep08665_CR41
+  unstructured: Son, S.-W., Christensen, C., Grassberger, P. & Paczuski, M. Pagerank
+    and rank-reversal dependence on the damping factor. Phys Rev E Stat Nonlin Soft
+    Matter Phys 86, 066104 (2012).
+  volume: '86'
+  year: '2012'
+- DOI: 10.1145/1232722.1232727
+  doi-asserted-by: crossref
+  key: BFsrep08665_CR42
+  unstructured: Leskovec, J., Adamic, L. A. & Huberman, B. A. The dynamics of viral
+    marketing. ACM Trans. Web 1 Article 5 (2007).
+- author: J Leskovec
+  first-page: '29'
+  journal-title: Inter Math
+  key: BFsrep08665_CR43
+  unstructured: 'Leskovec, J., Lang, K. J., Dasgupta, A. & Mahoney, M. W. Community
+    structure in large networks: Natural cluster sizes and the absence of large well-defined
+    clusters. Inter Math 6, 29–123 (2009).'
+  volume: '6'
+  year: '2009'
+- DOI: 10.1145/1592665.1592675
+  doi-asserted-by: crossref
+  key: BFsrep08665_CR44
+  unstructured: 'Viswanath, B., Mislove, A., Cha, M. & Gummadi, K. P. On the evolution
+    of user interaction in Facebook. In: Proc 2nd ACM SIGCOMM Workshop on Social Networks
+    (WOSN''09) (2009).'
+- DOI: 10.1007/PL00012580
+  author: F Chung
+  doi-asserted-by: publisher
+  first-page: '125'
+  journal-title: Ann Comb
+  key: BFsrep08665_CR45
+  unstructured: Chung, F. & Lu, L. Connected components in random graphs with given
+    expected degree sequences. Ann Comb 6, 125–145 (2002).
+  volume: '6'
+  year: '2002'
+- DOI: 10.1103/PhysRevE.70.056122
+  author: M Boguñá
+  doi-asserted-by: publisher
+  first-page: '056122'
+  journal-title: Phys Rev E Stat Nonlin Soft Matter Phys
+  key: BFsrep08665_CR46
+  unstructured: Boguñá, M., Pastor-Satorras, R., Díaz-Guilera, A. & Arenas, A. Models
+    of social networks based on social distance attachment. Phys Rev E Stat Nonlin
+    Soft Matter Phys 70, 056122 (2004).
+  volume: '70'
+  year: '2004'
+- DOI: 10.1145/1081870.1081893
+  doi-asserted-by: publisher
+  key: BFsrep08665_CR47
+  unstructured: 'Leskovec, J., Kleinberg, J. & Faloutsos, C. Graphs over time: Densification
+    laws, shrinking diameters and possible explanations. In: Proceedings of the Eleventh
+    ACM SIGKDD International Conference on Knowledge Discovery in Data Mining, KDD
+    ''05, 177–187 (ACM, New York, NY, USA, 2005). URL http://doi.acm.org/10.1145/1081870.1081893
+    .'
+- DOI: 10.1145/2350190.2350193
+  doi-asserted-by: crossref
+  key: BFsrep08665_CR48
+  unstructured: 'Yang, J. & Leskovec, J. Defining and evaluating network communities
+    based on ground-truth. In: Proc ACM SIGKDD Workshop on Mining Data Semantics,
+    MDS ''12, 3:1–3:8 (ACM, New YorkNY, USA, 2012).'
+- DOI: 10.1103/PhysRevE.68.065103
+  author: R Guimerà
+  doi-asserted-by: publisher
+  first-page: '065103'
+  journal-title: Phys Rev E Stat Nonlin Soft Matter Phys
+  key: BFsrep08665_CR49
+  unstructured: Guimerà, R., Danon, L., Díaz-Guilera, A., Giralt, F. & Arenas, A.
+    Self-similar community structure in a network of human interactions. Phys Rev
+    E Stat Nonlin Soft Matter Phys 68, 065103 (2003).
+  volume: '68'
+  year: '2003'
+- key: BFsrep08665_CR50
+  unstructured: 'Cho, E., Myers, S. A. & Leskovec, J. Friendship and mobility: User
+    movement in location-based social networks. In: Proc 17th ACM SIGKDD International
+    Conference on Knowledge Discovery and Data Mining, KDD ''11, 1082–1090 (ACM, New
+    YorkNY, USA, 2011).'
+- DOI: 10.1007/978-3-540-39718-2_23
+  doi-asserted-by: crossref
+  key: BFsrep08665_CR51
+  unstructured: Richardson, M., Agrawal, R. & Domingos, P. Trust management for the
+    semantic web. In Fensel, D., Sycara, K. & Mylopoulos, J. (eds.) The Semantic Web
+    - ISWC 2003, vol. 2870 of Lecture Notes in Computer Science, 351–368 (Springer
+    Berlin/Heidelberg, 2003).
+- DOI: 10.1145/1753326.1753532
+  doi-asserted-by: crossref
+  key: BFsrep08665_CR52
+  unstructured: 'Leskovec, J., Huttenlocher, D. & Kleinberg, J. Signed networks in
+    social media. In: Proc SIGCHI Conference on Human Factors in Computing Systems,
+    CHI ''10, 1361–1370 (ACM, New YorkNY, USA, 2010).'
+- DOI: 10.1038/43601
+  author: R Albert
+  doi-asserted-by: publisher
+  first-page: '130'
+  journal-title: Nature
+  key: BFsrep08665_CR53
+  unstructured: 'Albert, R., Jeong, H. & Barabási, A. Internet: Diameter of the world-wide
+    web. Nature 401, 130–131 (1999).'
+  volume: '401'
+  year: '1999'
+reference-count: 53
+references-count: 53
+relation:
+  cites: []
+score: 1.0
+short-container-title:
+- Sci Rep
+source: Crossref
+subject:
+- Multidisciplinary
+tags: network graph-theory math node-influence centrality graph-theory spreading-power
+  continuous-time
+time-added: 2021-04-22-15:34:29
+title:
+- Understanding the influence of all nodes in a network
+type: journal-article
+update-policy: http://dx.doi.org/10.1007/springer_crossmark_policy
+url: http://arxiv.org/abs/1405.6707v2
+volume: '5'
+year: '2014'

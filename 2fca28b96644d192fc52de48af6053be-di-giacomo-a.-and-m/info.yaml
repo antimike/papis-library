@@ -1,0 +1,67 @@
+author: Di Giacomo, A. and Martelli, D. and Paffuti, G.
+author_list:
+- affiliation: []
+  family: Di Giacomo
+  given: A.
+- affiliation: []
+  family: Martelli
+  given: D.
+- affiliation: []
+  family: Paffuti
+  given: G.
+citations:
+- author: Brezin
+  doi: 10.1016/0550-3213(85)90379-7
+  first-page: '867'
+  journal-title: Nucl. Phys. B
+  volume: '257'
+  year: '1985'
+- author: Di Giacomo
+  doi: 10.1103/PhysRevD.56.6816
+  first-page: '6816'
+  journal-title: Phys. Rev. D
+  volume: '56'
+  year: '1997'
+- author: Del Debbio
+  doi: 10.1016/0370-2693(95)00702-M
+  first-page: '255'
+  journal-title: Phys. Lett. B
+  volume: '355'
+  year: '1995'
+- author: Di Cecio
+  doi: 10.1016/S0550-3213(97)00019-9
+  first-page: '739'
+  journal-title: Nucl. Phys. B
+  volume: '489'
+  year: '1997'
+- author: Di Giacomo
+  doi: 10.1016/S0370-2693(97)00330-4
+  first-page: '129'
+  journal-title: Phys. Lett. B
+  volume: '400'
+  year: '1997'
+- author: Peczak
+  doi: 10.1103/PhysRevB.43.6087
+  first-page: '6087'
+  journal-title: Phys. Rev.
+  volume: '43'
+  year: '1991'
+doc_url: https://api.elsevier.com/content/article/PII:S0920563299851913?httpAccept=text/plain
+doi: 10.1016/s0920-5632(99)85191-3
+files:
+- vortex-disorder-parameter-condensation-3d-heisenberg.pdf
+issue: 1-3
+journal: Nuclear Physics B - Proceedings Supplements
+language: en
+month: 3
+pages: 745--747
+publisher: Elsevier BV
+ref: CondensationOfDiGia1999
+tags: heisenberg-model vortex disorder-parameter statistical-physics ferromagnetism
+  phase-transition
+time-added: 2021-04-22-17:33:15
+title: Condensation of vortices and disorder parameter in 3d Heisenberg model
+type: article
+url: http://dx.doi.org/10.1016/s0920-5632(99)85191-3
+volume: '73'
+year: 1999

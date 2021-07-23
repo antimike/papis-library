@@ -1,0 +1,46 @@
+abstract: Many infrastructure networks have a modular structure and are also interdependent.
+  While significant research has explored the resilience of interdependent networks,
+  there has been no analysis of the effects of modularity. Here we develop a theoretical
+  framework for attacks on interdependent modular networks and support our results
+  by simulations. We focus on the case where each network has the same number of communities
+  and the dependency links are restricted to be between pairs of communities of different
+  networks. This is very realistic for infrastructure across cities. Each city has
+  its own infrastructures and different infrastructures are dependent within the city.
+  However, each infrastructure is connected within and between cities. For example,
+  a power grid will connect many cities as will a communication network, yet a power
+  station and communication tower that are interdependent will likely be in the same
+  city. It has been shown that single networks are very susceptible to the failure
+  of the interconnected nodes (between communities) Shai et al. and that attacks on
+  these nodes are more crippling than attacks based on betweenness da Cunha et al.
+  In our example of cities these nodes have long range links which are more likely
+  to fail. For both treelike and looplike interdependent modular networks we find
+  distinct regimes depending on the number of modules, $m$. (i) In the case where
+  there are fewer modules with strong intraconnections, the system first separates
+  into modules in an abrupt first-order transition and then each module undergoes
+  a second percolation transition. (ii) When there are more modules with many interconnections
+  between them, the system undergoes a single transition. Overall, we find that modular
+  structure can influence the type of transitions observed in interdependent networks
+  and should be considered in attempts to make interdependent networks more resilient.
+archiveprefix: arXiv
+author: Shekhtman, Louis and Shai, Saray and Havlin, Shlomo
+author_list:
+- family: Shekhtman
+  given: Louis
+- family: Shai
+  given: Saray
+- family: Havlin
+  given: Shlomo
+doi: 10.1088/1367-2630/17/12/123007
+eprint: 1508.01352v1
+file: 1508.01352v1.pdf
+files:
+- tmp5imsihmq.pdf
+month: Aug
+primaryclass: physics.soc-ph
+ref: 1508.01352v1
+tags: network graph-theory math network-resilience interdependent-network modular-network
+time-added: 2021-04-22-10:42:22
+title: Resilience of Networks Formed of Interdependent Modular Networks
+type: article
+url: http://arxiv.org/abs/1508.01352v1
+year: '2015'

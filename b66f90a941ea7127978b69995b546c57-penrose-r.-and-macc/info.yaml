@@ -1,0 +1,344 @@
+author: Penrose, R. and MacCallum, M.A.H.
+author_list:
+- affiliation: []
+  family: Penrose
+  given: R.
+- affiliation: []
+  family: MacCallum
+  given: M.A.H.
+citations:
+- author: Penrose
+  series-title: Combinatorial mathematics and its applications
+  year: '1971'
+- author: Penrose
+  series-title: Battelle Rencontres 1967
+  year: '1968'
+- author: Kuiper
+  doi: 10.2307/1969587
+  first-page: '916'
+  journal-title: Ann Math.
+  volume: '50'
+  year: '1949'
+- article-title: Dissertation
+  author: Rudberg
+  year: '1958'
+- author: Penrose
+  series-title: Proc. 1962 Conf. on Relativistic theories of gravitation
+  year: '1965'
+- author: Uhlmann
+  first-page: '293'
+  journal-title: Acta Phys. Polon.
+  volume: '24'
+  year: '1963'
+- author: Penrose
+  first-page: '159'
+  volume: '284'
+  year: '1965'
+- author: Penrose
+  doi: 10.1063/1.1705200
+  first-page: '345'
+  journal-title: J. Math. Phys.
+  volume: '8'
+  year: '1967'
+- author: Cartan
+  doi: 10.24033/asens.676
+  first-page: '263'
+  journal-title: Ann. Ecole Norm. Super.
+  volume: '31'
+  year: '1914'
+- author: Klein
+  series-title: Gesammelte Math. Abh.
+  year: '1921'
+- author: Weyl
+  series-title: The classical groups
+  year: '1939'
+- author: Brauer
+  doi: 10.2307/2371218
+  first-page: '425'
+  journal-title: Amer. J. Math.
+  volume: '57'
+  year: '1935'
+- author: Eisenhart
+  series-title: Continuous groups of transformations
+  year: '1933'
+- author: Laue
+  doi: 10.1007/BF02899941
+  first-page: '55'
+  journal-title: Nuovo Cimento
+  volume: '38'
+  year: '1971'
+- author: Penrose
+  doi: 10.1016/0003-4916(60)90021-X
+  first-page: '171'
+  journal-title: Ann. Phys. (N.Y.)
+  volume: '10'
+  year: '1960'
+- author: Newman
+  doi: 10.1063/1.1724257
+  first-page: '566'
+  journal-title: J. Math. Phys.
+  volume: '3'
+  year: '1962'
+- author: Whittaker
+  first-page: '38'
+  volume: '158'
+  year: '1937'
+- author: Payne
+  doi: 10.1119/1.1933190
+  first-page: '253'
+  journal-title: Amer. J. Phys.
+  volume: '20'
+  year: '1952'
+- article-title: Null hypersurface initial data
+  author: Penrose
+  series-title: A.R.L. Techn. Report 63-56
+  year: '1963'
+- author: Dirac
+  first-page: '447'
+  volume: '155'
+  year: '1936'
+- author: Fierz
+  first-page: '211'
+  volume: '173'
+  year: '1939'
+- author: Wigner
+  first-page: '211'
+  volume: '34'
+  year: '1948'
+- author: Cunningham
+  first-page: '77'
+  volume: '8'
+  year: '1910'
+- author: Bateman
+  first-page: '223'
+  volume: '8'
+  year: '1910'
+- author: McLennan
+  doi: 10.1007/BF02785012
+  first-page: '1360'
+  journal-title: Nuovo Cimento
+  volume: '10'
+  year: '1956'
+- author: Buchdahl
+  doi: 10.1007/BF02726519
+  first-page: '496'
+  journal-title: Nuovo Cimento
+  volume: '11'
+  year: '1959'
+- author: Sachs
+  doi: 10.1103/PhysRev.112.674
+  first-page: '674'
+  journal-title: Phys. Rev.
+  volume: '112'
+  year: '1958'
+- author: van der Waerden
+  first-page: '100'
+  journal-title: Nachrichten von der Gesellschaft der Wiss. Gottingen
+  year: '1929'
+- author: Hepner
+  doi: 10.1007/BF02787046
+  first-page: '351'
+  journal-title: Nuovo Cimento
+  volume: '26'
+  year: '1962'
+- author: Murai
+  doi: 10.1143/PTP.9.147
+  first-page: '147'
+  journal-title: Prog. Theoret. Phys.
+  volume: '9'
+  year: '1953'
+- author: Murai
+  doi: 10.1143/PTP.11.441
+  first-page: '441'
+  journal-title: Prog. Theoret. Phys.
+  volume: '11'
+  year: '1954'
+- doi: 10.1016/0029-5582(58)90199-8
+  first-page: '489'
+  journal-title: Nucl. Phys.
+  volume: '6'
+  year: '1958'
+- author: Segal
+  first-page: '194'
+  volume: '57'
+  year: '1967'
+- author: Bondi
+  doi: 10.1038/186535a0
+  first-page: '535'
+  journal-title: Nature
+  volume: '186'
+  year: '1960'
+- author: Bondi
+  first-page: '21'
+  volume: '269'
+  year: '1962'
+- author: Sachs
+  first-page: '103'
+  volume: '270'
+  year: '1962'
+- author: Newman
+  doi: 10.1063/1.1724303
+  first-page: '891'
+  journal-title: J. Math. Phys.
+  volume: '3'
+  year: '1962'
+- article-title: Ph.D. thesis
+  author: Grgin
+  year: '1966'
+- author: Todd
+  series-title: Projective and analytic geometry
+  year: '1947'
+- author: Semple
+  series-title: Introduction to algebraic geometry
+  year: '1949'
+- author: Penrose
+  doi: 10.1007/BF00668831
+  first-page: '61'
+  journal-title: Int. J. Theor. Phys.
+  volume: '1'
+  year: '1968'
+- author: Robinson
+  doi: 10.1063/1.1703712
+  first-page: '290'
+  journal-title: J. Math. Phys.
+  volume: '2'
+  year: '1961'
+- author: Kopczynski
+  doi: 10.1016/0034-4877(71)90017-6
+  first-page: '35'
+  journal-title: Reports Math. Phys.
+  volume: '2'
+  year: '1971'
+- author: Penrose
+  doi: 10.1063/1.1664756
+  first-page: '38'
+  journal-title: J. Math. Phys.
+  volume: '10'
+  year: '1969'
+- author: Streater
+  series-title: PCT, spin statistics and all that
+  year: '1964'
+- author: Crampin
+  series-title: Relativity and gravitation
+  year: '1971'
+- author: Hicks
+  series-title: Notes on differential geometry
+  year: '1965'
+- author: Brinkmann
+  first-page: '1'
+  volume: '9'
+  year: '1923'
+- author: Ehlers
+  series-title: Gravitation; an introduction to current research
+  year: '1962'
+- author: Penrose
+  series-title: General relativity (Papers in honour of J.L. Synge)
+  year: '1972'
+- author: Fierz
+  first-page: '45'
+  journal-title: Helv. Phys. Acta
+  volume: '13'
+  year: '1940'
+- author: Robinson
+  first-page: '463'
+  volume: '265'
+  year: '1962'
+- article-title: Ph.D. thesis
+  author: Qadir
+  year: '1971'
+- author: Penrose
+  series-title: An analysis of the structure of spacetime
+  year: '1967'
+- author: Fulton
+  doi: 10.1103/RevModPhys.34.442
+  first-page: '442'
+  journal-title: Rev. Mod. Phys.
+  volume: '34'
+  year: '1962'
+- author: Trautman
+  volume: vol. 1
+  year: '1965'
+- author: Gross
+  doi: 10.1063/1.1704164
+  first-page: '687'
+  journal-title: J. Math. and Phys.
+  volume: '5'
+  year: '1963'
+- author: Penrose
+  series-title: Quantum theory and beyond
+  year: '1972'
+- author: Penrose
+  series-title: 'Magic without magic: John Archibald Wheeler'
+  year: '1972'
+- author: Flato
+  doi: 10.1016/0003-4916(70)90377-5
+  first-page: '78'
+  journal-title: Ann. Phys. (N.Y.)
+  volume: '61'
+  year: '1970'
+- author: Kastrupp
+  doi: 10.1103/PhysRev.142.1060
+  first-page: '1060'
+  journal-title: Phys. Rev.
+  volume: '142'
+  year: '1966'
+- author: Infeld
+  first-page: '380'
+  journal-title: Sitz. ber. Preuss. Akad.
+  volume: '9'
+  year: '1933'
+- article-title: Relativity, groups and topology
+  author: Penrose
+  series-title: Les Houches lectures 1963
+  year: '1964'
+- author: Penrose
+  volume: vol. 1
+  year: '1967'
+- author: Newman
+  first-page: '175'
+  volume: '305'
+  year: '1968'
+- author: Aronson
+  doi: 10.1063/1.1665558
+  first-page: '2462'
+  journal-title: J. Math. Phys.
+  volume: '12'
+  year: '1971'
+- author: Helgason
+  series-title: Differential geometry and symmetric spaces
+  year: '1962'
+- article-title: Tensor analysis,
+  author: Nelson
+  series-title: Mathematical Notes
+  year: '1967'
+- author: Synge
+  series-title: Relativityl the special theory
+  year: '1956'
+- author: Kerr
+  doi: 10.1103/PhysRevLett.11.237
+  first-page: '237'
+  journal-title: Phys. Rev. Letters
+  volume: '11'
+  year: '1963'
+- author: Bjorken
+  series-title: Relativistic quantum fields
+  year: '1965'
+doc_url: https://api.elsevier.com/content/article/PII:0370157373900082?httpAccept=text/plain
+doi: 10.1016/0370-1573(73)90008-2
+files:
+- tmpr4zjtayr.data
+- twistor-theory-quantization-stem-paper-a.pdf
+issue: '4'
+journal: Physics Reports
+language: en
+month: 2
+pages: 241--315
+publisher: Elsevier BV
+ref: TwistorTheoryPenros1973
+tags: quantization twistor spacetime conformal qft minkowski sr stem-paper penrose
+time-added: 2021-04-22-13:56:42
+title: 'Twistor theory: An approach to the quantisation of fields and space-time'
+type: article
+url: http://dx.doi.org/10.1016/0370-1573(73)90008-2
+volume: '6'
+year: 1973

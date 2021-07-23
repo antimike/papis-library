@@ -1,0 +1,48 @@
+abstract: A new numerical method is introduced to study the problem of time evolution
+  of generic non-linear dynamical systems in four-dimensional spacetimes. It is assumed
+  that the time level surfaces are foliated by a one-parameter family of codimension
+  two compact surfaces with no boundary and which are conformal to a Riemannian manifold
+  C. The method is based on the use of a multipole expansion determined uniquely by
+  the induced metric structure on C. The approach is fully spectral in the angular
+  directions. The dynamics in the complementary 1+1 Lorentzian spacetime is followed
+  by making use of a fourth order finite differencing scheme with adaptive mesh refinement.   In
+  checking the reliability of the introduced new method the evolution of a massless
+  scalar field on a fixed Kerr spacetime is investigated. In particular, the angular
+  distribution of the evolving field in to be superradiant scattering is studied.
+  The primary aim was to check the validity of some of the recent arguments claiming
+  that the Penrose process, or its field theoretical correspondence---superradiance---does
+  play crucial role in jet formation in black hole spacetimes while matter accretes
+  onto the central object. Our findings appear to be on contrary to these claims as
+  the angular dependence of a to be superradiant scattering of a massless scalar field
+  does not show any preference of the axis of rotation. In addition, the process of
+  superradiance, in case of a massless scalar field, was also investigated. On contrary
+  to the general expectations no energy extraction from black hole was found even
+  though the incident wave packets was fine tuned to be maximally superradiant. Instead
+  of energy extraction the to be superradiant part of the incident wave packet fails
+  to reach the ergoregion rather it suffers a total reflection which appears to be
+  a new phenomenon.
+archiveprefix: arXiv
+author: Csizmadia, Peter and Laszlo, Andras and Racz, Istvan
+author_list:
+- family: Csizmadia
+  given: Peter
+- family: Laszlo
+  given: Andras
+- family: Racz
+  given: Istvan
+doi: 10.1088/0264-9381/30/1/015010
+eprint: 1207.5837v2
+file: 1207.5837v2.pdf
+files:
+- tmpvbyyzit1.pdf
+month: Jul
+note: Class. Quantum Grav. 30 (2013) 015010
+primaryclass: gr-qc
+ref: 1207.5837v2
+tags: multipole nonlinearity dynamical-system superradiance
+time-added: 2021-04-22-12:14:51
+title: On the Use of Multipole Expansion in Time Evolution of Non-linear   Dynamical
+  Systems and Some Surprises Related to Superradiance
+type: article
+url: http://arxiv.org/abs/1207.5837v2
+year: '2012'

@@ -1,0 +1,39 @@
+abstract: Network representations are useful for describing the structure of a large
+  variety of complex systems. Although most studies of real-world networks suppose
+  that nodes are connected by only a single type of edge, most natural and engineered
+  systems include multiple subsystems and layers of connectivity. This new paradigm
+  has attracted a great deal of attention and one fundamental challenge is to characterize
+  multilayer networks both structurally and dynamically. One way to address this question
+  is to study the spectral properties of such networks. Here, we apply the framework
+  of graph quotients, which occurs naturally in this context, and the associated eigenvalue
+  interlacing results, to the adjacency and Laplacian matrices of undirected multilayer
+  networks. Specifically, we describe relationships between the eigenvalue spectra
+  of multilayer networks and their two most natural quotients, the network of layers
+  and the aggregate network, and show the dynamical implications of working with either
+  of the two simplified representations. Our work thus contributes in particular to
+  the study of dynamical processes whose critical properties are determined by the
+  spectral properties of the underlying network.
+archiveprefix: arXiv
+author: Sánchez-García, Rubén J. and Cozzo, Emanuele and Moreno, Yamir
+author_list:
+- family: Sánchez-García
+  given: Rubén J.
+- family: Cozzo
+  given: Emanuele
+- family: Moreno
+  given: Yamir
+doi: 10.1103/PhysRevE.89.052815
+eprint: 1311.1759v4
+file: 1311.1759v4.pdf
+files:
+- tmp60f1poni.pdf
+month: Nov
+note: Phys. Rev. E 89, 052815 (2014)
+primaryclass: physics.soc-ph
+ref: 1311.1759v4
+tags: network graph-theory math dimensionality-reduction spectral multilayer-network
+time-added: 2021-04-22-10:38:06
+title: Dimensionality reduction and spectral properties of multilayer networks
+type: article
+url: http://arxiv.org/abs/1311.1759v4
+year: '2013'
