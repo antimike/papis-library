@@ -1,0 +1,286 @@
+DOI: 10.1002/jgt.22057
+ISSN:
+- 0364-9024
+URL: http://dx.doi.org/10.1002/jgt.22057
+archive:
+- Portico
+author:
+- affiliation:
+  - name: DEPARTMENT OF MATHEMATICS; SIMON FRASER UNIVERSITY; BURNABY BC CANADA
+  family: Guo
+  given: Krystal
+  sequence: first
+- affiliation:
+  - name: DEPARTMENT OF MATHEMATICS; SIMON FRASER UNIVERSITY; BURNABY BC CANADA
+  family: Mohar
+  given: Bojan
+  sequence: additional
+container-title:
+- Journal of Graph Theory
+content-domain:
+  crossmark-restriction: false
+  domain: []
+created:
+  date-parts:
+  - - 2016
+    - 6
+    - 17
+  date-time: '2016-06-17T10:39:12Z'
+  timestamp: 1466159952000
+deposited:
+  date-parts:
+  - - 2018
+    - 8
+    - 6
+  date-time: '2018-08-06T21:01:58Z'
+  timestamp: 1533589318000
+funder:
+- DOI: 10.13039/501100000038
+  award: []
+  doi-asserted-by: publisher
+  name: Natural Sciences and Engineering Research Council of Canada
+- DOI: 10.13039/501100004329
+  award: []
+  doi-asserted-by: publisher
+  name: Javna Agencija za Raziskovalno Dejavnost RS
+- award: []
+  name: NSERC Discovery Grant
+- award: []
+  name: Canada Research Chair program
+indexed:
+  date-parts:
+  - - 2021
+    - 3
+    - 6
+  date-time: '2021-03-06T08:44:09Z'
+  timestamp: 1615020249774
+is-referenced-by-count: 33
+issn-type:
+- type: print
+  value: 0364-9024
+issue: '1'
+issued:
+  date-parts:
+  - - 2016
+    - 6
+    - 17
+journal-issue:
+  issue: '1'
+  published-print:
+    date-parts:
+    - - 2017
+      - 5
+language: en
+license:
+- URL: http://doi.wiley.com/10.1002/tdm_license_1
+  content-version: tdm
+  delay-in-days: 0
+  start:
+    date-parts:
+    - - 2016
+      - 6
+      - 17
+    date-time: '2016-06-17T00:00:00Z'
+    timestamp: 1466121600000
+- URL: http://onlinelibrary.wiley.com/termsAndConditions
+  content-version: vor
+  delay-in-days: 0
+  start:
+    date-parts:
+    - - 2016
+      - 6
+      - 17
+    date-time: '2016-06-17T00:00:00Z'
+    timestamp: 1466121600000
+link:
+- URL: https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fjgt.22057
+  content-type: application/pdf
+  content-version: vor
+  intended-application: text-mining
+- URL: https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fjgt.22057
+  content-type: unspecified
+  content-version: vor
+  intended-application: text-mining
+- URL: https://onlinelibrary.wiley.com/doi/full/10.1002/jgt.22057
+  content-type: unspecified
+  content-version: vor
+  intended-application: similarity-checking
+member: '311'
+original-title: []
+page: 217-248
+prefix: '10.1002'
+published-online:
+  date-parts:
+  - - 2016
+    - 6
+    - 17
+published-print:
+  date-parts:
+  - - 2017
+    - 5
+publisher: Wiley
+reference:
+- author: Biggs
+  key: 10.1002/jgt.22057-BIB0001|jgt22057-cit-0001
+  volume-title: Algebraic Graph Theory
+  year: '1993'
+- DOI: 10.1007/978-1-4614-1939-6
+  author: Brouwer
+  doi-asserted-by: crossref
+  key: 10.1002/jgt.22057-BIB0002|jgt22057-cit-0002
+  volume-title: Spectra of Graphs
+  year: '2012'
+- DOI: 10.1016/j.laa.2012.01.019
+  article-title: Skew-adjacency matrices of graphs
+  author: Cavers
+  doi-asserted-by: crossref
+  first-page: '4512'
+  issue: '12'
+  journal-title: Linear Algebra Appl
+  key: 10.1002/jgt.22057-BIB0003|jgt22057-cit-0003
+  volume: '436'
+  year: '2012'
+- DOI: 10.1007/BF02941924
+  article-title: Spektren endlicher Grafen
+  author: Collatz
+  doi-asserted-by: crossref
+  first-page: '63'
+  journal-title: Abh Math Sem Univ Hamburg
+  key: 10.1002/jgt.22057-BIB0004|jgt22057-cit-0004
+  volume: '21'
+  year: '1957'
+- author: "Cvetkovi\u0107"
+  key: 10.1002/jgt.22057-BIB0005|jgt22057-cit-0005
+  volume-title: Spectra of Graphs
+  year: '1995'
+- author: Davis
+  key: 10.1002/jgt.22057-BIB0006|jgt22057-cit-0006
+  volume-title: A Wiley-Interscience Publication, Pure and Applied Mathematics
+  year: '1979'
+- DOI: 10.1007/978-1-4613-0163-9
+  author: Godsil
+  doi-asserted-by: crossref
+  key: 10.1002/jgt.22057-BIB0007|jgt22057-cit-0007
+  volume-title: Algebraic Graph Theory
+  year: '2001'
+- DOI: 10.1016/0024-3795(93)90281-R
+  article-title: Pick's inequality and tournaments
+  author: Gregory
+  doi-asserted-by: crossref
+  first-page: '15'
+  journal-title: Linear Algebra Appl
+  key: 10.1002/jgt.22057-BIB0008|jgt22057-cit-0008
+  volume: '186'
+  year: '1993'
+- key: 10.1002/jgt.22057-BIB0009|jgt22057-cit-0009
+  unstructured: Krystal Guo Simple eigenvalues of graphs and digraphs Burnaby, British
+    Columbia 2015
+- DOI: 10.1016/0024-3795(95)00199-2
+  article-title: Interlacing eigenvalues and graphs
+  author: Haemers
+  doi-asserted-by: crossref
+  first-page: '593'
+  journal-title: Linear Algebra Appl
+  key: 10.1002/jgt.22057-BIB0010|jgt22057-cit-0010
+  volume: 226/228
+  year: '1995'
+- author: Horn
+  key: 10.1002/jgt.22057-BIB0011|jgt22057-cit-0011
+  volume-title: Matrix Analysis
+  year: '2013'
+- DOI: 10.1016/S0024-3795(02)00664-X
+  article-title: Spectral decomposition of real circulant matrices
+  author: Karner
+  doi-asserted-by: crossref
+  first-page: '301'
+  journal-title: Linear Algebra Appl
+  key: 10.1002/jgt.22057-BIB0012|jgt22057-cit-0012
+  volume: '367'
+  year: '2003'
+- DOI: 10.1016/j.laa.2014.10.028
+  article-title: Hermitian-adjacency matrices and Hermitian energies of mixed graphs
+  author: Liu
+  doi-asserted-by: crossref
+  first-page: '182'
+  journal-title: Linear Algebra Appl
+  key: 10.1002/jgt.22057-BIB0013|jgt22057-cit-0013
+  volume: '466'
+  year: '2015'
+- DOI: 10.1109/TIT.1979.1055985
+  article-title: On the Shannon capacity of a graph
+  author: "Lov\xE1sz"
+  doi-asserted-by: crossref
+  first-page: '1'
+  issue: '1'
+  journal-title: IEEE Trans Inform Theory
+  key: 10.1002/jgt.22057-BIB0014|jgt22057-cit-0014
+  volume: '25'
+  year: '1979'
+- DOI: 10.1016/j.laa.2009.05.027
+  article-title: Eigenvalues and colorings of digraphs
+  author: Mohar
+  doi-asserted-by: crossref
+  first-page: '2273'
+  issue: '9'
+  journal-title: Linear Algebra Appl
+  key: 10.1002/jgt.22057-BIB0015|jgt22057-cit-0015
+  volume: '432'
+  year: '2010'
+- DOI: 10.1016/j.laa.2015.10.018
+  article-title: Hermitian adjacency spectrum and switching equivalence of mixed graphs
+  author: Mohar
+  doi-asserted-by: crossref
+  first-page: '324'
+  journal-title: Linear Algebra Appl
+  key: 10.1002/jgt.22057-BIB0016|jgt22057-cit-0016
+  volume: '489'
+  year: '2016'
+- DOI: 10.1007/978-1-4613-8354-3_5
+  author: Mohar
+  doi-asserted-by: crossref
+  first-page: '107'
+  key: 10.1002/jgt.22057-BIB0017|jgt22057-cit-0017
+  volume-title: Combinatorial and Graph-Theoretical Problems in Linear Algebra
+  year: '1993'
+- article-title: Beziehungen zwischen den in einem Graphen enthaltenen Kreisen und
+    seinem charakteristischen Polynom
+  author: Sachs
+  first-page: '119'
+  journal-title: Publ Math Debrecen
+  key: 10.1002/jgt.22057-BIB0018|jgt22057-cit-0018
+  volume: '11'
+  year: '1964'
+- DOI: 10.1201/b11644-19
+  author: Spielman
+  doi-asserted-by: crossref
+  first-page: '495'
+  key: 10.1002/jgt.22057-BIB0019|jgt22057-cit-0019
+  volume-title: Combinatorial Scientific Computing
+  year: '2012'
+- key: 10.1002/jgt.22057-BIB0020|jgt22057-cit-0020
+  unstructured: SageMath, the Sage Mathematics Software System ( Version 6.1.1) 2014
+    http://www.sagemath.org
+- DOI: 10.1112/jlms/s1-42.1.330
+  article-title: The eigenvalues of a graph and its chromatic number
+  author: Wilf
+  doi-asserted-by: crossref
+  first-page: '330'
+  journal-title: J Lond Math Soc
+  key: 10.1002/jgt.22057-BIB0021|jgt22057-cit-0021
+  volume: '42'
+  year: '1967'
+reference-count: 21
+references-count: 21
+relation:
+  cites: []
+score: 1.0
+short-container-title:
+- J. Graph Theory
+short-title: []
+source: Crossref
+subtitle:
+- HERMITIAN ADJACENCY MATRIX OF DIGRAPHS AND MIXED GRAPHS
+title:
+- Hermitian Adjacency Matrix of Digraphs and Mixed Graphs
+type: journal-article
+volume: '85'

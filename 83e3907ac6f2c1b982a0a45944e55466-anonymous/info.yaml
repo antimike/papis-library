@@ -1,0 +1,9 @@
+author: Anonymous
+files:
+- monadic-deep-learning-autodiff.pdf
+ref: Anonym2019
+tags: deep-learning machine-learning programming monad haskell functional-programming
+  overview automatic-differentiation differentiable-programming
+time-added: 2021-05-29-21:53:22
+url: https://github.com/ThoughtWorksInc/monadic-deep-learning
+year: '2019'

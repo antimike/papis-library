@@ -1,0 +1,35 @@
+abstract: In this paper, we provide a solution to the open problem of computing the
+  Fourier transform of a binary function defined over $n$-bit vectors taking $m$-bit
+  vector values. In particular, we introduce the two-modular Fourier transform (TMFT)
+  of a binary function $f:G\rightarrow {\cal R}$, where $G = (\mathbb{F}_2^n,+)$ is
+  the group of $n$ bit vectors with bitwise modulo two addition $+$, and ${\cal R}$
+  is a finite commutative ring of characteristic $2$. Using the specific group structure
+  of $G$ and a sequence of nested subgroups of $G$, we define the fast TMFT and its
+  inverse. Since the image ${\cal R}$ of the binary functions is a ring, we can define
+  the convolution between two functions $f:G\rightarrow {\cal R}$. We then provide
+  the TMFT properties, including the convolution theorem, which can be used to efficiently
+  compute convolutions. Finally, we derive the complexity of the fast TMFT and the
+  inverse fast TMFT.
+archiveprefix: arXiv
+author: Hong, Yi and Viterbo, Emanuele and Belfiore, Jean-Claude
+author_list:
+- family: Hong
+  given: Yi
+- family: Viterbo
+  given: Emanuele
+- family: Belfiore
+  given: Jean-Claude
+doi: 10.1109/TIT.2016.2545678
+eprint: 1603.06173v2
+file: 1603.06173v2.pdf
+files:
+- tmp274nnkic.pdf
+month: Mar
+primaryclass: cs.IT
+ref: 1603.06173v2
+tags: FFT two-modular-fourier-transform binary-function computing algorithm DFT
+time-added: 2021-05-12-21:23:34
+title: The Two-Modular Fourier Transform of Binary Functions
+type: article
+url: http://arxiv.org/abs/1603.06173v2
+year: '2016'

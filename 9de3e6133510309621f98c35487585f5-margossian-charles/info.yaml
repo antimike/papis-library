@@ -1,0 +1,33 @@
+abstract: Derivatives play a critical role in computational statistics, examples being
+  Bayesian inference using Hamiltonian Monte Carlo sampling and the training of neural
+  networks. Automatic differentiation is a powerful tool to automate the calculation
+  of derivatives and is preferable to more traditional methods, especially when differentiating
+  complex algorithms and mathematical functions. The implementation of automatic differentiation
+  however requires some care to insure efficiency. Modern differentiation packages
+  deploy a broad range of computational techniques to improve applicability, run time,
+  and memory management. Among these techniques are operation overloading, region
+  based memory, and expression templates. There also exist several mathematical techniques
+  which can yield high performance gains when applied to complex algorithms. For example,
+  semi-analytical derivatives can reduce by orders of magnitude the runtime required
+  to numerically solve and differentiate an algebraic equation. Open problems include
+  the extension of current packages to provide more specialized routines, and efficient
+  methods to perform higher-order differentiation.
+archiveprefix: arXiv
+author: Margossian, Charles C.
+author_list:
+- family: Margossian
+  given: Charles C.
+doi: 10.1002/WIDM.1305
+eprint: 1811.05031v2
+file: 1811.05031v2.pdf
+files:
+- tmpygjyqsyi.pdf
+month: Nov
+primaryclass: cs.MS
+ref: 1811.05031v2
+tags: differentiable-programming automatic-differentiation review deep-learning machine-learning
+time-added: 2021-05-31-17:29:07
+title: A Review of automatic differentiation and its efficient implementation
+type: article
+url: http://arxiv.org/abs/1811.05031v2
+year: '2018'

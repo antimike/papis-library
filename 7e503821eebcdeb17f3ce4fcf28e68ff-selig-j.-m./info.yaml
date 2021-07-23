@@ -1,0 +1,52 @@
+author: Selig, J. M.
+author_list:
+- affiliation: []
+  family: Selig
+  given: J. M.
+citations:
+- author: O. Bottema
+  unstructured: 'Bottema, O., Roth, B.: Theoretical Kinematics. Dover Publications,
+    New York (1990)'
+  volume-title: Theoretical Kinematics
+  year: '1990'
+- author: O. Röschel
+  doi: 10.1016/S0010-4485(97)00056-0
+  first-page: '169'
+  issue: '3'
+  journal-title: Computer-Aided Design
+  unstructured: 'Röschel, O.: Rational motion design — a survey. Computer-Aided Design 30(3),
+    169–178 (1998)'
+  volume: '30'
+  year: '1998'
+- author: H.P. Schröcker
+  unstructured: 'Schröcker, H.P., Jüttler, B.: Motion interpolation with Bennett biarcs.
+    In: Kecskeméthy, A., Müller, A. (eds.) Proceedings of the 5th International Workshop
+    on Computational Kinematics. Springer, Berlin (2009)'
+  volume-title: Proceedings of the 5th International Workshop on Computational Kinematics
+  year: '2009'
+- author: J.M. Selig
+  unstructured: 'Selig, J.M.: Geometric Fundamentals of Robotics. Springer, New York
+    (2005)'
+  volume-title: Geometric Fundamentals of Robotics
+  year: '2005'
+- unstructured: 'Selig, J.M.: Cayley Maps for SE(3). In: The International Fedaration
+    of Theory of Machines and Mechanisms 12th World Congress, Besançon (2007)'
+- doi: 10.1007/s00006-010-0229-5
+  unstructured: 'Selig, J.M.: Exponential and Cayley maps for Dual Quaternions. Advances
+    in Applied Clifford Algebras, published online (2010), doi:10.1007/s00006-010-0229-5'
+doi: 10.1007/978-3-642-16135-3_18
+files:
+- rational-interpolation-rigid-body-motions.pdf
+isbn:
+- '9783642161346'
+- '9783642161353'
+journal: Advances in the Theory of Control, Signals and Systems with Physical Modeling
+pages: 213--224
+publisher: Springer Berlin Heidelberg
+ref: RationalInterpSelig2010
+tags: rigid-body mechanics screw-theory book text
+time-added: 2021-05-29-20:55:47
+title: Rational Interpolation of Rigid-Body Motions
+type: inbook
+url: http://dx.doi.org/10.1007/978-3-642-16135-3_18
+year: 2010

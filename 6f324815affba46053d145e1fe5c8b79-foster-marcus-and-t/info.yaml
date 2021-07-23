@@ -1,0 +1,30 @@
+abstract: The representation of units and dimensions in informatics systems is barely
+  codified and often ignored. For instance, the major languages used in scientific
+  computing (Fortran, C and Python), have no type for dimension or unit, and so physical
+  quantities are represented in a program by variables of type real, resulting in
+  the possibility of unit or dimensional errors. In view of this danger, many authors
+  have proposed language schemes for unit-checking and conversion. However, since
+  many physical quantities have the same units, it is possible for a block of code
+  to be unit-compatible, but still physically meaningless. We demonstrate the limitations
+  of three Python unit-libraries and present a justification and method for checking
+  kind-of-quantity.
+archiveprefix: arXiv
+author: Foster, Marcus and Tregeagle, Sean
+author_list:
+- family: Foster
+  given: Marcus
+- family: Tregeagle
+  given: Sean
+eprint: 1807.07643v3
+file: 1807.07643v3.pdf
+files:
+- tmpc9hrjw40.pdf
+month: Jul
+primaryclass: cs.MS
+ref: 1807.07643v3
+tags: python library totry units typing programming computing
+time-added: 2021-05-09-01:37:07
+title: Physical-type correctness in scientific Python
+type: article
+url: http://arxiv.org/abs/1807.07643v3
+year: '2018'

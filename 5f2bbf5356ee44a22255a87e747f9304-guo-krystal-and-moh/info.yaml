@@ -1,0 +1,142 @@
+author: Guo, Krystal and Mohar, Bojan
+author_list:
+- affiliation:
+  - name: DEPARTMENT OF MATHEMATICS; SIMON FRASER UNIVERSITY; BURNABY BC CANADA
+  family: Guo
+  given: Krystal
+- affiliation:
+  - name: DEPARTMENT OF MATHEMATICS; SIMON FRASER UNIVERSITY; BURNABY BC CANADA
+  family: Mohar
+  given: Bojan
+citations:
+- author: Biggs
+  volume-title: Algebraic Graph Theory
+  year: '1993'
+- author: Brouwer
+  doi: 10.1007/978-1-4614-1939-6
+  volume-title: Spectra of Graphs
+  year: '2012'
+- article-title: Skew-adjacency matrices of graphs
+  author: Cavers
+  doi: 10.1016/j.laa.2012.01.019
+  first-page: '4512'
+  issue: '12'
+  journal-title: Linear Algebra Appl
+  volume: '436'
+  year: '2012'
+- article-title: Spektren endlicher Grafen
+  author: Collatz
+  doi: 10.1007/BF02941924
+  first-page: '63'
+  journal-title: Abh Math Sem Univ Hamburg
+  volume: '21'
+  year: '1957'
+- author: Cvetković
+  volume-title: Spectra of Graphs
+  year: '1995'
+- author: Davis
+  volume-title: A Wiley-Interscience Publication, Pure and Applied Mathematics
+  year: '1979'
+- author: Godsil
+  doi: 10.1007/978-1-4613-0163-9
+  volume-title: Algebraic Graph Theory
+  year: '2001'
+- article-title: Pick's inequality and tournaments
+  author: Gregory
+  doi: 10.1016/0024-3795(93)90281-R
+  first-page: '15'
+  journal-title: Linear Algebra Appl
+  volume: '186'
+  year: '1993'
+- unstructured: Krystal Guo Simple eigenvalues of graphs and digraphs Burnaby, British
+    Columbia 2015
+- article-title: Interlacing eigenvalues and graphs
+  author: Haemers
+  doi: 10.1016/0024-3795(95)00199-2
+  first-page: '593'
+  journal-title: Linear Algebra Appl
+  volume: 226/228
+  year: '1995'
+- author: Horn
+  volume-title: Matrix Analysis
+  year: '2013'
+- article-title: Spectral decomposition of real circulant matrices
+  author: Karner
+  doi: 10.1016/S0024-3795(02)00664-X
+  first-page: '301'
+  journal-title: Linear Algebra Appl
+  volume: '367'
+  year: '2003'
+- article-title: Hermitian-adjacency matrices and Hermitian energies of mixed graphs
+  author: Liu
+  doi: 10.1016/j.laa.2014.10.028
+  first-page: '182'
+  journal-title: Linear Algebra Appl
+  volume: '466'
+  year: '2015'
+- article-title: On the Shannon capacity of a graph
+  author: Lovász
+  doi: 10.1109/TIT.1979.1055985
+  first-page: '1'
+  issue: '1'
+  journal-title: IEEE Trans Inform Theory
+  volume: '25'
+  year: '1979'
+- article-title: Eigenvalues and colorings of digraphs
+  author: Mohar
+  doi: 10.1016/j.laa.2009.05.027
+  first-page: '2273'
+  issue: '9'
+  journal-title: Linear Algebra Appl
+  volume: '432'
+  year: '2010'
+- article-title: Hermitian adjacency spectrum and switching equivalence of mixed graphs
+  author: Mohar
+  doi: 10.1016/j.laa.2015.10.018
+  first-page: '324'
+  journal-title: Linear Algebra Appl
+  volume: '489'
+  year: '2016'
+- author: Mohar
+  doi: 10.1007/978-1-4613-8354-3_5
+  first-page: '107'
+  volume-title: Combinatorial and Graph-Theoretical Problems in Linear Algebra
+  year: '1993'
+- article-title: Beziehungen zwischen den in einem Graphen enthaltenen Kreisen und
+    seinem charakteristischen Polynom
+  author: Sachs
+  first-page: '119'
+  journal-title: Publ Math Debrecen
+  volume: '11'
+  year: '1964'
+- author: Spielman
+  doi: 10.1201/b11644-19
+  first-page: '495'
+  volume-title: Combinatorial Scientific Computing
+  year: '2012'
+- unstructured: SageMath, the Sage Mathematics Software System ( Version 6.1.1) 2014
+    http://www.sagemath.org
+- article-title: The eigenvalues of a graph and its chromatic number
+  author: Wilf
+  doi: 10.1112/jlms/s1-42.1.330
+  first-page: '330'
+  journal-title: J Lond Math Soc
+  volume: '42'
+  year: '1967'
+doc_url: https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fjgt.22057
+doi: 10.1002/jgt.22057
+files:
+- paper.pdf
+issue: '1'
+journal: Journal of Graph Theory
+language: en
+month: 5
+pages: 217--248
+publisher: Wiley
+ref: HermitianAdjacGuoK2017
+time-added: 2021-05-06-23:17:14
+title: Hermitian Adjacency Matrix of Digraphs and Mixed Graphs
+type: article
+url: http://dx.doi.org/10.1002/jgt.22057
+volume: '85'
+year: 2017

@@ -1,0 +1,33 @@
+abstract: A binary vector of length $N$ has elements that are either 0 or 1. We investigate
+  the question of whether and how a binary vector of known length can be reconstructed
+  from a limited set of its discrete Fourier transform (DFT) coefficients. A priori
+  information that the vector is binary provides a powerful constraint. We prove that
+  a binary vector is uniquely defined by its two complex DFT coefficients (zeroth,
+  which gives the popcount, and first) if $N$ is prime. If $N$ has two prime factors,
+  additional DFT coefficients must be included in the data set to guarantee uniqueness,
+  and we find the number of required coefficients theoretically. One may need to know
+  even more DFT coefficients to guarantee stability of inversion. However, our results
+  indicate that stable inversion can be obtained when the number of known coefficients
+  is about $1/3$ of the total. This entails the effect of super-resolution (the resolution
+  limit is improved by the factor of $\sim 3$).
+archiveprefix: arXiv
+author: Levinson, Howard W. and Markel, Vadim A.
+author_list:
+- family: Levinson
+  given: Howard W.
+- family: Markel
+  given: Vadim A.
+eprint: 2011.10130v1
+file: 2011.10130v1.pdf
+files:
+- tmpsd51ujnb.pdf
+month: Nov
+primaryclass: math.NA
+ref: 2011.10130v1
+tags: DFT binary-fourier-transform fourier-inversion algorithms computing programming
+  popcount
+time-added: 2021-05-12-21:25:30
+title: Binary Discrete Fourier Transform and its Inversion
+type: article
+url: http://arxiv.org/abs/2011.10130v1
+year: '2020'
